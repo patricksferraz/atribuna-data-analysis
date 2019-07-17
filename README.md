@@ -11,9 +11,8 @@
 
 - Análise fonética: reconhecimento de sons;
 - Análise morfológica: realiza a análise da estrutura, formação e classificações das palavras;
-- Análise sintática: tem por objetivo identificar como se relacionam as palavras entre si;
-- Análise semântica: analisa o significado das palavras e seu relacionamento na frase;
-- Análise de discurso [4]: verifica o total do significado do texto;
+- Análise sintática: (léxico [4])tem por objetivo identificar como se relacionam as palavras entre si;
+- Análise semântica: (discurso [4])analisa o significado das palavras e seu relacionamento na frase;
 - Análise pragmática [2]: interpreta os conceitos extraídos do texto, averiguando se o significado da análise semântica está correto e determinando significados que não estejam claros;
 
 [4]

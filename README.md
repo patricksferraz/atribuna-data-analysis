@@ -34,6 +34,17 @@
 - conjunção:  palavras invariáveis que servem para conectar orações ou dois termos de mesma função sintática;
 - interjeição:  palavras invariáveis que exprimem estados emocionais;
 
+[6]
+**Gramática**
+
+É uma especificação formal da estrutura das sentenças permitidas numa linguagem.
+
+- Símbolos terminais: palavras da linguagem;
+- Símbolos não-terminais: componentes das sentenças;
+- Regras de producação: Expandem símbolos não-terminais numa sequência de símbolos terminais e não-terminais;
+
+*A gramática deve ter um símbolo não-terminal inicial*
+
 [4]
 **Abordagens**
 
@@ -84,3 +95,5 @@
 [4][Processamento de linguagem natural, o que é?](https://push.al/processamento-de-linguagem-natural-o-que-e/)
 
 [5][Análise Morfológica](https://pt.wikipedia.org/wiki/An%C3%A1lise_morfol%C3%B3gica)
+
+[6][Processamento de LinguagemNatural](https://www.ime.usp.br/~slago/IA-pln.pdf)

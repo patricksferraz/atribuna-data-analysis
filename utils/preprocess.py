@@ -6,6 +6,12 @@
 
 import unicodedata
 import inflect
+import re
+
+REGEX = {
+    "end_punc": r"(\w)",
+    "all_punc": r""
+}
 
 
 # In[5]:
@@ -26,6 +32,13 @@ def _all2lower(tokens):
     return [_.lower() for _ in tokens]
 
 
+# In[ ]:
+
+
+def _changes_punctuation(tokens):
+    return [re.sub(r"[^\w\s]", "", _) for _ in tokens]
+
+
 # In[2]:
 
 
@@ -40,5 +53,7 @@ def _numbers2words(tokens):
 def normalize(tokens):
     tokens = _all2ascii(tokens)
     tokens = _all2lower(tokens)
+    tokens = _changes_punctuation(tokens)
+    tokens = _numbers2words(tokens)
     return tokens
 

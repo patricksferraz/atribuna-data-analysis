@@ -5,6 +5,7 @@
 
 
 import unicodedata
+import inflect
 
 
 # In[5]:
@@ -23,6 +24,14 @@ def _all2ascii(tokens):
 
 def _all2lower(tokens):
     return [_.lower() for _ in tokens]
+
+
+# In[2]:
+
+
+def _numbers2words(tokens):
+    inf = inflect.engine()
+    return [inf.number_to_words(_) if _.isdigit() else _ for _ in tokens]
 
 
 # In[ ]:

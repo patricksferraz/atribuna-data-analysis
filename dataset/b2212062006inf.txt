@@ -1,0 +1,11 @@
+Lista de epidemias da web
+<b>  </b><br>
+ <br>
+Estatísticas levantadas pelo Kaspersky Lab mostram que os worms mais ativos em maio de 2006 são os mesmos dos meses anteriores, o que confirma as previsões de que epidemias globais não devem ocorrer com a mesma freqüência.
+A informação é baseada nas estatísticas obtidas por meio de um monitoramento constante da internet organizado pelo premiado produtor russo de software de segurança Kaspersky Lab, representado no Brasil pela EsyWorld (www.esy.com.br).
+As estatísticas do Kaspersky Lab para maio não são muito diferentes das de abril. Na verdade, as diferenças entre maio e março ou mesmo abril são mínimas. Este não é um fenômeno temporário, mas uma característica do atual cenário de malware: epidemias globais de worms de e-mail já são uma coisa do passado.
+No ranking dos vírus em atividade no mundo virtual, o Mytob.C, que em fevereiro obteve a liderança disparada com cerca de 30% de todo o tráfego, permanece no topo, mantendo seus competidores a uma distância segura. Uma luta pelo segundo lugar ainda está ocorrendo: Mydoom, NetSky, Bagle e Mytob permaneceram nos cinco primeiros lugares durante os últimos meses ou anos.
+ Mas, no início de 2006 tudo mudou. Eles foram ultrapassados em sua corrida para o topo por worms sul-coreanos que pouco tinham sido mencionados pela mídia.
+Duas variantes do LovGate alcançaram o segundo e quarto lugares no ranking, deixando as posições três e cinco para o NetSky. Aparentemente este resultado deve-se à queda do NetSky.T da segunda posição para a quinta, reduzindo sua presença no tráfego de e-mail em quase metade, como o Kaspersky Lab previu há alguns meses. <br><br><hr>
+Data da Publicação: 12/06/2006 - Pagina: 22 <br>
+Editoria: Informática <br><br>

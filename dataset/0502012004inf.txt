@@ -1,0 +1,18 @@
+Ganham mais que traficantes
+<b> No ano de 2004, o lucro dos
+crimes praticados na internet
+excedeu o do tráfico
+de drogas mundial </b><br>
+ <br>
+Através de um sistema chamado phishing, hackers roubam número de cartões de crédito, senhas, dados de contas e informações pessoais dos internautas. No ano de 2004, o lucro com os cybercrimes – crimes digitais cometidos na rede mundial de computadores – excedeu o do tráfico de drogas mundial.
+Estima-se que o valor obtido pelas quadrilhas gire em torno dos US$ 105 bilhões. Os delitos mais praticados são roubos de senhas, pirataria, vandalismo, pornografia e pedofilia. Os bandidos usam um “sistema” chamado phishing para obter informações como número de cartões de crédito, senhas, dados de contas ou outras informações pessoais.
+“O phishing é um tipo de fraude projetada para roubar sua identidade. Normalmente eles surgem por meio de spam ou janelas pop-up”, explica consultor em tecnologia da informação da ItNet, Ricardo Biccas da Silva.
+Para que o pishing funcione, o usuário mal intencionado envia milhões de e-mails falsos que parecem vir de sites populares ou de endereços confiáveis, como bancos ou empresas de cartão de crédito. Acreditando que os e-mails são legítimos, pessoas desavisadas respondem às solicitações de números do cartão, senhas e outras informações pessoais.
+“Uma vez entrando em um desses sites, o usuário poderá inadvertidamente, inserir informações pessoais, que serão transmitidas diretamente ao criador do falso site. Ele poderá usar esses dados para comprar bens, candidatar-se a um novo cartão de crédito ou roubar a identidade da vítima”, explica Ricardo.
+A forma mais fácil de se prevenir contra esses tipos de crime é manter o antivírus atualizado. Uma outra dica é clicar sobre um cadeado pequeno no canto da tela de acesso a internet que normalmente está fechado. Ao clicar sobre esse cadeado o usuário poderá saber se o site é verdadeiro ou não.
+Segundo o consultor em tecnologia da ItNet, Ricardo Biccas, um dos produtos ideais para combater e evitar alguns dos principais crimes digitais é o Symantec AntiVirus Corporate Edition (versão 10), que oferece proteção contra vírus, spywares e “cavalo de tróia”, além de proteger contra roubo de senhas.
+“A arma contra os spams e vírus anexados em e-mails, seria o Brightmail AntiSpam, líder do mercado, para efetiva proteção anti-spam”, sugere Ricardo.
+Já para empresas que querem investir realmente em segurança e não se preocupar mais com spams e vírus em seus e-mails, o Symantec Mail Security 8200 Series é o mais recomendado.
+“O Symantec Web Security é a ferramenta mais adequada para controlar o tráfego na web através de filtragem de conteúdos integrados, impedindo funcionários da empresa de entrarem em sites impróprios”, explica o consultor de segurança. <br><br><hr>
+Data da Publicação: 02/01/2004 - Pagina: 05 <br>
+Editoria: Informática <br><br>

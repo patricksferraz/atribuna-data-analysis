@@ -1,0 +1,19 @@
+Hackers se aproveitam do Leão
+<b> Ladrões cibernéticos se
+aproveitam de qualquer descuido
+dos internautas para roubar
+informações confidenciais </b><br>
+ <br>
+A rede mundial de computadores dá mais sinais de fragilidade. Em ritmo de contagem regressiva, a nova vítima é a declaração do imposto de renda.
+Em 2005, cerca de 68,5 milhões de pessoas usaram o serviço virtual e a previsão é de que este ano o número deve aumentar em um ritmo recorde. E os criminosos virtuais se aproveitam dos internautas desavisados.
+Líder global em soluções de segurança e gerenciamento web, o Websense Security Labs faz um alerta sobre a insegurança na rede mundial. Muitos brasileiros estão recebendo um e-mail que supostamente vem da Receita Federal, informando aos usuários que eles não completaram ou entregaram incompleta sua declaração de imposto de renda.
+Em seguida, o e-mail pede que, para que possam corrigir o problema, os usuários cliquem na URL incluída. O website que hospeda a URL é um site comum usado para transferir arquivos de uma conta de e-mail para outra na internet. Os autores do código malicioso simplesmente usam este site para hospedar seu código malicioso.
+O link fornecido ao destinatário do e-mail está oculto dentro do HTML do e-mail e, na verdade, redireciona os usuários para um script PHP que, por sua vez, aciona um arquivo executável. O arquivo está carregado com UPX e, após sua ativação, instala uma peça de aplicativo de Cavalo de Tróia Keylogger. 
+O Websense já observou diversas fraudes relacionadas a impostos nos últimos três meses e prevê um aumento delas à medida que a data final para a entrega das declarações se aproxima.
+Ao acessar o site “pirata” de impostos na internet, os usuários são encaminhados para outro website fraudulento, que por sua vez solicita informações de cartões de crédito e outras informações pessoais de identificação.
+ A intenção destes ataques é enganar os usuários para que revelem informações confidenciais que possam ser usadas para sacar fundos.
+“Os ladrões cibernéticos esperam pacientemente eventos atuais, como a época da declaração de imposto de renda, que lhes dá uma oportunidade para manipular a internet em busca de recompensas financeiras”, disse o diretor sênior de Segurança e de Pesquisa Tecnológica do Websense, Dan Hubbard. 
+Para não cair no golpe, quem preenche a declaração pela internet deve evitar clicar em qualquer link de e-mails suspeitos. Em vez disso, é melhor visitar diretamente o site do IRS na internet (www.irs.gov). No Brasil, o endereço da Receita na internet é www.receita.fazenda.gov.br. 
+Para visualizar um exemplo da fraude de impostos, basta acessar o www.websensesecuritylabs.com/alerts/alert.php?AlertID=436. <br><br><hr>
+Data da Publicação: 10/04/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

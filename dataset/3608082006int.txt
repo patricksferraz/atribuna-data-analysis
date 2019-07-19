@@ -1,0 +1,63 @@
+CIÊNCIA E TECNOLOGIA
+<b> Ultra-som prejudica roedores 
+
+Estudo diz que técnica de exame afeta desenvolvimento de fetos 
+em gestação de camundongo, mas conclusão não atinge os humanos </b><br>
+ <br>
+Fetos de camundongo expostos a vibração de ultra-som tiveram problemas de formação cerebral, revela um experimento conduzido por cientistas da Universidade Yale (EUA). 
+Segundo o grupo, roedores cujas mães tivessem sido submetidas à técnica de exame prolongadamente – mais de 30 minutos contínuos – eram mais propensos a apresentar problemas. 
+O estudo, publicado ontem no periódico científico “PNAS”, traz evidências estatísticas. Em média, os animais expostos tiveram mais neurônios que não se posicionaram nos locais corretos do córtex (a superfície do cérebro) durante o desenvolvimento embrionário. 
+Nos fetos, os neurônios de córtex nascem no interior do cérebro e têm de migrar até a periferia. 
+O neurocientista Pasko Rakic, líder do grupo que fez o experimento, afirma que os resultados são motivo para cautela, mas não é possível extrapolar conclusões e dizer que o mesmo acontece com seres humanos. 
+“O ultra-som é uma ferramenta de diagnóstico importante e não deve ser abandonada, mas não acho que se deva fazer imagens dos embriões quando não for necessário”, disse Rakic. Muitos casais gostam de fazê-lo apenas para obter fotos do bebê. 
+Os resultados obtidos por Rakic foram, de certa forma, inesperados. Há pouca evidência epidemiológica mostrando riscos significativos do uso de ultra-som reunida nas últimas três décadas, desde que a técnica tem sido usada na medicina fetal, e boa parte dela é inconclusiva. 
+Para avaliar melhor o risco que a técnica oferece para humanos, Rakic quer recolher dados de exames com macacos, animais evolutivamente mais próximos do Homo sapiens. 
+“Já começamos os testes, mas devemos levar uns três anos para terminar”, diz. Testes em humanos não podem ser feitos com o mesmo método, porque as cobaias recém-nascidas têm de ser sacrificadas para análise. 
+“Humanos têm cérebro maior e com mais células, e é possível argumentar que o efeito seria menor; será bom se descobrirmos isso”, diz Rakic. 
+“Mas também é possível argumentar que, em um cérebro grande, a rota de migração dos neurônios até o córtex é maior, e uma célula corre mais risco de “se perder’ no caminho.” 
+O cientista afirma que ainda não sabe a causa do efeito ruim do ultra-som sobre roedores. “Não conhecemos mecanismos, apenas fenômenos”, diz. 
+
+Como foi o experimento 
+
+1º – Mais de 300 fêmeas de camundongo com gravidez por volta dos 20 dias foram submetidas a ultra-sonografia, com câmara em tubo, gel condutor (marcas azuis na barriga da camundonga) e aparelho de ultra-som (encostado no gel).
+
+2º – Cada sessão durava entre 5 e 45 minutos. Os fetos eram monitorados na tela e a pulsação, oxigenação e temperatura das mães também eram acompanhadas.
+
+3º – Depois do nascimento, os filhotes foram sacrificados para que os cientistas examinassem seu cérebro. Nos animais que foram expostos ao ultra-som por 30 minutos ou mais, houve um erro pequeno, mas significativo, na formação e posicionamento dos neurônios.
+
+Estudo provoca polêmica
+Os resultados obtidos por Rakic foram encarados com ceticismo por especialistas da área, já que maioria das observações do ultra-som em crianças humanas não apontam evidências fortes neste sentido. 
+“Alguns estudos, no Reino Unido, acompanharam os indivíduos até os 15 anos de idade, e não apareceu nada”, diz Victor Bonduki, especialista em medicina fetal do Hospital das Clínicas da USP. 
+Segundo o médico, mesmo que venha a se verificar um dano pequeno, seria preciso olhar para a relação custo-benefício da técnica, porque o ultra-som é uma ferramenta médica fundamental. 
+A própria revista, ‘PNAS’, que publica o estudo de Rakic, traz na mesma edição um artigo dos médicos Verne Caviness e Ellen Grant, do Hospital Geral de Massachusetts, afirmando que os resultados do estudo não são motivo para pânico. 
+“É altamente improvável a possibilidade de essas descobertas serem aplicáveis a riscos do ultra-som fetal tal como é aplicado hoje”, escreve a dupla. 
+Caviness e Grant reconhecem, porém, que o trabalho de Rakic é um “lembrete sensato” de que o uso de técnicas de imagem deve se limitar ao mínimo necessário, por precaução. 
+
+Google identifica sites perigosos 
+O site de buscas Google começou a alertar os seus usuários sobre sites que possam prejudicar seus computadores. 
+O aviso é feito cada vez que o internauta clica, a partir da página do Google, em algum endereço que tenha “spyware” – que são softwares que ficam escondidos no computador, muitas vezes sem o conhecimento do dono, e podem fornecer informações do usuário para terceiros.
+Os sites prejudiciais são catalogados pela Stop Badware Coalition, uma iniciativa conjunta de diversas empresas de internet contra spywares. Google, Lenovo e Sun estão entre as companhias que fundaram o projeto no começo do ano.
+Inicialmente, os avisos – feitos via uma janela “pop up” – serão genéricos e simples.
+No futuro, a Stop Badware Coalition pretende fornecer uma espécie de relatório detalhado, a cada clique, sobre como cada spyware danifica o computador.
+O aviso do Google sugere que as pessoas visitem outro site, mas se elas optarem por ignorar o aviso, o mecanismo não vai impedi-las de clicar na página.
+Uma pesquisa encomendada pela empresa de softwares antivírus McAfee, divulgada em maio deste ano, estimou que de 4 a 6% das páginas da internet possuem algum conteúdo perigoso.
+Para alguns resultados de pesquisa – como “free screensavers” (“papel de parede gratuito”) – o índice atingiu até 64%.
+A ordem judicial para que os sites de pesquisa entreguem ao Departamento de Justiça dos Estados Unidos o resultado de uma semana de buscas de todos os seus usuários começou com uma lei (Child Online Protection Act) para proteger crianças de pornografia na internet. 
+A lei foi aprovada em 1998, mas foi contestada por vários grupos de direitos civis.
+
+Recriado “gene ancestral” de vertebrados
+Os cientistas postulam há tempos que muitos genes existentes hoje são resultado da multiplicação de um só gene ancestral, que depois se modificou para assumir várias funções. 
+Petr Tvrdik e Mario Capecchi, da Universidade de Utah (Estados Unidos), deram uma prova impressionante de como esse processo pode ter ocorrido ao revertê-lo, “recriando” o que poderia ser um desses genes primitivos. 
+A dupla estudou os genes Hox, responsáveis pela organização do padrão corporal dos vertebrados, informa a versão on-line da revista “New Scientist”. 
+Como o DNA dos vertebrados sofreu uma quadruplicação há 500 milhões de anos, esses genes passaram de 13 para 52 (hoje, só 39 são funcionais em mamíferos). 
+Dois desses genes Hox ajudam no desenvolvimento do cérebro, mas em áreas e momentos diferentes. Os cientistas colaram parte de um desses genes no outro e viram, em camundongos, que o gene “reconstruído” conseguia fazer o serviço de ambos. 
+
+Voluntários em simulação de vôos a Marte
+Voluntários de vários países do mundo se inscreveram para participar do projeto Marte-500, uma simulação de vôo ao Planeta Vermelho que durará pelo menos um ano e meio, informaram ontem cientistas russos. 
+O Instituto de Problemas Médico-Biológicos da Academia de Ciências da Rússia abriu  inscrição de voluntários em 26 de julho e a encerra em 31 de dezembro. 
+“Considerando que já recebemos mais de cinqüenta inscrições, podemos esperar que o número total chegue a 200”, disse um porta-voz do instituto. Ele afirmou que, além de voluntários russos, se inscreveram candidatos de “Ucrânia, Belarus, EUA, Grã-Bretanha, Austrália, Bélgica, México, Argentina, Itália, Espanha e Estônia”. 
+O experimento para simular um vôo tripulado a Marte, que deverá começar no segundo semestre de 2007, está planejado para durar pelo menos 520 dias, que podem ser prorrogados até 700. 
+O instituto selecionará os seis “astronautas” da tripulação, que permanecerá todo o período do experimento trancada em um simulador. 
+Ainda não se decidiu se haverá mulheres . Os candidatos devem ter entre 25 e 50 anos, ser saudável, ter nível superior e domínio do inglês. Os profissionais em medicina, biologia, engenharia e informática terão prioridade. <br><br><hr>
+Data da Publicação: 08/08/2006 - Pagina: 36 <br>
+Editoria: Internacional <br><br>

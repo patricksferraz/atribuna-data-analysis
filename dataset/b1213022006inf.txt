@@ -1,0 +1,27 @@
+OBSERVATÓRIO
+<b>  </b><br>
+ <br>
+A plataforma Web 2.0
+
+Eduardo Favaretto
+
+Quando o assunto é tecnologia, tudo que se grifa com números seguidos de pontos, sugere-se uma versão ou revisão, que quase sempre é superior a alguma outra que já existiu e teve um dia seu momento de glória.
+Então, será que iremos falar de uma nova internet com acesso muito mais rápido que o atual? Ou de uma web “turbinada”, que só estaria disponível para cientistas no meio acadêmico e que faria analogia aos potentes motores 2.0? Ou seria ainda, um “modismo” apoiado pelo marketing de mercado?
+Nada disso. Esta nova sigla – Web 2.0 – traz estampada em si um novo conceito: a internet como uma plataforma para aplicativos e recursos.
+Quando imaginamos uma plataforma, logo pensamos em uma base plana e extensa, pronta para a sustentaão de qualquer coisa. E é isso mesmo! Diferente de tudo o que já se viu até hoje, pois estamos acostumados a ligar o nosso computador para acessar textos e planilhas gerados nos programas instalados na máquina. Isso um dia irá acabar: a internet será o seu novo PC.
+Mas fique calmo. Não vá chamar seu técnico de confiança ainda hoje, para fazer o upgrade de seu microcomputador para esta nova versão da internet, ou ainda, correr para a livraria mais próxima e comprar um livro novo sobre o assunto.
+Esta tendência de mudança ocorrerá naturalmente, ao longo dos próximos anos, influenciada pelas novas oportunidades e pela imensa praticidade que será oferecida neste ambiente. Sem saber, você já está fazendo parte dela. É fato! Não é e nem será mais um modismo.
+Software não será mais um produto – será um serviço. Agora, mais eficiente, pois ficará disponível 24 horas. Instalado num servidor remoto, dispensará o tradicional download e, conseqüentemente, sua instalação local, receberá atualização automática (upgrade on-line), não dependerá da compatibilidade de um sistema operacional específico (Windows, Linux, Mac etc.), será multilingual, poderá ser compartilhado por muitas pessoas em qualquer lugar do planeta e seu licenciamento de uso ocorrerá por meio de uma assinatura mensal, como já estamos acostumados com as de jornais, revistas, abastecimento de água, energia elétrica, etc. 
+O software, baseado agora na plataforma web (um serviço on-line), será chamado de “aplicativo ou recurso on-line”, de acordo com sua função (uso) e forma de acesso. 
+Um aplicativo on-line estará disponível na internet apenas de forma privada, ou seja, via acesso restrito por login e senha. Terá função específica dirigida para a realização de uma tarefa, periódica ou não, no site do usuário, relacionada a algum procedimento da empresa ou às atividades de uma pessoa.
+Permitirá a customizaão de suas funcionalidades para gerar uso mais conveniente quanto ao negócio da empresa ou gosto da pessoa. O usuário pagará por este serviço por meio de uma assinatura pessoal ou empresarial.
+Recursos on-line estarão disponíveis na internet de forma pública, quase sempre não exigindo autenticação por senha de acesso e terão como função principal a consulta de base de dados externa, por meio de outros sites. O usuário pagará apenas quando desejar acessar uma versão mais completa do serviço – quando disponível. 
+Endereços de sites já formatados nos padrões Web 2.0 e com técnicas corretas de usabilidade serão muito mais interessantes quanto à apresentação e troca dinâmica de seus conteúdos.
+Mais intuitivos e fáceis de usar (user friendly), serão personalizados pelo usuário. Permitirão que o usuário arraste, inclua ou exclua blocos de seu conteúdo, escolhendo as opções de uso mais convenientes.
+Tecnicamente falando: CSS com tableless para criar a apresentaão das telas, XHTML para inserir o conteúdo desejado, Javascript com requisições XMLHttpRequest para obtenção remota de dados em XML (AJAX) e DOM (Document Object Model) para a interação e criação do dinamismo da aplicação. Mesmo sem saber de tudo isso, o usuário agradece.
+O browser (software usado para “navegar” na web) atenderá cada vez mais os padrões exatos do World Wide Web Consortium (W3C), pois, será o único software necessário a ser instalado no ambiente operacional do usuário ou apenas carregado na memória do equipamento via pen-drive.
+Lembre-se que, além de seu PC, você usará a nova internet pelo seu celular, seu smartphone, seu handheld e sua TV digital, para movimentar sua conta bancária, trocar mensagens em tempo real, baixar filmes e músicas para seus aparelhos domésticos, tudo isso via aplicativos e recursos on-line. Acredite, isto é só o começo!
+Eduardo Favaretto é especialista em Tecnologia da Informação (linkfavare
+tto@linkportal.com.br) <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

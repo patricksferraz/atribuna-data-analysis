@@ -1,0 +1,28 @@
+Borcon no Espírito Santo
+<b> Feras de desenvolvimento
+dão palestras em Vitória,
+numa reedição de parte da 
+Borland Conference 2006 </b><br>
+ <br>
+Com o sucesso da edição de 2006 da Conferência Anual da Borland (Borcon), que aconteceu no mês passado em São Paulo, dois técnicos capixabas da área de desenvolvimento de softwares que apresentaram palestras durante o evento estarão trazendo os temas mostrados na conferência para o público capixaba.
+O evento, que vai mostrar novidades e soluções para desenvolvimento de sistemas, acontece na próxima quinta-feira, dia 9, das 14 às 17h30. As palestras serão direcionadas principalmente aos técnicos e gerentes da área de desenvolvimento de software, gestão de desenvolvimento e estudantes da área de informática.
+A edição capixaba de parte da Borcon 2006 acontece em caráter exclusivo no Estado, como uma forma de divulgar também a conferência anual da Borland, empresa que é líder mundial em soluções independentes de plataforma para a criação otimizada de software.
+“Esta é uma rara oportunidade para aqueles que não conseguiram estar presentes no evento em São Paulo e ao mesmo tempo é a celebração do excelente nível técnico dos profissionais capixabas atualmente, já que as palestras que serão apresentadas em Vitória foram muito bem avaliadas durante a Borcon”, destaca o diretor da Tectrilha Software, Leonardo Drummond.
+A Tectrilha é centro oficial de treinamento da Borland no Espírito Santo e está promovendo o evento juntamente com a Neski Software.
+GOOGLE
+A primeira palestra será do desenvolvedor Carlos Gabriel Arpini, que abordará o tema “Configurações de Segurança em ASP.NET”. A exposição irá orientar para a criação de toda uma rede que tenha o máximo de segurança dentro do paradigma da framework.Net. O foco será na configuração do web.config e classes de segurança da plataforma ASP.NET.
+Em seguida, o gerente de Novas Tecnologias da Neski Software e colunista da revista Clube Delphi, Isaque Pinheiro, apresenta o tema “Desenvolvimento de Aplicações nTier, POO e Multibancos”.
+Em uma abordagem prática, Pinheiro irá demonstrar como desenvolver aplicações multicamadas, aumentando a produtividade e obtendo ganhos na manutenção, sem precisar alterar linhas de código para trocar de banco de dados. Outro aspecto da exposição será a implementação de classes para as tabelas de bancos de dados.
+Finalizando o evento, acontece a palestra “Introdução na utilização de Ajax em ASP.NET”, novamente com Carlos Gabriel Arpini.
+Dessa vez, ele irá introduzir exemplos práticos e de rápida implementação de como a utilização da tecnologia Ajax (Asynchronous JavaScript and XML) pode influenciar na performance de aplicações ASP.NET.
+O conceito Ajax é bem recente e permite desenvolver páginas com maior eficiência e com menor tráfego de informações, fazendo com que as páginas da web fiquem mais rápidas. É a tecnologia empregada nos sites do Gmail e Google.
+
+Borcon no ES
+
+•Data: 9 de novembro, quinta-feira
+•Horário: 14 às 17h30 
+•Inscrições: No site www.tectrilha.com.br ou pelo telefone 3345-0205
+•Ingresso: 1 quilo de alimento não perecível
+OBS: Os alimentos serão doados para a Associação Capixaba Contra o Câncer Infantil (Acacci). <br><br><hr>
+Data da Publicação: 06/11/2006 - Pagina: 23 <br>
+Editoria: Informática <br><br>

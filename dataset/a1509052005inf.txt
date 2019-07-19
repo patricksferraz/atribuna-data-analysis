@@ -1,0 +1,9 @@
+Novidade nos sites brasileiros
+<b>  </b><br>
+ <br>
+Foi anunciado pela entidade responsável pelo registro de domínios na internet brasileira, o Registro.br, que os sites da internet com extensão .br poderão utilizar vogais acentuadas e cedilha em seus nomes
+Segundo o gerente de engenharia do Registro.br, Frederico Neves, a medida resolverá o problema de sites brasileiros que deixam de receber acessos porque usários inexperientes tentam acessar endereços com acentuação e cedilha, que no momento não existem. 
+Duas variações de um mesmo domínio (com e sem os novos caracteres) só serão permitidas se pertencerem ao mesmo dono. Não será permitido, por exemplo, que uma pessoa registre o dominio www.maçã.com.br e outra o domínio www.maca.com.br. 
+A inclusão de acentos e cedilha no nome de um site não impedirá que ele seja acessado por pessoas de países em que estes caracteres não são usados. Basta que o dono do site registre também o domínio sem os caracteres.  <br><br><hr>
+Data da Publicação: 09/05/2005 - Pagina: 15 <br>
+Editoria: Informática <br><br>

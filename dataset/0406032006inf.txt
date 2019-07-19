@@ -1,0 +1,20 @@
+Extorsões, spywares e dor de cabeça
+<b> Normalmente, o tamanho dos
+“exércitos” de zumbis varia
+entre 10 mil e 100 mil
+computadores infectados </b><br>
+ <br>
+Um bot é um robô de software, também conhecido como “zumbi” (zombie) ou “drone”. Um botnet é uma rede de computadores zumbis infectados que permite que um usuário não autorizado ou hacker assuma remotamente o controle da máquina.
+Os computadores infectados podem ser usados para lançar ataques distribuídos de negação de serviço (DoS - Denial-of-Service), enviar spam e spywares, ou cometer extorsões pela internet.
+Os robôs causam grande incômodo às empresas de todos os portes e aos usuários domésticos devido à sua capacidade de assumir discretamente o controle do computador. Eles aproveitam outros programas mal-intencionados e permanecem ocultos enquanto lançam seus ataques.
+Normalmente, o tamanho dos “exércitos” de botnets pode variar entre 10 mil e 100 mil máquinas infectadas. Alguns dos robôs mais destrutivos são variantes do SDBot, GaoBot e do SpyBot, embora cada vez mais robôs mal-intencionados sejam criados todos os dias.
+
+Saiba mais
+
+• Vírus – Código escrito com a intenção explícita de se autoduplicar. Um vírus tenta se alastrar de computador para outro se incorporando a um  programa hospedeiro. Ele pode danificar o hardware, software ou informações. 
+• Worms – Uma espécie de subclasse de vírus que cria cópias de si mesmo de um computador para outro, mas faz isso automaticamente. Primeiro, ele controla recursos no computador que permitem o transporte de arquivos ou informações. Depois que contamina o sistema, ele se desloca sozinho e o grande perigo é a sua capacidade de se replicar em grande volume. Quando novos worms são lançados, eles se alastram muito rapidamente, obstruem redes e provavelmente fazem com que você tenha de esperar um tempo maior para abrir páginas na Internet.
+• Cavalo de Tróia – Se apresentam como algo útil, mas podem provocar vários danos.
+• Spyware – É um termo genérico usado para softwares que realizam certas atividades como anúncios, coleta de informações pessoais ou alteração das configurações do seu computador, geralmente sem o seu devido consentimento.
+Fonte: Itnet Informática. <br><br><hr>
+Data da Publicação: 06/03/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

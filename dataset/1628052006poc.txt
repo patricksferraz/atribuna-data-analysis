@@ -1,0 +1,58 @@
+“As operadoras têm que se adequar”
+<b> Não posso falar pelas operadoras.
+Elas têm que dar um jeito porque acredito
+que não vão querer perder clientes e têm
+por interesse próprio intenção de atender
+bem os usuários do sistema. É uma questão
+de tempo e de paciência que tudo será resolvido </b><br>
+Susana Loureiro <br>
+Em meio às dificuldades para fazer contato com telefones celulares, a reportagem de A Tribuna conseguiu, de um telefone fixo, ligar para o celular do secretário de Estado da Justiça, Ângelo Roncalli. Tranqüilo, ele garantiu que as operadoras deverão fazer ajustes em suas antenas para que somente as áreas de presídios sejam bloqueadas. 
+Garantiu que não volta atrás em seu pedido e que a ordem judicial está mantida. Pediu apoio à população e empresas que estão sendo prejudicadas e disse que tudo será acertado. 
+
+A Tribuna – O senhor está ciente do problema que foi causado com o bloqueio de celulares?
+Secretário da Justiça, Ângelo Roncalli – Veja bem, a Sejus pediu à Justiça o bloqueio na área de presídio. As operadoras cumpriram a decisão judicial à risca, mas tenho certeza de que serão feitos ajustes para dar solução aos problemas causados aos seus usuários. 
+– O senhor acha que as operadoras têm como bloquear somente os presídios?
+– Eu não detenho os conhecimentos técnicos e não posso falar pelas operadoras. Acredito que há como bloquear somente a área das cadeias. 
+– Mesmo em áreas urbanas, como é o caso do IRS, na Glória?
+– Tenho certeza que sim. Em Buenos Aires (Argentina) o presídio é no meio da cidade e tem como fazer o bloqueio somente da cadeia. No Brasil não pode ser diferente. Agora, as operadoras vão ter que se adequar. Existe uma legislação que vai tornar isso obrigatório. Uma comissão envolvendo operadoras, a Anatel, o Congresso e o governo está discutindo a questão do bloqueio do celular em presídios. 
+A Sejus (Secretaria da Justiça) solicitou o bloqueio. Agora, tem que ter uma saída técnica para não afetar os moradores e empresas que estão na região das cadeias. 
+– E quanto tempo vai levar para que seja solucionado o problema? 
+– Não posso falar pelas operadoras. Elas têm que dar um jeito porque acredito que não vão querer perder clientes e têm por interesse próprio intenção de atender bem os usuários do sistema. É uma questão de tempo e de paciência que tudo será resolvido.
+– O senhor não teme uma infinidade de processos judiciais, já que órgãos públicos e até hospitais estão sendo prejudicados?
+– Não acredito que as empresas vão fazer isso. Todos têm que compreender que é uma questão de segurança pública. Isso é um transtorno que a sociedade tem que compreender e as operadoras terão que bloquear o sinal somente na área das penitenciárias. 
+– As operadoras alegam que o custo é alto. Algo em torno de R$ 1 milhão por presídio, como foi calculado em São Paulo. Será mesmo viável o bloqueio?
+– As operadoras têm que se adequar. A ordem é judicial e será mantida. Se é caro ou não é uma questão de estudo técnico por parte das empresas. 
+– Não é o caminho mais fácil para o governo? Não está sendo feito como na história do marido traído, que tirou o sofá da sala para resolver o problema?
+– Veja bem. O bloqueio de celular faz parte de um conjunto de medidas por questões de segurança. Está ocorrendo o bloqueio e as pessoas vão se habituar a isso. 
+– Mas qual tem sido a contrapartida do governo? Não era mais fácil acabar com a corrupção nos presídios para impedir a entrada dos celulares? 
+– Em toda atividade existe certa possibilidade de burlar regras porque somos humanos. Temos que aprimorar as medidas de controle e estamos fazendo isso.
+– O que está sendo feito para acabar com a corrupção nas revistas?
+– Estamos montando um grupo de 80 funcionários para atuar em revistas nos 14 presídios. Será uma equipe especializada para revistar as celas. Esses profissionais vão passar por treinamentos e entrarão nas cadeias à procura de celulares, drogas e outras irregularidades. Será um grupo fixo que irá se revezar nas cadeias. Também assim fica mais difícil haver corrupção. O grupo ficará no Complexo Penitenciário de Viana e será deslocado conforme a necessidade, em dia e horários não divulgados para não atrapalhar as ações.
+– Esse grupo vai entrar armado nas cadeias?
+– Não. Eles vão usar armas não letais, como gás de pimenta e balas de borracha, que funcionam bem e eles terão o respeito dos presos. Farão as revistas no interior das cadeias. Já do lado de fora, para a revista das visitas, estão providenciando os aparelhos de raio X. Tenho certeza de que iremos reduzir sensivelmente os problemas e acabar com os crimes comandados de dentro das cadeias.
+
+Entenda o caso
+
+• Na última terça-feira, um ônibus da viação Satélite foi queimado em Santa Rosa, Cariacica, quando estava com sete passageiros, o motorista e o cobrador. O veículo fazia a linha 710 (Santa Rosa-Terminal de Itacibá).
+• No ataque, os bandidos deixaram um bilhete: “Senhor governador, tire a ordem de matar. Nós também somos cidadãos. O crime PCV”.
+• No dia seguinte, outro ônibus foi queimado, mas desta vez em Carapina Grande, na Serra. Três criminosos entraram com galões de gasolina.
+• A polícia, na mesma noite, identificou o bando como sendo Igor Francisco de Souza, o Iguinho; Tiago Ferreira, o Lacraia (estes dois já estão presos), e um adolescente  de 15 anos.
+• Os incendiários fazem parte da gangue do traficante Wagner Lacerda Almeida, o Waguinho, que está em uma cadeia na Grande Vitória desde o dia 15.
+• Lacraia e o menor foram detidos e confessaram que incendiaram o ônibus na Serra a mando de Waguinho.
+• Na sexta-feira, o juiz Paulino José Lourenço, da Central de Inquéritos de Vitória, determinou o bloqueio do sinal.
+
+Dificuldade para bloquear pequena área
+
+Especialistas na área telefonia afirmam que será muito difícil bloquear o sinal de celular apenas numa pequena área, como somente nos presídios. O problema atinge bairros que estão num raio de até dois quilômetros da estação que emite sinal para as penitenciárias.
+Para desativar o sinal seria preciso bloquear várias Estações Rádio Base (ERBs) e o professor Gláucio Lima Siqueira, PhD em Comunicação Celular pela Universidade de Londres, explicou que, em geral, as ERBs emitem sinais numa área de 360 graus (círculo) jogando energia em todas as direções.
+Mas, em vez de ser apenas uma antena, normalmente são três de 120 graus e, cada uma, está voltada para determinada região.
+“Imagine um bolo dividido em três partes. Em geral, as ERBs são assim. Para suspender o sinal, as operadoras vão tirar um pedaço desse bolo, ou seja, vão desligar as antenas dos setores que estão iluminando os presídios e todo mundo que estiver dentro dessa faixa de abrangência será atingido”, exemplificou Siqueira.
+Ele ainda acrescenta: 
+“Mas isso não impede a ligação, dificulta. Não evita porque o celular busca sinais mais distantes, de outras antenas. Então, vai aumentar o tráfego naquelas que não foram desligadas e, por isso, pode ser difícil completar as ligações. Quem estiver num raio de até dois quilômetros pode ficar sem celular”.
+
+Coser faz balança dos prejuízos
+O prefeito de Vitória, João Coser, disse ontem que pretende fazer um balanço amanhã dos prejuízos causados com o bloqueio dos celulares – que afetou alguns bairros do município – e se reunir com o governo do Estado e as operadoras para discutir o assunto.
+“Temos que buscar alternativas para manter a paz, mas não justifica comprometer uma cidade que não possui presídio. As empresas precisam encontrar tecnologia mais eficiente”, lembrou Coser, que participou ontem do Congresso Cidades 2006.
+Ele contou ainda que é solidário à medida adotada pelo governo estadual para tentar melhor a segurança no Estado. <br><br><hr>
+Data da Publicação: 28/05/2006 - Pagina: 16 <br>
+Editoria: Policia <br><br>

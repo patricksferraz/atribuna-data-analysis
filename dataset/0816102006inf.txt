@@ -1,0 +1,45 @@
+Perigos da internet
+<b> Desatentos, usuários 
+informam seus dados 
+pessoais e ainda expõem
+suas empresas na rede </b><br>
+ <br>
+Quatro em cada cinco dos usuários de sites de relacionamento e redes sociais estão expostos a ataques hacker e roubo de identidade. A informação é fruto de um estudo divulgado pela Aliança de Segurança Cibernética Nacional (National Cyber Security Alliance - NCSA), dos Estados Unidos.
+Mais de duas mil pessoas com 18 anos ou mais foram entrevistadas. O objetivo foi examinar a relação do uso de redes sociais e da exposição a riscos como fraude, roubo de identidade, spywares e vírus.
+O estudo, divulgado na última semana, mostra que, embora 54% dos usuários de redes sociais admitam se preocupar com as armadilhas do crime cibernético, eles ainda divulgam dados que podem colocá-los em risco.
+Os resultados são preocupantes,  já que 74% deles publicam algum dado pessoal, como e-mail, endereço nome completo ou data de aniversário.
+Entre os adultos que utilizam redes sociais, 83% baixam arquivos desconhecidos dos perfis do outros usuários, potencialmente abrindo seus PCs para ataques. Outros 31% respondem a e-mails e mensagens instantâneas não-solicitadas, correndo o risco de cair em golpes de phishing.
+Além de colocar seus dados pessoais em risco, os usuários também expõem suas empresas. Entre os adultos que participam de redes sociais, 46% acessam os sites de relacionamento a partir do escritório, deixando a rede da companhia mais vulnerável a ataques.
+Mais da metade dos pais (51%) que sabem que seus filhos – com menos de 17 anos – navegam em redes sociais, não restringem os seus perfis somente à visualização por amigos. Além disso, 36% dos pais não monitoram as atividades dos filhos nas redes sociais.
+A pesquisa revela, no entanto, que os pais afirmam apostar em uma abordagem educativa do problema, alertando os filhos sobre os perigos das redes sociais: 94% já discutiram com os filhos sobre como se proteger de predadores virtuais, 72% conversaram sobre  como se prevenir de softwares maliciosos e 64% os ensinaram a se prevenir de fraudes financeiras.
+Outra informação revelada  pela pesquisa é que, apesar da percepção de que as redes sociais são apreciadas quase que exclusivamente por adolescentes e jovens, 48% dos usuários são adultos (acima de 18 anos), e que 53% destes adultos que usam as redes sociais têm mais de 35 anos.
+
+
+Medidas preventivas
+
+•Proteja seus dados financeiros e outras informações delicadas. Nunca publique seu numero de identidade, data de aniversário, endereço, telefone, números de conta ou cartão de crédito, ou qualquer informação pessoal.
+•Encare as redes sociais como vitrines no ciberespaço. Policiais, colegas de trabalho, funcionários, perseguidores e vizinhos chatos – qualquer um pode ler o que você escreve.
+•Tenha cuidado ao conhecer seus novos amigos cibernéticos no mundo real. É difícil julgar uma pessoa pelo que ela escreve sobre si mesma na rede.
+•Pense duas vezes antes de baixar arquivos e abrir e-mails. Eles podem conter vírus e spywares que podem corromper seu computador e roubar seus dados pessoais e senhas.
+•Proteja seu computador com softwares de filtro de spam, software de antivírus e firewall.
+•Cuidado com os criminosos que varrem as redes sociais atrás de potenciais vítimas para golpes que usam como pretexto falsos prêmios, ofertas de emprego e oportunidades de trabalho, entre outros.
+Fonte: Aliança de Segurança Cibernética 
+Nacional (National Cyber Security 
+Alliance - NCSA)
+
+
+Vírus e celebridades na web
+Se você adora navegar pela internet em busca de fotos, imagens e informações sobre celebridades, além de cenas picantes que vivem invadindo a internet, muito cuidado. 
+Segundo uma pesquisa sobre vírus realizada pela empresa McAfee, o jeito mais rápido de infectar seu PC pode ser uma simples visitinha a falsos sites de artistas famosos ou páginas dedicadas a conteúdos pornográficos.
+Até agosto deste ano, a empresa informou que o número de variantes de pragas ultrapassou as quatro mil, a partir dos 450 modelos básicos. Entre 2000 e 2002, havia apenas um décimo desse total, ou seja, 45 famílias.
+A pesquisa também revelou que os malwares estão mais sofisticados, envolvendo várias técnicas de ataque, algumas com altos lucros.
+Outro relatório sobre presença de spywares da SiteAdvisor aponta que páginas sobre estrelas passaram o conteúdo pornô no ranking de incidência.
+Um dos casos de armadilhas virtuais envolvendo nomes de celebridades foi com a atriz americana Angelina Jolie. Recentemente, circulou pela rede uma mensagem que fingia ser uma notícia do site O Fuxico. 
+O texto afirmava: “milionário Hugh Hefner pagou um cachê milionário para a estrela posar nua”. Para ver o ensaio fotográfico, a mensagem estimulava o internauta a clicar num link. 
+É claro que não havia nenhuma foto, apenas um arquivo nocivo (angelina.exe.scr) que roubava dados bancários do internauta, inclusive senhas.
+Outros nomes de famosos também foram usados para roubar dados das vítimas, como o polêmico vídeo da modelo  Daniela Cicarelli numa praia da Espanha com seu namorado.
+Um outro worm prometia mostrar o vídeo de uma suposta briga do casal de apresentadores Luciano Huck e Angélica. No mês passado, um e-mail fraudulento prometia fotos sensuais da ex-BBB e agora atriz da novela das oito, Graziele Massafera.
+Mas, apesar dos ataques freqüentes, esses vírus de e-mail (worms) atingiram o menor nível de incidência de todos os tempos. De acordo com análise da fabricante de antivírus Sophos, atualmente apenas um em cada trezentos e-mails trazem tais ameaças , um total de 0,33% de todas as mensagens veiculadas. 
+A baixa incidência de vírus worm deu espaço para um novo tipo de ataque. Os vírus mais perigosos, como os que roubos de senha e informações pessoais como dados bancários, estão tendo presença cada vez maior nos sites das celebridades. <br><br><hr>
+Data da Publicação: 16/10/2006 - Pagina: 08 <br>
+Editoria: Informática <br><br>

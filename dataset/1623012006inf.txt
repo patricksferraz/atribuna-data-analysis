@@ -1,0 +1,30 @@
+OBSERVATÓRIO
+<b>  </b><br>
+Eduardo Favaretto <br>
+Uma nova torre de Babel
+
+A Bíblia menciona, no livro do Gênesis, uma grande torre que começou a ser construída pela humanidade, a fim de atingir o paraíso. Para evitar que tal projeto tivesse sucesso, Deus criou uma grande confusão entre as línguas que eram usadas por seus construtores. 
+A história cita que a obra ficou incompleta, pois, sem condições de comunicar-se entre si, eles migraram para outras partes do planeta, originando as diversas línguas e raças do mundo.
+Hoje, tudo indica, uma nova Torre de Babel foi reconstruída na internet por meio de uma de suas principais formas de comunicação: a Web (World Wide Web).
+Ela nasceu no centro de pesquisa do CERN (Suça), em dezembro de 1990, com o projeto liderado pelo inglês Timothy “Tim” John Berners-Lee, considerado o pai da Web, quando este fez na prática, a primeira demonstração pública usando as iniciais “www”.
+Nestes últimos 15 anos, a Web acumulou um imenso conteúdo interativo que permite aprender, resolver problemas pessoais ou profissionais, se divertir e interagir em qualquer lugar do planeta. 
+Porém, somente a capacidade de falar, escrever e ler bem não são suficientes para utilização de toda informação existente para uma infinidade de propósitos. 
+Na rede mundial existe informação de todos os tipos e para todos os gostos. O desafio agora é adquirir o pleno domínio do uso desta moderna Torre de Babel.
+Como um fenômeno global, estima-se a existência de cerca de 600 bilhões de páginas disponíveis na Web: uma imensa biblioteca de informação digital, mas diferentemente das tradicionais, organizadas e catalogadas, esta não tem nada de organização. 
+Para pesquisarmos nesta extensa “biblioteca digital”, usamos páginas específicas da própria Web que atendem pelo nome de mecanismos de buscas, buscadores ou search engines. 
+Esses programas computacionais desenvolvidos com o objetivo de indexar informações descritivas e temáticas das páginas e/ou sites da internet em bases de dados, com a finalidade de permitir a recuperação de documentos solicitados pelos usuários, segundo a forma de busca e os critérios adotados. 
+Tais mecanismos de buscas podem ser divididos em duas categorias principais, quanto ao critério de inclusão dos links da Web em sua base de dados. 
+Na categoria conhecida como “robôs de buscas”, os índices são criados automaticamente por scripts (programas virtuais), também chamados de spiders (aranhas), que visitam virtualmente, de forma periódica, cada endereço disponível na Web referenciado em sua base de dados. 
+Por possuir conteúdo muito abrangente, estes buscadores quase sempre acumulam uma infinidade de links, com assuntos extremamente variados e recebem a denominação de buscadores generalistas. 
+Na categoria “catálogo de diretórios”, os índices são gerados por grupos humanos (conhecidos como surfers ou editores) que auxiliam no cadastramento e classificação de páginas da Web, quase sempre organizadas uma a uma, “manualmente”, de forma criteriosa, seguindo uma distribuição por assuntos. 
+Por possuir conteúdo mais restrito e um número limitado de links, este tipo de buscador pode receber a denominação de especializado, temático ou regional.
+A Web alcançada por estes mecanismos pode chegar a cerca de 20 bilhões de links cadastrados. 
+Ou seja, também conhecida pelo termo surface web, a quantidade de páginas que qualquer usuário pode ter acesso automaticamente por meio do uso das search engines generalistas na atualidade, atinge “apenas” o máximo de 3,3% do total estimado de páginas disponíveis para consulta.
+Parece insano considerar que alguém, algum dia, poderia reclamar por não conseguir acessar todas as outras 580 bilhões de páginas, que por estimativa, devem existir na Web. 
+A questão é uma só: quantidade não é qualidade, além de querer encontrar, é preciso saber escolher as fontes de informações apropriadas ou o buscador apropriado e “aprender” a usar cada um de seus recursos oferecidos. 
+Para que o resultado das buscas na Web, por meio de search engines, receba cada vez mais um toque humano, diversas novas idéias e teorias estão em discussão. 
+As perspectivas são muito boas no que diz respeito à evolução da tecnologia dos mecanismos de buscas. Logo nos locomoveremos com muito mais desenvoltura pela Torre de Babel reconstruída que é a Web.
+
+Eduardo Favaretto, criador do iBUSCAS, gestor de soluções para internet, é especialista em Tecnologia da Informação. Cursou física no Instituto de Física da USP e engenharia elétrica na UNESP (linkfavaretto@linkportal.com.br). <br><br><hr>
+Data da Publicação: 23/01/2006 - Pagina: 16 <br>
+Editoria: Informática <br><br>

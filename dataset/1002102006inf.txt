@@ -1,0 +1,29 @@
+Na armadilha de Cicarelli
+<b> Pelo menos dois e-mails com
+vírus circulam pela internet
+prometendo cenas quentes da
+modelo e seu namorado </b><br>
+ <br>
+O polêmico vídeo da modelo Daniela Cicarelli e o namorado, Tato Mazoni, numa praia da Espanha, continua dando o que falar. Mas, desta vez, o assunto virou isca de criminosos virtuais.
+O tema gerou tamanha curiosidade e especulação que, pelo menos, dois e-mails já estão circulando pela internet oferecendo a gravação onde o casal protagoniza cenas picantes no Mar de Cadiz, no litoral espanhol.
+Mas, para a tristeza de quem não viu as tórridas imagens que rodaram o mundo, as mensagens são falsas e trazem links para arquivos executáveis, provavelmente com funções maléficas.
+A primeira correspondência chega como se tivesse sido enviada por um amigo, por meio do site de vídeos YouTube, onde as imagens apareceram pela primeira vez.
+O texto diz “Daniella Cicarelli Em Cenas Picantes”, com o remetente (campo “De” ou “From) “YouTube@youtube.com”. 
+A ilustração principal, que imita o player de vídeo do site, leva para um arquivo com a extensão “scr”. O texto sugere “Alguém deseja compartilhar este video com você”.
+Para não infectar a máquina, basta apagar o e-mail sem clicar nos links ou executar o arquivo anexado.
+Já a segunda armadilha chega como se fosse uma mensagem do site de fofocas “O Fuxico”. O campo assunto traz o texto “Vídeo com cenas quentes de Daniella Cicarelli e namorado ganha mídia internacional”, com o remetente (campo “De” ou “From”), “ofuxico@ofuxico.com.br”.
+Os links levam para um arquivo com a extensão “exe”. A mensagem traz três imagens do casal. Nesse caso, a orientação de especialistas é a mesma da anterior. Não clique em nenhum link e apague o e-mail imediatamente.
+Não se sabe se outras armadilhas semelhantes serão formuladas, já que esse tema parece estar meio longe de cair no esquecimento. Portanto, é melhor redobrar a atenção, principalmente quem não teve acesso ao polêmico vídeo.
+E é bom se prevenir mesmo. Um levantamento da empresa de segurança e antivírus Symantec revelou que o número de e-mails contendo mensagens fraudulentas cresceu 81% no primeiro semestre deste ano, em relação aos últimos seis meses do ano passado.
+ De acordo com a pesquisa da Symantec, o usuário doméstico é o maior alvo dos crackers, correspondendo a 86% dos ataques.
+
+E-mail falso oferece celular de graça
+
+Para conquistar o público, várias operadoras de telefonia celular presenteiam seus clientes com brindes, inclusive aparelhos de telefones. Agora, o assunto inspirou um novo golpe na web.
+Circula na internet um e-mail dizendo que o usuário ganhou um telefone celular V3, da Motorola, habilitado pela operadora Vivo. A mensagem é falsa e traz links para um arquivo com a extensão scr. A mensagem chega com o assunto “Voce Ganhou um V3 da VIVO !” e com o remetente (campo “De” ou “From) VIVO. 
+O conteúdo do e-mail é uma imagem clicável, com fotos do aparelho, além da logomarca e do mascote da operadora. O texto sugere que o usuário “baixe seu formulário de cadastramento e pegue seu V3 na loja mais próxima de sua cidade”.
+Trata-se de um trote. Se por acaso um desses e-mails aparecer em sua caixa postal, apague-o rapidamente, mesmo que aparentemente a mensagem venha de alguém que você conhece. 
+Os golpistas da internet atuam utilizando nomes de empresas conhecidas, instituições bancárias e grandes portais, entre outros, na tentativa de convencer o usuário desavisado da legitimidade da mensagem. 
+Em caso de dúvida, ligue diretamente para a empresa ou procure no site oficial alguma informação a respeito. Mas nunca clique em links suspeitos. <br><br><hr>
+Data da Publicação: 02/10/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

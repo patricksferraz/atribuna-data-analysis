@@ -1,0 +1,16 @@
+Internet móvel em debate
+<b>  </b><br>
+ <br>
+A internet móvel é um fenômeno que ainda está no seu início, portanto é possível definí-la com o uso de tecnologias de comunicação sem fio (wireless) para acesso a informações e aplicações via web a partir de dispositivos móveis, como celulares ou handhelds.
+ O assunto interessa a diretores, gerentes de projetos, líderes de equipes e analistas de software, que acompanham o desenvolvimento do potencial da internet móvel. Estes profissionais vão poder discutir o tema durante a palestra sobre o assunto, organizada pela Sociedade dos Usuários de Informática e Telecomunicações (Sucesu-ES).
+O evento acontece no dia 4 de agosto, no auditório do Senac, em Bento Ferreira, às 19 horas. O objetivo da palestra é mostrar de forma ampla um panorama das principais tecnologias e aplicações da internet móvel, apresentando os componentes e camadas envolvidos em uma solução móvel.
+Diretor de Tecnologia da Mobteam Tecnologia Móvel e especialista em arquitetura de sistemas distribuídos, Alessandro Guimarães Moura será o palestrante e vai destacar as tecnologias de conectividade sem fio, entre outros assuntos relacionados ao tema. O profissional atua há oito anos no desenvolvimento de sistemas da informação para grandes corporações e nos últimos cinco anos vem atuando fortemente em projetos de computação móvel. 
+As inscrições podem ser feitas através do endereço www.sucesues.org.br, pelo telefone (27) 3225-9955 ou ainda pelo e-mail eventos@sucesues.org.br. A taxa de inscrição é de R$ 10,00 para associados da Sucesu-ES e funcionários das empresas associadas e R$ 15,00 para participantes da comunidade em geral.
+
+CENÁRIO
+Os serviços de dados pelo celular vão gerar uma receita mundial de US$ 142 bilhões para as operadoras de telefonia móvel em 2009. Este valor é quase um quinto do faturamento total do mercado projetado em US$ 677 bilhões. 
+Os dados são de um relatório divulgado pelo instituto de pesquisas Yankee Group. O estudo revela que a receita de dados móveis em 2009 será mais que o dobro dos US$ 62 bilhões movimentados em 2004. 
+Os mercados que vão consumir mais dados móveis são Europa e Ásia, onde os serviços de telefonia 3G atingirão maturidade mais rapidamente. 
+Na Europa, por exemplo, o Yankee Group estima que em 2009 os serviços de dados pelo celular serão responsáveis por 23% da receita das operadoras. No ano passado este índice estava em 15%.  <br><br><hr>
+Data da Publicação: 25/07/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

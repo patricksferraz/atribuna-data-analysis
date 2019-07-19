@@ -1,0 +1,22 @@
+Na armadilha da loira e do rei
+<b> Declaração de Hebe sobre
+noite de amor com Roberto
+Carlos vira armadilha para
+roubar dados de internautas </b><br>
+ <br>
+Um assunto que deu muito o que falar nos últimos dias foi uma polêmica declaração da apresentadora Hebe Camargo. Com total despreendimento e bom humor, ela confessou que gostaria de ter uma noite de amor com o cantor Roberto Carlos.
+Mesmo sem muitos desdobramentos ou “cenas dos próximos capítulos”, a confissão da loira continua repercutindo, inclusive no programa semanal que ela apresenta no SBT às segundas-feiras, quando um ou outro convidado menciona algo sobre o “rei” e o clima de romance impera no ar.
+O problema é que a declaração ousada de Hebe também serviu de inspiração para que criminosos virtuais criassem uma nova armadilha para roubar dados dos internautas.
+Circula pela internet um e-mail que promete uma falsa entrevista onde Hebe daria mais detalhes de sua afirmação. Mas o objetivo é fazer com que usuário clique no link malicioso e contamine sua máquina. 
+O especialista em segurança empresa da Batori Software & Security, Denny Roger, explica que a praga desabilita o antivírus do computador infectado e pode ser programada para fazer download de outros vírus.
+“Como os programas atuais já conseguem barrar vírus que roubam dados pessoais da pessoa, os crackers estão utilizando esta nova modalidade: os downloaders. Com este novo vírus, o criminoso pode programar a máquina para fazer o que ele quiser, como baixar um programa que roube senhas de banco, por exemplo” afirma Roger.
+POLÍCIA
+E não é apenas o nome de celebridades que os golpistas usam para armarem suas fraudes. Órgãos de credibilidade que atuam no combate ao crime também não estão ilesos de terem seus nomes usados indevidamente.
+Um exemplo é a Polícia Federal. Tem circulado na internet uma correspondência que “informa” ao usuário que foi constatado o acesso de sites ilegais em seu computador e que, para resolver o problema, deve entrar em contato urgentemente com a polícia, clicando em um link.
+Na verdade, trata-se de uma armadilha para introduzir um vírus no computador do internauta que irá roubar seus dados pessoais. A falsa mensagem traz uma suposta assinatura do ex-superintendente da Polícia Federal em Brasília, Daniel Gomes Sampaio, e o brasão da PF. 
+Além disso, o e-mail oferece a opção de ir pessoalmente à sede do Departamento da PF, em Brasília, divulgando o endereço da instituição. 
+O órgão esclareceu, no entanto, que a mensagem não é legítima e que não se comunica com os cidadãos via e-mail. Além disso, as investigações já foram iniciadas e a mensagem está sendo rastreada para saber quem está por trás do golpe.
+O texto do falso e-mail diz o seguinte: “Senhor/Senhora, Estamos entrando em contato, pois seu IP e computador foram registrados acessando sites ilegais. Necessitamos que entre em contato, pelo link abaixo, para esclarecer tal acontecimento e evitar qualquer tipo de abertura de inquérito. Clique aqui para nos contactar agora mesmo ou, se preferir, procurar: Superintendente DPF, Daniel Gomes Sampaio. Endereço: SAIS Quadra 7 - Lote 23 - Setor Policial Sul Brasília, DF. CEP 70610-901. Grato’’.
+Portanto, tanto no golpe que promete entrevista da Hebe, quanto o que usa o nome da Polícia Federal, as medidas são as mesmas: nunca clique em links duvidosos e nem deixe a curiosidade falar mais alto. E mantenha seu antivírus sempre atualizado. <br><br><hr>
+Data da Publicação: 20/11/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

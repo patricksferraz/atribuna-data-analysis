@@ -1,0 +1,28 @@
+Estudantes montam robô que ajuda deficientes físicos
+<b>  </b><br>
+ <br>
+Robôs que mais parecem garçons, arrumando a mesa e servindo o jantar. Programas robóticos que ajudam deficientes físicos a realizar pequenas tarefas sem depender de ninguém. 
+Toda essa tecnologia foi desenvolvida não por especialistas em física ou robótica, mas por 13 alunos de Vitória, com idades entre 11 e 14 anos. 
+Os estudantes são os representantes capixabas no Campeonato Nacional de Robótica, que começou na última quinta-feira, em São Paulo. Divididos em duas equipes, que vão competir entre si, os alunos tiveram que desenvolver dois projetos.
+O primeiro é a criação de um robô que realiza nove tarefas em dois minutos e meio, como tirar um CD da mesa e guardá-lo na caixa, pegar óculos, servir o jantar, subir as escadas e dar comida aos animais.
+O segundo desafio é desenvolver um protótipo capaz de ajudar deficientes físicos. Neste último caso, a proposta é apenas virtual, animada por simulações feitas em computador.
+“Este programa acontece em 24 países. Mostra que a física e a matemática não são nenhum bicho-de-sete-cabeças. Eles não estudam as fórmulas, mas aprendem a chegar a elas”, contou a professora Carmem Faria Santos, coordenadora do projeto.
+Os seis alunos da equipe Vites (Vitória-ES) entrevistaram um portador de atrofia muscular, que contou a dificuldade de realizar tarefas simples, como beber água e pegar o controle remoto. Eles desenvolveram um braço robótico que pode ser adaptado a cadeira de rodas.
+Já os sete alunos da equipe Elsi-ES (Elsi era o nome do primeiro robô programado para educação, na década de 40), criaram um sensor de luz um pouco maior que um relógio para ajudar os cegos atravessarem a rua. O sensor capta a luz do semáforo e indica se o sinal está verde ou vermelho.
+Carmem contou que os alunos participam da atividade extracurricular desde março deste ano. Eles receberam um kit da Lego, contendo 717 peças, entre elas sensores, motores e uma espécie de minicomputador, que funciona como o cérebro do robô. 
+“Ele comporta até cinco programas. Os alunos desenvolvem o programa em computadores normais e isso é transferido para o robô a partir de uma torre de raio infravermelho”, contou a professora.
+As duas melhores equipes na competição vão participar do Campeonato Internacional de Lego, que vai acontecer em Atlanta, nos EUA, em abril de 2006.
+
+
+O segredo deles
+“Eu sempre gostei da robótica e a informática. No início, é um pouco difícil, mas com o tempo a gente se acostuma. Lego todo mundo usa. Nosso entrevistado mostrou a frustração. Não é só mexer as pernas, mexer os braços é difícil também e ninguém imaginava isso.
+Acho que a gente tem chance. Tivemos boas idéias nas últimas semanas, mas é segredo de equipe. A gente só conta se for para Atlanta.”
+Bernado Chrispin Baron, 
+12, da Equipe Vites.
+
+“No começo das aulas ,a gente nem tinha idéia do que ia ser, achava que era só brincadeira. No começo, é difícil estudar os conceitos da robótica, mas a gente aprende aos poucos.
+Nós vimos que em Vitória raramente tem sinal sonoro para cegos e que existia um aparelho que é sensível a luz. Daí, pensamos no aparelho (que diz se o semáforo está verde ou vermelho). Nossa maior expectativa é nesse protótipo virtual.”
+Rafael Viana Mendes, 
+12, da Equipe Elsi-ES. <br><br><hr>
+Data da Publicação: 11/09/2005 - Pagina: 07 <br>
+Editoria: Cidades <br><br>

@@ -1,0 +1,13 @@
+Suporte técnico em Microsoft Windows
+<b>  </b><br>
+ <br>
+Depois das revoluções dos grandes centros de processamento de dados na década de 60, dos terminais remotos na década de 70 e das redes de computadores na década de 80, a informática está agora em sua quarta revolução: a da computação móvel.
+Também conhecida como wireless, a computação sem fios está cada vez mais sendo adotada por grandes corporações e invadindo também o espaço das pequenas e médias empresas. As vantagens da tecnologia wireless, que começou a ser estabelecida em 1997 e teve seu uso intensificado a partir de 2000, é incontestável.
+As redes sem fio permitem que usuários tenham acesso a informações e serviços sem a necessidade de conexão física, trazendo maior flexibilidade e mobilidade do que uma rede com fios. 
+Os exemplos estão presentes no dia-a-dia, seja numa conferência de estoque numa empresa, utilizada por garçons em bares e restaurantes, nos hot spots dos aeroportos, nas redes de cartão de crédito, que agora oferecem a facilidade de pagamento da conta sem que o cliente precise se deslocar, PDA’s, notebooks, telefones celulares e outros.
+A rede wireless traz todas estas vantagens e é uma tecnologia que fatalmente será adotada por todos a curto e médio prazo, dentro do cenário de complementação a redes cabeadas.
+Mas, no momento da implantação, deve-se visar uma solução segura quando optar por esta tecnologia, pois o benefício pode ser revertido contra o usuário se alguns cuidados não forem tomados. A rede sem fios é mais vulnerável e não se consegue limitar ou determinar até onde vai a amplitude do sinal com precisão, que normalmente é maior que o necessário.
+E como fazer para gerir a segurança perante os novos desafios impostos pela computação móvel? De acordo com o diretor da ISH Tecnologia, Carlos Eduardo Brandão, para se proteger é importante que sejam implantados mecanismos que “fechem” a rede para impedir esse acesso externo não autorizado a dados, arquivos e até mesmo a internet.
+Isso pode ser feito utilizando um protocolo de criptografia na rede sem fio de forma que não permita conexão externa não autorizada.  <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

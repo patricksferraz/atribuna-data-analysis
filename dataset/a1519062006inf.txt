@@ -1,0 +1,15 @@
+Falhas do ME e 98 não têm solução
+<b> Microsoft alega  não poder resolver a vulnerabilidade
+das versões mais antigas do software Windows </b><br>
+ <br>
+A falha descoberta em abril pela Microsoft que poderia permitir que um website forçasse uma conexão do computador com qualquer servidor e assim permitisse a execução de qualquer tipo de código também afeta versões mais antigas do Windows.
+Embora tenha resolvido o problema nas versões 2000, XP e Server 2003, a Microsoft alegou que não pode resolver a vulnerabilidade nas versões ME e 98.
+Isto porque a empresa não poderia simplesmente lançar um remendo (patch) – teria que reescrever parte do código, o que, além de trabalhoso, poderia colocar em risco parte da base de programas existentes para os sistemas antigos. 
+Outro fator que complicaria a resolução do problema é que a Microsoft já havia anunciado que o suporte aos sistemas antigos, ou seja, as versões 98, 98 SE e ME, terminará no dia 11 de julho, quando os patches de segurança e também as respostas na área técnica do site devem ser interrompidos.
+Como forma de amenizar o problema, a Microsoft recomendou que quem desejar continuar utilizando tais versões deve rodar um programa de firewall e bloquear o tráfego de dados na porta 139, que é por onde a mencionada vulnerabilidade pode ser explorada.
+No entanto, a recomendação principal da empresa é que seus antigos usuários migrem para versões atuais do Windows, com o último Service Pack instalado.
+A Microsoft divulgou, no último dia 13, 12 boletins de segurança para correção de 21 vulnerabilidades de software que atingiram o sistema operacional Windows, o pacote de aplicativos Office e o servidor de e-mail Exchange.
+Essa é a maior correção da Microsoft desde fevereiro de 2005. Do total, nove dos boletins de segurança atingem o sistema operacional Windows, sendo que seis deles foram classificados como críticos, dois importantes e um moderado. 
+Uma falha crítica é a classificação máxima da Microsoft e permite que um usuário mal-intencionado assuma o controle do computador. Das 21 vulnerabilidades corrigidas, 19 delas permitem “execução remota de código”. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,25 @@
+Palestra sobre VoIP
+<b> Evento em Vitória vai mostrar
+o que é e quais as principais
+vantagens do novo sistema
+de comunicação pela internet </b><br>
+ <br>
+Os serviços de telefonia de voz por IP, que permitem ligações através da internet, proporcionando principalmente economia, têm se popularizado cada vez mais. Segundo os especialistas, a tendência do potencial de crescimento nos próximos anos é enorme.
+Pensando em preparar a população e os profissionais capixabas para as novas possibilidades que estão surgindo na telefonia, a Sociedade de Usuários de Informática e Telecomunicações do Espírito Santo (Sucesu-ES) estará realizando na próxima sexta-feira, dia 23, a segunda edição da palestra “Voz sobre IP (VoIP) e Telefonia IP”.
+A palestra pretende enfocar temas importantes relacionados ao VoIP, transmissão de dados, voz sobre IP, telefonia IP, VoIP x telefonia convencional, entre outros assuntos. O público alvo do evento são diretores, gerentes de CPD, gerentes de TI, líderes de equipe, consultores de informática, executivos, acadêmicos e o público em geral que se interessa pelo assunto. 
+O palestrante é o especialista em Redes de Computadores e Projetos de Redes, Geraldo Sudré. As inscrições estão abertas no site www.sucesu.org.br e os valores são de R$ 10 para empresas associadas e R$ 15 para a comunidade em geral.
+No Brasil, os serviços de VoIP oferecidos ainda são poucos e, até o momento, apenas as grandes corporações desfrutam das facilidades e dos preços baixos de ligações feitas pela internet. Quem afirma isso são os analistas de mercado Renata Hermann e Alex Zago, da Frost & Sullivan. 
+Para os brasileiros, o mais conhecido mecanismo nessa versão é o  Skype, um programa desenvolvido pelos mesmos criadores do Kazaa, que permite fazer ligações rápidas utilizando o computador gratuitamente. O aplicativo já virou uma febre na internet e, segundo estatísticas da empresa, o software já foi baixado 40,5 milhões de vezes.
+Esse novo modelo de comunicação que custa menos que uma ligação convencional só é possível devido à popularização do acesso à internet por banda larga e à  tecnologia VoIP.
+
+
+Serviço
+•Palestra: Voz sobre IP (VoIP) e Telefonia IP
+Data: Sexta-feira, dia 15
+•Horário: 9 horas
+•Local: Auditório do Senac-ES, na avenida Mascarenhas de Moraes, 2.077, Bento Ferreira, Vitória
+•Palestrante: Gilberto Sudré
+•Preços: R$ 10,00 para empresas associadas e R$ 15,00 para a comunidade em geral
+•Informações e inscrições: 3225-9955 ou no site www.sucesues.org.br <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

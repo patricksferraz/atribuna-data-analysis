@@ -1,0 +1,21 @@
+Ciclo de vida de um produto
+<b> “Os produtos (...) têm variável capacidade 
+de afetar negativamente o meio ambiente’’ </b><br>
+ <br>
+O conceito atual de desenvolvimento (Desenvolvimento Sustentável) exige que as demandas econômicas, sociais e ambientais sejam simultaneamente prioridades e atendidas (eco-eficiência).
+Ao privilegiar a eco-eficiência, buscamos assegurar que bens e serviços disponibilizados à sociedade sejam produzidos de forma economicamente viável, sem afetar o meio ambiente, portanto não comprometendo a disponibilidade dos recursos naturais para as futuras gerações.
+Os problemas aparecem à medida que percebemos que os produtos e serviços disponibilizados têm uma “vida”, composta de uma seqüência de etapas e operações que, isoladamente, têm variável capacidade de afetar negativamente o meio ambiente.
+Por exemplo, ao sentarmos em nosso carro temos de estar atentos que a “vida do veículo” não começou quando o compramos, mas nas minas de minério de ferro, seu processamento e transporte, chegada à siderúrgica, sua conversão em aço, a passagem pela indústria automobilística, a compra do veículo, seu uso, bem como a destinação final do mesmo após verificarmos que ele não mais tem condições de ser utilizado. Ou seja, todo um “ciclo de vida”.
+Se lembrarmos que em cada etapa desse ciclo pode haver consumo de energia e recursos naturais, emissões de poluentes, geração de resíduos, com a geração de impactos ambientais, isso nos leva a assumir que a análise do ciclo de vida de cada produto (ou serviço) deve receber análise cuidadosa, em substituição à limitada visão do efeito pontual, ou seja, aquele que se percebe, em um dado momento da análise, ao longo do ciclo de vida (avaliação do ciclo de vida).
+Ou seja, a análise do ciclo de vida de um produto ou serviço tem caráter abrangente e integrador, substituindo a tradicional (e não eficaz) visão do impacto localizado sobre o meio ambiente, que na maioria dos casos não consegue alcançar a amplitude do efeito ambiental como um todo.
+Como se pode inferir, esse processo de avaliação do ciclo de vida demanda estudos especializados, existindo normas nacionais (ABNT) e internacionais 
+(ISO) que definem orientações e requisitos para a realização de tais avaliações.
+No Brasil, são muitas as iniciativas que estão sendo implementadas no sentido de gerar condições para a realização de estudos de ciclo de vida.
+Por exemplo, o Ministério da Ciência e Tecnologia, através da Secretaria de Política Tecnológica Empresarial, está estruturando um programa para viabilizar a criação de um banco de dados público contendo os resultados de estudos realizados de ciclo de vida, ligados à área industrial e, ao mesmo tempo, promover a capacitação de uma massa crítica de profissionais ligados a esse tipo de pesquisa, aspecto crítico em termos da generalização, no Brasil, desse tipo de iniciativa.
+Temos, ainda, a Associação Brasileira de Ciclo de Vida, entidade sem fins lucrativos que visa promover atividades de estímulo ao ensino, pesquisa e ao desenvolvimento de avaliações de ciclo de vida, gerando o intercâmbio de informações entre os que se dedicam a esse moderno campo do conhecimento ambiental.
+Merece destaque também o Comitê Brasileiro (CB 38 da ABNT/Associação Brasileira de Normas Técnicas), que tem a responsabilidade de discutir/gerar normas técnicas ligadas à temática da gestão ambiental, e está sintonizado com esse tipo de pesquisa.
+Ou seja, o conceito do ciclo de vida nos leva a analisar a problemática ambiental de forma mais abrangente e integrada, fato essencial para o perfeito conhecimento dos efeitos negativos sobre o meio ambiente.
+
+Roosevelt S. Fernandes é membro do Conselho Estadual de Meio Ambiente Consema), do Conselho Estadual de Recursos Hídricos (CERH) e coordenador do Conselho Superior de Meio Ambiente da Findes <br><br><hr>
+Data da Publicação: 16/11/2005 - Pagina: 15 <br>
+Editoria: Opinião <br><br>

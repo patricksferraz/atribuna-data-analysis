@@ -1,0 +1,18 @@
+Vírus sequestra e pede resgate
+<b> Para devolver os documentos
+roubados, praga segue a cartilha
+dos seqüestradores, exigindo
+resgate de US$ 300 </b><br>
+ <br>
+Todo cuidado é pouco na hora de usar o computador, pois não faltam espertinhos para criar a cada dia uma nova ameaça no cyber espaço. Um novo vírus que invadiu o mundo virtual sinaliza mais um alerta para usuários de computadores.
+A praga chama-se Cryzip e sua ação consiste em contaminar as máquinas e roubar informações ali guardadas. Para devolver os documentos roubados, o vírus segue a cartilha dos seqüestradores: exige um “resgate” de US$ 300.
+A praga criptografa arquivos do Word, de bancos de dados e planilhas e, em seguida, cria uma senha de acesso aos documentos. Daí pra frente, o usuário se vê entre a cruz e a espada, já que precisa decidir se paga ou não o resgate e recupera os dados.
+Segundo o consultor em Tecnologia da ITNet, empresa que atua no ramo de Segurança da Informação, Ricardo Biccas, esse código é do tipo Cavalo de Tróia. Ou seja, ele invade o computador e deixa uma porta aberta para um possível invasor.
+“Todo cavalo de tróia pode deter informações, pois entra como algo útil e depois rouba arquivos importantes”, explica Ricardo Biccas. No caso do Cryzip, o vírus pega as informações, armazena em um arquivo zip e cria uma senha própria, geralmente com cerca de oito dígitos, o que impossibilita o acesso do seu usuário.
+Em seguida, envia uma mensagem orientando sua vítima a criar uma conta e a pagar o dinheiro, por transferência eletrônica, dizendo que essa é a única forma de ele receber os dados de volta.
+Para evitar esse tipo de transtorno, o profissional aconselha a manter o antivírus atualizado. A dica da ITNet é o Symantec Antivirus versão 10, que é capaz de remover o vírus. Mas se o usuário já estiver com o computador infectado, a orientação é procurar um especialista na área para fazer a remoção.
+E não se deve pagar o resgate exigido pelo seqüestrador virtual. “Mesmo cedendo à chantagem, o usuário não receberá as informações de volta. O caminho é buscar ajuda de um profissional. Apesar da complexidade, esse vírus é fácil de ser removido, pois ele não se reproduz rápido como os worms, por exemplo”, ressalta Biccas.
+O consultor sênior de tecnologia da empresa de segurança Sophos, Graham Cluley, explica que o arquivo de texto pedindo o resgate direciona a vítima a uma das 99 contas bancárias on-line administradas pela e-gold Ltda., empresa que administra um site de transferências financeiras.
+Casos de sequestro de arquivos já foram encontrados na Rússia e as ocorrências deste tipo de ataque têm crescido, observa Cluley. Ainda não se sabe como o vírus se espalha e o número <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

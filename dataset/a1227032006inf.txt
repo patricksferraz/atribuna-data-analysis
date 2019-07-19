@@ -1,0 +1,15 @@
+Viagem para Copa é armadilha 
+<b>  </b><br>
+ <br>
+Na última quinta-feira, dia 23, a editoria de Informática do jornal A Tribuna recebeu um e-mail com o seguinte assunto: “Parabéns, a Mastercard te sorteou!”. Isso serve de alerta para nosso leitor. Ao informar o CPD da Rede Tribuna descobrimos que se tratava de um vírus, que deve estar mais do que mal intencionado.
+Segue abaixo o texto na íntegra, inclusive com os erros de português:
+“Master Card você tem, além da melhor forma de pagar seus ingressos, exclusividade para realizar suas compras nos eventos da Copa do Mundo FIFA 2006 com toda a comodidade. 
+MasterCard, o cartão oficial de todos os amantes do futebol!!
+Você e sua Família, foram escolhidos dentrem milhões de pessoas, para ganhar uma viajem com tudo pago para, Copa do Mundo FIFA 2006.
+Você tem apenas que baixar o programa da rede MasterCard e preencher os dados necessários e boa viajem!
+Caso haja alguma dúvida, nosso programa segue Esclarecimento, SAC e Ajuda Online!
+Vista a camisa da seleção e prepare-se para assistir na Alemanha os melhores do mundo em ação!”
+Logo abaixo vinha o link “Baixe aqui. Copa do Mundo FIFA 2006”.
+Não é preciso entrar em pânico. Caso você receba um e-mail similar é só não clicar no link e nem salvar nada. <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

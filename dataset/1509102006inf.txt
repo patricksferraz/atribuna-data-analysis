@@ -1,0 +1,20 @@
+Desastre e vírus no PC
+<b> Uma falsa correspondência
+promete imagens do avião da
+Gol, que caiu e matou 155
+pessoas no Mato Grosso </b><br>
+ <br>
+O desastre da aeronave Gol Airlines Boeing 737, que causou a morte de 155 pessoas, no último dia 29, despontou entre os assuntos de maior repercussão nos principais noticiários do Brasil e do mundo.
+Além disso, a tragédia também inspirou um novo golpe virtual. Está circulando na internet um e-mail fraudulento com supostas fotos do acidente.
+A correspondência maliciosa  traz a seguinte mensagem: “Descobri o site onde estão as fotos do avião da Gol! São fotos impressionantes mesmo”. 
+No campo do assunto o texto: “fotos do acidente do boeing da Gol!”.
+Na verdade, trata-se de uma armadilha. Ao clicar sobre as supostas fotografias, o usuário é remetido para um arquivo malicioso que, após a infecção, instala uma praga que rouba dados bancários no PC da vítima.
+A tragédia do avião da Gol não é o primeiro evento recente que virou isca para tentar roubar dados financeiros dos internautas. Em julho deste ano  foi detectada uma praga entitulada de “a lista dos responsáveis”, que se referia aos ataques do PCC em São Paulo.
+A intenção era roubar informações confidenciais de quem acessasse o link para descobrir a identidade dos mentores dos crimes na capital paulista.
+Logo após a final da Copa, foi a vez da cabeçada do jogador  francês Zinedine Zidane no zagueiro italiano Marco Materazzi virar motivo para ataques integrados em sites que instalavam pragas para registrar informações do usuário.
+Os golpes mudam a cada dia, com nova dose de sofisticação e meios para atrair as vítimas. Mas a recomendação de especialistas é a mesma para todos os crimes desse tipo.
+Por maior que seja a curiosidade, a pessoa não deve clicar em links que prometem imagens chocantes, como fotos e vídeos, seja de acidentes, escândalos com artistas e políticos, nunca abra o e-mail. 
+É preciso deletá-lo imediatamente. Mesmo que a correspondência supostamente venha de alguma empresa ou amigo de confiança, a recomendação é não abrir. 
+Para evitar sérios prejuízos, é melhor entrar em contato com o remetente do e-mail. <br><br><hr>
+Data da Publicação: 09/10/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

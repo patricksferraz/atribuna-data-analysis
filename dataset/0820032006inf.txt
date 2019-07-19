@@ -1,0 +1,19 @@
+A ilusão da invulnerabilidade
+<b> “Firewall humano sempre vai
+ser uma brecha para os
+hackers”, afirma um dos invasores
+de redes mais famosos do mundo  </b><br>
+ <br>
+Ele consegue descobrir o número do seguro social do pai do presidente dos Estados Unidos, George Bush, e o nome de solteira da mãe de Leonardo DiCaprio em menos de 15 segundos, e foi alvo de uma caçada humana de três anos empreendida pelo FBI depois de invadir redes de computação das maiores empresas do mundo. 
+Kevin Mitnick, o “terrorista da computação”, é um dos mais famosos hackers do mundo, e se tornou notório depois de invadir redes e roubar software de empresas como a Sun Microsystems e a Motorola. Agora, o norte-americano Mitnick viaja pelo mundo ensinando empresas a se defenderem de pessoas como ele. 
+Mitnick argumenta que embora tecnologia sofisticada possa ajudar a manter as redes livres de vírus, isso pouco adianta caso hackers sejam capazes de enganar os funcionários das empresas e obter senhas de acesso, posando, por exemplo, como colegas de trabalho. 
+“Os hackers encontram uma brecha no firewall humano. Qual é a maior brecha? A ilusão de invulnerabilidade”, alertou Mitnick durante uma conferência sobre segurança na tecnologia da informação, realizada na última semana, em Joanesburgo, na África do Sul. 
+A “engenharia social”, nome que os hackers dão às suas técnicas para iludir pessoas, foi o foco de sua carreira, durante a qual penetrou em alguns dos sistemas mais sofisticados do mundo, muitas vezes convencendo funcionários desprevenidos a lhe fornecer informações altamente sigilosas. 
+Mitnick, que tem pouco mais de 40 anos agora, começou a invadir sistemas de telefonia na adolescência, antes de se especializar em computadores, mas diz que jamais roubou dinheiro ou causou danos deliberadamente, só para se divertir. 
+O hobby que exercia lhe valeu uma posição na lista dos criminosos mais procurados do FBI e uma sentença de prisão de quase cinco anos, na década de 1990.
+Quando libertado, ele inicialmente estava proibido de navegar na internet, e nos anos seguintes escreveu dois livros sobre seu trabalho como hacker, além de criar uma empresa de consultoria de segurança de computadores. 
+Agora, as empresas cujas redes invadia para roubar segredos pagam para que ele invada seus sistemas e lhes mostre como melhorar a segurança. Mitnick disse que os hackers conduzem pesquisa meticulosa sobre seus alvos, sondando funcionários e seguindo seus hobbies para conseguir ganhar confiança junto a eles. 
+E ele afirma que as empresas subestimam a capacidade dos hackers em obter informações pessoais, como números de seguro social e nomes de familiares, frequentemente usadas por bancos ou outras companhias para checar a identidade de clientes. 
+Para provar seu ponto na conferência, Mitnick descobriu o número de seguro de George Bush, além do número da carteira de motorista e o nome de solteira da mãe de Leonardo DiCaprio em 15 segundos. <br><br><hr>
+Data da Publicação: 20/03/2006 - Pagina: 08 <br>
+Editoria: Informática <br><br>

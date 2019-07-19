@@ -1,0 +1,34 @@
+Encontro de feras do ambiente Windows 
+<b> Encontro em Vila Velha
+terá conteúdo prático e
+interativo sobre diversos
+aplicativos da Microsoft </b><br>
+ <br>
+Os antenados em Tecnologia da Informação (TI) têm encontro marcado na próxima sexta e sábado, na Universidade de Vila Velha (UVV), onde acontece o “BIT 2006” – Congresso Baboo de Informática e Tecnologia. Considerado um dos maiores eventos ligados à Microsoft no País, o encontro vai reunir feras no assunto e terá conteúdo prático e interativo sobre produtos da plataforma Microsoft.
+Ao contrário de muitos eventos realizados no segmento, o BIT 2006 vai deixar de fora apresentações em PowerPoint. Durante o evento, todo o conteúdo será exposto através de servidores instalados no palco.
+Eles funcionarão como ferramentas para os palestrantes visualizarem os conteúdos em questão. Os palestrantes vão mostrar ao vivo como instalar e configurar diversos aplicativos da plataforma Microsoft, além de abordar as novidades na área de desenvolvimento.
+Consagrado como um sucesso de público, o evento foi idealizado por Aurélio “Baboo” Minerbo e Rodrigo Immaginário em 2005. Ambos fazem parte de um dos principais sites voltados para a tecnologia Microsoft, o www.baboo.com.br, que conta com quase um milhão de usuários pelo Brasil.
+A segunda edição do evento promete repetir o sucesso do ano anterior, quando cerca de 600 profissionais de TI (infra-estrutura) e 400 de DEV (desenvolvimento) participaram de palestras 100% práticas.
+A edição 2006 do BIT terá palestra de abertura, na próxima sexta-feira, dia 24, com quase cinco horas de duração sob o comando do MVP Wallace dos Santos, que falará sobre Visual Studio 2005 Team System. Esta palestra é voltada para os profissionais de DEV – Desenvolvimento.
+No sábado, dia 25, as palestras serão voltadas para profissionais de TI – Infra-estrutura. Os temas Windows Server 2003 R2 e IIS e Sharepoint serão abordados por Fabio Hara (TI), Rodrigo Immaginário (TI) falará sobre Exchange Server 2003; ISA Server 2004 e Dicas de Segurança.
+“Trend Micro EPS” é o tema que será desenvolvido por Niase Borjaille, que abordará assuntos como antivírus corporativo, antivírus no Exchange, anti-Spam, filtro de e-mail, anti-spyware e ferramentas de segurança da TrendMicro.
+Já Aurélio “Baboo” Minerbo 
+(www.baboo.com.br) vai fazer uma exposição sobre o Windows Vista. O palestrante falará sobre as novidades do novo sistema operacional da Microsoft.
+Durante o BIT 2006, os participantes poderão adquirir os DVDs de treinamento multimídia desenvolvidos pelos MVPs. Os interessados devem se escrever no site www.bit2006.com.br/ES. Estudantes que queiram participar pagam preços promocionais.
+
+Programação
+
+Sexta
+• MSF Agile e Visual Studio Team Foundation Implementando no meu ambiente, com Wallace dos Santos. Das 13 às 16 horas
+• Visual Studio Team System de A a Z, com Wallace dos Santos. Das 16h25 às 19 horas
+
+Sábado
+• Windows Server 2003 R2, com Fabio Hara. Das 9h30 às 10h45
+• Exchange Server 2003, com Rodrigo Immaginario. Das 11 às 12h15
+• IIS e Sharepoint, com Fabio Hara. Das 13h45 às 14h45
+• ISA Server 2004, com Rodrigo Immaginario. Das 15 às 16 horas
+• TrendMicro EPS, com Niase Borjaille. Das 16h15 às 17h15
+• Dicas de Segurança, com Rodrigo Immaginario e Fabio Hara. Das 17h30 às 18 horas
+• Windows Vista, com Aurélio “Baboo” Minerbo. Das 18 às 19 horas <br><br><hr>
+Data da Publicação: 20/03/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

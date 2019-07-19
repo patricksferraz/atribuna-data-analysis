@@ -1,0 +1,14 @@
+Seqüestro de arquivos é novo golpe
+<b>  </b><br>
+ <br>
+Usuários temerosos a respeito de vírus e roubo de identidade têm novas razões para se preocupar. Os crackers encontraram uma maneira de bloquear documentos eletrônicos no computador atacado e pedir dinheiro para devolver o acesso.
+Pesquisadores de segurança da Websense descobriram a “extorsão eletrônica” quando um cliente foi vítima de uma infecção que codificou arquivos incluindo documentos, fotografias e planilhas. Uma nota de resgate deixada incluía um endereço de e-mail e, mais tarde, os atacantes pediram US$ 200 para desbloquear os arquivos. 
+“É o mesmo que alguém entrar em sua casa, colocar seus valores num cofre e não contar a você qual é a combinação”, afirma o gerente de segurança na Symantec, Oliver Friedrichs.
+O FBI diz que este caso – isolado, por enquanto – não se parece com nenhuma outra extorsão praticada pela internet. Especialistas em segurança e empresas de antivírus estão atualizando seus programas de proteção para prevenir este tipo de ataque, batizado de “resgateware”. 
+“Isso parece ser totalmente maligno”, diz Joe Stewart, pesquisador da Lurhq, dos Estados Unidos. Ele estudou o programa atacante e desbloqueou os arquivos atacados sem pagar o “resgate”, mas teme que versões melhoradas sejam bem mais difíceis de lidar. 
+No caso em questão, a infecção se deu a partir da visita com um navegador desprotegido a um site comprometido. A infecção bloqueia pelo menos 15 tipos de arquivos de dados e deixa uma nota com instruções para enviar um e-mail a determinado endereço e comprar a chave para desbloquear.
+Os especialistas dizem que não há registro de que este tipo de ataque esteja se disseminando. O site que originou a infecção já foi tirado do ar.
+Eles também asseguram que a exigência de pagamento por parte do cracker pode se constituir numa fraqueza, já que transações bancárias são facilmente rastreáveis.
+“O problema é mandar dinheiro para algum lugar: se o golpe envolver algum tipo de transação monetária, será muito mais fácil rastrear a conta do que um endereço de e-mail”, diz Stewart. <br><br><hr>
+Data da Publicação: 30/05/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

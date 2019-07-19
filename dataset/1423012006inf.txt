@@ -1,0 +1,37 @@
+Fraudes on-line crescem 579%
+<b> Tentativas de fraudes bancárias
+e financeiras, que em 2004 não
+passavam de 5% do total de
+incidentes, chegaram a 40% em 2005 </b><br>
+ <br>
+O Cert.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) divulgou um relatório em que aponta crescimento de 579% nas fraudes on-line em 2005. As tentativas de fraudes bancárias e financeiras, que em 2004 não passavam de 5% do total de incidentes on-line, chegaram a 40% em 2005.
+“É importante ressaltar que nem todas as notificações de fraudes, como as de phishing scam, se referem a incidentes que ocorreram. Muitas vezes, são reportadas apenas tentativas”, explica o analista do CERT.br, Klaus Steding-Jessen. 
+De qualquer forma, o crescimento percentual coloca as fraudes em primeiro lugar entre os tipos de ataques mais freqüentes em 2005, deixando scans – varreduras no computador visando invasões – em segundo lugar, com 33%, e worms em terceiro, com 25%. 
+Apesar do crescimento das fraudes no relatório consolidado do ano, o Cert.br identificou uma diminuição no seu ritmo nos últimos meses do ano passado. 
+De outubro a dezembro de 2005, o número de ataques relacionados com fraudes bancárias e financeiras cresceu apenas 7%, em relação ao trimestre anterior.
+Em contrapartida, chamou a atenção o aumento das notificações de scans, que vinham apresentando uma tendência de queda desde o início do ano. 
+Foram 7.889 notificações, que representam um crescimento de 93% em relação ao trimestre anterior. 
+Mesmo com o grande aumento identificado nas tentativas de fraude on-line, 2005 apresentou uma queda de 10% nos incidentes, chegando a 68 mil casos reportados. 
+Segundo o órgão, a queda se deve principalmente à diminuição no número de notificações de casos de worms, que, em 2005, diminuiu 59%, somando apenas 
+17.332. 
+O levantamento do Cert.br, que é mantido pelo Comitê Gestor da internet, é feito a partir de problemas reportados espontaneamente por administradores de rede e usuários. 
+
+Hackers em busca do lucro
+Se antes os criadores dos vírus e outras ameaças da internet  buscavam a fama pessoal, agora tem como objetivo ganhar dinheiro. A Panda Software alerta que, em 2006, as armadilhas que buscam o lucro econômico serão as mais prolíficas e merecerão atenção especial por parte dos usuários. 
+No ano passado, as empresas de segurança da informação observaram uma mudança tática em favor de ataques mais específicos. Ao invés de tentar infectar todo mundo, vários criadores de vírus produzem variantes que atacam pequenos grupos de usuários de computador. 
+Às vezes, os grupos são de clientes de determinadas companhias – freqüentemente bancos – ou funcionários de uma única organização. Grupos menores são alvo porque vários dos emissários de vírus são criminosos que desejam obter lucros com os computadores que atacam. 
+Entre as principais ameaças, a Panda destaca os trojans backdoor (que abrem a porta do computador para invasões), os trojans keylogger (que espionam o que é digitado), os trojans e vermes “bot” (que abrem o PC para controle externo), os spyware (programas espiões), os phishing (fraude) e os pharming (fraude).
+Provavelmente não serão exemplares típicos, mas mostrarão níveis de sofisticação e complexidade maiores que os atuais, alerta a empresa. 
+Isso pode ser especialmente relevante no caso do phishing que, segundo a Panda, em vez de ser realizado através de mensagens de correio eletrônico exclusivamente, fará uso de outros códigos nocivos. 
+
+Investindo em segurança
+Por que as empresas devem investir em segurança da informação? Os empresários que se cuidem, pois diante de tantas ameaças de hackers que invadem redes de grandes corporações ou contas bancárias, a única solução é investir num sistema que garanta a confidencialidade das informações.
+De acordo com o consultor em segurança da informação da ISH Tecnologia, Ricardo Carraretto, para garantir a confidencialidade deve-se trabalhar em duas vertentes: controle de acesso e criptografia. 
+A primeira garante que apenas as pessoas autorizadas possam ter acesso as suas informações e a outra permite o armazenamento ou transferência da informação de forma codificada, visto que somente as partes envolvidas possam efetivamente entendê-la. 
+“Toda informação que sai do servidor de um banco, por exemplo, até chegar na sua máquina, na sua casa ou no seu escritório, trafega pela internet, que é uma rede pública. Se não fossem tomadas as medidas citadas, essas informações estariam vulneráveis e poderiam ser capturadas por alguém e usadas de forma imprópria”, conta Ricardo.
+O consultor da ISH destaca ainda que a confidencialidade da comunicação é estabelecida por um protocolo de criptografia que trabalha com base em certificação digital. 
+“Muitas empresas estampam o selo de segurança dizendo: ‘Site Seguro’, mas este selo garante apenas que a comunicação entre o servidor e a máquina do usuário é protegida por criptografia. Outros mecanismos de segurança devem ser implementados para que o servidor possa ser considerado realmente seguro”, alerta.
+No caso de acesso aos bancos, a autenticação pode ser feita de várias formas. “Alguns empregam a combinação usuário/senha e outros, mais rigorosos, instalam um certificado digital na máquina do usuário”, comenta. 
+Estes elementos permitem a identificação do correntista perante o servidor do banco. Ainda assim, a segurança na máquina do usuário não deve ficar desguarnecida. É importante ter sempre um bom programa antivírus, preferencialmente com um firewall pessoal embutido. <br><br><hr>
+Data da Publicação: 23/01/2006 - Pagina: 14 <br>
+Editoria: Informática <br><br>

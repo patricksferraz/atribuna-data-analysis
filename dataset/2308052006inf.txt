@@ -1,0 +1,26 @@
+Dinossauros do mal
+<b> Ameaças digitais mais
+freqüentes dos últimos doze
+meses são velhos conhecidos
+dos especialistas em segurança </b><br>
+ <br>
+Em um mercado onde poucos meses representam uma eternidade, os vírus mais perigosos do mês de março foram criados há mais de doze meses. Entre as listas de ameaças digitais mais freqüentes no último ano é comum notar a presença de nomes como Netsky, MyDoom, MyTob ou LovGate.
+Mesmo com os dois anos completados em março – o que pode ser considerado como um dinossauro quando o assunto é tecnologia –, o Netsky ocupa três das dez posições da lista da Kaspersky, além de ser segundo no ranking da Panda e ser coroado como ameaça mais atuante de março pela Sophos.
+Um ano mais novo – mas, mesmo assim bem velhinho para assuntos tech –, o MyTob mostra a mesma amplitude. Segunda na lista da McAfee, a praga cravou nada menos que cinco e quatro posições nos rankings, respectivamente, da Sophos e da Kaspersky, na qual, aliás, foi coroada como a mais atuante.
+Com a mesma idade do MyTob, o MyDoom também aparece nas listas da Sophos (quarta posição) e McAfee (sexta posição). Já o LovGate, também com dois anos, figura em dois postos (o terceiro e o quinto) na listagem da Kaspersky.
+Saturação do mercado para hackers ou comportamento indevido dos usuários? Entre os principais motivos cogitados para a longa permanência dos códigos entre as principais ameaças on-line destaca-se outro fator: a mudança de perfil dos ataques.
+Se antes, o grande atrativo era aparecer, o que motivava hackers a criar vírus que estragassem máquinas e provocassem danos nas casas dos milhões de dólares para empresas, a preocupação atual é agir da maneira menos chamativa o possível.
+Em vez do estardalhaço provocado por pragas como o LoveLetter ou o Melissa, spywares e cavalos-de-tróia hoje se incubem de abastecer o hacker com senhas e dados confidenciais para lesar financeiramente usuários específicos.
+“Programadores de vírus atualmente procuram alvos discretos para roubar informações”, afirma o gerente de contas técnicas da Trend Micro, Gustavo Montediosca, que vê na mudança uma tendência dos hackers em se esconder.
+A situação é ilustrada por uma comparação irônica comum no mercado de segurança. Se antes os hackers eram adolescentes que se divertiam com vírus, hoje eles cresceram e precisam alimentar os filhos.
+As listas referentes aos meses de fevereiro e abril ilustram esta mudança. “A idade das pragas presentes nas listagens representa muito bem quando o perfil mudou”, analisa o especialista em segurança da Symantec, Lúcio Costa de Almeida.
+Ainda que não seja  considerada uma atitude em extinção, a produção de vírus do tipo “arrasa-quarteirão” minguou completamente desde que houve a mudança no foco das ações e atrai cada vez menos atenções por parte dos hackers. “O Netsky se mantém lá em cima graças à migração para os spywares”, ressalta Montediosca.
+Além da falta de retorno financeiro, a criação de vírus de amplo alcance que causam grandes estragos foi desencorajada após os primeiros criadores de códigos do tipo serem condenados pela Justiça.
+Responsável pelo Blaster.B, o norte-americano Jeffrey Lee Parson foi condenado a 18 meses de prisão após sua praga causar prejuízos estimados em 1,2 milhão de dólares. O responsável pelo Sasser, Sven Jaschan, seguiu o mesmo caminho e foi forçado a cumprir 21 meses de detenção na Suécia.
+As prisões e a necessidade financeira não significam que passou o tempo em que simples pragas provocam comoções e estragos milionários. “Vai que aparece uma vulnerabilidade. Muitos hackers voltarão suas atenções para ela. Trabalhamos com o imprevisível “, explica o especialista da Trend Micro.
+Ainda que acredite na mudança de perfil, o especialista da Symantec não acha a presença de vírus mais antigos em listas recentes algo “irreal”. Como um vírus pode ser desmembrado para ganhar novas funções, não chega a ser, teoricamente, surpreendente que muitos usuários continuam sem proteção.
+“Estamos falando da família de um vírus. Novas versões podem agregar funções diferentes, que vão explorando novas versões do sistema operacional”, afirma Lúcio Costa, lembrando que o Netsky foi uma das primeiras pragas a completar o alfabeto presente em seu nome, de tantas versões que teve.
+“ Não dá pra negar que existem problemas de comportamento do usuário. O problema é maior entre os usuários domésticos. O Netsky afeta as versões 5.0 e 5.5 do Internet Explorer e já temos o IE 6. Um simples patch pode acabar com este vírus”, alega o técnico da Trend Micro.
+É bom que os usuários se preparem, já que, se as correções não são bem aplicadas nem quando o vírus é barulhento, pode-se imaginar que os hackers poderão pagar suas contas sem grandes dificuldades. <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 23 <br>
+Editoria: Informática <br><br>

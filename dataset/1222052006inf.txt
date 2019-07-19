@@ -1,0 +1,47 @@
+Crianças e adolescentes
+<b> Conheça as principais 
+ferramentas para barrar o 
+acesso de crianças
+a sites indevidos </b><br>
+ <br>
+Prática criminosa que desafia as autoridades, a pedofilia encontrou na internet um campo fértil para se proliferar. Dotados de ousadia, pedófilos utilizam sites e até redes de relacionamento, como o Orkut, por exemplo, para publicar fotos estarrecedoras de crianças com comentários típicos de mentes doentias.
+Diante de publicações chocantes que mascaram verdadeiros criminosos, a colaboração de todos é fundamental. Existem formas rápidas, anônimas e seguras de denunciar a pedofilia no mundo virtual.
+No Orkut, onde tem aparecido uma diversidade de profiles e comunidades de pedófilos com fotos de crianças, o usuário pode denunciar na própria rede. Vale lembrar que o Orkut apenas deleta o perfil ou a comunidade, deixando o criminoso livre. 
+Portanto, as denúncias devem ser feitas, primeiramente, para as organizações empenhadas em combater a pedofilia, como as polícias Federal e Civil, Ministério Público, Núcleo de Repressão a Crimes Eletrônicos e muitos outros.
+As tecnologias de Segurança da Informação também fazem sua parte. A ITNet, empresa que atua nesse segmento no Espírito Santo, recomenda a Symantec, que possui programas para bloqueio de sites e profissionais treinados para realizar esse trabalho de maneira eficaz. 
+“Uma das principais ferramentas para barrar o acesso de crianças a sites indevidos é o Norton Internet Security 2006, mas essa proteção pode ser ampliada para as escolas com o uso do Symantec WebSecurity. Essas ferramentas têm por função bloquear vírus e barrar sites indevidos”, explica o consultor em Tecnologia da ITNet, Mário Conrado Nunes Neto.
+As leis do Estatuto da Criança e do Adolescente podem ser lidas no endereço www.planalto.gov.br/ccivil_03/Leis/L8069.htm.
+
+
+Denuncie
+• Polícia Federal
+ddh.cqdi@dpf.gov.br 
+• Ministério Público
+dcs@dpf.gov.br 
+• Ministério Público Federal
+www.pgr.mpf.gov.br 
+• Ministério Público do Estado do Espírito Santo
+www.mpes.gov.br/ 
+• Polícia Federal para denúncias de crimes na internet
+crime.internet@dpf.gov.br 
+• Polícia Civil do Estado do
+Espírito Santo
+www.pc.es.gov.br. 
+• Polícia Civil (Núcleo de 
+Repressão Contra Crimes 
+Eletrônicos – Nureccel)
+www.pc.es.gov.br/nureccel.asp 
+
+
+Vírus apaga músicas e  vídeos no PC
+Uma nova praga virtual que está circulando em redes P2P tem a “missão” de deletar conteúdos multimídia obtido ilegalmente em serviços de compartilhamento. O alerta é da Consultoria Sophos. Portanto, cuidado com as músicas e vídeos armazenados no computador.
+Na tentativa de solucionar o problema do compartilhamento ilegal de conteúdo protegido por direitos autorais, o cavalo-de-tróia Troj/Erazer- circula por redes P2P usando nomes falsos, como “nero7.exe” e “officexpcrack.exe”.
+Se algum usuário baixar o documento, a praga rastreia o micro indexando conteúdo obtido ilegalmente. Assim, os que tiverem os formatos “AVI”, “MP3”, “MPEG”, “WMV”, “GIF” e “ZIP” serão apagados. 
+Outro agravante é que a praga não faz distinções entre arquivos ilegais ou comprados pelos internautas, o que pode comprometer toda a biblioteca multimídia do dono da máquina. 
+Para se proteger do problema, o consultor em Tecnologia da ITNet, empresa que atua no ramo de Segurança da Informação, Ricardo Biccas, orienta o usuário a evitar o uso de programas P2P que, normalmente, proliferam vírus pela internet.
+“Caso o uso desses programas seja indispensável, o ideal seria utilizar um firewall pessoal e um antivírus atualizado que tenha a opção Tamper Protection, que previne vírus de desativarem a proteção em tempo real do antivírus. O Symantec antivírus versão 10 (sav10) possui essa opção”, concluiu o especialista.
+
+
+ <br><br><hr>
+Data da Publicação: 22/05/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

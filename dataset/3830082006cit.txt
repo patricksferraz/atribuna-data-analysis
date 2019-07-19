@@ -1,0 +1,16 @@
+Video game para pesquisar doenças
+<b> Cientistas vão usar o 
+PlayStation 3 para 
+monitorar pacientes com 
+câncer e mal de Alzheimer </b><br>
+ <br>
+Cientistas americanos vão utilizar video games de última geração para pesquisar doenças como o mal de Alzheimer e até alguns tipos de câncer. No caso, eles irão construir uma rede com consoles do PlayStation 3, a próxima versão do video game da Sony. 
+O equipamento será usado em conjunto com uma aplicação de computação distribuída (chamada de computação de grade ou grid computing) denominada Folding@Home e que rodará nos consoles nas casas dos voluntários do experimento. 
+Os jogadores irão baixar uma pequena aplicação para o PS3, que usará seu poder de processamento para rodar a aplicação quando o video game não estiver em uso. 
+A aplicação usa o mesmo princípio adotado em soluções de grid para computadores pessoais: um grande problema – como simulações médicas – é quebrado em pequenos pedaços, que são enviados para os consoles. 
+Depois de processados, os resultados são enviados de volta a um computador central onde podem ser visualizados pelos pesquisadores. 
+Dessa forma, centros médicos podem baratear drasticamente os custos de pesquisas com a doação voluntária de capacidade de processamento dos video games. 
+Segundo um comunicado da organização responsável pela solução Folding@Home, uma rede de 10 mil consoles do PS3 teria poder de processamento quatro vezes superior ao BlueGene/L, da IBM, o supercomputador mais rápido da atualidade. 
+Uma versão da aplicação para o video game da Sony deve estar disponível junto com o lançamento do video game, previsto para o final do ano. <br><br><hr>
+Data da Publicação: 30/08/2006 - Pagina: 38 <br>
+Editoria: Ciência e Tecnologia <br><br>

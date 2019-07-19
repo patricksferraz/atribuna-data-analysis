@@ -1,0 +1,27 @@
+Todo cuidado é pouco
+<b> Navegar pela web hoje sem o mínimo de cuidado
+é o mesmo que dançar em um campo minado </b><br>
+ <br>
+A explosão dos ataques on-line está longe de esfriar e parece haver cada vez menor lugar para correr. De acordo com a consultoria Sophos, o ano passado teve um aumento de 48% na atividade dos chamados malwares, que englobam toda gama de praga virtual.
+Foram mais de 114 mil diferentes códigos maliciosos em circulação prontos para apagar seu disco rígido, roubar senhas de banco ou fuçar em suas informações pessoais a partir de e-mails infectados ou sites preparados por hackers. 
+Destaques no grupo, os cavalos-de-tróia e bots sofreram aumento de 42% e 26%, respectivamente, nos registros da empresa Panda Software.
+Se você imagina estar resguardado por seu sistema operacional, procure proteções extras. Apenas em 2005, foram encontradas 5.198 diferentes vulnerabilidades em sistemas operacionais, como Windows, Mac OS X e Unix/Linux, nem todas devidamente corrigidas, segundo o Computer Emergency Readiness Team (Cert), dos Estados Unidos.
+O ano de 2005 também demonstrou o porquê de tamanho furor acerca dos phishings: o número de sites que hospedam a praga pulou de 1.707 no final de 2004 para 7.197 no mesmo período do ano passado, registrando um crescimento de 321%.
+Engana-se também quem imagina que o problema é só lá fora. Em terras brasileiras, as notificações de fraudes on-line cresceram quase 600% em 2005, segundo dados do Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil (Cert.br), atingindo 27 mil incidentes.
+Mesmo softwares e equipamentos sem nenhuma relação com vírus começaram a se apresentar como potenciais canais de riscos. O número de pragas para celulares, segundo a F-Secure, já somava 87, em setembro de 2004.
+Os consoles portáteis Nintendo DS e Playstation Portable ganharam, em 2005, seus primeiros vírus – caso sejam infectados, ambos se tornam inúteis.
+No começo de dezembro, foi a vez dos comunicadores instantâneos terem pragas mais elaboradas. O M.Myspace04.AIM até conversava com a vítima, esclarecendo que o arquivo transferido não era um vírus.
+Com tantas pragas, hackers, ataques e ações maliciosas on-line atualmente, navegar pela web hoje sem o mínimo de cuidado é o mesmo que dançar em um campo minado.
+
+Máximas da segurança
+
+Patronos das ameaças virtuais, os vírus foram os primeiros responsáveis por começar o pânico na internet. A infecção, na maioria das vezes, acontece por um e-mail com um arquivo malicioso que chega inocentemente à caixa postal do usuário.
+Mesmo tendo diminuído com o tempo, a infecção por e-mails ainda pode provocar preocupações. Para se defender, o usuário conta com dois cuidados principais: ter um software de segurança sempre atualizado e evitar abrir anexos de mensagens não confiáveis. 
+“Existe um trio de softwares de segurança que todo usuário precisa ter. Um firewall, um antivírus sempre atualizado e um anti-spam, caso ele seja um heavy user do e-mail. Ainda assim, é preciso ter desconfiança e cuidado”, adverte o gerente de engenharia da McAfee, José Antunes.
+De acordo com o especialista em segurança da Symantec, Lúcio Costa de Almeida, todas as velhas máximas sobre segurança continuam valendo. “É até meio clichê, mas tem que desconfiar de e-mails de pessoas desconhecidas e ter cuidado ao visitar sites pouco famosos”.
+Como estão em atividade há 20 anos, os vírus apresentam um sistema de infecção por e-mail bastante conhecidos das suítes de segurança, que rastreiam as mensagens antes que cheguem à caixa de entrada do usuário. 
+“No começo, havia altos índices de infecção pelo fato do hacker mandar o vírus no nome do usuário” diz. “Hoje, os ataques miram às massas. Se 5% dos vírus enviados infectarem, então o ataque obteve sucesso”, comenta Lúcio
+Não são apenas os e-mails que oferecerem perigos aos usuários de computadores. As redes P2P de trocas de arquivos e as páginas web também podem esconder códigos maliciosos. 
+“Quem baixa música em programas de compartilhamento deve estar bem mais atento. É fácil baixar uma canção com um vírus integrado, sem que se desconfie”, diz Almeida, citando a técnica conhecida como “morphin”, em que o hacker acopla um código malicioso que infecta o PC em um arquivo MP3. <br><br><hr>
+Data da Publicação: 06/03/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

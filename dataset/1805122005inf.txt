@@ -1,0 +1,18 @@
+Evolução do telefone
+<b> Novo sistema revoluciona as
+propriedades do PABX, integrando
+recursos como e-mail e VoIP,
+além de operar com Windows e Linux  </b><br>
+ <br>
+Foi anunciado o lançamento do PABX CommunigatePro, que 
+gerencia voz, correio e mensagens instantâneas. O equipamento, lançado pela GetNet, veio para complementar o velho PABX. 
+Bastante premiado no mercado internacional, o CommunigatePro foi considerado a ferramenta de comunicação corporativa mais avançada da atualidade.
+O lançamento da Communigate Systems, um servidor de mensagens de voz, textos, vídeo e e-mail, já está sendo disponibilizado com exclusividade no mercado brasileiro. O sistema que opera nas principais plataformas, como Windows, Linux, HP UX, AIX, Solaris entre outros, é capaz de reduzir os custos com telecomunicação em até 80%.
+“O CommunigatePro tem licenças muito competitivas para pequenas empresas com pacotes de 25, 50, 100 usuários, e versões mais parrudas para corporações com até cinco milhões de usuários, como grandes provedores de acesso e empresas de telecomunicaões”, informa o diretor da GetNet, Lucio Baldacci.
+O sistema tem um custo inicial de aproximadamente US$ 45 por licença na configuração de 25 usuários.  Segundo o executivo, o CommunigatePro estabelece canais de comunicação entre ramais, telefones externos e celulares.
+O sistema é capaz de rotear uma ligação que chega até a empresa por linha convencional de telefone, alcançando o destinatário independente de sua localização física ou do equipamento – ramal, notebook, celular ou um desktop – que esteja utilizando naquele momento. 
+A integração do CommunigatePro permite ao usuário que mensagens de voz sejam recebidas no e-mail e que os compromissos agendados por este usuário possam ser alertados por voz via o seu telefone celular. É possível também participar de reuniões virtuais integrando os diferentes meios de comunicação.
+De acordo com o diretor da empresa, o equipamento está sendo vendido exclusivamente pelo canal. A rede de parceiros da GetNet inclui postos em Brasília, São Paulo, Porto Alegre, Florianópolis, Rio de Janeiro, Belo Horizonte, Recife e Salvador. “
+As novas aplicações de VoIP no Communigate Pro v.5.0 incluem: Servidor de Teleconferência, URA, Fila de Chamadas, Distribuição automática de chamadas, voicemail com auto-atendimento. A solução de infra-estrutura VoIP compreende um sistema completo de SIP baseado em voz sobre IP, integração com sistemas de tarifação e cobrança através de CDRs. As funcionalidades avançadas da solução incluem um SIP Proxy e um session border controller que é capaz de manter conectados todos usuários independentes da sua localização mesmo para sessões de comunicação estabelecidas entre redes separadas por firewalls ou NATs. <br><br><hr>
+Data da Publicação: 05/12/2005 - Pagina: 18 <br>
+Editoria: Informática <br><br>

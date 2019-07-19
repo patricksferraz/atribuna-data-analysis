@@ -1,0 +1,78 @@
+Bloqueio prejudica moradores
+<b> Sinal cortado para impedir presos de falar ao celular vai
+afetar milhares de celulares de moradores vizinhos </b><br>
+Aline Nunes, Eliane Proscholdt <br>
+A solução encontrada pelo governo do Estado para impedir que presos se comuniquem por meio de celular será problema para milhares de moradores e comerciantes de bairros na região dos presídios. Afinal, segundo especialistas, o bloqueio do sinal de telefonia na área das cadeias vai atingir também os cidadãos.
+O professor Luiz Gonzaga de Oliveira, do curso de Engenharia Elétrica da Universidade Federal do Espírito Santo (Ufes), disse que os vizinhos das penitenciárias vão ter dificuldades para se comunicar por celular. 
+“É difícil falar sobre uma área certa de abrangência mas, com certeza, o vizinho imediato vai ter sinal ruim. Se o presídio for num bairro populoso, os moradores serão prejudicados”, comentou Luiz Gonzaga, que já foi presidente da Telecomunicações Espírito Santo (Telest).
+Na avaliação do professor de Princípios de Comunicações da Ufes, Rogerio Muniz Carvalho, o problema pode ir muito além das pessoas que moram ou trabalham nos arredores dos presídios. Isso porque, para bloquear o sinal nas penitenciárias seria preciso desativar várias Estações Rádio Base (ERBs).
+As ERBs são equipamentos que fazem a conexão entre os celulares e a Central de Comutação e Controle (CCC), transmitindo as informações e permitindo a comunicação através do telefone. Se uma estação é desligada, outra assume a função. 
+E é nesse aspecto que especialistas acreditam que mais pessoas, além da área de cobertura das ERBs dos presídios, também possam ser prejudicadas.
+“Uma vez que se desliga uma estação, o tráfego vai acumular em outra. Então, serão mais pessoas tentando fazer chamadas numa mesma ERB, aumentando a probabilidade de bloqueio”, explicou Gláucio Lima Siqueira, PhD em Comunicação Celular pela Universidade de Londres, acrescentando que o problema pode atingir um raio de até dois quilômetros da estação que emite sinal para as penitenciárias.
+Para o coordenador da área da Telecomunicações do curso de Engenharia Elétrica da Ufes, Marcelo Segatto,  também deve-se colocar bloqueadores de celular dentro do presídio e fazer monitoramentos constantes.
+
+Os presídios
+
+Grande Vitória
+
+Cariacica
+• Hospital de Custódia de Tratamento Psiquiátrico ( HCTP) “Doutor Antônio Batalha de Barcelos” 
+• Penitenciária Estadual Feminina (PEF)
+
+Viana
+• Casa de Custódia de Viana (Cascuvi) 
+• Penitenciária Agrícola do Espírito Santo (PAES) “Desembargador Mário da Silva Nunes”
+• Penitenciária de Segurança Máxima (PSMA)
+• Penitenciária de Segurança Média (PSME) “Coronel Jader Peixoto Rubim”
+• Penitenciária de Segurança Média II (PSME II)
+
+Vila Velha
+• Casa de Custódia Vila Velha (Cascuvv)  
+• Casa de Passagem de V.Velha (CAP)
+
+Região Norte
+
+Linhares
+• Penitenciária Regional de Linhares (PRL) “Desembargador José Mathias de Almeida Neto” 
+
+Região Noroeste
+Barra de São Francisco
+• Penitenciária Regional de Barra de São Francisco
+
+Colatina
+• Penitenciária Regional de Colatina (PRCOL)
+• Penitenciária de Segurança Média de Colatina (PSME-COL)
+
+Região Sul
+Cachoeiro de Itapemirim
+
+• Penitenciária Regional de Cachoeiro de Itapemirim (PRCI) “Carlos Fernando Monteiro Lindenberg”
+Fonte: Secretaria de Estado da Justiça (Sejus)
+
+Apreensão de 300 celulares
+
+Mais de 300 aparelhos de celulares foram apreendidos nos presídios do Estado durante revistas nas visitas e nas celas neste ano. A informação é do diretor de Estabelecimentos Penais, Anderson Perciano Faneli.
+Na avaliação do secretário de Estado da Segurança Pública, Evaldo Martinelli, deveria haver uma lei que caracterizasse como crime o uso dos celulares dentro dos presídios.
+ “Hoje os criminosos estão se organizando dentro da cadeia para cometer crimes. Então a punição para uso de celular na cadeia iria servir para inibir o uso dessas tecnologias para enfrentar e afrontar a sociedade. Não existe uma lei, e o pior, não podemos nem cortar o benefício dos presos que são pegos com aparelho”, disse Martinelli.
+Já o secretário de Estado da Justiça, Ângelo Roncalli, disse que os celulares entram com a colaboração dos familiares, às vezes forçado pelo detento, com a ajuda dos maus policiais ou agentes penitenciários e advogados.
+Já houve apreensão de celulares na genitália de mulheres dos presos, dentro de fraldas descartáveis e nos malotes (mercadorias e alimentos entregues por familiares aos presos).
+Para o secretário da Justiça, uma visita deveria ser punida, com penas alternativas, quando fosse flagrada com celular. “Hoje ela recebe uma suspensão temporária ou definitiva”, disse.
+Para impedir a entrada de celulares e armas, já foram instalados equipamento de raio X na Penitenciária de Segurança Máxima (PSMA), em Viana, no último dia 12. O mesmo ocorreu na Casa de Custódia de Viana. O próximo presídio que vai ser contemplado é a Penitenciária Regional de Linhares.
+
+O que eles dizem
+
+O bloqueador de celulares significa, de certa forma, o fracasso do governo, que não está conseguindo impedir a entrada de aparelhos nas cadeias?
+
+Secretário de Estado da Segurança Pública, Evaldo Martinelli
+ “O modelo de construção dos presídios é de mais de uma década, quando não existia esse tipo de tecnologia e não tinha esse tipo de preocupação. 
+Os modelos foram feitos sem que se soubesse das novas tecnologias que teriam acesso barato.
+Entram crianças, esposas, familiares, todos dentro da cela. É um quantitativo enorme de pessoas. Então a fiscalização se torna quase impossível. Na verdade, você tem que mudar o modelo. Só o preso entra na cela. 
+Estamos criando essa nova cadeia modular na Serra. Não há acesso de familiares e nem de advogados à cela. Também nessa nova cadeia nós estamos implantando uma forma de gerenciamento que não permite o contato físico do preso com os funcionários que trabalham na unidade.”
+
+Secretário de Estado da Justiça, Ângelo Roncalli
+“Toda atividade que tem pessoas pode ocorrer falhas. Então o presídio não é diferente. Eu não considero isso como uma falha. Acho que isso é mais um instrumento para que se possa ter o controle das prisões.
+Tanto é que já anunciei que existem agentes penitenciários investigados. Todas as profissões tem bons e maus funcionários, então aqui na Secretaria da Justiça já adotamos que qualquer denúncia deve ser investigada com rigor. 
+Se for comprovada irregularidade, ele pode sofrer uma sanção administrativa ou até a perda do emprego, se for muito grave. Na minha gestão houve casos de advertência, mas não saberia enumerar agora.
+Quando o funcionário deixa entrar um celular ou colabora com a entrada, ou vende fuga, ou o que seja, apuramos. Quando provado, a punição tem que ocorrer”. <br><br><hr>
+Data da Publicação: 20/05/2006 - Pagina: 02 <br>
+Editoria: Especial <br><br>

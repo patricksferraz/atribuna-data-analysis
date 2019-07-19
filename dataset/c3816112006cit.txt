@@ -1,0 +1,11 @@
+Computador permite digitar com o olhar 
+<b>  </b><br>
+ <br>
+Escrever no computador sem usar as mãos nem a voz, mas apenas com a força do olhar, é uma possibilidade a partir de agora no Japão, onde um professor universitário criou um sistema que permite digitar apenas olhando para as letras no monitor.
+O estudioso por trás do protótipo inovador é Kohei Arai, professor de Ciências da Computação na Universidade de Saga. Segundo ele, a invenção poderia ter importantes aplicações no setor médico e hospitalar, principalmente para pessoas que sofreram acidentes com as mãos ou doentes que não podem se levantar.
+O sistema funciona com um computador, uma câmera de vídeo especial e um software de apoio. A máquina é capaz de reconhecer o centro do rosto a partir de gradações de luz e sombra sobre a pele, identificando assim seis pontos chave em volta dos olhos do usuário.
+A partir dessas referências, o computador consegue determinar a posição do rosto e os deslocamentos do campo de visão, tornando possível a escolha de caracteres num teclado exibido na tela. 
+As condições para o funcionamento correto do sistema são manter uma distância de 30 centímetros da tela e uma distância de 2,5 centímetros entre uma tecla e outra no teclado virtual.
+“Projetos parecidos já haviam sido apresentados no passado, mas precisavam de uma máscara especial. Esse novo sistema, menos invasivo e utilizável por todos, serve principalmente para deficientes ou pacientes internados em hospitais”, explica Arai. <br><br><hr>
+Data da Publicação: 16/11/2006 - Pagina: 38 <br>
+Editoria: Ciência e Tecnologia <br><br>

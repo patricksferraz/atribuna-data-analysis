@@ -1,0 +1,176 @@
+Teste seus conhecimentos
+<b>  </b><br>
+ <br>
+1. (Marcelo Peres - 2006) As forças liberadas na desintegração das torres gêmeas, como decorrência do ataque terrorista do dia 11 de setembro de 2001 ao World Trade Center, foram tão grandes que muitos dos que ficaram presos nos prédios foram simplesmente pulverizados no colapso. Os mais de 1,5 milhão de toneladas de entulho produzidos pela queda do World Trade Center se mostraram ser um problema incrível de limpeza. Por volta de 100 toneladas de amianto usados na construção das torres ainda não foram totalmente removidos. Os ataques liberaram densas nuvens de poeira contendo cimento pulverizado, fibra de vidro, amianto e outros poluidores.
+Na medida em que nenhum tipo de poluição é ecologicamente insignificante, analise a situação de uma nuvem de poeira, que deposita partículas pulverizadas sobre a superfície ao redor da primeira torre a desmoronar, em forma de um círculo de raio r (em m) e área A (em m²).
+Considerando que a área é uma função do raio e  que o raio r aumenta em função do tempo t (em s), de acordo com a relação r(t) = 5 + 5t, qual é a área (em m²) da nuvem de poeira no instante t = 2 s? Considere o valor de p = 3,14.
+a) 47,10         b) 706,50         c) 70,65
+d) 57,10         e) 38,10
+2. (Higor - 2006) “As perspectivas de desenvolvimento econômico e progresso científico pareciam infinitas no princípio do século. As estradas de ferro se espalhavam por todo o mundo (...). O cientista italiano Guglielmo Marconi preparava-se para transmitir, pela primeira vez, sinais de rádio através do Oceano Atlântico. O automóvel, o telefone e o cinema se popularizavam, mudando a face das cidades”.
+BRENER, J., “Jornal do século XX”, São Paulo, Moderna, 1998, p. 24.
+O texto refere-se a um contexto de inovações tecnológicas propiciadas:
+a) Pela Segunda Revolução Industrial, marcada pelo surgimento das primeiras fábricas, da utilização das máquinas a vapor e de matérias-primas como carvão e ferro.
+b) Pela Revolução Agrária Européia, marcada pela mecanização da produção agrícola e pela estruturação fundiária em pequenas e médias propriedades.
+c) Pelo período entre-guerras, marcado pela expansão da economia industrial e pela disseminação do liberalismo como referência econômica entre as potências européias.
+d) Pela Primeira Revolução Industrial, marcada pelo desenvolvimento industrial norte-americano e pela proliferação da produção de eletrodomésticos.
+e) Pela Segunda Revolução Industrial, marcada pela aplicação de descobertas científicas à produção, pela utilização da energia elétrica e o desenvolvimento de indústrias químicas.
+3. (Marcelo Peres - 2006) World Trade Center (WTC): o complexo de sete torres ocupava 64.750 metros quadrados. Os dois prédios principais tinham 110 andares cada um. A altura do WTC-1 era de 417 metros e a do WTC-2, dois metros menos. As outras torres variavam entre 8 e 47 andares. O conjunto abrigava escritórios de 400 empresas de 25 países e 50.000 pessoas trabalhavam nas torres norte e sul. Havia seis subsolos, com um centro comercial, estacionamento para 2.000 carros, acesso para duas estações de metrô e uma de trem. O conjunto consumia 7,5 milhões de litros de água potável por dia. 
+Imagine que ao projetar o complexo World Trade Center, os engenheiros planejaram armazenar a quantidade de litros de água citada acima em um conjunto de 10 caixas d’água pré-moldadas idênticas, na forma cilíndrica com 10 metros de altura interna cada uma. Considerando, nesta questão, p = 3, podemos afirmar que o raio da base de cada caixa d’água, de acordo com o projeto mencionado, é igual a:
+a) 25m             b) 15m              c) 5m
+d) 3m               e) 1m
+4. (Alessandro - 2006) Uma das principais doenças envolvidas em guerra biológica é a peste. A peste é uma doença de roedores, mas que atinge humanos pela picada das pulgas infectadas ou por gotículas respiratórias dos pacientes que desenvolvem a forma pulmonar. Ratos mortos e fuga destes vetores para a espécie humana era o prelúdio das grandes epidemias do passado. Hoje a doença tem uma distribuição restrita e pequenos surtos ainda são descritos. A redução na sua incidência se deve principalmente à melhoria das condições higiênico-sanitárias. O uso como arma biológica viria da sua disseminação intencional por aerossóis.
+A Organização Mundial da Saúde acredita que, se 50Kg fossem lançados sobre uma cidade de 5 milhões de habitantes, 3% seriam infectados pela peste pneumônica, dos quais 24% chegariam a óbito. Quantos óbitos teríamos de acordo com o total de habitantes citado no texto acima?
+a) 23.000          b) 27.000      c) 32.000
+d) 36.000          e) 40.000
+
+5. (Mariquito - 2006) Responder à questão adiante com base no texto a seguir.
+“Após os atentados terroristas de 11 de setembro de 2001 ao World Trade Center (Nova Iorque) e ao Pentágono (Washington), os norte-americanos estão atentos aos ataques com armas bacteriológicas. Casos de contaminação por antraz em vários estados americanos estão sendo investigados. Em 1984, os Estados Unidos também sofreram um ataque de terrorismo biológico, quando os seguidores de uma seita contaminaram um grande número de pessoas com salmonela em uma cidade do Estado de Oregon.”
+“O Estado de São Paulo”, 10 de outubro de 2001.
+Os organismos utilizados como armas na guerra bacteriológica citados acima pertencem ao reino
+a) Fungi.        b) Protista.        c) Monera.
+d) Plantae.     e) Animalia.
+6. (Janaína - 2006) 
+Pneumotórax
+Febre, hemoptise, dispnéia e suores noturnos.
+A vida inteira que podia ter sido e que não foi.
+Tosse, tosse, tosse.
+Mandou chamar o médico:
+- Diga trinta e três.
+- Trinta e três. . . trinta e três. . . trinta e três . . .
+- Respire.
+..........................................................................
+- O senhor tem uma escavação no pulmão esquerdo e o pulmão direito infiltrado.
+- Então, doutor, não é possível tentar o pneumotórax?
+- Não. A única coisa a fazer é tocar um tango argentino. 
+Manuel Bandeira - Libertinagem
+A partir da leitura do poema modernista de Manuel Bandeira, que bem retrata a condição de tuberculoso do próprio poeta, assinale a alternativa INCORRETA.
+a) A estrutura do poema exemplifica a liberdade formal e a irreverência da 1ª fase do Modernismo no Brasil e, também, o repúdio ao tradicionalismo parnasiano.
+b) No 1º verso a doença é apresentada de forma objetiva através de vocábulos médicos, enquanto o 2º verso reforça a frustração do eu-lírico com relação à vida.
+c) Linguagem marcada pelo prosaico, poesia que se aproxima da prosa e humor velado são características do poema que destoam dos ideais do Modernismo.
+d) Os pontilhados do oitavo verso confirmam a intenção de sugestividade e inovação do poeta.
+e) O último verso expressa o negativismo da perspectiva dada pelo médico, ao utilizar o “tango argentino” como a única coisa a ser feita.
+7. (Lampião - 2006) Um laboratorista responsável pelo controle de qualidade de uma empresa fitoterápica analisou um chá sem identificação. Os aspectos anatômicos encontrados nos fragmentos da planta foram: presença de estômatos, parênquima clorofílico (paliçádico e lacunoso), epiderme uniestratificada, pêlos glandulares e cutícula. Certamente este chá era constituído por:
+a) Caule de monocotiledônea.
+b) Raiz de monocotiledônea.
+c) Flor de dicotiledônea.
+d) Caule de dicotiledônea.
+e) Folha de dicotiledônea.
+8. (Vinícius - 2006) No Brasil, o sistema de transporte depende do uso de combustíveis fósseis e de biomassa, cuja energia é convertida em movimento de veículos. Para esses combustíveis, a transformação de energia química em energia mecânica acontece:
+a) Na combustão, que gera gases quentes para mover os pistões no motor.
+b) Nos eixos, que transferem torque às rodas e impulsionam o veículo.
+c) Na ignição, quando a energia elétrica é convertida em trabalho.
+d) Na exaustão, quando gases quentes são expelidos para trás.
+e) Na carburação, com a difusão do combustível no ar.
+9. (Edson - 2006)
+
+Rota da Beleza
+Alguns dos mais belos cenários naturais do Espírito Santo estão no trecho da Rodovia do Sol administrado pela Rodosol.
+A região é repleta de praias, lagoas e reservas ecológicas, e conta com infra-estrutura composta por hotéis, parques aquáticos, restaurantes e lojas de artesanato para receber turistas que todo ano invadem o litoral Sul capixaba.
+Guarapari faz parte do roteiro turístico nacional, sendo a cidade capixaba mais conhecida no País. Muito conhecida como “Cidade Saúde” devido à radioatividade presente nas areias pretas de algumas de suas belas praias, utilizadas para o tratamento das doenças reumáticas.
+A polícia rodoviária controla o fluxo de veículos contando os carros em um pedágio. Essa contagem tem início às 12 horas de sexta-feira e se estende até as 24 horas de sábado. Calcula-se que nesse pedágio passam, por minuto, em média, 50 carros.
+Expresse, sob a forma de função, o número de carros (y) que passa pelo pedágio no tempo (t), dado em minutos. Com base nessa função, o número de carros que deverá se dirigir a essa cidade balneária no próximo fim de semana (das 12 horas de sexta-feira às 24 horas de sábado) é de:
+
+a) 100.000        b) 102.000        c) 108.000
+d) 112.000        e) 120.000
+10. (Tio Marco - 2006)
+Ônibus limpo
+O transporte é um setor que contribui sensivelmente para a poluição atmosférica na cidade. Os ônibus são numerosos, poluentes e pouco eficientes no uso do combustível atual, o diesel. 
+Interesse facilmente compreensível se considerarmos que cada ônibus urbano joga no ambiente uma quantidade aproximada de 100 toneladas de CO2 por ano. Este valor se torna alarmante se considerado o enorme número de ônibus urbanos existente na região metropolitana do Rio de Janeiro – cerca de 16.000 –, que estes ônibus são responsáveis por cerca de 93% do transporte de passageiros e que contribuem com cerca de 30% das emissões totais de CO2.
+Fonte: http://www.faperj.br/boletim_interna.phtml?obj_id=369
+De acordo com o texto, determine o número de moléculas de CO2 emitidas por ano na região metropolitana do Rio de Janeiro. Dado: 6,0 . 1023 mol-1.
+a) 5,47.1020      b) 1,18.1030            c) 2,18.1023
+d) 2,18.1030      e) 2,18.1034
+Leia o texto abaixo e responda 
+às questões 11 e 12.
+Veículos com motores flexíveis são aqueles que funcionam com álcool, gasolina ou a mistura de ambos. Esse novo tipo de motor proporciona ao condutor do veículo a escolha do combustível ou da proporção de ambos, quando misturados, a utilizar em seu veículo. Essa opção também contribui para economizar dinheiro na hora de abastecer o carro, dependendo da relação dos preços do álcool e da gasolina.
+No Brasil, o álcool combustível é produzido a partir da fermentação da cana-de-açúcar, ou seja, esse combustível é renovável, ao passo que a gasolina (mistura de hidrocarbonetos de 6 a 12 átomos de carbono) é obtida pela destilação fracionada do petróleo. 
+As montadoras de automóveis indicam que, em três anos, estará nas ruas o carro triflex, ou seja, além de gasolina e álcool, movido também a gás natural automotivo.
+11. (Leonardo - 2006) O nome químico oficial, segundo a IUPAC, para o principal componente de cada combustível citado no texto é:
+a) Propano, butano e isoctano.
+b) Metanol, etanol e metano.
+c) GNV, álcool e gasolina.
+d) GLP, metano e butano.
+e) Etanol, isoctano e metano.
+12. (Leonardo - 2006) Em relação aos combustíveis citados no texto (gás natural, gasolina e álcool), assinale a alternativa INCORRETA:
+a) O álcool não é um combustível fóssil.
+b) O gás natural é o combustível menos poluente dos derivados do petróleo.
+c) A gasolina possui maior ponto de ebulição que o gás natural.
+d) A mistura álcool e gasolina constitui um sistema heterogêneo.
+e) O Brasil não é auto-suficiente em gás natural.
+13. (Rossoni - 2006) Leia as afirmações abaixo e, em seguida, identifique a opção correta:
+I. O tráfico de escravos intercontinental acabou aumentando no Brasil após a imposição do Bill Aberdeen pelos britânicos, pois houve um aumento expressivo da malha ferroviária pelas mãos do Barão de Mauá.   
+II. A decretação da Tarifa Alves Branco tinha a finalidade de melhorar a saúde pública no Brasil.
+III. A Comissão Verificadora de Poderes atuava no Brasil com ações terroristas, impedindo os candidatos da oposição a concorrerem ao pleito eleitoral durante o segundo reinado.
+a) Somente a I é verdadeira
+b) Somente a II é verdadeira
+c) Somente a III é verdadeira
+d) I, II e III são verdadeiras
+e) Todas são falsas
+14. (Pedro - 2006) A pressão do ar no interior dos pneus é recomendada pelo fabricante para a situação em que a borracha está fria. Quando o carro é posto em movimento, os pneus se aquecem, seus volumes têm alterações desprezíveis e ocorrem variações nas pressões internas dos mesmos. Considere que os pneus de um veículo tenham sido calibrados a 17°C com uma pressão de 1,7x105N/m². Após rodar por uma hora, a temperatura dos pneus chega a 37°C. A pressão no interior dos pneus atinge um valor aproximado de:
+a) 1,8 x 105N/m²        b) 3,7 x 105N/m²
+c) 7,8 x 104N/m²        d) 8,7 x 105N/m²
+e) 1,8 x 104N/m²
+15. (Capucho/2006) Veículos têm futuro com tecnologias limpas e renováveis
+Revista ComCiência abril/04   http://www.comciencia.br 
+O século XX foi marcado pelo uso crescente de veículos automotores. Desde então observa-se com maior freqüência episódios críticos de poluição do ar. Com o aumento alarmante da poluição e a ameaça de escassez das reservas de petróleo, estudiosos de vários países investem esforços na procura de novas fontes alternativas de energia, como hidrogênio e biomassa. Desenvolvido primeiramente nos Estados Unidos, o carro a hidrogênio está sendo apresentado por esse país como alternativa ao Protocolo de Quioto.
+O carro movido a hidrogênio deixa de ter motor a combustão, não faz barulho e possui um gerador de energia elétrica com, no mínimo, 11 kW. 
+Supondo que ao recarregarmos o gerador do nosso carro movido a hidrogênio, na tomada da garagem da nossa residência, tensão de 110V, a corrente elétrica mínima necessária seria de:
+a) 50A             b) 10A            c) 0,1mA
+d) 100mA        e) 0,1KA
+16. (Rossoni - 2006) Em 11 de setembro, o mundo viveu tensos momentos de ataques aéreos aos Estados Unidos da América. A posteriori, o presidente Bush utilizou tal situação como pretexto para ocupar o Iraque em nome da paz mundial e do combate ao terrorismo. 
+Tal situação é semelhante à declaração de guerra ao Paraguai pelo Brasil em 1864. Em relação às duas situações, é correto afirmar:
+a) Os projetos faziam parte de planos imperialistas. No primeiro caso dos EUA e, no segundo, da Inglaterra.
+b) Houve intenções imperialistas apenas no primeiro caso.
+c) Em nenhum dos casos houve intenções imperialistas.
+d) Houve intenções imperialistas apenas no segundo caso.
+e) As justificativas de ambos os casos foram fidedignas, pois confirmou-se a produção de armas nucleares em Bagdá e, no segundo caso, Solano Lopez de fato era uma ameaça à América Latina.
+17. (Vinícius - 2006) O biodiesel resulta da reação química desencadeada por uma mistura de óleo vegetal com álcool de cana.
+A utilização do biodiesel etílico como combustível no País permitiria uma redução sensível nas emissões de gases poluentes no ar, bem como uma ampliação da matriz energética brasileira.
+O combustível testado foi desenvolvido a partir da transformação química do óleo de soja. É também chamado de B-30 porque é constituído de uma proporção de 30% de biodiesel e 70% de diesel metropolitano. O primeiro diagnóstico divulgado considerou performances dos veículos quanto ao desempenho, durabilidade e consumo.
+Um carro-teste consome 4,0 kg de biodiesel para realizar trabalho mecânico. Se a queima de 1 g de biodiesel libera 5,0 × 103 cal e o rendimento do motor é de 15%, o trabalho mecânico realizado, em joules, vale, aproximadamente,
+Dado: 1 cal = 4,2 joules
+
+a) 7,2 × 105    b) 1,0 × 106    c) 3,0 × 106
+d) 9,0 × 106        e) 1,3 × 107
+18. (Bermudes - 2006) Observe a tabela.
+Participação relativa de mulheres unidas que usam métodos contraceptivos, frente à população total de mulheres unidas no Brasil.
+Métodos contraceptivos de mulheres 
+unidas por tipo de método, segundo 
+grupos de idade.
+
+A tabela permite afirmar que, entre as mulheres unidas:
+
+a) O uso da pílula é menor entre as que têm até 29 anos.
+b) A esterilização predomina a partir dos 30 anos de idade.
+c) O emprego de preservativos aumenta de acordo com a idade.
+d) A maioria da faixa de 15 a 19 anos não usa método contraceptivo.
+e) As da faixa de 20 a 24 anos são as que mais usam métodos contraceptivos.
+19. (Pedro - 2006) As ferrovias sempre foram uma importante alternativa para o transporte de cargas. Alguns detalhes devem ser observados na hora do assentamento dos trilhos, que é o espaçamento entre eles conhecido com juntas de dilatação. Um trilho de aço, de 10m de comprimento a 0°C, sofre uma dilatação de 3,3mm quando a temperatura atinge 30°C. Outro trilho do mesmo aço que, a 0°C, tem 5,0m de comprimento, quando a temperatura atinge 10°C sofre uma dilatação, em mm, igual a:
+a) 0,55                b) 0,66               c) 1,1
+d) 2,2                  e) 3,3
+
+GABARITO
+
+1. B
+2. E
+3. C
+4. D
+5. C
+6. C
+7. E
+8. A
+9. C
+10. E
+11. E
+12. D
+13. E
+14. A
+15. E
+16. A
+17. E
+18. B
+19. A
+
+Fonte: Pré-vestibular VestCEV. <br><br><hr>
+Data da Publicação: 25/11/2006 - Pagina: 09 <br>
+Editoria: Cidades <br><br>

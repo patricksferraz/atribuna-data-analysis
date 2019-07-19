@@ -1,0 +1,28 @@
+PRATELEIRA
+<b>  </b><br>
+ <br>
+Relógio controla veículo
+A Toyota anunciou recentemente o lançamento de um pequeno relógio capaz de controlar à distância vários itens do Toyota Crown. Atualmente, a companhia holandesa Camco Systems vende o Watchcon, um relógio que permite o controle de diversos tipos de funções de um automóvel, mesmo que ele esteja a um quilômetro de distância.
+Entre elas estão checar a temperatura da cabine, ligar o carro via timer, ativar o alarme, acender as luzes internas e até desabilitar a ignição do veículo, caso se esteja com medo de roubos. 
+Por meio de transmissão FM com tecnologia contra interferências, o relógio holandês também envia notificações sobre qual é a situação do veículo. O Watchcon integra um sistema de proteção para carros que conta com inúmeros outros itens, mas pode ser comprado separadamente, e custa 59 euros no site www.camcosystems.nl.
+
+Onde estão?
+Pesquisadores da Microsoft estão trabalhando um aparelho, para ser pendurado na parede, que mostra onde está cada membro da família. O dispositivo usa o GPS dos aparelhos de celular de cada um dos integrantes da família para identificar onde estão. 
+O aparelho, batizado de Whereabouts Clock, é um monitor de vídeo, e apresenta na tela um ponteiro para cada pessoa da família, que aponta se ela está em casa, no trabalho, na escola ou genericamente em outro lugar. 
+O dispositivo também é capaz de receber mensagens SMS e disponibilizá-las na tela, como, por exemplo, “chegarei atrasada, aqueçam a comida”.
+
+Óculos de sol com MP3
+Um óculos de sol com MP3 Player embutido. Essa é uma das grandes novidades que o Leadership Group acaba de colocar no mercado. Inovador e prático, o novo gadget já é sucesso e surpreende com a alta qualidade e capacidade de armazenamento.
+Dotado de memória com 256 ou 512 Megabytes, permite armazenar até nove horas de música. Para calcular, basta saber que cada megabyte em um MP3 convencional equivale a um minuto de gravação. Isso significa que, de acordo com o tempo das músicas gravadas, é possível unir dezenas de CDs em um só aparelho. 
+Com o óculos, o usuário pode praticar qualquer tipo de esporte, dirigir e caminhar com total liberdade de movimentos. O par de fones, discretamente embutido na haste do acessório se encaixa diretamente nos ouvidos.
+Para guardá-los, basta prender os fios em uma espécie de dobradiça que fica na armação. Nela, também encontram-se os botões de comando, como controles de volume, troca de faixa e liga/desliga.
+Com visual futurista e bastante leve, o Óculos MP3 Gotec acompanha um cabo USB, que deve ser ligado ao micro para troca de arquivos. Compatível com PC e Mac, armazena arquivos tipo MP3, WMA e ADPCM. Possui som stereo, gravador digital de voz e bateria recarregável de Li-ion.
+O lançamento já chegou às lojas nas cores titânio (256Mb) por R$ 590,00 e preto (512Mb) por R$ 749,00.
+
+Auto-falantes
+Você já deve ter ouvido falar de TV de plasma e agora irá, literalmente, ouvir falar de auto-falantes de plasma. A tecnologia, que já produz telas superfinas, permitiu criar caixas de som que mais parecem porta-retratos.
+A qualidade do som do equipamento é superior a dos alto-falantes convencionais, podendo ter um surround de 360 graus, abrangendo todas as freqüências necessárias, sem precisar de caixas diferentes para agudos ou graves, além de ter um custo de fabricação 40% menor. 
+O lançamento, batizado MP-C100, é da coreana Mirae Plasma. Segundo o site da empresa, o funcionamento do dispositivo se dá através da base cilíndrica inferior que recebe sinal elétrico e transforma em movimentos de uma espécie de diafragma, que por sua vez vibra o ar e consequentemente o “filme” acústico.
+Além de reproduzir músicas, o dispositivo permite customizar o layout, imprimindo a imagem que desejar sobre o filme. Mais informações no endereço www.mplasma.com/english. <br><br><hr>
+Data da Publicação: 17/10/2005 - Pagina: 14 <br>
+Editoria: Informática <br><br>

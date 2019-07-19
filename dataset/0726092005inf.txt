@@ -1,0 +1,24 @@
+Barreira contra vírus e hackers
+<b> O firewall é uma barreira de proteção que controla
+o tráfego de dados entre o seu computador e a internet </b><br>
+ <br>
+É cada vez mais visível a preocupação dos usuários com as frequentes aparições de vírus e tentativas de invasão dos hackers. Para se proteger, a grande maioria investe em mecanismos de segurança. 
+O perigo é real, pois já se sabe que existem mais de 80 mil sites na própria internet dedicados a atividades de hacking, onde é possível obter ferramentas para invasão de sistemas. 
+Estragos e perdas de arquivos são apenas duas de muitas consequências de uma invasão indesejada. Estatísticas mostram que empresas americanas perderam mais de US$ 5,2 bilhões, nos últimos três anos, devido a esses ataques.
+No Espírito Santo, nove entre dez empresas capixabas estão apostando em um novo dispositivo de segurança contra a invasão de suas redes de computadores, o firewall ou parede de fogo.
+O sucesso da ferramenta deve-se à eficiência de quase 100% no sistema de filtragem de dados.
+O software é um mecanismo que atua na “defesa” de um computador ou de uma rede, controlando o acesso ao sistema por meio de regras pré-determinadas.
+O dispositivo funciona como uma barreira inteligente entre a rede local e a internet por onde só passam informações autorizadas. Esse tráfego é examinado pelo programa em tempo real, selecionando o acesso à rede interna de acordo com a configuração estabelecida pelo servidor.
+Para não ser pego de surpreso por possíveis invasões, todo cuidado é pouco. Estatísticas mundiais apontam que a maior ocorrência de acesso não autorizado às informações e dados corporativos são causados por usuários da própria empresa, seja por meio da destruição de dados ou mesmo pelo envio, via internet, de informações e dados sigilosos.
+Com a utilização do firewall é possível estabelecer quais funcionários têm acesso a rede mundial, bem como o que podem acessar (sites, e-mails, etc) o que reduz significativamente o risco com este tipo de ocorrência. 
+“Na Doc, a gente não só faz uso como indica o firewall para os nossos clientes. Esse recurso proporciona um nível muito maior de segurança ao usuário”, diz o gerente de vendas da Doc Soluções, César Dalessandro.
+O firewall ajuda a impedir que a rede ou o computador seja acessado sem autorização. Assim, é possível evitar que informações sejam capturadas ou que sistemas tenham seu funcionamento prejudicado pela ação de hackers.
+O software é também um grande aliado no combate a vírus e cavalos-de-tróia, uma vez que é capaz de bloquear portas e/ou acesso a programas não autorizados.
+O consultor de vendas da Itnet, Philipe Brandão, concorda com o gerente da Doc Soluções e afirma que o firewall é muito eficiente e a maioria dos usuários de certa forma já reconheceu isso. “Na Itnet é o segundo produto mais vendido”, complementa o consultor.
+Em redes corporativas, é possível restringir acessos de usuários, além de ter o controle sobre as ações realizadas na rede. “Na Doc nós temos 36 estações em rede. Desde que instalamos o firewall, há pouco mais de um ano, não tivemos mais problemas”, afirma o técnico de segurança da empresa, Vanderley Silva.
+Usando o firewall é possível promover a otimização da banda de acesso à rede internet, o que permite maior uso com menor custo.
+O programa também bloqueia contra “Port Scan”; configuração de NAT (Network Address Translate); apresenta Log de tentativas de invasão acessados via Browser; possibilidade de verificação dos sites mais acessados pelos usuários e detalhes de acesso por usuário.
+O firewall também ajuda a controlar horários e/ou sites pré-autorizados para navegação, restrições de URL, lista negra (sites proibidos) e lista branca (sites autorizados). Todos estes controles são executados a partir de um único login e senha no navegador. 
+Entretanto, os firewalls pessoais apresentam algumas desvantagens, pois são difíceis de gerenciar de modo centralizado e precisam ser configurados em cada cliente, o que adiciona sobrecarga ao gerenciamento. Há também algumas limitações de desempenho. <br><br><hr>
+Data da Publicação: 26/09/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

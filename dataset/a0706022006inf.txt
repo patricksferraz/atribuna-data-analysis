@@ -1,0 +1,8 @@
+Falha crítica no Winamp
+<b>  </b><br>
+ <br>
+Foi descoberta uma falha no popular reprodutor de mídia Winamp, classificada pela empresa de segurança Secunia como extremamente grave. O bug pode ser explorado à distância, por meio de uma página web especialmente preparada, e permite a um invasor obter controle total do computador no qual o software afetado esteja instalado.
+Os arquivos relacionados às playlists usadas pelo Winamp possuem extensão .pls. Um atacante poderia hospedar numa página web um desses arquivos, especialmente preparado para explorar o bug e, em seguida, induzir um usuário a visitar o endereço.
+Na semana passada, a Nullsoft lançou a versão 5.13, que corrige o problema. Para baixá-la, basta visitar o site www.winamp.com. <br><br><hr>
+Data da Publicação: 06/02/2006 - Pagina: 07 <br>
+Editoria: Informática <br><br>

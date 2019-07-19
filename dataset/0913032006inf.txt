@@ -1,0 +1,18 @@
+Borland Delphi Tour em Vitória
+<b> Capital capixaba vai
+sediar o evento tradicional
+para desenvolvedores, com
+novidades sobre Delphi </b><br>
+ <br>
+O tradicional evento para desenvolvedores, o “Borland Delphi Tour”, bate recorde de abrangência de cidades ao passar por 25 locais no primeiro semestre deste ano. No Espírito Santo, o evento acontece na próxima quarta-feira, dia 15, no auditório da Federação das Indústrias (Findes).
+As inscrições são gratuitas, limitadas e podem ser efetuadas pelo site http://info.borland.com.br/DelphiTour, que contém toda a agenda do evento, com horários e conteúdos que serão abordados. Ao final de todas as seções, os desenvolvedores concorrerão a sorteios dos produtos da Borland.
+A empresa vai apresentar aos usuários capixabas de Delphi, ferramentas como o Together (para modelagem e documentação) e o CaliberRM (para definição e gerenciamento de requisitos) com base em situações práticas.
+Outra novidade é a realização de um mini-curso sobre a ferramenta StarTeam, que capacitará os participantes a trabalharem com gerenciamento de configuração e mudanças. 
+“A importância deste evento está em apresentar soluções completas que englobam todas as etapas dos ciclos de desenvolvimento de software para o maior público da história da Borland. Nossa expectativa é reunir cerca de 10 mil desenvolvedores”, comenta o diretor comercial e de marketing da Borland no Brasil, José Eugênio Braga.
+Durante o evento também será apresentado o novo Borland Developer Studio 2006, que permite o desenvolvimento para Win32, nas linguagens Delphi e C++, e para .NET, em Delphi e C#.
+Os participantes terão acesso aos novos recursos de produtividade, à atual estrutura de treinamento da Borland e ao roadmap do Delphi, que mostrará os projetos de evolução e atualizações do produto.
+Além disso, será apresentada a nova versão do ECO III (Enterprise Core Object). Segundo a companhia, a ferramenta possibilita aumento de produtividade no desenvolvimento de aplicações .NET em até 10 vezes. Trata-se da única solução para .NET comprovadamente baseada em MDA (Modem Driven Arquitecture), padrão definido pela OMG para desenvolvimento orientado a negócios. 
+Habilidades como aumentar a qualidade e detectar erros nas aplicações, através da análise de código e definição de métricas do Delphi 2006, também serão apresentadas. Novidades para Banco de Dados ASP.NET é outro tema de destaque do Borland Tour.
+Mais informações em www.tectrilha.com.br. <br><br><hr>
+Data da Publicação: 13/03/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

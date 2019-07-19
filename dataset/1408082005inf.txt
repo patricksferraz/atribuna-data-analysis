@@ -1,0 +1,21 @@
+PRATELEIRA
+<b>  </b><br>
+ <br>
+Em forma de ovo
+Um tocador de MP3 bem pequeno e com o formato de um ovo, desenhado para ser usado pendurado ao pescoço, como um colar. Assim pode ser descrito o EMP-Z II, tocador de MP3 lançado pela BeatSounds.
+A grande novidade é que ele também exibe pequenas imagens enquanto toca a música desejada pelo usuário. O EMP-Z II Plus pode mostrar imagens no tamanho 100 x 65 pixels.
+Ele também grava voz, sintoniza rádios FM e suporta WMA, além de MP3. Os modelos têm capacidades de 128 Mb, 256 Mb, 512 Mb e 1 Gb e a bateria (recarregável) promete durar até 16 horas. Custa US$ 90 na BeatSounds
+(www.beatsounds.com).
+
+Caneta digital
+Já imaginou uma caneta que transforma tudo o que você escreve em texto Word direto para o computador? Isso é o que promete o novo lançamento da empresa japonesa Hitachi Maxell: uma caneta com tecnologia Anoto, capaz de enviar para o computador o texto escrito por ela.
+A DP-201 rapidamente interpreta informações analógicas como escrita, ilustrações e desenhos com facilidade. A caneta digital, que pesa cerca de 30 gramas, é equipada com USB e Bluetooth para conexão com o computador e equipamentos móveis. O aparelho, que possui bateria recarregável de lítio, permite até duas horas de escrita contínua.
+
+História dos sistemas
+Destinada a profissionais de engenharia e ciência da computação, o livro “Sistemas Operacionais” apresenta um abrangente panorama histórico do desenvolvimento dos sistemas operacionais, chegando ao que há de mais moderno na área.
+A terceira edição da obra de Harvey M. Deitel, Paul J. Deitel e David R. Choffnes, está sendo lançada pela Editora Pearson, sob o selo Prentice Hall.
+O livro estuda em profundidade os conceitos fundamentais dos sistemas operacionais. Também é realizado um extenso estudo de casos do Linux e o Windows XP, os dois sistemas operacionais mais importantes, da atualidade, em função dos modelos opostos que representam: de um lado, o desenvolvimento de código-fonte aberto gratuito  e, do outro, o sistema corporativo sob licenciamento.
+Além desses, vários outros miniestudos de casos focalizam outros sistemas operacionais importantes como Mach, Atlas, Symbian, OS Macintosh e OS/2.
+Completa a obra o site de apoio www.prenhall.com/deitel_br, que oferece aos estudantes um manual de soluções, código-fonte para os programas em Java, curiosidades e recursos da web, entre outros. <br><br><hr>
+Data da Publicação: 08/08/2005 - Pagina: 14 <br>
+Editoria: Informática <br><br>

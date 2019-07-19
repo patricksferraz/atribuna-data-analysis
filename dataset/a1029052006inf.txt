@@ -1,0 +1,14 @@
+O concorrente do JPEG
+<b> WMP oferece vantagens técnicas,
+mas, para decolar, terá que ser
+adotado em câmeras,
+impressoras e softwares </b><br>
+ <br>
+A Microsoft apresentou na última quarta-feira, durante o evento Windows Hardware Engineering Conference (WinHEC), realizado em Seattle, Estados Unidos, o novo formato de arquivo Windows Media Photo, que promete concorrer com o JPEG, atual padrão de mercado.
+Apresentado pela companhia como um formato dramaticamente melhor, o Windows Media Photo (WMP) foi criado para preservar mais informações de uma foto – como a variação dinâmica, por exemplo – e oferecer imagens mais bonitas com um nível de compressão maior. A Microsoft diz que o formato vai produzir fotos com qualidade a até 25 vezes de compressão.
+O WMP também traz vantagens técnicas, como possibilitar que os dispositivos e softwares que o suportam renderizem uma parte da imagem ou uma versão de menor resolução, sem ter que brigar com toda a imagem em alta resolução. O novo formato também vai provar apenas um algoritmo para compressão com ou sem perda.
+Apesar das vantagens técnicas, o WMP terá que ser suportado por câmeras, impressoras, softwares de foto, navegadores e uma série de dispositivos e aplicações para decolar. Outra questão é se a Microsoft vai querer emplacar o formato como padrão de mercado ou uma alternativa ao JPEG.
+Contudo, o WMP está empacotado no padrão portátil XPS de documentos e impressão. Portanto, os aparelhos que suportarem XPS devem suportar o WMP, o que pode dar força ao formato.
+O Vista suportará o WMP, mas a Microsoft pretende lançar algum tipo de extensão para que o Windows XP também o suporte. <br><br><hr>
+Data da Publicação: 29/05/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

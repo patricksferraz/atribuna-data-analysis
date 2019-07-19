@@ -1,0 +1,21 @@
+Vírus atacam até Papai Noel
+<b> E-mail circulando na internet com 
+carta do bom velhinho é mais um 
+golpe para enganar usuários e 
+roubar endereços de e-mails </b><br>
+ <br>
+Hackers e outros invasores do mundo virtual estão aproveitando a proximidade com o Natal para espalhar e-mails para aumentar a sua base de dados, ao divulgar na internet uma suposta carta do Papai Noel. 
+A intenção, com isso, é obter o máximo de número de e-mails, que podem ser depois usados como forma de propagar o spam, que são aqueles e-mails de pessoas desconhecidas, geralmente oferecendo algum tipo de produto milagroso ou contendo alguma notícia jamais dada pela imprensa, que não tem como ser comprovada.
+Aproveitando-se da data comemorativa e do espírito natalino que já paira no ar, o novo phishing, que é uma fraude eletrônica projetada para roubar informações, vem em forma de uma suposta carta do bom velinho, endereçada às crianças.
+Com os nomes de “Carta do Papai Noel para seu filho” e “Carta do Papai Noel do Pólo Norte”, as mensagens já estão em circulação em todo o mundo. O alvo aqui são justamente os pais, que na esperança de dar algo especial a seus filhos no Natal, acabam lendo a mensagem.
+Apesar de não ter o mesmo impacto invasivo de outras pragas disseminadas por e-mail, como infecção por cavalos-de-tróia, o phishing esconde uma armadilha, que é justamente quando pede para que o usuário confirme seu e-mail.
+Com isso, ele alimenta os spammers com novos endereços, permitindo que outras mensagens, inclusive com conteúdo malicioso, sejam enviadas sem a permissão do usuário.
+SPAM
+O ano de 2006 registrou um aumento no volume global de spam em quase 100%, comparado com 2005. De acordo com as estatísticas da IronPort Threat Operation Center, consultoria especializada em identificar ameaças on-line, o nível de spams mundiais em outubro de 2005 era de 31 bilhões de mensagens por dia, praticamente dobrando para 61 bilhões de e-mails por dia em 2006 no mesmo período.
+Desse total, cerca de 25% das mensagens são spams com imagens, o que representa aumento de cinco vezes em comparação aos 4,8% do ano anterior. 
+O tamanho médio das mensagens também aumentou de 8,9 kilobytes para 13 kilobytes. Durante o ano 2006, mensagens indesejadas consumiram mais de 819 terabytes de largura de banda por dia, comparado com os 275 terabytes do ano anterior.
+Segundo o diretor de serviços premium da Trend Micro, Adam Biviano, as mensagens indesejadas empregam uma técnica que “engana” a maior parte dos softwares de segurança, daí a necessidade desse tipo de ferramenta incorporar mais de um método de detecção.
+A forma mais usada pelos spammers, os propagadores desse tipo de mensagens, tem sido o uso da imagem, por isso os spams com imagens correspondem à maior parte dos e-mails indesejados.
+Isso acontece porque há detectores de spams que detectam mensagens indesejadas através de classificações orientadas por textos. Na ausência de palavras, o programa pode deixar alguns desses e-mails passarem. <br><br><hr>
+Data da Publicação: 27/11/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,31 @@
+PANORAMA ECONÔMICO
+<b> Indústria duvida
+A Confederação Nacional da Indústria (CNI) discorda dos cálculos do IBGE que mostraram um crescimento forte da indústria no mês de dezembro. Os técnicos da CNI recalcularam os dados do IBGE usando outra metodologia e, em vez de um crescimento de 2,3% em dezembro, o resultado deu zero. Em vez de um salto de 17,6% na produção de bens de consumo duráveis, o resultado foi de apenas 2,1%. </b><br>
+Míriam Leitão <br>
+O documento que a CNI vai divulgar hoje mostra que a notícia que animou todo mundo pode ser boa demais para ser verdade.
+“Com números tão promissores, cria-se a expectativa de que o processo de recuperação da atividade industrial já se iniciou. A CNI, porém, não compartilha dessa expectativa.”
+Há dois problemas nestes dados do IBGE segundo os técnicos da indústria: no último mês de dezembro, houve dois dias a mais do que normalmente porque Natal e ano-novo caíram no fim de semana. O outro problema é o método utilizado de dessazonalização.
+Dessazonalizar é necessário para igualar os meses e poder compará-los. Cada mês, por inúmeras razões, é diferente do outro.
+Por isso, os estatísticos usam métodos para neutralizar estes efeitos que o calendário cria. CNI e IBGE utilizam técnicas diferentes.
+O IBGE usa o X12, mais usado nos Estados Unidos, e a CNI, o tramo-seats, mais usado na Europa.
+Até aí, tudo bem, cada um escolheu seu “pacote”, como eles dizem, mas a questão é que a CNI acha que o IBGE usa uma série longa demais, que vem desde 1991.
+De lá para cá, a economia brasileira mudou radicalmente, a indústria tem outra sazonalidade de produção e até o mundo adotou novas formas gerenciais, que alteram completamente a forma e a época de produzir. 
+Neste ponto, os técnicos do IBGE e da CNI que ouvi ontem dizem coisas opostas.
+“A recomendação da OCDE é que sejam desprezados dados muito antigos porque eles podem distorcer os resultados. Por isso, trabalhamos com uma série de 1996 a 2005, de 10 anos. O IBGE trabalha com dados de 1991. De lá para cá, houve a abertura, a estabilização e o just in time. Na época da inflação alta, as empresas mantinham altos estoques com medo do aumento de preços”, diz Paulo Mol Júnior, da CNI.
+“A recomendação internacional é que se use a série mais longa possível. Tanto que, quando fazemos a dessazonalização, o modelo pede mais dados quando usamos séries curtas”, afirma Isabela Nunes, do setor de indústria do IBGE.
+Mas, de fato, o Brasil mudou muito. Produzir temendo reajustes de preços dos fornecedores e acumulando estoques para se proteger dos planos econômicos; produzir para um país onde não havia a competição do produto importado; produzir num tempo em que não existia comunicação on-line entre indústria e comércio era muito diferente do que produzir hoje.
+A CNI comparou o padrão de produção mensal de 91 a 95 e de 2001 a 2005 e constatou uma grande diferença.
+Antes, o pico da produção era mais cedo, de julho a outubro, sendo que o mês mais forte era agosto.
+Agora, o pico é de agosto a novembro, sendo outubro o mês mais forte. Faz sentido por um motivo: naquela época, ter o produto estocado era ter ativo; hoje, é um custo enorme por causa dos juros altos.
+Isabela Nunes admite essas mudanças na economia, mas insiste em que, trabalhar com uma série mais longa, é melhor.
+Argumenta, ainda, que também os dados da CNI mostraram que este dezembro foi mais forte que outros dezembros.
+A CNI lembra que o último dezembro teve 22 dias e não 20, como normalmente.
+A produção industrial é sempre mais fraca no último mês do ano.
+Este dezembro caiu 6,5% em relação a novembro. O número divulgado foi de 2,3% de crescimento porque os dados foram submetidos aos cálculos para tirar o efeito sazonal.
+Mesmo esta queda nos dados brutos é bem menor que a de anos anteriores: nos últimos 10 anos, a queda média foi de 10,9%.
+“Como essa situação foge à normalidade, os fatores sazonais podem não se adequar ao calendário atípico e interpretar como crescimento do ritmo de atividade industrial o que foi apenas um aumento excepcional do número de dias úteis em dezembro”, diz o documento da CNI.
+O IBGE, de vez em quando, é criticado pelo governo quando divulga dados ruins.
+A novidade agora é que ele está sendo contestado quando um dado é bom, e é contestado por quem produz, que não se reconhece no dado divulgado pelo IBGE.
+Seja qual for a verdade, o fato é que os cálculos da CNI contam uma história bem diferente da que foi contada pelo resultado a que chegou o IBGE. <br><br><hr>
+Data da Publicação: 17/02/2006 - Pagina: 26 <br>
+Editoria: Economia <br><br>

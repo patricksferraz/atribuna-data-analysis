@@ -1,0 +1,10 @@
+Cyber babá
+<b>  </b><br>
+ <br>
+A tecnologia não tem limites para criar os mais inesperados produtos para o século XXI. Agora, é a vez de robôs que são verdadeiras babás e reconhecem a voz do proprietário e são verdadeiros companheiros, capazes de guiar o dono em meio a uma multidão, durante passeios.
+A Toshiba revelou a novidade na semana passada. A empresa apresentou dois robôs projetados para demonstrar tecnologias de reconhecimento visual e sonoro, que poderão ser aplicadas em máquinas criadas para ajudar crianças e idosos no dia-a-dia. Uma delas permite que o robô acompanhe o dono para onde quer que ele vá, mesmo entre várias pessoas ao redor. 
+Os robôs, ApriAlpha _v3 e ApriAttenda, serão exibidos pela Toshiba na feira de protótipos de robôs Aichi Expo, que acontece no Japão de 9 a 19 de junho. 
+O primeiro, cuja primeira versão foi lançada em março de 2003 e pesa dez quilos, foi criado para demonstrar a tecnologia de reconhecimento sonoro. A máquina, que tem cerca de meio metro de altura, possui seis microfones capazes de identificar a origem dos sons que chegam até ela. Assim, o ApriAlpha_v3 pode responder ao cumprimento de uma pessoa de um lado e se dirigir para falar com outra pessoa do outro lado. 
+Já o ApriAttenda, de 30 quilos e quase um metro de altura, possui um sistema de reconhecimento visual e de processamento de imagens que identifica a cor e a textura da roupa do dono. Com isso, ele pode seguir o usuário por uma rua movimentada graças a um algoritmo que consegue identificar uma pessoa em particular que se move em um meio rodeado de outras pessoas e objetos em movimento. <br><br><hr>
+Data da Publicação: 30/05/2005 - Pagina: 14 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,989 @@
+Resultado final da Prefeitura de Vitória - Nome e nota
+<b>  </b><br>
+ <br>
+MÉDICO ACUPUNTURISTA
+Adriana Da Rós D. Kataoka	64,0
+Celise Carvalho Gabetto	67,0
+Claudia Dobes Kawatake	78,0
+Claudia Mara Neves Vieira	82,0
+Clemilda Soares Marques	72,0
+Ediron Pinho Carpes	91,0
+Ester Vago	68,5
+Fabio Merçon V. Junior	92,0
+Fernanda Có e Gomes	80,0
+Isabella Quintas Schirmer	71,0
+José Vicente Praxedes	65,0
+Luciene Santos Costa	71,0
+Ludmila Geysa Paris Salviato	69,0
+Maria Sueli M. Gonçalves	65,0
+Nelson Braga Mello	77,0
+Rossana Roberts Vargas	84,0
+Suzel de Oliveira Barbosa	67,0
+
+MÉDICO ANGIOLOGISTA
+Andressa R. Bolelli Ferreira	51,0
+Edmar Pereira Olympio	69,0
+Eliud Garcia Duarte Junior	74,0
+Ronaldo Conforti Costa	89,0
+Sergio Lisboa Junior	60,0
+
+MÉDICO CIRURGIÃO GERAL
+Adilio Ferreira R. Junior	69,5
+Alice Almeida M. de Andrade	69,0
+Anderson Fontes	67,0
+Andressa Vieira Caldellas	70,0
+Aneildo Menezes de O. Junior	76,5
+Antonio Mauro Bof	73,0
+Antonio Wilson Fiorot	75,5
+Arilton Pirola Santos Junior	74,0
+Bruno Baracho Rodrigues	66,0
+Carlos Henrique S. Junior	81,0
+Cesio Flavio C. Brandão	53,0
+Christiano Caran Brahim	79,0
+Cristiano de Souza Pinto	93,0
+Denizard Rocha Santos	72,0
+Douglas Luís S. de Oliveira	64,0
+Eduardo Simões Gonçalves	71,0
+Edvaldo Massariol Junior	78,0
+Elder Luiz Rodrigues Barbosa	76,0
+Emanuel da Silva V. Junior	78,0
+Fabio Mascarenhas Vieira	68,0
+Fernanda Alves Mendonça	71,5
+Flávio Soares Costa	67,0
+Gerson Pereira dos Santos	74,0
+Jeane Pissarra Teixeira	81,0
+Joana Gama do Vale	83,0
+João Passamani	74,5
+José A. da Motta Correia	77,0
+Juarez Silva Gontijo	68,0
+Juliano Almeida do Valle	72,0
+Karla Orsi Hemerly	79,0
+Leticia Rizzo Batista	62,0
+Lizia Lara Girelli Boing	60,0
+Luciana Aparecida de Oliveira	68,0
+Marcos Pavesi Lopes	82,0
+Marcos Rogerio Farias Filho	59,0
+Maria A. Tavares da Silva	75,0
+Mário Vaz Júnior	70,0
+Mozart Rosa Abelha	80,0
+Olivio Battisti Netto	80,0
+Patricia Ribeiro Braganca	67,0
+Paulo R. Mendes Pratti	52,0
+Pedro Cabral Filho	80,0
+Pedro Sfalsini	77,0
+Ramilson dos Santos	87,0
+Ricardo Diniz Barros	77,5
+Ricardo Ferreira Moura	66,0
+Rodrigo Moulin Foletto	83,0
+Rosana B. Barroso Rangel	72,0
+Rudiney Fonseca Rodrigues	84,0
+Sergio Riguete Zacchi	84,0
+Simone Leal Suzano	61,0
+Teng Chang Sing	74,0
+Walas Silvério da Rocha	76,0
+Walter Gonçalves Vargas	82,5
+Wdson Pozzatto Pimentel	74,1
+Wilson Alvarenga Junior	70,0
+
+MÉDICO CLÍNICO GERAL
+Adilson Junior Furieri	92,0
+Adilson Lamounier Filho	81,5
+Adriana de C. Lima Loureiro	79,1
+Alana Rocha Puppim	89,0
+Aldo Lugão de Carvalho	75,0
+Alessandra Dias Ferraço	67,5
+Alessandra Patrícia de Oliveira	80,0
+Alexandra Ribeiro Barcelos	60,0
+Alexandre Canas Ribeiro	74,1
+Aline Ladeira Gonzaga	76,0
+Aline Machado do Carmo	81,0
+Ana Christina F. B. Corrêa	83,0
+Andrea da Fonseca Potratz	63,0
+Antonio Lepori Vale	84,0
+Arianne Sibien Ruberth	68,0
+Carlos Eduardo Dilen da Silva	82,0
+Carlos Magno Pretti Dalapicola	56,5
+Carlos Tadeu Binda Dalmonik	70,0
+Christiane Handere Lorencine	68,0
+Chyrlleny Alves Gusmão	70,5
+Cintia Furlani Costa	62,0
+Cláudia Reis Cardoso de Mello	83,0
+Cleanice R. do Valle Risso	69,0
+Cleverson Kiffer Marim	59,0
+Daniel de Moraes Bermond	58,0
+Daniela Mill Damasceno	73,0
+Edilson de Castro Araujo	86,0
+Edna Hollunder de Souza	76,5
+Eduardo A. dos Santos Neto	75,0
+Elton L. de Oliveira Lopes	79,5
+Elton Pinheiro Barbiero	81,0
+Emilia Melotti Alvarenga	62,0
+Érica Vieira Serrano	83,0
+Erick Sessa Merçon	81,0
+Everton K. L. dos Santos	76,0
+Fabiola Pontin Pereira	91,5
+Fabrina T. P. Tinoco de Sousa	66,0
+Fernanda Leal Suzano	74,0
+Fernanda Maria Zucoloto Freire	75,0
+Fernanda Zon Pretti	74,0
+Flavia de Souza Nunes	87,5
+Flaviano de Assis Caçador	73,0
+Flavio Calhau Machado	63,0
+Flávio Rosalem	77,5
+Francismara Barros de Sant’Anna	66,0
+Giovana Pereira N. da Gama	69,0
+Giovanna Sant’Ana	77,0
+Gisele Torezani Storch	79,0
+Gisele Zamprogno Schimidt	80,0
+Gustavo Antunes França	74,0
+Gustavo Maia de Freitas	84,0
+Ingrid Zon	81,0
+Isabela Ferrari Ferreira	70,0
+Jean Flores Baldon	67,0
+Jeana Mara Freixo Venturi	65,5
+Jeovania Guimarães Gonçalves	66,0
+João de Almeida Júnior	75,0
+Junia Marize Guimarães Junior	65,5
+Karina Sagassa Batista	73,0
+Katiuska Massucatti Grativvol	78,0
+Kiyoshi Fernandes Aikawa	72,0
+Krishna Sandoval Gonçalves	81,0
+Larissa Miranda Costa	72,0
+Leila Martins Reis Miguel	70,5
+Leonardo Dias Gonçalves	81,0
+Leonardo H. da Pas Scardua	67,0
+Letícia Maria Akel Mameri	64,0
+Lívia Botti Damião	76,0
+Lorena Milholi Borges	66,0
+Lorenza Lakimé Jareski	60,0
+Lucilene Salles Sena	74,5
+Marcela Perini	84,0
+Marcelle Daher do Valle	74,0
+Márcia Cristina Souza Silva	63,0
+Marcia Regina Sfalsin Coutinho	62,5
+Marcio José Carvalho Silva	76,5
+Marcus de Angeli Altoé	61,5
+Marcus Vinícius Queiroz Rocha	81,0
+Maria Aparecida de Souza	58,0
+Maria Cleuza Farias	67,5
+Maria Isabel de C. Delmaestro	71,5
+Mariana Hunka F. Sarcinelli	62,0
+Patricia Conceição de Oliveira	63,0
+Patricia L. Castro de Oliveira	75,5
+Paula Canedo Chierici	66,0
+Paulo Cesar A. de Aquino	80,0
+Paulo Roberto da Silveira	78,0
+Penha Fabia Calazans	69,0
+Petherson Susano Grativvol	75,0
+Priscila Coelho Rabelo	76,0
+Rafaela Claudino de Freitas	72,0
+Ribamar Duy Rezende	65,0
+Roberta Oliveira Bizerra	68,0
+Roberto M. Guarconi Filho	80,0
+Rodrigo Santos da Silva	57,0
+Rosângela Valente Bragança	64,0
+Rosiane Cazeli Barbosa	79,0
+Sabrina Tiradentes Ferreira	70,0
+Selma Pereira do Nascimento	76,0
+Sheila Mara A. Nunes	71,0
+Sibia Soraya Marcondes	81,0
+Simone Fialho P. P. Martins	61,0
+Soraya Ribeiro Amorim	81,0
+Valeria Maria Antolini Grijó	67,0
+Washington Luis S. R. F. de Freitas	63,0
+Wellington C. do P. Socorro	87,0
+Wellington Pinto de C. Filho	52,0
+
+MÉDICO DERMATOLOGISTA
+Andréa Gouvêa Modenesi	67,5
+Angela Cristina Akel Mameri	73,0
+Elida Alves Leal	76,0
+Juliana Nunes V. G. Drumond	87,0
+Karina Demoner de Abreu	76,0
+Mariangela Almenara Rodrigues	71,0
+Renata da Penha N. Módolo	80,0
+Rubens Luiz Valladro	62,0
+
+MÉDICO ENDOCRINOLOGISTA
+Andressa Doelinger Ramos	78,0
+Angela Cristina Barreto Soares	84,0
+Camila Spagnol	64,0
+Carmen Dolores G. Brandão	82,0
+Fabiana Lima Marques	62,0
+Juliana de Paula Peixoto	73,0
+Milenne Rios da Silva	72,0
+Mirna Piredda da Graça	78,0
+Renata Calina R. Albuquerque	78,0
+Sabrina Ribeiro Franca	92,0
+Solange Alves Pinheiro	52,0
+
+MÉDICO GERIATRA
+Daniela Souza G. Barbieri	88,0
+Flávia Lirio Coutinho	79,0
+Juliana Gama Nascimento	60,0
+
+MÉDICO GINECOLOGISTA
+Adenilton Pedro Cruzeiro	71,5
+Adriana Riberio	80,5
+Ana Luiza Gualandi Murad	86,0
+Ana Raquel F. S. Daltro	76,5
+Andréa Nunes de Menezes	82,0
+Angela de C. G. Teixeira	66,5
+Antonio Carlos Muniz V. Junior	74,0
+Antonio Thomaturgo Littig	79,0
+Aron Stephen Souza	82,0
+Carla Guerra Vasconcellos	80,0
+Celia Francisca dos Santos	75,0
+Chiara Musso R. de O. Souza	94,0
+Christiane Faria Guterres	83,5
+Christina Barbosa Lemos	75,0
+Cinara Pereira N. Sadala	61,5
+Claudete Simões M. de Angeli	82,5
+Cleverson G. do Carmo Junior	86,0
+Denise Carvalho Lyrio	66,5
+Denise Tironi P. Saade	63,0
+Ednildes de A. Olympio Rua	78,5
+Elaine Christine M. S. Silva	57,0
+Flavia Helena R. F. Sampaio	67,0
+Flavia Rezende Baião	80,0
+Gilsara Marília Teixeira Marques	70,0
+Glessy Ribeiro Caetano	74,0
+Gustavo Enrico Cabral Ruschi	92,0
+Janine Martins Machado	81,0
+Juliane Oliveira de Assis	61,1
+Jussanã Nogueira Pereira	73,0
+Karolline Coutinho Abreu	70,5
+Kate Brinatti Torres Amaral	72,0
+Leonardo Fiorani da Silva	58,0
+Lorena Galaes	74,0
+Luciana Braido Hemerly Paixão	66,0
+Luis Claudio Limongi Horta	82,5
+Madalena Oliveira B. de Mello	75,5
+Marcia Negreiros Fundão Cruz	68,0
+Marco Antonio R. Nascimento	64,0
+Maria Aparecida G. Ramos	61,0
+Maria Cecilia Pontual M. Cohen	80,0
+Maria das Graças P. Partele	72,0
+Mayra Herculano Franco	64,0
+Monica Barboza G. Morelo	75,0
+Mônica Bernardi R. Canal	81,0
+Murilo Vitor Lopes	58,5
+Nara Lucia Pereira Ramos	70,5
+Patricia Ribeiro Pinto	74,0
+Patricia Rosa da Silva	71,0
+Patricia Subtil Cardoso	76,0
+Paulo Cezar Viecili	64,5
+Regina Célia Loureiro Carlos	82,0
+Rolney Scardini	74,5
+Rowena Pettersen Doelinger	67,0
+Sandra Mara Rogerio Bellezia	70,0
+Sarah Martins B. Almeida	71,0
+Sérgio Emílio Rua	71,5
+Sergio Wilson Alves Pereira	72,5
+Simeria Nunes Rocha Soares	70,0
+Simone Teixeira Ribeiro	72,0
+Sônia Faria Pedrosa	78,0
+Suely Gomes Pereira	79,0
+Tatiana Santos Guzzo	59,0
+Valci Cardoso	69,0
+
+MÉDICO HOMEOPATA
+Almir do Espirito Santo	77,5
+Ana Rita Vieira de Novaes	79,0
+Flavia Gimenes Azevedo	75,0
+Flavia Mattos Vieira	93,0
+Flavia Piazzarollo Madeira	68,5
+João Luiz de Moraes	69,0
+Leontina A. de Oliveira Cestari	61,0
+Luiz F. Freitas Guedes	79,0
+Norma Persio	81,0
+Rosane de Paula Nogueira	59,0
+
+MÉDICO INFECTOLOGISTA
+Alexandre Rodrigues da Silva	66,0
+Ana Luisa Rocha Vitali	71,1
+Claudia Biasutti	99,0
+Fábio Gonçalves Coutinho	54,0
+Gizele Bernabé Machado	91,0
+Glaucia Gleine Souza Ferraz	66,5
+Jacqueline Oliveira Rueda	69,5
+Junia Rodrigues	61,0
+Mylene Murad Moraes	70,0
+Myriam Santos Almeida	78,5
+
+MÉDICO NEUROLOGISTA
+Leonardo de Paula Liparizi	64,0
+Vanessa Loyola de O. Marim	65,0
+
+MÉDICO OFTALMOLOGISTA
+Adriana M. D. Brandão	78,0
+Aguida Aparecida Nicoli	69,0
+Cesar Ronaldo Vieira G. Filho	59,0
+Daniele Fioroti	74,0
+Elane Dellacqua Passos	67,0
+Ellen Portugal Lacerda	63,0
+Fábio Petersen Saraiva	85,5
+Giancarlo Cardoso Jeveaux	63,0
+Gilberto Brandão de Azevedo	68,0
+Kahlil Ruas Ribeiro Mendes	60,0
+Ludimila Frechiani Zago	77,0
+Patricia Grativol Costa	85,5
+Sara Capanema F. Ribeiro	65,5
+Sheyna Reis Silva	86,0
+Suzana Batista V. de Oliveira	71,0
+Tatiana Nemer Vieira	72,5
+Vanessa Ronconi Guimarães	79,5
+
+MÉDICO ORTOPEDISTA
+Ceciliano José S. dos Santos	76,0
+José Carlos Gomes	67,0
+Leandro F. da Cunha Junior	76,0
+Leonardo Ribeiro Bastos	78,5
+Tarciso Fávaro	54,0
+
+MÉDICO PEDIATRA
+Adriana Gomes Silveira	76,5
+Aline Barros Torres	76,0
+Aline Caetano Marchette	74,0
+Amanda Libânio Figueiredo	78,0
+Ana Luiza Cardoso Izoton	72,0
+Ana Luiza Fontela da Silva Paiva	76,0
+Ana Maria Nogueira Servino	76,0
+Ana Maria Nunes da P. Carvalho	75,0
+Ana Maria Ramos	68,5
+Ana Paula Alves S. Abelha	80,0
+Ana Paula Barbosa Fernandes	66,0
+Ana Paula Pandolfi Custódio	58,0
+Ana Teresa Fialho Ferreira	61,0
+Analucia Santolin Peixoto	80,0
+Andrea Portela Sampaio	82,0
+Andreia Ribeiro Pereira	74,0
+Andressa Chiabai Paterlini	72,5
+Andressa Tápias de Oliveira	70,0
+Angela Cristiane Bravin	72,0
+Angela Maria Crespo	70,0
+Angela Rita da Silva	67,0
+Antônio Sérgio P. de Assunção	71,0
+Bianca Faustini Baglioli	56,0
+Bianca Giovanna Bruno	74,5
+Bianca Neves Marson	70,0
+Bruna Bragança Boreli	82,0
+Bruna Lopes Pereira	76,0
+Camilla Dalla B. T. Martins	76,1
+Carlos Henrique S. dos Santos	76,0
+Carolina Queiroz O. Costa	76,5
+Carolina Strauss E. Gadelha	77,0
+Cecilia Guilherme B. Pancoti	78,0
+Celina Chaves Lameirão	68,0
+Christiana Kelly dos Santos	76,0
+Cintia Barreto Ferreira	70,0
+Cíntia Moreira Ipiranga Pinto	66,0
+Clarissa Marinho de Oliveira	66,0
+Cláudia Cristina Côra Rocha	86,0
+Claudia Fabiola M. Guimarães	72,0
+Claudia Gonçalves Paiva	69,5
+Claudia Rabelo Vieira	64,5
+Claudia Souza Bortolote	81,5
+Cristina Dutra Rosa	82,0
+Cynthia Fernandes Chácara	78,0
+Daniela Melo Piccin	77,0
+Danieli Gomes da Silveira	74,0
+Danielle Rosetti Binda	81,0
+Darcilaine Cápua Dallapícula	70,0
+Denice Margarida Brosegmini	67,0
+Denise do Valle Galvão Daflon	72,0
+Denise Sena de Miranda	74,0
+Dirce Celestino Rocha	91,0
+Dória Sá de Almeida Peixoto	82,0
+Edilene Amaro de Miranda	70,0
+Edilia Dias Ferreira	64,0
+Édina Maria F. de O. Curzio	81,5
+Elaine Guedes G. de Oliveira	82,0
+Elba Altoé Almeida E Silva	73,0
+Elisabeth Maestri Zouain	73,0
+Eneida Fardin Perim Bastos	87,0
+Fabiana Maia L. Cardozo	59,0
+Fernanda Jusan Fiorot	66,0
+Fernanda Medani Bortolozzo	88,0
+Flavia Maulaz B. Rodrigues	78,0
+Flavia Regina dos S. Fregona	68,0
+Francelina Maria R. Mascarenhas	71,0
+Geysa Ribeiro C. de Souza	72,0
+Gisele Nascimento Loureiro	66,0
+Giseli Barbiero de Almeida	64,0
+Heloisa F. Moça Vasconcellos	82,5
+Heloisa Helena R. Gonçalves	76,5
+Hilda Maria Costa e Silva	80,0
+Iara Regina Selestino	69,0
+Ilbene Mendes Santos Gomes	78,0
+Ildes Milbratz	70,5
+Indira Souza Costa Campos	88,0
+Ingrid Kandler	73,5
+Isabel Cristina M. Carvalho	86,0
+Isabela Marreco Weigert	76,0
+Isaura Rosa Stein	76,0
+Ivana Maria M. Teles Bufon	72,0
+Jacqueline de Lima Zottis	66,0
+Janaina Teixeira Serpa	81,0
+Joseane Chiabai	77,0
+Josilaine Lisi C. Storch Fêzer	77,0
+Jovanna Couto C. Anechini	88,0
+Julia Analia de Souza Oliveira	76,0
+Jussara Moema Silva Andrade	72,0
+Karina Todeschini Pires	80,0
+Karla Cristine Merscher	80,0
+Karla Loyola de Oliveira	86,0
+Katia Aguiar Azeredo Ferreira	84,0
+Katia Iunes Miranda Costa	79,0
+Kelly Cristine Merscher	84,0
+Ketty Helena Hoyer	67,0
+Liliane Gomes Schwartz	74,5
+Lindinalva R. Sobrinho Gurgel	70,0
+Luciana Bissoli Roris Silva	71,0
+Luiza Aurelia Torres de Faria	65,0
+Marcelle T. Pinto M. dos Santos	74,0
+Marcelo Salemi Muniz	76,0
+Marcia Aparecida A. M. de Araujo	70,0
+Márcia Caran Miranda	68,5
+Marcia Maria Poltronieri	68,0
+Maria da Penha C. Santos Nass	64,0
+Maria da Penha P. P. Pacheco	70,0
+Maria da Penha R. A. Passos	75,0
+Maria das Graças Rocha	74,0
+Maria das Graças S. do Carmo	76,0
+Maria do Socorro Silva Costa	69,0
+Maria Francisca M. Silva S. Silva	84,0
+Maria Helena F. de C. Queiroz	65,0
+Maria Ines Gomes Viana	75,0
+Maria Lucilia Louzada Paris	76,0
+Mariluce da Penha Kelher	65,1
+Marina Gaburro da Silveira	76,0
+Mario José Aguiar de Paula	67,0
+Martha Siqueira Cardoso	82,0
+Milena Gottardi Tonini Frasson	72,0
+Milena Santos Aguiar	60,0
+Monica Odete Oliveira Bretas	66,0
+Musatye Dias Nascimento	73,5
+Mylene Guimarães Rejane	70,0
+Naycka Onofre Witt	78,0
+Neuza Marchesi Braga Mello	88,5
+Nilzane Santos Silva	76,0
+Nixon Souza Sesse	83,0
+Nubia Carla A. Mota Santos	76,5
+Patricia Almeida Prebianchi	76,5
+Patricia Fonseca Saraiva	71,0
+Patricia Helena S. Machado	75,0
+Patricia Torres Bermudes	80,0
+Patricia Zambi Meirelles	61,5
+Pedro Vieira Carrancho	95,5
+Poliana Viana Guarconi	78,0
+Priscila Silva Griffo	62,0
+Rafaella Nunes Gomes	76,0
+Raquel Alves Aurich	68,0
+Raquel Favatto Garcia	78,0
+Rita de Cassia Cabral Passoni	80,0
+Roberta de Cássia N. C. Melotti	71,0
+Rodrigo Barroso Araujo	81,0
+Romulo Lopes Diniz	70,0
+Rosalva Groberio Pazo	88,0
+Rosana Arpini Costa Pagung	72,5
+Rosana Leitão Brandão	64,0
+Rosane da Silva Araujo Limongi	84,0
+Rosemere Gomes de S. Prates	86,0
+Rosiane Freitas Moreira	68,0
+Sabrina Modenese Schwab	70,0
+Sandra Helena de Souza	71,0
+Silmara Pancieri de O. Alvarenga	76,0
+Silvia Portugal M. Casotti Vidaurre	73,0
+Sônia Maria Alves A. Rabello	79,5
+Suely Zanetti Brioschi Vieira	71,5
+Suselle Souza Pontes Melotti	63,0
+Sylvio Rogério de O. Neves	73,0
+Taíse Negrelli Vieira	69,0
+Tamir Cristiane da Silva Correia	58,0
+Tânia Gomes Martins de Aragão	57,5
+Tatiana Kerckhoff dos Santos	66,5
+Tercia Maria M. G. de Oliveira	82,1
+Thais Mulim D. da Silva	80,0
+Uderlaine dos Santos Menenguci	79,0
+Valdirene Mataveli Morais	78,0
+Valeria de Vasconcellos Schmidt	63,0
+Vanessa Faustini Pontes	80,0
+Vanessa Furlan	74,0
+Vera Lucia Fenyves Ferreira	72,0
+Vera Lucia Resende Marques	74,0
+Virginia Caetano Marques	71,0
+Virginia P. C. Branco Echandi	82,0
+Zilda J. Perpetuo Campos	72,0
+
+MÉDICO PROCTOLOGISTA
+Flavia Lemos Moura Ribeiro	68,0
+Isabel Cristina Andreatta Lemos Paulo	89,0
+Paula Moura Mendonça	85,5
+Simone Calmon Rangel	81,0
+Tadeu Marcus B. de Menezes	71,0
+
+MÉDICO PSIQUIATRA
+Bernardo Santos Carmo	89,0
+Claudia Maria Leal Coser	95,0
+Daniel Lira Martins	94,0
+Henrique Torres Neto	85,0
+Janine Alvarino Faé	82,0
+Lara Giovanka Menezes	84,0
+Leila Maria Farias	87,0
+Lícia Fabris Colodete Libanio	85,0
+Liziane Faria Nunes	77,0
+Roberto R. Pereira da Silva	69,0
+Romulo José Meia Azevedo	84,0
+
+MÉDICO REUMATOLOGISTA
+Camila Cuzzuol Pimentel	72,0
+Daniela Bergamim Pereira	82,0
+
+MÉDICO UROLOGISTA
+Alexander Hatsumura Casini	75,0
+Marcelo Zouain de Almeida	78,0
+Paulo Roberto F. de Oliveira	70,5
+
+CIRURGIÃO DENTISTA CLÍNICO
+Ademilde da Penha Faé	75,0
+Adriana Drummond de Aguiar	85,5
+Adriana Rezende da Silva	54,0
+Alessandra Almeida Candido	74,0
+Alessandra da Silva B. Bissoli	67,5
+Alexandre Eduardo Rios Lucas	74,0
+Alexandre Fernandes da Silva	88,0
+Aline Lima de Oliveira	70,0
+Aline Santos Malta	52,0
+Aloízio Azevedo	62,0
+Ana Angelica Beccalli	71,5
+Ana Cláudia Ferreira Rabelo	56,5
+Ana Cláudia N. Del’Antonio	76,0
+Ana Cristina B. de Barros Pretti	75,1
+Ana Laura de Oliveira Fagundes	84,5
+Ana Laurita Nunes Maia	64,0
+Ana Lúcia Oliveira Keil	59,0
+Ana Maria Cezana	89,0
+Ana Paula da Silva Ramos	89,1
+André do Espírito Santo Dumas	66,0
+Andrea C. Coppo Scaramussa	67,0
+Andrea Franco da C. P. da Cruz	66,5
+Andreia Loures R. P. Barreto	79,0
+Andreia Vasconcellos Marim	64,0
+Andressa Frossard Rasseli	68,0
+Andreza Kaliff Pontes	58,0
+Ângela Maria G. dos S. Martins	77,0
+Aniella Cristina S. Gonçalves	72,0
+Arlene Pereira David	85,5
+Augusto Cesar Leite Fernandes	58,0
+Bárbara Pessôa da Silva	56,0
+Bernardo Wruck Kuster	56,0
+Betina Maria de Lima Oliveira	61,1
+Bianca Mataveli Vimercati	74,0
+Bianca N. da S. Barros Souza	80,0
+Bianca Ruschi de Aragão	80,5
+Bianca T. M. de Oliveira	64,0
+Brígida Franco Sampaio	76,0
+Bruna Pereira Silva	74,0
+Bruna Santos Fiorott	70,0
+Bruno Barreto	71,5
+Bruno Daleprane	66,0
+Bruno Machado Xavier	64,0
+Bruno Ribeiro Vieira	66,0
+Camila Melo Cabral	65,5
+Camilla Cabral Perpetuo Soares	66,0
+Carla Ferrari Batista Martins	83,5
+Carlos Andre Fabres	60,0
+Carlos H. V. G. de Sá Filho	77,5
+Carlos Roberto Augusto	67,0
+Carolina Dutra Degli Esposti	72,0
+Cecilia Regina Silva Botão	68,1
+Celio Carvalho de Alencar	69,0
+Christian Acácio Spagnol	67,0
+Christiane Pinto Rosa	83,0
+Cínthia Ornellas Menezes	70,0
+Cíntia Matos de Almeida	66,0
+Clara Beltrão Marangoni	74,0
+Clarice de Souza Gonçalves	54,0
+Claudio Cysne Rodrigues	60,0
+Cláudio Santos Almeida	81,1
+Clícia Giesen Falcão	76,1
+Clirene da Silva G. Carreira	81,0
+Conceição Cecilia M. P. Santos	75,0
+Cristiane dos Santos N. Barcellos	87,1
+Cristiane Sant’Ana Zucoloto	68,0
+Cynthia Santos Lorencini	78,0
+Daizy Guedes de C. Stikan	54,0
+Daniela Garayp Mussi	79,1
+Daniele Petri de Bortolo	84,1
+Danielle Karla G. Santos	70,0
+Dayse Freire Rocha	66,1
+Denilson Guimarães de Oliveira	74,0
+Denise Oliveira Freitas	69,1
+Dilma Solange Mariani	56,0
+Dilzemar A. Vianna Carbone	71,1
+Diogo Favarato Loureiro	66,0
+Dulce A. Chaves Bizarro	54,0
+Edson T. dos Santos Neto	66,0
+Eduardo Filipe da Paz Scardua	68,5
+Eduardo Oliveira Gomes	66,0
+Egidio Davilla Junior	85,5
+Elia Marcia Vieira da Silva	71,5
+Elissa Frauches Dalla	66,0
+Emanuela de Souza Moreira	60,0
+Eric Regattieri	71,0
+Erika Almada	71,5
+Estevão Duarte Guio	52,0
+Eva Elaine Lima Cestari Peixoto	68,0
+Fabiana Cristina Siqueira	77,1
+Fabiana de Freitas B. Nunes	62,5
+Fabiola Bof de Andrade	74,1
+Fabiola Pasolini	56,0
+Fabiula Francisca B. Torres	60,0
+Fabyana Vieira Correa	62,5
+Felipe Varanda Dadalto	52,0
+Fernanda Azevedo da Rocha	54,0
+Fernanda Bonard de Morais	85,1
+Fernanda Reis Vilela	60,0
+Fernanda Rocha Bessa	70,0
+Flavia Abib Gama	58,0
+Flavia Bittencourt Pazinatto	75,0
+Flávia Carneiro B. de S. Schwab	91,1
+Flávia Ludmila Rocha Barbosa	56,0
+Flavia Machado Imperial	75,1
+Flávia Maria Gomes Littig	74,0
+Flavia Maria Zon Rody	71,0
+Flávia Vilarino Esteves	60,0
+Flávio Galavotti Carraretto	70,0
+Flavio Gomes Lima	58,0
+Flávio Lima Lino	58,0
+Flávio Salomão Miranda	66,0
+Florisa Moraes C. de Almeida	78,5
+Francelina Santos Passos	66,0
+Francine Gama Martins	68,0
+Francis Cazelli Thompson	72,0
+Francisco Izaias Caliman	65,0
+Francisco José R. Alvarenga	58,0
+Francisco Santana M. Girão	68,0
+Gabriela Corrêa de Carli Ramos	66,0
+Gabriela Mayrink Gonçalves	70,0
+Geovanna Dalvi Bergamini	75,5
+Giles Grolla Alonso	72,0
+Giovana Teresa Fachetti Ribeiro	79,5
+Giovanna de Deus Cordeiro	76,0
+Giovanna T. P. da Silva Portugal	62,5
+Giovanna Thebaldi da Silva	77,5
+Gisele Maria M. da Matta	73,5
+Gisele Stelzer Cometti	69,5
+Gustavo Favarato Ruy	69,5
+Gustavo Lopes Macedo	63,5
+Gustavo Vital de Mendonça	78,5
+Hans Erich Fundão Schmitz	63,5
+Heloisa Helena D. C. Amorim	81,1
+Heloisa Toniato	65,1
+Heron Euclydes Olmo Freitas	50,0
+Hosana Aída S. M. da Cunha	62,1
+Hosana Maria B. Paulino	63,1
+Hudson Geraldo R. da M. Fonseca	64,0
+Iara Ermelinda Nascimento	56,0
+Ingrid Loureiro Almeida Stelzer	75,5
+Irene Merçon	52,0
+Isabela Caixão L. da Silva	46,0
+Ivana Calmon M. Carvalhaes	60,0
+Ivy Rodrigues Merçon	84,0
+Iza Maria de Vita Maciel	85,0
+Izabel Christina M. de Jesus	87,1
+Izequiel David Baldotto	58,0
+Jackson Gasparini Martins	71,5
+Janaina Tiberio Gomes Queiroz	81,1
+Janine Machado Benevides	70,5
+Jenniffer Syreetta de O. Spelta	64,0
+João Sylla Macedo F. Filho	62,5
+Jocarly Martins de Aguiar	67,0
+Jordana Pissigate S. Saloto	77,0
+José Carlos Barreto Junior	83,0
+José Carlos Nunes Paixão	63,1
+José Henrique Sartorio Medina	61,0
+José Maria de O. Junior	63,0
+Juarez Francisco G. de Andrade	54,0
+Jucéia Maria Gomes	81,0
+Julia Rocha Moraes	62,0
+Juliana Falqueto Ferreira	64,0
+Juliana Malacarne Zanon	74,5
+Juliana Miguel Pernambuco	80,5
+Juliana Pelinsari Lana	70,1
+Juliana Sant’Anna de Oliveira	70,1
+Juliana Santos B. de Almeida	87,1
+Juliana Santos de Sá	60,0
+Juliano Cassio Valbuza	64,0
+Juliano Regis Barbosa	54,0
+Julieta Araujo dos Santos	65,5
+Jussara Gimenes de Faria	61,1
+Karina Cuzzuol Alves	66,5
+Karla Butilheiro Silva	73,1
+Karla Mendes Pimentel	69,5
+Karlla Assad da Silva	84,5
+Karol Loureiro Cuzzuol da Rosa	70,1
+Kathia Marx Sander	63,0
+Katia Hulle Martins	68,5
+Katia Marques Barbosa	71,5
+Katia Pimentel Fardin	64,0
+Kellen Belizário	61,1
+Kelly Ghidetti Spinasse	60,0
+Kerstin Pignaton Rodrigues	74,0
+Kristiane Machado Prezotti	64,5
+Lea Paula Pagani Rodrigues	52,0
+Leandro Bortolotti Scarpato	58,0
+Leandro de Souza	64,0
+Leandro de Souza Pausen	78,0
+Leda Agostini Ferreira Pedreira	63,5
+Leila Carmen Bueno	75,5
+Leonardo Alves Pereira	72,5
+Leonardo Neves Dias	58,0
+Leonardo Pagani Rodrigues	54,0
+Leonardo Pelição Fernandes	62,0
+Leonardo Ribeiro P. dos Santos	64,0
+Leonidas Guimarães Peyneau	66,0
+Leticia Leal Mendonça	68,0
+Letícia Mainardi Motta	74,0
+Licya da Penha P. O. Pinciara	70,0
+Livia Fernandes Probst	84,1
+Lorena da Rós Gonçalves	72,5
+Lorena Vasconcelos Batista	52,0
+Lubieska Rangel Zanon	69,5
+Lucia de Fatima R. Correa	65,1
+Luciana Corrêa Miranda Malini	77,5
+Luciana de Lima M. Saiter	70,0
+Luciana Marciana Vilela	68,0
+Luciana Martins Nogueira	70,0
+Luciano Franklin S. do Carmo	79,5
+Luciene Felipe	81,5
+Lucienne Toledo Pereira Torres	79,0
+Lucilene Maria G. da Cunha	73,5
+Ludimila Saiter Assis	70,5
+Luiz Gustavo Cardoso Izoton	60,0
+Mara Lucia Perini D. Costa	64,0
+Marcela Barreira Collodetti	73,1
+Marcela Bussular Barcelos	74,0
+Marcela Vettore Saretta	64,5
+Marcia Naomi Shigetomi	79,0
+Márcia Tesch Benincá	77,1
+Marcio Serafim Pereira	80,1
+Marcos Anderson Costa	84,5
+Marcos Antonio de Almeida	64,0
+Marcos Antonio Delboni	62,0
+Marcos Vinicius Guerra Lopes	66,0
+Marcus M. Haddad Kury	54,0
+Maria da Conceição Hott Celga	61,0
+Maria da Penha França Pereira	75,0
+Maria da P. Giurizatto de Araujo	76,0
+Maria da Penha G. de Paula	65,1
+Maria de Fatima Souza da Silva	72,0
+Maria Ines Cabral Passoni	77,5
+Maria Isabel Vieira Lima	65,5
+Maria Olivia Pedrosa Valli	63,0
+Maria Valeria Nunes Pimentel	71,1
+Mariana Lordello Buaiz	74,5
+Marilza Barcelos Melotti	62,0
+Marilza Cotta Lovatti Mancini	73,5
+Mario Augusto Favarato Ruy	65,5
+Maristela Caliman Tesch	75,1
+Martha Lucia de Oliveira	77,1
+Matheus Alves Junior	58,0
+Mauro Azevedo Schneider	57,5
+Maxsander Largura Gineli	72,0
+Melina Guimarães Terra	60,0
+Melissa Brandão Bravin	62,0
+Mirela Tamanini Rosi	72,1
+Mirella Castro Sathler	54,0
+Mirella Késia Machado	83,5
+Monica Rocha Gonçalves	71,0
+Nadia Maria Guimarães Monteiro	81,5
+Nara Paterlini Marques	83,0
+Natalia de Sousa Ribeiro	66,5
+Nathalie Soares Alves	62,0
+Nelson Faé Junior	71,5
+Nicole Oliveira Ribeiro Pereira	73,1
+Nilza de Castro Rocha	60,1
+Olivia Almenara Cruz Pereira	65,0
+Onaldo Gomes Simões	73,1
+Onofre A. Aguiar Miranda	52,0
+Pablo Santos de Oliveira	56,0
+Paloma Cristina de F. Azevedo	66,0
+Patricia Machado Kuster	71,0
+Patrícia Manhães Monteiro	66,0
+Patricia Morais de Souza	63,1
+Patrícia Teixeira Machado	87,5
+Patrick Cunha Ferreira	70,5
+Paula Baião Nemer	64,0
+Paula Cristina Venturini Delboni	74,0
+Paula de Paula	69,5
+Paula Rezende Perini	85,5
+Paula Roberta Balestreiro	58,0
+Priscila Cedro dos Santos	70,0
+Priscila Marily de S. Simões	64,0
+Priscila Pinheiro Damião	56,5
+Rachel Gallo Vieira	69,1
+Rafael Amado Silva	58,0
+Rafaela das Mercês Batista	64,5
+Rafaela Rodrigues Lube	68,0
+Raphaela Guilhen de Souza	72,0
+Raphaela Lima Biasutti	61,1
+Raquel Pezzodipane Ervatti	71,5
+Raqueli Fagundes B. e Silva	46,0
+Renata Aguiar José	70,5
+Renata de Oliveira Santos	73,0
+Renata Duarte	72,0
+Richardson Kiffer de Menezes	73,0
+Rita de Cássia de A. Guerzet	67,5
+Rita de Cassia G. Ganimi	78,5
+Roberta Destefani Faitanin	80,1
+Robertha Ribeiro Barcelos	64,5
+Roberto Luiz Guaitolini	68,0
+Robson Pupa Xavier	77,0
+Rodrigo Rosa Intra	66,0
+Rogerio Nunes Pereira	75,5
+Rosana Lucia Arminio	69,5
+Rosanne Feitosa E. S. Sarmento	74,1
+Sabrina Abreu Coelho	74,0
+Sabrina Chaim Biavati	74,5
+Sabrina Coppo Santos	76,0
+Sabrina Gonçalves Teixeira	58,0
+Sabrina Souza Machado	73,5
+Sabrine Martins Denti	67,1
+Sandra Lúcia V. Von Zeidler	74,0
+Sandra Maria V. P. Negreiros	64,0
+Sandra Maria Ventorim	69,5
+Sebastião Alves Botêlho	70,0
+Sebastião Catarino Coutinho	59,0
+Selma Helena Contesini Zugliani	66,0
+Sheila Stein Alves	69,5
+Silvania Vicente Correa Viana	66,0
+Silvia Helena G. Rodrigues	63,0
+Silvia Mara Tozetti	64,0
+Simone de Oliveira E. Fernandes	56,0
+Simone de Paula Cunha	77,1
+Simone Folador Bergamaschi	81,0
+Simone Gottardi Ventura	73,0
+Simone Pereira das Posses	66,0
+Singrid Melo Saliba	69,0
+Taísa Maia de Britto Cunha	87,0
+Talita Pires Gumz	70,0
+Talita Yumiko Matsunaga	74,1
+Tarcisio Frizzera Matos	79,0
+Tatiany Bertollo Cozer	66,1
+Terezinha Netto Có	62,0
+Thais Santana Pagoto	60,0
+Uilzeni Nogueira Soares	65,0
+Valéria Alcantara Duque da Silva	72,5
+Vanesa Milanezi	74,0
+Vanessa Amorim C. de Jesus	68,0
+Vanessa Matos de S. Freitas	81,5
+Vania Marcia Rohr Machado	52,0
+Vinícius Campos Daúde Pereira	62,0
+Virginia Maria Fraga	71,0
+Viviane Souza Diniz	60,1
+Wagner Scherrer L. Goulart	75,0
+Wallace Antonio Caires	77,5
+Walmir Filho D. de Lima	58,0
+Warley Fernandes de Souza	70,0
+Welinton Lemos Rumão	66,0
+Ygor Rodrigues Maciel	44,0
+
+CIRURGIÃO DENTISTA ENDODONTISTA
+Adriana Perini de Almeida	87,1
+Alessandra Cristina Maia Silva	72,1
+Aline Cypreste Oliveira	58,0
+Ana Cecília T. Figueiredo	90,1
+Ana Cláudia C. Alvarenga	71,5
+Ana Paula Rocha Vitali	89,1
+André Henrique Gomes	59,0
+Andréa Gomes Sobral	75,0
+Breno Ribeiro Fontes	64,0
+Carla Maria Silva Barbosa	81,0
+Carlos Roberto Roldi	80,0
+Claudia Martins Castro	91,1
+Débora Guasti Pinto Vianna	83,0
+Druziany Maria Sepulcri	59,1
+Edi Wagner Sasake	67,0
+Eduardo Assis Ottoni	75,0
+Fabiana Lemos Encarnação	71,0
+Fernando Barbosa	72,0
+Flavia de F. Zanon Oliveira Có	65,1
+Flavia Lima Lyrio	70,1
+Giani Bastos Bandeira	64,0
+Helton Roberti Borges	50,5
+Ignez Martins Fialho	93,0
+Izabelle H. Gomes Maciel	68,5
+Jacqueline Carvalho Barbosa	92,5
+Jailson Vitali	67,0
+Joziana Beceveli Passos	70,1
+Juliana Machado Barroso	58,0
+Julimaya Nogueira Pereira	75,1
+Julio Marco Mainenti Rosalem	62,0
+Jussara T. Gaigher Macarenco	73,1
+Katia Corradi F. Brandão	69,1
+Larisse Barbosa G. Pedroni	64,0
+Lícia Baião Duemke	77,0
+Luiza Busatto Fernandes Moça	91,5
+Maira Monteiro da Cruz	58,0
+Márcia Couto Nogueira	85,0
+Mariana Ferreira Ribeiro	69,1
+Mariangela Ludolf Machado	75,5
+Martha Pacanhã	71,0
+Michelle Zippinotte Vionet	64,0
+Mônica F. Coelho Ceotto	85,0
+Monica Pinto Santos	72,0
+Narciely Borges Siqueira	97,1
+Paula Campanha Scardini	73,1
+Paula Fernandes	72,0
+Priscilla Caran Contarato	79,1
+Raquel S. Gomes Oliveira	89,0
+Regina Fátima Oliveira Brasil	75,0
+Rejane Tannure L. da Fonseca	69,0
+Renato Luiz Carpanedo	69,0
+Roberta Ferraz T. Wakasugui	83,0
+Roberta Melo Vello	85,1
+Roberta Ramos J. Olimpio	56,0
+Rosangela S. de M. e Ávila	62,0
+Sandro de Almeida Fernandes	67,0
+Sonia Regina Loss	81,0
+Tamara Alves Faiçal	68,1
+Tatiana dos Santos Zambon	60,0
+Teresa Cristina S. B. Bergamim	77,1
+Tereza Jacy da Silva Almeida	56,0
+Valeria Cysne Rodrigues	66,1
+Vanessa Carvalho Amaral	87,5
+Vanessa Melotti	68,5
+
+CIRURGIÃO DENTISTA CIRURGIA BUCAL
+Adilson Moreira Valory Júnior	54,0
+Aguimar de Matos Bourguignon Filho	70,5
+Claudete Teixeira Ganda	65,5
+Flávia Altoé Zampirolli	54,0
+Grace Benedita de C. Martins	75,5
+José Francisco Araujo de Castro	60,0
+Josias Tomazini Benincá	64,0
+Ligia Buloto Schmitd	74,0
+Luiz Fernando de O. Salvador	61,5
+Luiz Rodrigo Côrtes Lopes	59,5
+Marcelo Antonio B. dos Santos	72,0
+Rafael Vago Cypriano	74,5
+Renata Pittella Cançado	70,0
+Roberta Souza Meirelles	66,0
+Rossiene Motta Bertollo	76,0
+Thaiz Carrera Arrabal Fernandes	74,0
+Thiago F. de Oliveira	54,0
+
+CIRURGIÃO DENTISTA PERIODONTISTA
+Adilson Barbosa de Assis	69,0
+Alessandra Luzia P. Barcelos	61,1
+Arildo Saulo Costa Couzzi	73,0
+Bianca Ribeiro Ceotto	73,1
+Bruno Araujo Ramalho	91,5
+Camila Tannure Firme	72,5
+Carla Gomes Martins	89,0
+Carlos Wagner Daher Santos	58,0
+Catia A . S. Bueno Pereira	77,0 <br><br><hr>
+Data da Publicação: 14/11/2006 - Pagina: 23 <br>
+Editoria: Concursos <br><br>

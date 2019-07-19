@@ -1,0 +1,44 @@
+Torpedos SMS no Messenger
+<b> Novidade permite a troca
+de mensagens de texto
+entre o computador
+e os aparelhos celulares </b><br>
+ <br>
+Agora, os usuários da versão 7.5 ou superior do MSN Messenger podem cadastrar seu número de celular no aplicativo e assim passar a enviar e receber mensagens do computador para o celular. Toda vez que um contato cadastrado sair do Messenger seu status será automaticamente mudado para “móvel.
+A novidade é fruto de uma parceria entre o MSN com as operadoras Vivo, Claro e TIM. Batizado como MSN Mobile Messaging, o serviço permite a troca de mensagens de texto entre o MSN Messenger e aparelhos celulares.
+“De agora em diante, os nossos usuários podem estar on-line em qualquer lugar, a qualquer momento e para quem realmente interessa”, comenta o diretor do MSN para o Brasil e América do Sul,
+Osvaldo Barbosa de Oliveira.
+Segundo dados da Agência Nacional de Telecomunicações (Anatel), atualmente cerca de 90 milhões de telefones celulares são utilizados no Brasil. A base do MSN Messenger no País já atinge 18,7 milhões de pessoas.
+Esse universo de celulares envia, em média, 600 milhões de Torpedos SMS por mês, enquanto, diariamente, mais de 600 milhões de mensagens são trocadas por meio do programa de comunicação instantâneo somente no Brasil. Estudos da consultoria Teleco indicam que, até 2010, o Brasil terá 170 milhões de celulares em operação.
+Para as operadoras de telefonia celular, o MSN Mobile Messaging representa um importante passo dentro do setor de telecomunicaões.
+De acordo com o diretor de serviços de valor agregado da Claro, Marco Quatorze, um dos principais objetivos do Claro Idéias, guarda-chuva de serviços e conteúdos para celulares da operadora, é proporcionar interatividade e relacionamento. “O MSN Messenger é o que melhor representa tudo isso junto ao nosso público-alvo: os jovens”, destaca Quatorze.
+Segundo o gerente de Oferta P2P e Dados da TIM, Massimo Brizi, o Torpedo SMS do Messenger trará mais uma opção de serviços a milhões de usuários do MSN Messenger que agora poderão manter-se sempre on-line por mensagens de texto com seus grupos de amigos. “Podemos oferecer agora ainda mais integração por meio da convergência entre internet e celular”, afirma Brizi.
+Para o diretor de Produtos e Serviços da Vivo, Alexandre Fernandes, esta parceria é estratégica e gera sinergia para ambas as partes.
+O serviço de torpedos SMS do MSN Messenger utiliza a tecnologia da Yavox – empresa integradora de soluções para o mercado de transmissão de dados por telefonia celular.
+O serviço é cobrado na conta do telefone celular do cliente que enviar a mensagem e custa R$ 0,31 mais impostos. Para utilizar, basta cadastrar o seu telefone celular e iniciar as conversas com seus amigos que estiverem “móveis”.
+Depois de feito o cadastro no serviço você nunca mais aparecerá “off-line”. De agora em diante, quando desconectado da internet, você será sempre um contato móvel.
+
+
+Saiba mais
+1. Antes de enviar a primeira mensagem a um contato móvel, o MSN Messenger solicitará que o usuário concorde com a cobrança, informe o número do celular, e sua operadora para habilitar o serviço.
+2. Para tornar um contato móvel basta cadastrar o número do telefone celular dos seus amigos no MSN Messenger, por meio da função “Editar contato” ou ao adicionar um novo usuário. Se eles já estiverem cadastrados no serviço, você nem precisará editá-los porque sempre que estiverem “off-line” aparecerão como “móveis.
+3. A mensagem aparecerá no celular do usuário como se fosse um Torpedo SMS e poderá ser respondida direto para a janela da conversa do MSN Messenger.
+4. As conversas só podem ser iniciadas por meio do MSN Messenger.
+
+
+Plugados desde pequenos
+
+As crianças na faixa etária de 4 a 14 anos estão começando a usar dispositivos eletrônicos seis meses mais cedo do que em 2005. A informação foi revelada por uma pesquisa do NPD Group, concluída no mês de maio nos Estados Unidos.
+A pesquisa, que é uma continuação de um estudo similar realizado no ano passado, mostrou ainda que o número de crianças que possuem tocadores de música digital e câmeras fotográficas digitais dobrou em relação a 2005, enquanto o volume de proprietários de celulares cresceu 50%.
+O estudo mostra que, em geral, as crianças já possuem em suas casas PCs e DVD players, e o que tem maior potencial de crescimento são os aparelhos portáteis.
+
+
+Linux na palma da mão
+Um grupo com empresas de telefonia móvel e operadoras está lançando uma fundação para criar uma plataforma de código livre baseada em Linux para aparelhos móveis.
+O grupo, que inclui Motorola, Vodafone, NTT DoCoMo, Samsung, NEC e Panasonic, planeja se focar no desenvolvimento e marketing da arquitetura, referência de código e especificações de uma API.
+“A criação de uma plataforma em comum pode ajudar a aumentar o crescimento de Linux em telefones”, afirma o analista da Ovum, Tony Cripps.
+Os telefones Linux no mercado usam uma única especificação, tornando mais difícil para os desenvolvedores criarem aplicações que possam trabalhar com diversos aparelhos.
+“A falta de uma abordagem aberta e comum significa também que os equipamentos com Linux ainda não conseguiram competir diretamente com os principais sistemas operacinais móveis da Symbian ou da Microsoft, cada um concentrando um ecossistema de aplicações”, explica Cripps.
+A presença de operadoras como Vodafone e NTT DoCoMo, que revendem grandes quantidades de aparelhos, é significante. Se uma operadora grande e influente como a VodaFone adotar aparelhos com Linux baseados nesta nova plataforma, então operadoras menores podem se interessar pelos mesmos telefones celulares. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 27 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,24 @@
+Novo mapa da genética humana
+<b> Cientistas estão fazendo
+comparações entre genes
+de pessoas que vivem em
+vários lugares do mundo </b><br>
+ <br>
+Uma equipe internacional de cientistas apresentou ontem um novo mapa da genética humana, um “livro da vida”, que preenche importantes páginas e capítulos para explicar como os genes estão envolvidos em doenças comuns.
+Em vez de mostrar variações individuais do DNA humano, que tornam as pessoas únicas, o mapa examina as diferenças nas duplicações e apagamentos de grandes segmentos de DNA, conhecidos como variantes do número de cópia (CNVs, na sigla em inglês), o que pode ajudar a explicar o motivo de algumas pessoas serem suscetíveis a doenças como a Aids e outras não.
+“Somos uma colcha de retalhos de seqüências, ganhos e perdas de DNA”, disse Charles Lee, da Escola Médica de Harvard, em entrevista à imprensa.
+Cientistas de mais de 12 institutos de todo o mundo identificaram cerca de 3.000 genes com variações em algumas cópias de segmentos específicos do DNA. As mudanças podem influenciar a atividade dos genes e a suscetibilidade a doenças.
+O Projeto Genoma Humano mapeou os bilhões de letras que compõem o código genético humano. Cientistas posteriormente refinaram o mapa buscando variações individuais, chamadas SNPs, no arranjo dessas letras que tornam cada indivíduo único.
+O mapa das CNVs dá aos pesquisadores uma nova forma de examinar os genes ligados a doenças, ao identificar ganhos, perdas e alterações no genoma.
+“A variação do número de cópia é complexa. Há tipos diferentes”, disse Matthew Hurles, do Instituto Wellcome Trust Sanger, da Inglaterra.
+“Além dos apagamentos e duplicações, há formas mais complexas, em que um gene pode estar presente em um indivíduo em múltiplas cópias, num arranjo conjugado”, disse ele aos jornalistas.
+A resistência ao vírus da Aids, por exemplo, é provocada em parte por múltiplas cópias do gene CCL3L1, que não aparece num mapa de SNPs.
+
+Doenças investigadas
+
+Os cientistas, cujas conclusões estão nas revistas Nature, Nature Genomics e Genome Research, compilaram o mapa de CNVs comparando o DNA de 270 pessoas saudáveis na China, no Japão, na Nigéria e nos Estados Unidos.
+O grupo identificou 1.447 CNVs diferentes, que abrangiam cerca de 12% do genoma humano. Cerca de 285 deles estavam associados a doenças. A duplicação da CNV está ligada à esquizofrenia, psoríase, doenças coronarianas e cataratas congênitas.
+“Com essas novas ferramentas, nós e nossos colegas clínicos poderemos encontrar apagamentos ou duplicações antes indetectáveis do genoma em um paciente. O mapa de CNVs agora nos permite identificar quais dessas mudanças são únicas para a doença”, disse Nigel Carter, do Well Trust Sanger.
+Os cientistas também desenvolveram um banco de dados chamado Decipher, pelo qual cientistas de todo o mundo poderão colocar na Internet dados sobre CNVs de pacientes. <br><br><hr>
+Data da Publicação: 23/11/2006 - Pagina: 42 <br>
+Editoria: Ciência e Tecnologia <br><br>

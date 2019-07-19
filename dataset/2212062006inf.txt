@@ -1,0 +1,18 @@
+Nova onda de e-mails falsos
+<b> Quadrilhas especializadas em
+crimes digitais usam o nome
+da Receita Federal para
+aplicar golpes on-line </b><br>
+ <br>
+A Receita Federal mais uma vez é vítima de cybercriminosos. Mas a instituição alerta novamente que não envia correspondência eletrônica sem autorização do contribuinte e nem autoriza nenhuma empresa parceira ou conveniada a desenvolver essa medida.
+Uma nota publicada no site da Receita Federal afirma que quadrilhas especializadas em crimes on-line estão enviando mensagens falsas com o objetivo de conseguir informações fiscais, cadastrais e financeiras dos contribuintes.
+Os usuários devem ficar bem atentos, pois os fraudadores usam de criatividade e invocam a urgência. Segundo a nota, as mensagens possuem nomes e timbres oficiais do órgão.
+Uma das táticas é dizer que o CPF está cancelado ou irregular ou que a declaração de Imposto de Renda possui erros e deve ser enviada uma retificação, entre outras armadilhas.
+Nomes de outras instituições estão sendo utilizados para crimes na web. Todos direcionam o usuário a informar dados sigilosos ou clicar em links com vírus. O consultor em Tecnologia da ITNet, empresa que atua no ramo de Segurança da Informação, Ricardo Biccas, recomenda aos usuários a desconfiarem sempre.
+“Antes de abrir uma correspondência eletrônica, é importante se certificar antes de abrir. Além disso, manter o antivírus atualizado é fundamental”, aconselha Ricardo.
+Antes de abrir um e-mail é preciso estar atento não apenas ao remetente. Uma dica da ITNet é copiar tudo que tiver escrito depois do arroba (@) e tentar abrir esse endereço no navegador da internet. Se não abrir, é bem provável que seja domínio falso.
+“Se o site parecer confiável, pode até valer a pena continuar com a verificação. Mas cuidado ao entrar em sites suspeitos. Mantenha seu antivírus sempre ligado e atualizado ao acessar sites estranhos”, comenta Biccas.
+Para quem teve o computador infectado, a orientação é entrar no site da Symantec (www.symantec.com.br) e procurar o procedimento de remoção do vírus. 
+Um especialista deve ser chamado, caso o internauta não tenha conhecimento técnico sobre o assunto.  <br><br><hr>
+Data da Publicação: 12/06/2006 - Pagina: 22 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,20 @@
+Cuidado com o Kamasutra
+<b> Sugerindo conteúdo pornográfico
+e piadas de conotação sexual,
+vírus Kamasutra provoca
+pane na rede </b><br>
+ <br>
+Alerta aos usuários! A Microsoft divulgou o ataque de mais um novo vírus em seu sistema: o Kamasutra. Também conhecida como Nyxem, a praga está circulando desde a segunda quinzena de janeiro e está programada para destruir vários arquivos.
+A praga, cujo nome técnico é W32/Nyxem-E, chega num e-mail com assuntos sugestivos, como “Miss Lebanon 2006”, e um texto que promete referências ao “Kamasutra”, o antigo livro indiano de posições sexuais.
+“Além do usuário perder grande parte dos seus dados, esse vírus também desativa o teclado e o mouse, deixando o sistema inutilizável”, alerta o analista sênior de ameaças da Trend Micro, Jamz Yaneza. 
+A empresa destacou que é pouco provável que o ataque afete um grande número de usuários, que, de modo geral, possuem mecanismos de proteção. No entanto, as companhias também podem ser afetadas devido a um aumento do tráfego na rede. 
+“Este vírus se alimenta da vontade das pessoas de acessarem conteúdo sexual em seus computadores”, ressalta Graham Cluley, da Sophos.
+O vírus se cópia a si mesmo e se reenvia utilizando para isso a agenda de direções do usuário. Os especialistas predizem que a praga apaga alguns arquivos dos computadores infectados, entre eles documentos do Office.
+O alerta da Microsoft aconselha que seus clientes utilizem qualquer antivírus atualizado, já que a maioria deles já detecta o vírus, e tomem cuidado ao abrir anexos de e-mails com origem desconhecida.
+De acordo com um comunicado publicado no site da empresa. o ataque é muito mais limitado do que se fala e ainda não alcançou a casa dos milhões, embora esteja sendo noticiado que o worm infectou milhões de computadores.
+Na verdade, vários especialistas em segurança acreditam que a ameaça Nyxem está sendo superestimada. “Foi dada mais atenção ao fato do que mereceria”, disse o analista sênior de segurança da informação da Cybertrust, Russ Cooper.
+Para o especialista, o que atraiu o interesse da mídia foi o comportamento agressivo do worm – que possui comandos para destruição de arquivos – e os relatórios exaltados sobre as infecções.
+A Trend Micro também informou que a praga propaga-se da seguinte maneira: anexa uma cópia de si mesmo na mensagem de e-mail, a qual envia para endereços eletrônicos, utilizando a técnica de engenharia social. Além disso, ele atrai a atenção do usuário ao prometer fotos, conteúdo pornográfico ou piadas.
+“Embora esse vírus utilize técnicas comuns de propagação, o código propriamente dito não é nada comum. Trata-se de um vírus destrutivo que apaga e substitui qualquer número de arquivos presentes no sistema da máquina do usuário, visando os formatos de arquivos mais conhecidos que incluem: .DOC, .XLS, .PPT, .PDF e .ZIP, afirma o analista sênior de ameaças da Trend Micro, Jamz Yaneza. <br><br><hr>
+Data da Publicação: 06/02/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

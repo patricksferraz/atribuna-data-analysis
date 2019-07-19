@@ -1,0 +1,14 @@
+O futuro da televisão
+<b> Sistema digital vai transformar a TV em portal
+de serviços de vídeo, comunicação e internet  </b><br>
+ <br>
+Está próximo o dia em que você vai ligar a TV e será possível inserir nela aplicativos de comunicação e entretenimento para ter acesso a serviços como vídeo telefonia, vídeo mensagem, jogos on-line com múltiplos jogadores, internet TV, guia eletrônico, áudio e vídeo sob demanda, e-mails, mensagens (SMS/MMS) via TV, e muito mais.
+O revolucionário sistema digital de aplicativos é uma novidade da Siemens, que vai permitir que a televisão doméstica seja um portal de entrada interativa, via banda larga, de serviços avançados triple-play (vídeo-telefonia-internet).
+O sistema já está disponível para as operadoras oferecerem aos usuários, via banda larga. Para a operação do sistema, é necessário um conversor set-top box conectado a qualquer acesso banda larga e um televisor convencional. Todos os serviços on-line operam via Internet Protocol (IP) e a operadora controla a qualidade de serviços (QoS) para garantir largura de banda necessária para o fornecimento serviços multimídia sem problemas na transmissão.
+ O produto foi apresentado ao público durante a Feira e Congresso de Televisão por Assinatura, ABTA 2005. A empresa lançou o SURPASS Home Entertainment, sistema digital doméstico de aplicativos de multimídia sob demanda na tela da TV.
+Para se ter uma idéia, o sistema é capaz de executar serviços de controle dos dispositivos domésticos, segurança residencial remota e serviços de cuidado com a saúde (monitoração de equipamentos médicos conectados aos médicos) também podem ser oferecidos através da extensão para a solução SURPASS Smart Home.
+A Siemens estima que o mercado de serviços de entretenimento residencial vai ultrapassar a marca de 20 bilhões de euros até 2006. Hoje, em países da Europa, o usuário paga uma média de 94 euros por serviços de comunicação e entretenimento (telefonia, TV a cabo, internet, etc.).
+Segundo estudos da companhia, os usuários estão dispostos a pagar 30% a mais do que este valor para obter serviços adicionais em seus televisores. A vídeo telefonia, vídeo sob demanda e gravador de vídeo digital são os mais desejados.
+“O consumidor final poderá receber o benefício completo de seu acesso em banda larga no aparelho de TV”, comemora o consultor de Estratégias Tecnológicas, Marcos Kimura. <br><br><hr>
+Data da Publicação: 08/08/2005 - Pagina: 15 <br>
+Editoria: Informática <br><br>

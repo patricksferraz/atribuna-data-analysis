@@ -1,0 +1,26 @@
+TV digital não terá tudo que foi prometido
+<b> O ministro das Comunicações
+admitiu que os primeiros
+conversores não terão
+condições de interatividade </b><br>
+ <br>
+SÃO PAULO – A TV digital não deve ser interativa nem brasileira em sua estréia, prevista para 3 de dezembro de 2007.
+Na quinta-feira, durante o lançamento do Fórum do Sistema Brasileiro de Televisão Digital Terrestre (SBTVD-T), em São Paulo, o ministro das Comunicações, Hélio Costa, informou que os primeiros conversores, equipamentos que permitem receber o sinal digital em televisores analógicos, devem vir sem o middleware, software que garante a interatividade.
+O middleware é uma das principais inovações propostas pelos consórcios brasileiros que participaram da pesquisa contratada pelo governo.
+“O middleware é obrigatório, mas ainda não teremos a ferramenta para o ano que vem”, disse Costa. “Lá na frente ele será incorporado. O primeiro conversor será muito simples, e vai garantir a qualidade da imagem.”
+Costa garantiu que este conversor mais simples custará até R$ 100. “A Samsung garantiu que pode colocá-lo no mercado por US$ 43.”
+O ministro estima que o mercado de conversores, também chamado set-top boxes, irá movimentar R$ 9 bilhões em três anos.
+Os consórcios do SBTVD-T também recomendaram a adoção da tecnologia MPEG-4 para compressão de vídeo.
+Os sistemas internacionais, inclusive o japonês ISDB, escolhido pelo governo, usam uma versão anterior, chamada MPEG-2. Mas, na estréia, os conversores não devem ter MPEG-4. “Existe um problema de fabricação”, explicou Costa.
+“Os componentes com MPEG-4 só estarão disponíveis na Europa em meados de 2007.” Mas ele garantiu que o MPEG-4 será adotado posteriormente e que não haverá problema de compatibilidade.
+Sem middleware e sem MPEG-4, o sistema nipo-brasileiro será praticamente igual ao japonês.
+Diferentemente de Costa, o assessor especial da Casa Civil, André Barbosa Filho, garantiu que os conversores terão middleware.
+“O decreto 5820 diz que as inovações brasileiras são obrigatórias”, disse, referindo-se ao documento assinado pelo presidente Lula em 29 de junho. R.C. 
+
+Saiba mais
+
+•Middleware - Trata-se de um programa (software) que permite a interatividade com a TV. Ou seja, com ele, o usuário pode comprar produtos apresentados num programa, por exemplo.
+•CONVERSOR - É um aparelho, que deverá custar R$ 100 (segundo o governo), que permitirá que as TVs atuais recebam a tecnologia digital. Desta maneira, com a chegada da TV digital, o usuário não precisará comprar um novo aparelho.
+•MPEG - MPEG ou Moving Picture Experts Group são esquemas de codificação/decodificação de sinais digitais de vídeo nos quais a compressão é utilizada para aumentar a eficiência dos espaços disponíveis. O MPEG-2 é utilizado para o DVD, e na TV de alta definição (HDTV). <br><br><hr>
+Data da Publicação: 27/11/2006 - Pagina: 15 <br>
+Editoria: Política <br><br>

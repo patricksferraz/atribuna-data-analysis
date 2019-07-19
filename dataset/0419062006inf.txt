@@ -1,0 +1,61 @@
+Computador de parede
+<b> Novo PC acaba com a existência
+da CPU. Além de economizar
+espaço, a solução aumenta
+a segurança </b><br>
+ <br>
+Uma espécie de “mini-PC-embutido”. Esse é um dos novos computadores desenvolvidos pela empresa Chip PC. O Jack PC, é um  computador que pode ser integrado ao ambiente de trabalho. O que o moderno PC faz é suprimir a existência de uma CPU, normalmente colocada em gabinetes metálicos.
+Além de economizar espaço, a nova solução aumenta a segurança, já que ninguém pode colocar as mãos com facilidade nos componentes internos do computador. 
+O Jack PC (snurl.com/r94e) pode ser inserido como um interruptor na parede, na própria mesa de trabalho ou no chão, o que dá a ele extrema versatilidade de posicionamento e possibilita que grandes empresas coloquem dezenas de máquinas lado a lado, restando apenas conectar os periféricos básicos como mouse, monitor e teclado. 
+Em parceria com a AMD, desenvolvedora dos processadores Athlon, a Chip PC incluiu no aparelho um pequeno processador Au1550 Alchemy, desenvolvido especialmente para uso em ambientes de rede, em aplicações como gateways (responsáveis pela distribuição de recursos de internet dentro de uma rede), unidades de armazenamento, pontos de rede sem fio e aplicações VoIP.
+Uma das grandes vantagens do Au1550 é ter incluído um sistema de segurança que possui VPN escrito em hardware, que criptografa os dados transferidos através dele. 
+Disponível em três modelos, o Jack PC pode ter processamento entre 800 MHz e 1,2 GHz, e memória Flash/RAM entre 32 e 128 MB. Na versão mais potente, a EFI-6900, a placa integra sistema de vídeo DVI, que oferece até 1600 x 1200 pixels de resolução gráfica e a possibilidade de utilizar dois monitores.
+Todos os modelos possuem quatro portas USB 2.0, que permitem ligar periféricos extras como câmeras de vídeo, PDAs e câmeras digitais, por exemplo. 
+O baixo consumo de energia também é um atrativo da compacta CPU. As versões EFI-6800 e EFI-6900 possuem suporte à tecnologia Power Over Ethernet, ou PoE, que permite a transferência de dados e energia através do mesmo cabo de rede.
+Por eliminar a existência de uma fonte de alimentação, a PoE reduz o consumo para apenas 5 Watts, bem menos que uma lâmpada fluorescente acesa. 
+Mas, o Jack PC não é vantajoso para quem espera rodar jogos ou usar aplicações pesadas, principalmente por incluir uma versão compacta do Windows, o CE, muito utilizada em computadores de mão e outros dispositivos portáteis.
+Na realidade, ele foi criado para ser utilizado através de uma rede, onde um servidor central poderoso abastece diversas máquinas menores com recursos e programas, bem como armazena os arquivos de cada um de seus terminais. 
+A distribuição de recursos pelo servidor central, levando-os até os Jack PCs, é feita pelo também recém-lançado Xcalibur Global, um software gerenciador que permite configurar usuários de maneira simples em um sistema Windows, com sistema de quotas e suporte a milhares de usuários simultâneos. 
+O PC embutido faz parte da linha patenteada Flex-Jack, que além de computadores, possui sistema mais simples como saídas de rede e, futuramente, switches e pontos de acesso para redes sem fio. Em seu primeiro anúncio, feito em 2005, a empresa dizia que cada terminal custaria aproximadamente US$ 300. 
+Apesar do foco corporativo, nada impediria que o Jack PC fosse instalado em um ambiente doméstico, onde uma família quisesse distribuir recursos entre computadores de uma pequena rede.
+
+
+Para jogar
+Outra área que tem necessidades bastante específicas é a de games. Para os jogadores “profissionais”, aquele PC doméstico mais sofisticado já não é suficiente.
+Com jogos cada vez mais pesados, o usuário terá que investir em uma placa de vídeo potente, em poder de processamento e memória para ter um desempenho à altura das expectativas.
+Um bom monitor, de no mínimo 17 polegadas, também valoriza a experiência e permite aproveitar melhor o realismo proporcionado pelos games de última geração. Para montar uma estação adequada aos jogos mais pesados, o usuário terá um gasto inicial de cerca de R$ 3 mil.
+
+q Processador: Intel Pentium 4 530 (3.0 HT Prescott)
+q Memória: 1 GB 
+q Disco rígido: 80GB 
+q Placa mãe: Intel D915GUXL
+q Placa de vídeo: ATI Radeon X550 256MB PCI-E
+q Multimídia: DVD-RW 
+q Comunicação: modem 56 Kbps e placa de rede 10/100
+q Monitor: 17 polegadas tela plana
+q Periféricos: mouse e teclado
+q Preço médio: R$ 3.100,00
+
+
+Criação
+Na área de criação, a plataforma Mac é bastante difundida. Os profissionais deste meio precisam de computadores poderosos, que suportem as pesadas aplicações de edição de imagem, som e vídeo.
+Armazenamento é fundamental e nem sempre o disco rígido – mesmo um bastante amplo – é suficiente para estes usuários. 
+O poder de processamento também é uma questão que interfere na produtividade. Portanto, o chip escolhido fará a diferença no resultado final. As placas gráficas também são um quesito importante na área de criação.
+ 
+q Processador: 1.8 GHz G5
+q Memória: 256 MB
+q Disco rígido: 80GB
+q Placa de vídeo: GeForce FX 5200 Ultra
+q Multimídia: Super Drive
+q Monitor: 17 polegadas tela plana
+q Periféricos: Mouse e teclado
+q Preço médio: R$ 9.000,00  
+
+
+Games e entretenimento
+A Dell anunciou no começo do mês três computadores pessoais direcionados a usuários que estão dispostos a pagar mais para terem máquinas potentes para videogames e execução de músicas e vídeos. O vice-presidente sênior do grupo de produtos da Dell, Alex Gruzen, disse que o XPS M1210, XPS M2010 e XPS 700 são direcionados a um consumidor mais sofisticado. 
+A Dell tem aumentado a quantidade de modelos de PCs voltados para jogos, que exigem mais poder de processamento de gráficos e podem custar de cinco a dez vezes mais que computadores comuns. O XPS M1210 pesa cerca de dois quilos e tem preço a partir de US$ 1,3 mil. 
+Já o esguio XPS M2010, revelado em janeiro, tem tela de alta definição de 20 polegadas e oito alto-falantes, entre outros recursos. A máquina se parece com uma pasta de portfólio de artista quando transportada pelo usuário. O preço começa em US$ 3,5 mil. 
+Completando os lançamentos da Dell está o XPS 700, um computador de mesa para entusiastas de videogames. Os preços variam de US$ 2,3 mil a US$ 3,5 mil. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

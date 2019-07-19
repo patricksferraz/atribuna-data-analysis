@@ -1,0 +1,42 @@
+Spywares se multiplicam
+<b> Programas espiões, conhecidos como spywares, já representam
+três de cada 10 ameaças disseminadas pela internet </b><br>
+ <br>
+Eles são uma das principais ameaças para os internautas e parece que chegaram para ficar. O Brasil é um dos países mais afetados por este código malicioso, conhecido como spyware, já que o País aparece entre o quinto e o sétimo lugares no ranking das regiões afetadas por essas pragas.
+“Isto indica que o problema é realmente muito grave, pois ao contrário dos vírus, os spywares não são replicantes”, explica o gerente de novos negócios da Trend Micro, Fábio Picoli, completando que “isto mostra claramente que os internautas ainda não se protegem adequadamente, já que muitas vezes visitam sites e fazem o download de arquivos que não são confiáveis”.
+Os dados são da Trend Micro, líder no mercado de antivírus corporativo e segurança de conteúdo, que há dois meses seguidos vem identificando o crescimento dos spywares entre as principais ameaças que assolam a rede diariamente. 
+Os spywares, usualmente conhecidos como programas espiões, instalam-se “discretamente” nos computadores, geralmente junto a softwares gratuitos baixados pela internet. Eles monitoram tudo o que os internautas fazem na máquina, podendo assim roubar senhas pessoais, números de cartão de crédito e de contas bancárias.
+As conseqüências são graves para os usuários, que podem ver o dinheiro sumir da sua conta bancária, ou então levar um susto quando a fatura do cartão de crédito chegar. 
+Os spywares mais atuantes nos últimos meses foram o SPYW_Gator, que já possui quatro variantes, A, B, C e D, que ficam escondidas “dentro” de spams ou propagandas. Basta um clique, para que todos os movimentos dos usuários na web sejam monitorados.
+Os países mais atingidos pelo Gator, em ordem de incidências, foram os Estados Unidos,Espanha, Tawain, Tailândia, Brasil, Coreia do Sul, Itália, Reino Unido, Dinamarca e França.
+O segundo mais encontrado foi o SPYW_DashBar.300. O nome é diferente, mas o que este spyware faz é bem comum. Ele instala-se na máquina sem que o usuário tenha o conhecimento. Os países mais infectados são Estados Unidos, Espanha, Taiwan,Tailândia, Brasil, Coréia do Sul, Itália, Reino Unido, Dinamarca e França.
+Mas, os usuários podem, e devem, evitar de ser infectados pelos programas espiões. Basta ter um antivírus que garanta proteção completa contra os spywares e mantê-lo sempre atualizado, além de evitar entrar em sites que não sejam confiáveis e instalar softwares gratuitos na máquina.
+
+Viagra é recordista dos spams
+
+Navegar na rede mundial pode ser sinônimo de dor de cabeça para o internauta que recebe diariamente mensagens in desejadas sobre propagandas.
+De acordo com pesquisa da Sophos publicada na semana passada, os principais tipos de spam que circulam pela web no período estão relacionados a medicamentos genéricos de Viagra e pílulas milagrosas para emagrecimento ou contra a calvície no primeiro semestre de 2005. 
+A empresa de segurança britânica aponta que 41,4% de todas as mensagens de propagandas indesejadas faziam menção a medicamentos ou pílulas, seguido de longe pelos financiamentos e empréstimos fantasma, com 11,1%.
+A Sophos declara também que os spams pornográficos andam em baixa. Os resultados mostram que quase um em cada 10 e-mails (9,5%) era de conteúdo adulto. 
+Ainda em abril deste ano, a Clearswift já avisava que 63% dos 1.421 entrevistados para sua pesquisa haviam recebido spam pornográfico, frente aos 71% que afirmaram ter recebido e-mails de conteúdo adulto em 2004.
+A Sophos, entretanto, avisa que spams relacionados a golpes com ações em bolsas de negócios norte-americanas vêm crescendo a uma taxa de 10% de janeiro a junho deste ano, representando 8,5% do total de mensagens comerciais em todo o semestre.
+Já spams que procuravam vender produtos diversos representaram 8,3%. Outras mensagens com conteúdos diversos representaram 21,2%.
+
+No-breaks de cara nova
+
+Eles já não são pesados e robustos, os novos modelos de no-breaks tem um novo design, com a proposta de tornar o equipamento mais leve e compacto. De olho nesta tendência, a CP Eletrônica criou uma nova linha de no-breaks batizada de Classic.
+Os novos produtos permitem que o banco de baterias seja colocado na base do gabinete, evitando ocupar uma área adicional no local de operação. A autonomia pode ser programada em função tanto da aplicação do aparelho como do espaço disponível.
+A linha Classic é totalmente compatível com o aplicativo CP Monitor, que permite gerenciamento de até 12 unidades através da porta serial, rodando nos sistemas operacionais Windows 98; Me; XP; 2000; 2003 e Linux.
+O equipamento também pode gerenciar à distância o desligamento de servidores e estações (shutdown), em caso de falta de energia da concessionária por tempo superior ao limite das baterias. 
+Outro software, o CP Agent, possibilita a monitoração do equipamento, dando acesso às informações de forma remota, oferecendo diversas funcionalidades ao usuário, tais como páginas web para monitoração do no-break e serviço de envio de e-mails de aviso sobre alarmes ocorridos.
+O display de cristal líquido informa não só leitura da tensão, da corrente e da freqüência, como a temperatura de operação, a situação da carga e as ocorrências do sistema, sendo que são preservados os últimos 1.016 eventos, o que facilita em muito o trabalho do administrador da rede. 
+Mais informações sobre esta nova linha de no-breaks, bem como sobre a rede de representantes da CP Eletrônica podem ser obtidas no endereço www.cp.com.br.
+
+Portáteis em alta
+
+As vendas de PDAs nos últimos três meses aumentaram em 32%, segundo pesquisa da Gartner. A previsão é de que 15 milhões de computadores handheld serão vendidos até o final do ano. 
+O Windows Mobile é o sistema operacional mais popular entre os usuários dos portáteis, de acordo com a pesquisa que identificou esta preferência com 46% do mercado. O sistema In Motion tem 23.2% do mercado e o PalmSource, 18.8%. O analista da Gartner, Todd Kort disse que apesar do recorde de vendas, o aumentos do consumo não irá durar mais de seis meses. 
+No hardware, o BlackBerry, da RIM, é o mais popular computador de mão, com um crescimento de 67% nas suas vendas. A RIM ainda é líder de mercado com 23.3%, enquanto a Palm tem 17.8%. Mesmo que alguns analistas acreditem que o crescimento geral das vendas vem de antigos donos de PDA, o BlackBerry está crescendo tremendamente com novos usuários, segundo Kort. 
+A Palm já teve 70% do mercado de PDAs, porém a empresa tem sugerido aos seus usuários que migrem para o Treo smartphone. É provável que a Palm venda mais Treos que PDAs em 2006, diz Kort. As vendas de Palms caíram 30% no final do primeiro semestre de 2005. <br><br><hr>
+Data da Publicação: 08/08/2005 - Pagina: 16 <br>
+Editoria: Informática <br><br>

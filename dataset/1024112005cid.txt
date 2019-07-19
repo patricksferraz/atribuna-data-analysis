@@ -1,0 +1,166 @@
+Teste para a primeira etapa do VestUfes
+<b>  </b><br>
+ <br>
+Para ajudar os candidatos na revisão dos assuntos mais cotados para o vestibular da Universidade Federal do Espírito Santo (Ufes), que acontece no próximo domingo, A Tribuna publica hoje um simulado que reúne as disciplinas cobradas na primeira etapa, com exceção de Língua Estrangeira, que teve um simulado publicado na última terça-feira.
+O diretor do Vest-CEV, Helder Januário Gomes, acredita que os simulados sejam importantes por servirem de parâmetro para o aluno. Ele afirma que, através deles, é possível saber as disciplinas e os assuntos que o vestibulando precisa dar mais importância na hora de estudar.
+Januário afirmou que, pelos resultados adquiridos nos testes, é possível saber como será a pontuação do aluno na hora do vestibular.
+O professor de Física Giuliano Capucho ressalta que, neste momento, o aluno não deve tentar se aprofundar nos assuntos.
+“Os alunos devem aproveitar as observações dos professores sobre o que deve ser pedido em cada disciplina”, disse.
+
+Simulado
+
+GEOGRAFIA
+
+1. (PUC-SP) Na Rodada Doha da Organização Mundial do Comércio (OMC), realizada em Cancún (México) no ano de 2003, o Brasil e mais 19 países em desenvolvimento protagonizaram um movimento contra a política de subsídios agrícolas, desenvolvida pelos países europeus e pelos EUA, que beneficia os agricultores desses países desenvolvidos. A respeito desse desacordo no comércio mundial é correto afirmar que:
+
+a) a reivindicação do fim dos subsídios pretende fazer valer no mercado internacional a maior produtividade nos negócios agropecuários dos países em desenvolvimento, o que se deve à tecnologia mais avançada empregada no processo produtivo.
+b) os países em desenvolvimento optaram por ser exportadores de commodities (produtos agropecuários, minérios, madeiras etc.) em função desse comércio ser mais valorizado no mercado internacional, por causa da escassez de terras agrícolas nos países desenvolvidos.
+c) o combate aos subsídios agrícolas vem de setores cada vez mais minoritários no interior dos países em desenvolvimento, visto que a maioria deles, o Brasil inclusive, está abrindo mão dos commodities e especializando-se em bens industriais, com alto valor agregado.
+d) os enormes subsídios agrícolas aos agricultores dos países desenvolvidos são uma forma de protecionismo (“fechamento”) de seus mercados internos, o que contraria a abertura muitas vezes exigida dos mercados dos países em desenvolvimento.
+e) a participação modesta (e cada vez menor) dos países em desenvolvimento no mercado internacional não está relacionada às políticas protecionistas dos países desenvolvidos, mas sim à grande ineficiência produtiva, o que os torna isolados no contexto da globalização.
+
+BIOLOGIA
+
+2. O modelo tridimensional a seguir é uma representação esquemática de uma célula eucariota observada ao microscópio eletrônico.
+Adaptado de: LAURENCE, J. “Biologia”. Citologia. São Paulo: Nova Geração, v.2, 2002.
+Associe as organelas 1, 2, 3 e 4, assinaladas na representação esquemática, com as características e/ou funções descritas a seguir.
+I. 	Estrutura celular relacionada com a fabricação de proteínas.
+II. 	Estrutura responsável pelo “empacotamento” e pela secreção de substâncias.
+III. 	Organela abundante nos tecidos e/ou células que requerem grande consumo de energia.
+
+IV. Organela envolvida na redução da cauda dos girinos.
+Assinale a alternativa que apresenta a associação correta.
+a) 1 - I; 2 - II; 3 - IV; 4 - III.
+b) 1 - III; 2 - IV; 3 - I; 4 - II.
+c) 1 - II; 2 - IV; 3 - I; 4 - III.
+d) 1 - IV; 2 - III; 3 - II; 4 - I.
+e) 1 - IV; 2 - II; 3 - I; 4 - III.
+
+3. O diagrama apresenta a concentração relativa de diferentes íons na água (barras claras) e no citoplasma de algas verdes (barras escuras) de uma lagoa.
+As diferenças na concentração relativa de íons mantêm-se devido a:
+a) osmose.
+b) difusão através da membrana.
+c) transporte passivo através da membrana.
+d) transporte ativo através da membrana.
+e) barreira exercida pela parede celulósica.
+
+QUÍMICA
+
+4. De acordo com os valores teóricos para os números quânticos principal, secundário, magnético e de spin e com princípio de exclusão de Pauli, o número máximo de elétrons que podem ocupar o nível n = 5 é:
+a) 8.	b) 18.	c) 32.	d) 48.	e) 50.
+
+5. Na perfuração de uma jazida petrolífera, a pressão dos gases faz com que o petróleo jorre para fora. Ao reduzir-se a pressão, o petróleo bruto para de jorrar e tem de ser bombeado. Devido às impurezas que o petróleo bruto contém, ele é submetido a dois processos mecânicos de purificação, antes do refino: separá-lo da água salgada e separá-lo de impurezas sólidas como areia e argila. Esses processos mecânicos de purificação são, respectivamente,
+a) decantação e filtração.
+b) decantação e destilação fracionada.
+c) filtração e destilação fracionada.
+d) filtração e decantação.
+e) destilação fracionada e decantação.
+
+MATEMÁTICA
+
+6. O transmissor do Flaviviridae , vírus causador da dengue, é a fêmea do inseto Aedes aegypti.O macho da espécie é inofensivo, alimentando-se apenas da seiva de plantas.A fêmea é a responsável pela picada transmissora porque necessita captar a albumina, uma das substâncias encontradas no sangue, para completar o ciclo de amadurecimento de ovos.
+
+    Acompanhe as fase de desenvolvimento da doença:
+
+1. O Aedes aegypti infectado pica o homem.
+
+2. O vírus Flaviviridae dissemina-se pelo sangue.
+
+3. O vírus geralmente instala-se no tecido que envolve os vasos sanguíneos, chamado retículo-endotelial.
+
+4. A multiplicação do vírus sobre o tecido provoca inflamação dos vasos.O sangue passa a circular mais lentamente.
+
+5. Com a circulação mais lenta, é comum que os líquidos do sangue extravasem dos vasos.O sangue torna-se mais espesso.
+
+6. O sangue, mais espesso, pode coagular dentro dos vasos provocando trombos (entupimentos).Além disso, a circulação lenta prejudica a oxigenação e nutrição ideal dos órgãos.
+
+7. Se não houver tratamento específico, com o tempo pode haver um choque circulatório.O sangue deixa de circular, os órgãos ficam prejudicados e podem parar de funcionar.
+Uma pesquisa ecológica determinou que a população (S) de sapos de uma determinada região, medida em centenas, depende da população (m) de insetos, medida em milhares, de acordo com a equação 
+S(m) = 75 + . A população de insetos, por sua vez, varia com a precipitação (p) de chuva em centímetros, de acordo com a equação m(p) = 43p + 7,5. A população de sapos quando a precipitação é de 1,5 cm, é igual:
+a) 6800	b) 68000	c) 78000
+d) 7800	e) 75000
+
+7. Determine o ano, uma empresa teve seu lucro diário L dado pela função L(x) = 50(|x - 100|) + (|x-200|), em que x = 1,2,...,365 corresponde a cada dia do ano e L é dado em reais.A soma dos dias (x) do ano em o  lucro foi de R$  10 000,00 é:
+a) 250	b) 255	c) 275
+d) 285	e) 300
+
+FÍSICA
+
+8. (FEI-SP) A velocidade da luz em certo meio é 2/3 da velocidade no vácuo. O índice de refração do meio é:
+a) 0,67	b) 1,5	c) 1,67
+d) 2,5	e) 0,83
+
+9. (FATEC-SP) Um raio de luz incide sobre a interface S de dois meios transparentes M e N. De acordo com a figura, o raio incide i, o raio refletido R e o raio refratado são, nesta ordem, os raios:
+a) 2, 3 e 1	b) 1, 2 e 3	c) 1, 3 e 2
+d) 3, 1 e 2	e) 2, 1 e 3
+
+PORTUGUÊS/LITERATURA
+
+10. O uso do pronome átono no início das frases é destacado por um poeta e por um gramático nos textos abaixo.
+
+Pronominais
+Dê-me um cigarro
+Diz a gramática
+Do professor e do aluno
+E do mulato sabido
+Mas o bom negro e o bom branco
+da nação Brasileira
+Dizem todos os dias
+Deixa disso camarada
+Me dá um cigarro.
+(Oswald de Andrade)
+
+“Iniciar a frase com pronome átono só é lícito na conversação familiar, despreocupada, ou na língua escrita quando se deseja reproduzir a fala dos personagens (...)”
+(Domingos Paschoal Cegalla)
+Comparando a explicação dada pelos autores sobre essa regra pode-se afirmar que ambos:
+a) condenam essa regra gramatical.
+b) acreditam que apenas os esclarecidos sabem essa regra.
+c) criticam a presença de regras na gramática.
+d) afirmam que não há regras para uso de pronomes.
+e) relativizam essa regra gramatical.
+
+11. Identifique a frase que contenha uma forma verbal incorreta:
+a) Se você se antepuser à realização desta prova com obstáculos, ela se anteporá às condições ambientais.
+b) Quando obtiverdes as verbas necessárias, tereis representado um passo a mais na educação.
+c) Se eu mantiver a calma que provém da compenetrada paciência, não incorrerei no mesmo deslize.
+d) Se algum dia a vires distraída, avise-me imediatamente.
+e) Alguns cientistas crêem que os homens que têm número maior de glóbulos vermelhos contêm índices de genialidade.
+
+HISTÓRIA
+
+TEXTO PARA A PRÓXIMA QUESTÃO
+(PUC -CAMP 2004) Não, é nossa terra, a terra do índio. Isso que a gente quer mostrar pro Brasil: gostamos muito do Brasil, amamos o Brasil, valorizamos as coisas do Brasil porque o adubo do Brasil são os corpos dos nossos antepassados e todo o patrimônio ecológico que existe por aqui foi protegido pelos povos indígenas. Quando Cabral chegou, a gente o recebeu com sinceridade, com a verdade, e o pessoal achou que a gente era inocente demais e aí fomos traídos: aquilo que era nosso, que a gente queria repartir, passou a ser objeto de ambição. Do ponto de vista do colonizador, era tomar para dominar a terra, dominar nossa cultura, anulando a gente como civilização.
+(Revista “Caros Amigos”. ano 4. no. 37. Abril/2000. p. 36).
+
+12. A respeito do início da colonização, período abordado pelo texto, pode-se afirmar que a primeira forma de exploração econômica exercida pelos colonizadores, e a dominação cultural e religiosa difundida pelo território brasileiro são, respectivamente:
+a) a plantation no Nordeste e as bandeiras realizadas pelos paulistas.
+b) a extração das “drogas do sertão” e a implantação das missões.
+c) o escambo de pau-brasil e a catequização empreendida pela Companhia de Jesus.
+d) a mineração no Sudeste e a imposição da “língua geral” em toda a Colônia.
+e) o cultivo da cana-de-açúcar e a “domesticação” dos índios por meio da agricultura.
+
+13. (UFPE 2005) A presença holandesa no Brasil colonial é tema que se destaca nos estudos historiográficos. Sobre o governo de Nassau 
+(1637-44) e sua época, sempre surgem comentários e debates; porém, podemos afirmar que:
+a) A recuperação da autonomia política de Portugal, nesse período, deu mais condições para este país desenvolver relações com os holandeses no Brasil.
+b) Nassau não teve qualquer conflito com os nativos; apenas se desentendeu com o comando europeu da Companhia das Índias.
+c) a atuação de Nassau em nada modificou as relações dos holandeses com os senhores de engenho, fracassando, porém, na expansão militar e na exportação de açúcar.
+d) sua administração se restringiu a fazer benefícios à parte central do Recife, onde habitava com a sua família e onde construiu as obras mais importantes.
+e) não houve na sua administração nenhuma preocupação com as conquistas militares; seus interesses se voltavam sobretudo para a arte renascentista.
+Fonte: Vest-Cesv
+
+Gabarito
+1 – D
+2 – D
+3 – D
+4 – E
+5 – A
+6 – D
+7 – C
+8 – B
+9 – D
+10 – E
+11 – D
+12 – C
+13 – A <br><br><hr>
+Data da Publicação: 24/11/2005 - Pagina: 10 <br>
+Editoria: Cidades <br><br>

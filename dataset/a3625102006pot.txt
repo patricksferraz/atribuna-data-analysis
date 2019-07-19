@@ -1,0 +1,33 @@
+Estado vai ter a Justiça mais rápida
+<b>  </b><br>
+ <br>
+O Estado já é pioneiro no projeto de informatização dos processos judiciais e até o final do próximo ano terá a Justiça mais rápida do País, com a tramitação feita de forma totalmente eletrônica. 
+Mas o Tribunal de Justiça do Espírito Santo (TJ-ES) quer ir além da simples eliminação do papel. 
+As mudanças, que vão ser discutidas no I Encontro Nacional de Virtualização do Poder Judiciário, que será realizado em Vitória, também irão evitar que uma mesma ação seja julgada de formas diferentes, como explicou o coordenador de Informática do TJ-ES, Victor Murad Filho.
+“Vamos evitar a injustiça, uma vez que o sistema vai dizer como o juiz deve proceder”, disse.
+
+Saiba mais
+
+Eliminação do papel
+n O advogado fará a petição inicial no computador e a enviará para o Tribunal de Justiça eletronicamente 
+n Se o advogado for cadastrado, ele terá uma senha e poderá digitar a petição dentro de um editor de texto do Poder Judiciário. Se não tiver cadastro, poderá enviar por e-mail
+
+Distribuição
+n Vai ocorrer em questão de segundos. A tramitação pula as etapas de protocolo, distribuição e cartório
+n Eletronicamente, o processo passará por triagens. Na primeira delas, o sistema identificará palavras-chave para classificar a ação, como de divórcio, indenização, etc
+n Classificada a ação, separa-se em uma pilha eletrônica todos os processos da mesma categoria 
+n O sistema vai apontar quais já foram julgados e questionar se o magistrado vai acompanhar a decisão anterior. O juiz lerá cada processo e dirá se concorda com o voto, podendo julgar em lote
+
+Provas
+n O processo será multimídia. Poderão ser incluídos textos, imagens e sons que constarem nas provas
+
+Custos
+n O projeto vai custar 
+R$ 20 milhões. Mas haverá economias com compra de papel, tinta para impressora e deslocamento, o que vai propiciar uma redução de R$ 12 milhões por ano
+
+Segurança
+n Toda a informação estará guardada em um servidor protegido, sem acesso de rede. As informações serão atualizadas várias vezes ao dia. Se houver alguma alteração, momentos depois o sistema passará os dados corretos por cima
+Fonte: Victor Murad Filho, coordenador de Informática do Tribunal de Justiça do Espírito Santo 
+(TJ-ES) <br><br><hr>
+Data da Publicação: 25/10/2006 - Pagina: 36 <br>
+Editoria: Política <br><br>

@@ -1,0 +1,22 @@
+Web tira sono dos pais
+<b> Estudo afirma que 90% dos
+pais estão preocupados com
+o que seus filhos estão
+acessando na internet </b><br>
+ <br>
+Segundo um estudo da consultoria norte-americana Harris Interactive, 90% dos pais que possuem filhos entre oito e 18 anos estão preocupados com o que eles podem acessar na internet.
+De acordo com o levantamento, parte da comissão de segurança Cable in the Classroom, os pais com filhos que navegam na internet apelam para serviços de segurança em determinados sites, mesmo que 34% deles acreditem ter dado uma boa educação para que a criança rejeite conteúdo ofensivo.
+A pesquisa constatou que 71% dos pais pensam que as escolas também deveriam manter a segurança em acessos a determinados sites a partir de seus computadores, enquanto 49% deles acham que o governo deveria criar mais políticas que levariam os jovens a não freqüentarem determinados endereços.
+“Os pais querem se responsabilizar por guiar seus filhos em seus primeiros passos na internet. Mas os responsáveis algumas vezes não sabem como proteger alguns sites de seus filhos”, afirma o diretor da política de educação da Cable in the Classroom, Douglas Levin.
+O estudo aponta que apenas 10% dos pais dizem não conseguir ensinar a seu filho como ser responsável com o uso da internet.
+Além de dados complementares à pesquisa, o site do projeto Cable in the Classroom (www.ciconline.org) apresenta dicas e instruções sobre a postura infantil e pedagógica do uso da internet. 
+PROTEÇÃO
+Uma opção para pais que querem controlar o que seus filhos acessam no mundo da internet é o uso de ferramentas já disponíveis em programas mais populares, como navegadores e antivírus.
+Entre os browsers, a melhor opção para tal tarefa é o Internet Explorer, da Microsoft. O aplicativo traz a opção “Supervisor de Conteúdo” dentro da aba “Conteúdo” nas “Propriedades” do Internet Explorer. Ali, os responsáveis podem definir senhas para que seus filhos acessem determinados endereços.
+Mesmo mais primária que os filtros apresentados – a filtragem por termos é simples demais e é necessário digitar senhas sempre que um site sem certificado é acessado –, a ferramenta pode quebrar um galho para os pais.
+A Microsoft já anunciou que colocará na versão final do Windows Vista a ferramenta “Family Safety”, que permitirá o controle de conteúdo on-line, restrição de determinados aplicativos e definição de período para o uso da máquina pelo próprio sistema operacional. 
+Para complementar a ferramenta, a companhia anunciou também o lançamento do “Parental Control”, do Live, seu portal de serviços. A ferramenta permitirá a filtragem de material on-line junto ao navegador Internet Explorer.
+Softwares de segurança também trazem opções para o bloqueio de conteúdo. Tanto a Symantec como a McAfee apresentam ferramentas de controles dos pais nas versões mais atuais de seus pacotes de segurança. 
+Mais avançadas que as opções do Internet Epxlorer, as funções da “Internet Security 2006” e da “Internet Security Suite 2006”, respectivamente, não podem ser comparadas a aplicativos específicos, mas servem para quem já possui uma cópia do programa. <br><br><hr>
+Data da Publicação: 21/08/2006 - Pagina: 07 <br>
+Editoria: Informática <br><br>

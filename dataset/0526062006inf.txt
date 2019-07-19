@@ -1,0 +1,33 @@
+Palestra de Java
+<b> Evento vai mostrar
+exemplos de aplicações
+das tecnologias Java
+no ambiente empresarial  </b><br>
+ <br>
+A tecnologia Java está completando 10 anos de participação em diversos segmentos de negócio. As grandes e médias empresas estão adotando Java não simplesmente por modismo, mas sim pela visão de oportunidade de crescimento obtida pela reação do mercado em estar se atualizando constantemente.
+O assunto é tema da palestra “Aplicações da Tecnologia Java no Ambiente Empresarial”, que acontece na próxima quarta-feira, dia 28, no auditório do Senac, promovida pela Sociedade de Usuários de Informática e Telecomunicações do Espírito Santo (Sucesu-ES).
+O palestrante é Igor Borlot Borba, especialista em Desenvolvimento Java da Vixteam Consultoria e Sistemas. “A linguagem de desenvolvimento Java tem como base de seu crescimento a quantidade inúmera de frameworks, bem como ferramentas de análise e desenvolvimento de software”, comenta Igor.
+A palestra é dirigida a gerentes de projeto, analistas de sistemas, acadêmicos e usuários interessados em Tecnologia da Informação (TI) que querem conhecer mais sobre esses recursos oferecidos no mundo de desenvolvimento que mais cresce no mercado brasileiro.
+A Sucesu também está promovendo nesta semana o minicurso “Redes sem Fio”, que acontece na próxima quinta-feira, dia 29, no auditório da M.Murad Consultoria. Desta vez, o palestrante é o diretor de treinamento da Unitera, Gilberto Sudré.
+“A exigência de mobilidade e flexibilidade das aplicações atuais alteram profundamente os requisitos de funcionamento da infra-estrutura das redes de comunicação de dados. Para atender a esta nova realidade uma das tecnologias estratégicas é a comunicação sem fio”, comenta Sudré.
+O tutorial vai capacitar o participante nas principais tecnologias de redes locais sem fio, permitindo ao mesmo avaliar as diferentes tecnologias, os benefícios e como selecionar a solução mais adequada para sua empresa.
+O mini-curso é dirigido a gerentes de IT, coordenadores, administradores de rede, consultores, estudantes e técnicos de IT/Telecom que necessitem adquirir conhecimentos sobre redes sem rio – wireless.
+
+
+Mini curso e palestra
+Redes sem Fio
+
+•Local: M.Murad Consultoria, avenida Desembargador Sampaio, 197, Praia do Canto, Vitória.
+•Data: Quinta-feira, 29 de junho
+•Horário: De 8 horas às 17h30
+•Inscrição: R$ 150,00 para associados da Sucesu-ES e funcionários das empresas associadas, R$ 180,00 para participantes da comunidade em geral e R$ 100,00 para estudantes
+
+
+Aplicações da Tecnologia Java no Ambiente Empresarial
+Local: Auditorio do Senac-ES, na avenida Mascarenhas de Moraes, 2.077, Bento Ferreira, Vitória
+Data: Quarta-feira, 28 de junho
+Horário: 19 horas
+Inscrição: R$ 10,00 para associados da Sucesu-ES e funcionários das empresas associadas e R$ 15,00 para participantes da comunidade em geral.
+Mais Informações: (27) 3225-9955 ou www.sucesues.org.br  <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

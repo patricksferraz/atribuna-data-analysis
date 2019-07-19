@@ -1,0 +1,17 @@
+Cursos para profissionais de TI
+<b> ISA Server 2004 e
+SQL Server 2005 são
+temas de dois treinamentos
+que acontecem em julho </b><br>
+ <br>
+Novidade no mercado, o mais completo produto de base de dados e análise, o SQL Server 2005 da Microsoft, é tema de um curso promovido pela Mindworks no próximo mês. O sistema é utilizado pelas empresas para a geração de soluções dimensionáveis de comércio eletrônico e de armazenamento de dados.
+O treinamento SQL Server 2005, dividido em nove módulos, fornece o conhecimento e as habilidades que os profissionais de Tecnologia da Informação (TI) precisam para instalar, configurar, implementar segurança e efetuar a manutenção de servidores e bancos de dados do Microsoft SQL Server 2005 em um ambiente empresarial. 
+Com o tema “Atualizando os Conhecimentos de Administradores de Banco de Dados para o Microsoft SQL Server 2005”, o curso abordará conteúdos como introdução à arquitetura do SQL Server 2005; instalando SQL Server 2005; ferramentas administrativas, monitoramento e segurança no Microsoft SQL Server 2005; mantendo bancos de dados e índices e recuperação de desastres, entre outros.
+Para se inscrever no curso, o aluno deve ser MCDBA certificado ou possuir conhecimentos equivalentes, ter experiência na administração de SQL Server 2000 ou SQL Server 7.0, banco de dados, base de dados e arquitetura, instalação e configuração, segurança e recuperação das bases de dados e tecnologias usadas para disponibilidade de banco de dados.
+Outro pré-requisito é ter conhecimento em automação de jobs, monitoramento de servidor e base de dados e resolução de problemas.
+Outro curso oferecido pela Mindworks para profissionais de TI interessados em buscar novas especializações é o “Implementing Microsoft Internet Security and Acceleration Server 2004”, o ISA Server 2004,  que será ministrado a partir de 10 de julho no período noturno.
+O aluno vai aprender conhecimentos e ferramentas necessários para gerenciamento e instalação do ISA Server. 
+O treinamento, que tem duração de 40 horas, é ministrado em dez módulos dentre os quais os alunos aprendem desde a visão geral do Microsoft ISA Server 2004, até o monitoramento e a criação de relatórios do sistema. 
+Mais informações no site www.mindworks.com.br. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 16 <br>
+Editoria: Informática <br><br>

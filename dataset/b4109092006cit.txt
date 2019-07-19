@@ -1,0 +1,12 @@
+Computador mais rápido do mundo
+<b>  </b><br>
+ <br>
+A gigante dos computadores IBM vai construir o mais rápido supercomputador do mundo em um laboratório do governo dos Estados Unidos. 
+A máquina, chamada Roadrunner, poderá ser quatro vezes mais potente que o atual computador mais rápido, o BlueGene/L, também da IBM.
+O Roadrunner será capaz de atingir velocidades “petaflop” (unidade equivalente a mil trilhões de cálculos por segundo), afirmou a empresa. Se o computador operar com a velocidade máxima, será capaz de realizar 1,6 quatrilhões de cálculos por segundo. 
+O BlueGene/G é capaz apenas de alcançar velocidades “teraflop” (um trilhão de cálculos por segundo).
+O novo computador é um projeto “híbrido”, que usa os processadores convencionais de supercomputadores e o novo chip “Cell”, que foi projetado para PlayStation 3 da Sony.
+O Roadrunner será instalado no Laboratório Nacional de Los Alamos, no Novo México. O laboratório é propriedade do Departamento de Energia dos Estados Unidos. 
+A máquina poderá ser usada para um programa que garante que os estoques de armas nucleares do país permaneçam a salvo. <br><br><hr>
+Data da Publicação: 09/09/2006 - Pagina: 41 <br>
+Editoria: Ciência e Tecnologia <br><br>

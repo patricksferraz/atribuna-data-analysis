@@ -1,0 +1,29 @@
+Orkut vira alvo de novo vírus
+<b> Rede de relacionamentos tem
+sido constantemente ameaçada
+pela rápida disseminação de
+armadilhas e pragas virtuais   </b><br>
+ <br>
+Os piratas da internet, que há alguns meses passaram a utilizar o Orkut como aliado, criaram mais um golpe relacionado a esta popular ferramenta de relacionamento.
+Desta vez, o usuário recebe através do e-mail, uma mensagem com o título: “Orkut - a sua conta será banida de nossos registros”. O texto afirma que o usuário está distribuindo cartões com vírus e solicita que o mesmo clique em um link para evitar a sua exclusão do site de relacionamentos.
+Quando o internauta clica no link solicitado, a sua máquina automaticamente é infectada pelo cavalo-de-tróia Troj_Downloader.FHW.
+Imediatamente, a praga abre uma porta no computador da vítima e faz uma conexão entre o PC que acabou de ser infectado e a máquina do criador do vírus, dando início ao download de diversos malwares, isto é, programas maliciosos que podem prejudicar o computador infectado. 
+No caso deste falso e-mail do Orkut, o primeiro malware a ser baixado é o TSPY_Banker.FPP, que rouba dados financeiros do internauta, como números de cartões de crédito, senhas, dados de contas ou outras informações pessoais, assim que ele acessa o site da instituição bancária.
+ASSALTO
+Também com a intenção de roubar os dados bancários do usuário, recentemente foi descoberto um novo vírus. Batizado de Briz.R, ele pode chegar ao PC a partir de páginas web ou de serviços de download de softwares.
+Para evitar alertar os usuários e sistemas de proteção, a distribuição da nova praga não é feita em massa, em e-mails distribuídos para toda uma lista de contatos.
+O ataque do Briz.R começa com a instalação de um arquivo chamado iexplore.exe, que vai analisar o tipo de conexão à internet existente no PC atacado.
+Depois, a praga descarrega um arquivo chamado ieschedule.exe, que armazena no computador os parâmetros de configuração do cavalo de tróia, inclusive o lugar para onde serão enviadas as informações roubadas.
+Outro componente descarregado é o arquivo ieserver.exe, que vai redirecionar o usuário para páginas falsas, criadas para facilitar o roubo de dados bancários dos internautas. Muitas destas páginas são semelhantes às de vários serviços financeiros on-line.
+A instalação desse arquivo também permite que o computador infectado seja controlado à distância. Além disso, o Briz.R ainda descarrega um outro componente, o smss.exe, que impede o acesso a sites relacionados com a segurança contra vírus e hackers.
+Para evitar que isso aconteça, o usuário deve manter seu antivírus atualizado e realizar a varredura de seu computador com freqüência, em busca de novas pragas virtuais.
+
+O perigo dos cavalos-de-tróia
+
+Os chamados trojans ou cavalos-de-tróia são ainda os maiores responsáveis pela invasão dos computadores que funcionam com o Windows como sistema operacional. A disseminação dessas pragas eletrônicas, usadas principalmente para invadir e controlar o computador infectado, continua crescendo, segundo recente relatório da Microsoft.
+O  documento indica que, de janeiro a junho deste ano, foram descobertas mais de 43 mil variantes deste tipo de vírus. E cerca de 50% dos computadores com a ferramenta Microsoft Malicious Software Removal Tool continham pelo menos um desse tipo de trojan.
+O segundo lugar ficou com os keyloggers, com 27.154 variantes descobertas. Keylogger é um tipo de ferramenta utilizada para capturar cada tecla pressionada pelo usuário de um sistema infectado, na tentativa de descobrir senhas e outros dados confidenciais e enviá-los para o hacker criador do vírus. 
+Seguindo os keyloggers, estiveram os downloaders, vírus responsáveis por baixar outros aplicativos maliciosos, com 13.039 variantes; os simples trojans, com 4.497 novas versões e depois os mass mailers, um tipo de worm que envia mensagens de e-mail em massa, com 3.426 novas variantes. 
+Os rootkits, arquivos maliciosos utilizados corporativamente visando a proteção de direitos autorais em CDs, continuam raros. Este tipo de ataque foi reduzido em 50% durante o período e foi considerado o nono na lista completa de ameaças. O universo compreendido pela pesquisa foi de cerca de quatro milhões de PCs. <br><br><hr>
+Data da Publicação: 20/11/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,23 @@
+Compacto e robusto
+<b> Novo computador portátil
+aglomera funções de 
+celular, máquina fotográfica,
+beeper, laptop e GPS </b><br>
+ <br>
+Para quem está procurando um computador portátil, que concentre variadas funções, principalmente na área de comunicação, mais uma alternativa que pode ajudar na escolha.
+A Intermec acaba de lançar o modelo CN3 que, segundo a fabricante, é o menor e mais robusto computador do mundo. O produto permite que o usuário acesse serviços de voz e dados em alta velocidade, não importa onde estejam, aumentando a sua produtividade. 
+Equipado com GPS e bluetooth integrados, o CN3 possibilita navegação pela sua tela de comandos de voz, ponto a ponto, deixando as mãos livres.
+Com a conectividade 3G WAN e WiFi, o usuário poderá se conectar com serviços de voz e dados em alta velocidade em qualquer lugar, aumentando sua flexibilidade e produtividade.  
+CÂMERA
+O novo computador possui, ainda, um dispositivo que capta a imagem da área ou uma câmera fotográfica de 1,3 mega pixel, permitindo a pessoa escaneie ou decodifique qualquer código de barras, capture imagens estacionárias como assinaturas. Ou, ainda, imagens em vídeo que podem ser arquivadas ou enviadas imediatamente para qualquer lugar no mundo.
+Por causa dessa série de funções, o novo computador portátil pode substituir toda a parafernália eletrônica, como celular, GPS, beeper, computador laptop e máquina fotográfica. Segundo a Intermec, o preço do CN3 está abaixo do que é cobrado para computadores WAN mais robustos.
+O CN3 é pequeno e pode ser equipado a uma câmera fotográfica a cores de 1,3 mega pixels. Já vem com o software Microsoft Windows Mobile 5.0 com o pacote de mensagens e segurança, incluindo tecnologia “Direct Push” para e-mail sem fio. 
+RESISTÊNCIA
+O produto é equipado com um teclado QWERTY ou painel alfa numérico opcional, com 128 MB de memória RAM e um scanner de imagens em 2D para escanear códigos de barra.  
+Sua bateria dura um turno inteiro e tudo isso está incluso em um estojo robusto o suficiente para o ambiente de trabalho. O display colorido de alta resolução pode ser lido em qualquer iluminação e a unidade inteira é resistente à chuva e poeira.
+O CN3 suporta o SmartSystems da Intermec, um sistema de gestão de aparelhos, que permite gerenciar automaticamente instalações, manutenções de rotina, atualização de aplicativos, ajustes de segurança, tudo remotamente, o que diminui o tempo de parada em campo. 
+De acordo o fabricante, o desenho do CN3 se baseia em padrões que tornam a integração com a grande maioria das empresas fácil e eficaz em termos de custo. O sistema comporta  extensões compatíveis Cisco (CCX) para interoperabilidade contínua com infra-estruturas Cisco. 
+A Intermec anunciou também outra novidade em terminais veiculares fixos, ideal para as mais diversas aplicações como em ambientes críticos, veículos e empilhadeiras. 
+O CV30 possui conectividade wireless, suporte para RFID e reconhecimento de voz, além de uma tela compacta, que possibilita  boa visualização. Para saber mais sobre este e outros modelos de computadores portáteis, acesse o site: www.intermec.com.br. <br><br><hr>
+Data da Publicação: 06/11/2006 - Pagina: 27 <br>
+Editoria: Informática <br><br>

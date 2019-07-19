@@ -1,0 +1,14 @@
+Novo Windows chega em sete versões
+<b> O novo sistema operacional da Microsoft
+chega por volta de outubro do próximo ano </b><br>
+ <br>
+O Windows Vista, próxima versão do sistema operacional da Microsoft, vai estar disponível em nada menos do que sete versões. O produto está previsto para ser lançado por volta de outubro de 2006, mas é possível que nem todas as edições cheguem ao mercado simultaneamente.
+A Starter Edition será a versão mais simples e de baixo custo, destinada ao usuário que está adquirindo o seu primeiro computador. Estará disponível exclusivamente em 32 bits e rodará somente três aplicações por vez. Será vendida somente em países em desenvolvimento, incluindo o Brasil. 
+A versão similar ao Windows XP Home Edition, a nova Home Basic Edition, é destinada ao usuário doméstico. Contará com uma série de aplicativos de segurança, como antivírus, firewall, antispam e proteção para redes sem fio. Também chegará com Windows Media Player e Outlook Express com suporte a RSS. 
+A Home Premium Edition será a versão turbinada da edição acima, mas totalmente voltada para o entretenimento doméstico. Provavelmente será um Windows Media Center – destinado a TVs e outros aparelhos – para ser instalado no computador. Terá suporte a HDTV e permitirá até a extração (ripagem) de DVDs. 
+Já a versão que corresponde ao Windows XP Professional Edition, a Professional Standard Edition, será destinada a profissionais e pequenos escritórios. Vai incluir IIS Web server, compatibilidade com redes não-Microsoft e gerenciamento remoto de áreas de trabalho. 
+A Small Business Edition será a versão ampliada da edição Professional, desta vez voltada para empresas de pequeno porte. 
+A versão Enterprise Edition será o Windows a ser oferecido para as empresas de grande porte com funções exclusivas de Virtual PC e interface com suporte a múltiplos idiomas. 
+E por último, a Ultimate Edition será uma espécie de super Windows, com todas as funcionalidades das versões Home Premium Edition e Professional Standard Edition.  <br><br><hr>
+Data da Publicação: 19/09/2005 - Pagina: 08 <br>
+Editoria: Informática <br><br>

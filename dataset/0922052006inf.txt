@@ -1,0 +1,25 @@
+Agende os jogos na web
+<b> Está disponível na internet,
+para download gratuito, software
+que alerta sobre as datas
+e horários dos jogos do Brasil </b><br>
+ <br>
+O software iCalendar “Fase1Fifa2006” alerta sobre as datas e horários de todos os jogos da primeira fase da Copa do mundo na agenda do Microsoft Outlook. Para fazer o download é só entrar no endereço www.mtcriativa.com.br/office2003 e seguir as instruções do site.
+De acordo com diretor da consultoria MT Criativa, que desenvolveu o arquivo, Marcelo Thalenberg, ele é compatível com todas as versões a partir do Office 2000. “Só é preciso, no caso de quem utilizar o 2000, fazer as últimas atualizações, disponíveis gratuitamente no site da Microsoft”, explica Marcelo.
+O arquivo foi desenvolvido pelo próprio Thalenberg e, por enquanto, só está disponível em português, apesar de ser compatível com os softwares de todas as línguas.
+O diretor da MT Criativa adianta que a versão em inglês será oferecida nas próximas semanas, quando a Microsoft divulgará o arquivo em seu site.
+Segundo Marcelo, provavelmente haverá uma atualização com os jogos da segunda fase, logo que forem definidos os classificados.
+Para baixar gratuitamente basta acessar o site e salvar o arquivo na sua máquina. Depois, abra o Microsoft Outlook, clique em “Arquivo”, depois em “Importar e Exportar”. Agora clique em importar um arquivo iCalendar (ics) ou vCalendar (vcs). Por último, é só clicar em “Avançar” e selecionar o arquivo 
+“Fase1Fifa2006.ics”.
+
+
+Guarde todos os lances
+
+Apostando fortemente na linha de DVD recorders, a LG Electronics desenvolveu e patenteou a função “Grava Copa” que permite assistir a um jogo enquanto grava outro. Caso o telespectador precise sair durante a gravação de uma partida de futebol, o aparelho continua gravando, e reproduz a partir do último “lance”.
+Dentro da mesma função é possível reproduzir um programa enquanto grava outro. Uma tela menor aparece no vídeo e mostra o que está sendo gravado sem interromper o que está sendo reproduzido. Tudo para garantir e registrar uma Copa do Mundo inesquecível. Esse é um dos diferenciais dos DVD recorders da LG modelos RH-7922B, DR-7923B e DR-7621B.
+O modelo RH-7922B é o DVD-R HDD mais slim e mais leve do mercado, com 49 milímetros de espessura e peso de 4,6 quilos. Dentre seus diferenciais, está o que a LG chama de “Grava em Dobro”, formato que utiliza duas camadas para a gravação de dados. Com isso, um disco passa a armazenar até 8,5 GB de dados. O número é equivalente a quase quatro horas de vídeo em um único lado do disco. Um DVD de camada única (single layer) guarda 4,7 GB.
+Além disso, o modelo permite a reprodução da maioria dos formatos, incluindo DivX disso (Digital Vídeo Internet Express). Três utilidades definem o uso do DVD híbrido: gravação de programação de TV no disco rígido ou em um DVD virgem, geração de cópias de DVDs domésticos com o disco rígido ou então a criação de um DVD direto da filmadora com conexão da câmara ao aparelho por uma porta FireWire.
+A capacidade de memória do equipamento é de 80 GB, com tempo de gravação de 48 horas. O valor desse equipamento é de R$ 2.699,00. 
+O DVD recorder DR-7923B também possui o recurso “Grava o Dobro”, além do design mais slim do mundo, com 49 milímetros de espessura. <br><br><hr>
+Data da Publicação: 22/05/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

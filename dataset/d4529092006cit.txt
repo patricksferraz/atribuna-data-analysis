@@ -1,0 +1,8 @@
+Novo robô anda de bicicleta
+<b>  </b><br>
+ <br>
+Engenheiros japoneses divulgaram imagens sobre a nova versão de um robô ciclista bem-sucedido, que é capaz de guiar uma bicicleta com perfeição. 
+O Murata Boy foi demonstrado na cidade de Nagaokakyo, no Japão, e será uma das vedetes da feira Ceatec Japan 2006, feira anual de robótica que acontece em Tóquio, a partir do próximo dia 3. A nova versão do autômato é capaz de subir elevações de até 25 graus e fazer curvas sem cair.
+O equilíbrio de Murata Boy é resultado de diversos sensores de movimento espalhados por seu corpo e um processador interno que consegue fazer correções de posição em frações de segundo para impulsionar o robô e sua pequena bicicleta. <br><br><hr>
+Data da Publicação: 29/09/2006 - Pagina: 45 <br>
+Editoria: Ciência e Tecnologia <br><br>

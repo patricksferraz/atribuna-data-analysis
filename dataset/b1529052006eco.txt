@@ -1,0 +1,31 @@
+Teste seus conhecimentos
+<b>  </b><br>
+ <br>
+1) Somando-se parcelas iguais a 5 ou a 8 é possível obter como resultado quase todos os números inteiros positivos. Exemplos: 32 = 8 + 8 + 8 + 8; 33 = (5 + 8) + (5 + 5 + 5 + 5).
+O maior número que NÃO pode ser obtido dessa maneira é
+a) 130
+b) 96
+c) 29
+d) 27
+2) Sua repartição recebeu 378 frascos de produtos de limpeza. Você deverá guardá-los em 3 estantes de modo que todas elas fiquem com a mesma quantidade de frascos. Como já havia em estoque 57 frascos, em cada estante você colocou:
+a) 160 frascos
+b) 154 frascos
+c) 145 frascos
+d) 164 frascos
+3) Em média, por hora, você pinta, incluindo o acabamento, 4,5 m² de parede. Para pintar 171 m² de parede, dando duas demãos, deverá gastar, pelo menos:
+a) 38 horas
+b) 19 horas
+c) 58 horas
+d) 76 horas
+4) Uma companhia de ônibus realiza viagens entre as cidades de Corumbá e Bonito. Dois ônibus saem simultaneamente, um de cada cidade, para percorrerem o mesmo trajeto em sentido oposto. O ônibus 165 sai de Corumbá e percorre o trajeto a uma velocidade de 120 km/h. Enquanto isso, o 175 sai de Bonito e faz a sua viagem a 90 km/h. Considerando que nenhum dos dois realizou nenhuma parada no trajeto, podemos afirmar que: I - Quando os dois se cruzarem na estrada, o ônibus 175 estará mais perto de Bonito do que o 165. II - Quando os dois se cruzarem na estrada, o ônibus 165 terá andado mais tempo do que o 175.
+a) Somente a hipótese (I) está errada.
+b) Somente a hipótese (II) está errada.
+c) Ambas as hipóteses estão erradas.
+d) Nenhuma das hipóteses está errada.
+5) Sua repartição recebeu 378 frascos de produtos de limpeza. Você deverá guardá-los em 3 estantes de modo que todas elas fiquem com a mesma quantidade de frascos. Como já havia em estoque 57 frascos, em cada estante você colocou:
+a) 160 frascos
+b) 145 frascos
+c) 154 frascos
+d) 164 frascos <br><br><hr>
+Data da Publicação: 29/05/2006 - Pagina: 15 <br>
+Editoria: Economia <br><br>

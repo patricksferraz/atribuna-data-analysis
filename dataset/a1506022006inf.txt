@@ -1,0 +1,10 @@
+Novo Internet Explorer para testes
+<b>  </b><br>
+ <br>
+A Microsoft tornou disponível para download a primeira versão de testes pública do Internet Explorer 7. Ainda em desenvolvimento – e, portanto, com problemas de funcionamento –, ela pode ser instalada em cópias originais do Windows XP. O arquivo de instalação tem 11 MB. 
+Depois de anos sem atualizações significativas, a empresa prepara o novo navegador para enfrentar a crescente ameaça de concorrentes alternativos, como o Firefox e o Opera. Além disso, o programa fará parte do sistema operacional Windows Vista, que será lançado no segundo semestre deste ano. 
+O Internet Explorer 7 traz, entre as principais novidades, a navegação por abas. Significa que o usuário pode abrir várias páginas web na mesma janela do programa. Também oferece um leitor de RSS nativo com suporte a podcasting.
+O navegador também foi bastante reformulado no quesito segurança, com ampla proteção contra sites falsos destinados a obter dados pessoais e financeiros de usuários. 
+A versão disponível para download roda exclusivamente no Windows XP. Usuários de versões anteriores do sistema operacional, tal como de cópias piratas, não vão conseguir instalar a versão de testes. <br><br><hr>
+Data da Publicação: 06/02/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

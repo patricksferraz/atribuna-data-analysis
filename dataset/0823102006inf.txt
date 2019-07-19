@@ -1,0 +1,42 @@
+Programação e Web Master
+<b> Cursos disponibilizam 60 vagas
+para cada modalidade. As aulas 
+começam em dezembro, mas as 
+incrições terão início no mês que vem </b><br>
+ <br>
+A escola de Informática Data Control vai abrir novas inscrições para os cursos de Programação e Web Master, que serão ministrados em todas as unidades de instituição.
+As inscrições terão início em novembro, mas as aulas só começam em dezembro. Serão disponibilizadas 60 vagas para cada modalidade.
+Para se inscrever, o interessado deve comparecer a uma das oito unidades da Data Control, localizadas nos municípios de Vitória, Vila Velha, Serra, Cariacica, Guarapari, Linhares, São Mateus e Aracruz, com os documentos pessoais. Menores de 18 anos devem estar acompanhados por um responsável.
+Indicado para pessoas que desejam se especializar na construção de programas para Windows e gostem da área de exatas, o curso de Programação envolve regras e técnicas de programação, construção e representação de algoritmos.
+ O curso de Programação abrange os seguintes módulos: Lógica, Pascal, Delphi Básico e Delphi Avançado. Ele atende a um mercado em franco crescimento pelo grande número de empresas, cujos programas necessitam de aplicativos específicos. A carga horária é de 80 horas, com aulas 100% práticas, em um micro disponível para cada aluno.
+Já o curso de Web Master é destinado para as pessoas que desejam desenvolver sites com programas avançados (Dream Weaver, Fireworks, Gif Animator e Java Script).
+De acordo com o diretor da Data Control, Merivaldo dos Santos, o Web Master abre muitas possibilidades de recolocação no mercado de trabalho, em função da crescente utilização de sites por empresas. 
+É necessário que o aluno tenha conhecimento em Windows e Word e saiba navegar na internet. Mais informações pelo site. 
+As inscrições dos cursos serão no início de novembro, mas a data ainda será definida pela escola.
+VIP
+A Data Control também criou o Curso Vip, uma facilidade que atende a diversas necessidades. Por exemplo, se o aluno precisar de uma determinada formação técnica para prestar um concurso e o tempo for curto até a data da prova. Nesse caso, a Data Control verifica a possibilidade de dispor um instrutor em horário especial para essa pessoa.
+Outra situação em que o Curso Vip pode ser requerido é se o aluno desejar substituir um dos módulos de um curso que esteja fazendo, por outro. Nesse caso, a instituição também verifica a disponibilidade de algum instrutor para atender a esse estudante.
+Em casos de empresas que queiram capacitar seus funcionários nos finais de semana, a escola disponibiliza instrutores, por meio dos cursos vip.
+
+
+Novas ferramentas web
+“Pegando a nova onda da web - Ferramentas, Linguagens e Oportunidades” é o tema da palestra gratuita que acontece na próxima quarta-feira, dia 26, às 19 horas.
+Promovido pela Data Point, o evento faz parte do projeto “Ciclo de Palestras”, desenvolvido para tratar assuntos como novas tecnologias, futuro da informática, internet e design. A apresentação acontece no Vitória Palace Hotel, na Praia do Canto, Vitória.
+Planejadas para atender à constante busca por informação na área de tecnologia, todas as palestras são gratuitas. Os palestrantes são profissionais que se destacam em suas áreas de atuação, como web design, design gráfico, 3D, vídeo, entre outros.
+Mostrando as novas ferramentas que estão surgindo na internet, a palestra “Pegando a nova onda da web - Ferramentas, Linguagens e Oportunidades”, é voltada especialmente para webdesigners, programadores, publicitários, estudantes de administração, comunicação e tecnologia.
+O palestrante José Carlos Chaves de Melo Junior vai mostrar para o público as novas oportunidades e áreas de trabalho que estão surgindo com a nova onda da internet. O profissional dará uma visão geral sobre as novas linguagens e códigos que facilitarão a vida dos usuários.
+A palestra também vai abordar o posicionamento no mercado da Adobe/Macromedia, Expression e as novas ferramentas da Microsoft para internet.
+José Carlos Chaves de Melo Junior é desenvolvedor web há sete anos e especialista em PHP, ColdFusion, Java, .Net,  DBA SQL Server.
+
+
+Nova Onda da Web
+•Palestra sobre as novas ferramentas, linguagens e oportunidades da internet
+•Inscrições gratuitas
+•Informações: Telefone 3324- 6688 ou no site www.datapoint.com.br/ciclopalestras
+•Data: Quarta-feira, dia 26
+•Horário: 19 horas
+•Local: Vitória Palace Hotel, Praia do Canto (em cima do Centro da Praia)
+•Palestrante: José Carlos Chaves de Melo Junior
+•Público alvo: Webdesigners, programadores, publicitários, estudantes de administração, comunicação e tecnologia <br><br><hr>
+Data da Publicação: 23/10/2006 - Pagina: 08 <br>
+Editoria: Informática <br><br>

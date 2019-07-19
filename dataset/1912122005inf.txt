@@ -1,0 +1,26 @@
+Segurança contra desconhecidos
+<b> Um dos sistemas antivírus mais
+premiados do mundo protege
+PCs individuais ou de empresas,
+independente do tamanho da rede </b><br>
+ <br>
+A Office Media (www.officemedia.com.br) está disponibilizando no mercado brasileiro a edição 2006 do programa antivírus NOD32. Este sistema protege tanto as redes como os computadores pessoais inclusive contra vírus desconhecidos, já que detecta códigos maliciosos ou comportamentos suspeitos através de Análises Heurísticas Avançadas.
+O produto, disponível em CD-Rom, para todas as versões do sistema operacional Windows,oferece completa proteção contra vírus, vermes e outros arquivos maliciosos. E ainda possui um rendimento altamente otimizado, consumindo poucos recursos do sistema operacional.
+Uma das principais características que se destacam no antivírus da edição 2006 é a tecnologia ThreatSense que, de forma automática, permite barrar mais de 80% dos novos vírus que aparecem todos os dias na internet,sem a necessidade de atualização de vacinas.
+Segundo o fabricante, este sofisticado motor não só detecta como previne malware, spyware, adware, phishing e outras ameaças. O NOD32 possui um módulo (Amon – Antivírus MONitor) que trabalha no nível mais profundo do sistema operacional, garantindo total controle na hora de abrir, copiar, criar, salvar e renomear arquivos.
+Além da verificação padrão do disco rígido e de outros drives, como disquetes e CD-Roms, o antivírus permite analisar o conteúdo de dados armazenados em memórias e cartões de expansão, sem a necessidade de atualizações.
+A interface intuitiva facilita a administração e customização do programa, sendo possível ao usuário adequar o software às suas necessidades. Segundo testes feitos pelo laboratório Virus Bulletin, o NOD32 é o antivírus com a melhor performance do mundo, já que, há sete anos, identifica todos os vírus ativos, sem produzir falsos positivos, nem erros na detecção.
+A proteção para e-mail é completa. O sistema verifica automaticamente todas as partes da mensagem inclusive arquivos anexos compactados.
+Corpo da mensagem, arquivos anexos, outras mensagens em qualquer nível e outros códigos que estejam encravados no e-mail são verificados com eficiência e velocidade, garantindo um bom desempenho do computador, pois possui baixo consumo dos recursos do micro. O NOD32 rastreia inclusive a base de dados do MS Outlook e Outlook Express.
+Na sua edição corporativa, o NOD32, através do RA (Remote Administrator), oferece um conjunto de ferramentas que permite ao administrador executar diversas funções incluindo a instalação remota centralizada diretamente do servidor para outros pontos da rede e protegendo por senha.
+A eficiência na detecção combinada com a taxa de rastreamento pode chegar a ser 50 vezes mais rápida que de outros softwares. Na edição 2006, o NOD32 inclui OutPost Firewall, sistema de defesa que monitora os movimentos de spywares, evitando que eles se instalem no computador, válido por seis meses.
+Uma vez instalado, o sistema faz uma varredura no equipamento para eliminar possíveis spywares instalados anteriormente e inicia a prevenção automática, com monitoramento em tempo real. O Outpost bloqueia o spyware em todos os seus estágios de infecção, combinando de forma pró-ativa e reativa tecnologias que oferecem proteção contra ataques por hackers, infecção de spyware e outros riscos de segurança.
+
+NOD32
+q Desenvolvedor: Eset/Protagon
+q Requisitos Mínimos: 30Mb de espaço em HD, placa de vídeo VGA ou superior, CPU 133Mhz / 150Mhz, memória RAM 32Mb, Windows 9x/ME/NT/2000 ou Windows XP/2003 com CPU de 300Mhz e memória RAM de 128Mb
+q Distribuidor: Office Media
+q Preços: R$ 69,90 para Upgrade (para quem já tem outras edições do NOD32 ou outro antivírus instalado), R$ 94,90 (NOD32 Edição 2006 individual) e R$ 139,90 (NOD32 Edição 2006 Profissional)
+q Mais Informações: www.officemedia.com.br  <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 19 <br>
+Editoria: Informática <br><br>

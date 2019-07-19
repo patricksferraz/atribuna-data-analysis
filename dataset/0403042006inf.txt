@@ -1,0 +1,31 @@
+Mobilidade e alta performance
+<b> Melhor desempenho, autonomia
+de bateria de até 11 horas e acesso
+remoto à internet por meio
+de redes wireless </b><br>
+ <br>
+Terceira maior companhia de computação pessoal do mundo, a Lenovo antecipa o lançamento no Brasil de sua nova família de notebooks, o ThinkPad X60 e o ThinkPad T60, que chegam às lojas no final de abril.
+Equipamentos ideais para usuários que estão constantemente em trânsito, os novos ThinkPads X60 e ThinkPad T60 possuem a nova tecnologia móvel Intel Centrino Duo, que possibilita o acesso remoto a internet por meio de redes WAN (Wireless Area Network).
+Outra característica dos novos processadores é capacidade de realização de múltiplas tarefas com menor consumo de energia, o que proporciona até 11 horas de autonomia para notebooks que estejam equipados com uma bateria opcional de longa duração.
+Os processadores dual core (núcleo duplo) da Intel melhoram a performance pois permitem a realização de diversas operações ao mesmo tempo como, por exemplo, a utilização de aplicativos enquanto se faz uma varredura minunciosa em busca de vírus ou até o backup completo de todo o sistema.
+Geralmente, essas situações poderiam causar extrema lentidão do sistema e até a perda das informações que não foram salvas anteriormente, em caso de travamento. 
+ Outra novidade dos modelos ThinkPad X60 e ThinkPad T60 é a ferramenta ThinkVantage Access 4.1, que permite a criação e fácil gerenciamento de perfis de acesso de acordo com o tipo de conexão disponível. A ferramenta ThinkVantage Access 4.1 tanto suporta conectividade convencional, como as redes WLAN e WWAN, que permitem acesso wireless a redes locais e a internet. 
+ A nova tecnologia System Rejuvenation da Lenovo – que integra o conjunto de ferramentas Rescue and Recovery – elimina os arquivos desnecessários do disco rígido que impedem o bom desempenho do sistema.
+Com a limpeza desses arquivos e a eliminação de spywares e adwares, aplicativos que tornam o equipamento passível de invasão, o Rescue and Recovery melhora o desempenho do sistema e auxilia o equipamento a operar com mais velocidade.
+ Com a nova tecnologia móvel Intel Centrino Duo, incluindo o processador Intel Core Duo e o Intel Mobile 945 Express Chipset, o ThinkPad Série X60 oferece melhor desempenho com barramento frontal de 667MHz e 667MHz de memória DDR2 SDRAM.
+Com 2,18 quilos e uma polegada de espessura (2,54 centrímetros), o ThinkPad T60 proporciona potência e desempenho em um fino e leve gabinete.
+Para usuários móveis, o T60 oferece um projeto mais resistente, combinando o ThinkPad Roll Cage – um chassi interno blindado – com o Active Protection System (sensor de movimentos) e um inteligente sistema de amortecimento para a unidade de disco rígido. 
+Outra tecnologia que reforça o conceito de segurança destes modelos é o dispositivo Fingerprint Reader – um identificador biométrico que faz a leitura e o reconhecimento de impressões digitais e impede que o equipamento seja utilizado por usuários desconhecidos.
+O leitor de impressões digitais integrado faz parte de um amplo conjunto de ferramentas de segurança oferecido pela Lenovo, incluindo o software Client Security Solution 6.0 e um chip de segurança integrado.    
+Os preços variam entre R$ 2.799,00 e R$ 3.899,00 de acordo com a configuração do equipamento. 
+Mais informações no site www.lenovo.com/br.
+
+Webcam de alta resolução
+O novo modelo de notebook da RBC Indústria, fabricante de computadores localizada em Manaus, é o i@tech G410. Entre os destaques da nova máquina estão os acessórios que geram extremo conforto, como por exemplo uma webcam de alta resolução, sensor de luz para ajuste automático da luminosidade da tela, tocador de MP3 – sem que o equipamento esteja necessariamente ligado – e sintonizador de TV. 
+O i@tech G410 é dotado do processador Intel Centrino Duo, com clock de 1.66GHz ou de 1.83GHz, 2MB L2 cache e 667 MHz FSB.
+A máquina suporta memória RAM de até 2GB, com 2 slots de expansão de 200pin DDR2 SO-DIMM SDRAM. Os displays disponíveis podem ser dos tipos LCD de 14 polegadas WXGA (com resolução máxima de 1280x768) TFT ou de 14.1 polegadas WXGA (1280x800) TFT.
+A placa de vídeo instalada é a Intel 945GM com suporte 3D (New Generation GMA 950), com 64MB ou 128MB DDRII SDRAM. O drive ótico apresenta três opções: Combo Drive (DVD-Rom + CD-RW), DVD Dual (DVD+/-RW) ou Super Multi (DVD+/-RW +DVD-Ram).
+O i@tech G410 tem ampla conectividade: quatro portas USB 2.0, leitor de cartão 4-em-1, porta para mini-cartão Intel PRO / Wireless 3945ABG (802.11a/b/g) network connection 10/100/1000 Mbps Gigabit Ethernet, slot Express Card, módulo Bluetooth com interface USB e slot PCMCIA.
+O preço da configuração básica é de R$ 4,3 mil. <br><br><hr>
+Data da Publicação: 03/04/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

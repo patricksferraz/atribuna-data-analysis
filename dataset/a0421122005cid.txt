@@ -1,0 +1,62 @@
+Cefet-ES altera gabaritos 
+<b>  </b><br>
+ <br>
+O Centro Federal de Educação Tecnológica do Espírito Santo (Cefet-ES) anulou e alterou respostas de questões das provas do processo seletivo para os cursos Técnico Integrado com o Ensino Médio Regular, Superiores e Técnicos Subsequentes.
+As respostas corretas das questões 09 e 10 do gabarito da prova dos cursos Técnicos Integrados com o Ensino Médio Regular são E e B. A questão 27 da prova de Língua Portuguesa foi anulada.
+A resposta correta da questão 25 da prova de Física para os cursos Técnicos Subsequentes é a letra C. Foram anuladas 28 e 30.
+
+Os gabaritos
+
+TÉCNICOS INTEGRADOS COM ENSINO MÉDIO REGULAR
+  Q	Resp	Q	Resp	Q	Resp	Q	Resp	Q	Resp
+  01	A	11	A	21	E	31	D	41	B
+  02	E	12	C	22	A	32	A	42	A
+  03	C	13	D	23	E	33	E	43	D
+  04	D	14	E	24	C	34	C	44	A
+  05	C	15	E	25	D	35	B	45	C
+  06	B	16	E	26	C	36	C	46	E
+  07	B	17	C	27	ANULADA	37	A	47	E
+  08	D	18	B	28	E	38	E	48	D
+  09	E	19	C	29	B	39	C	49	B
+  10	B	20	A	30	D	40	E	50	C
+
+TÉCNICOS E QUALIFICAÇÃO PROFISSIONAL INTEGRADOS COM ENSINO MÉDIO PARA JOVENS E ADULTOS
+  Q	Resp	Q	Resp	Q	Resp	Q	Resp	Q	Resp
+  01	C	11	D	21	D	31	E	41	E
+  02	B	12	E	22	B	32	A	42	A
+  03	A	13	B	23	A	33	B	43	C
+  04	D	14	B	24	C	34	C	44	B
+  05	E	15	C	25	A	35	C	45	A
+  06	C	16	B	26	C	36	E	46	D
+  07	D	17	D	27	A	37	D	47	A
+  08	A	18	B	28	E	38	A	48	C
+  09	A	19	C	29	B	39	C	49	B
+  10	E	20	E	30	A	40	D	50	B
+
+TÉCNICOS SUBSEQÜENTES
+  Q	Resp	Q	Resp	Q	Resp	Q	Resp	Q	Resp
+  01	D	11	D	21	D	31	B	41	C
+  02	C	12	E	22	D	32	A	42	E
+  03	E	13	A	23	E	33	C	43	A
+  04	D	14	B	24	E	34	D	44	B
+  05	B	15	A	25	C	35	D	45	A
+  06	E	16	E	26	B	36	B	46	D
+  07	A	17	D	27	C	37	A	47	A
+  08	C	18	E	28	ANULADA	38	C	48	B
+  09	B	19	C	29	B	39	E	49	B
+  10	A	20	B	30	ANULADA	40	B	50	D
+
+CURSOS SUPERIORES DE TECNOLOGIA - LICENCIATURA- ENGENHARIAS
+  Q	Resp	Q	Resp	Q	Resp	Q	Resp	Q	Resp
+  01	D	11	B	21	D	31	C	41	E
+  02	C	12	E	22	C	32	A	42	D
+  03	A	13	D	23	C	33	D	43	B
+  04	C	14	C	24	D	34	E	44	C
+  05	E	15	A	25	A	35	B	45	A
+  06	D	16	B	26	E	36	E	46	D
+  07	E	17	C	27	B	37	D	47	D
+  08	B	18	D	28	E	38	A	48	A
+  09	A	19	E	29	B	39	C	49	C
+  10	E	20	B	30	A	40	B	50	B <br><br><hr>
+Data da Publicação: 21/12/2005 - Pagina: 04 <br>
+Editoria: Cidades <br><br>

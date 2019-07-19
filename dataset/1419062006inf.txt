@@ -1,0 +1,27 @@
+Nova praga ronda o Orkut
+<b> Criminosos virtuais se
+aproveitam da rede social
+para tentar roubar dados
+bancários dos usuários </b><br>
+ <br>
+A rede mundial de relacionamentos mais difundida no Brasil, o Orkut, tem sido alvo de uma onda de ataques de hackers que se aproveitam da rede para tentar roubar dados bancários dos usuários do site.
+Assim como aconteceu no mês passado, o cavalo-de-tróia, identificado como pela consultoria de segurança Sophos, chega ao micro do usuário camuflado como recados do Orkut.
+Uma das armadilhas, por exemplo, é a frase “Venha ver as fotos da nossa festa”, que geralmente aparece como um scrap deixado por um contato conhecido. Quando acessado, o espião tem acesso a todas as senhas do seu computador.
+Segundo o diretor de negócios da Batori Software & Security, Denny Roger, o cavalo-de-tróia cria uma imagem falsa que se sobrepõe ao site original de bancos on-line. Com a artimanha, usuários desprevenidos podem digitar informações como senhas bancárias de cartões de crédito na armadilha.
+Após coletar informações, o cavalo-de-tróia envia os dados sigilosos para o hacker, que pode ter acesso a operações bancárias da vítima ou a qualquer outra senha do computador.
+Roger alerta que a praga não é detectada por softwares de segurança de grande apelo, como o Windows One Care, da Microsoft, e o pacote Norton Security, da Symantec.
+A maioria dos aplicativos gratuitos, porém, como o AVG Free Edition, barram a ação do cavalo-de-tróia. “Normalmente, os hackers pegam um código pronto e melhoram um pouco. Depois soltam na internet para pescar senhas”, explica o especialista.
+A praga é composta por partes de códigos de outras já detectadas, o que permite que determinados antivírus barrem a infecção.
+“Neste caso, o código é novo. Mas o propósito é o mesmo dos que já existem. Tanto, que a maioria dos antivírus, inclusive os gratuitos, já consegue detectar a praga”, relata Roger.
+Além dos ataques com recados maliciosos, o Orkut serve como pano de fundo para que hackers ataquem com mensagens de e-mails informando sobre um novo recado ou ainda que retirem fotos dos seus álbuns pessoais para colocarem em outros sites. 
+
+
+Primeiro lugar mundial em spam
+Taiwan lidera a lista de envio de 64% de todo o spam mundial. A informação é fruto de uma pesquisa divulgada pela companhia de segurança Cipher Trust, que buscou saber de onde vem a maioria dos spams, aquelas famosas mensagens indesejadas que chegam no seu correio eletrônico.
+De acordo com o ranking da empresa, os norte-americanos aparecem na segunda posição, com 23% de participação, seguidos pela China, responsáveis por 6% do spam indesejável.
+A lista divulgada pela empresa não cita o Brasil, que experimentou um aumento de 77% nos spams durante o mês passado, segundo dados do Cert.Br.
+O estudo também aponta crescimento no volume de spams e de ataques de computadores zumbis em 20% e 21%, respectivamente durante o período. A proximidade das cifras, segundo a empresa, ilustra a relação direta que PCs zumbis têm com spams – quanto maior o número de ataques, maior o tráfego de mensagens indesejadas.
+Mesmo que a Cipher Trust alegue que o crescimento tem relação direta com a sofisticação das ferramentas dos spammers para driblar tecnologias de filtragem de mensagens, o crescimento coincide com o massivo ataque conduzido contra a empresa antispam israelense Blue Security. 
+Mesmo com tantos ataques, a Blue Security anunciou que não poderia “tomar a responsabilidade pela crescente guerra on-line dentro de suas operações”. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 14 <br>
+Editoria: Informática <br><br>

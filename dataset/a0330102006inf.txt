@@ -1,0 +1,24 @@
+Computadores de bordo
+<b> Com verdadeiros motoristas
+virtuais, novos veículos têm como
+principal objetivo tornar o ato
+de dirigir cada vez mais seguro  </b><br>
+ <br>
+Ao entrar em uma rodovia, seu carro entra no modo “piloto automático”, que calcula a distância entre veículos à sua frente e, com a ajuda de sensores, faz o veículo mudar de faixa caso um outro carro esteja se aproximando em maior velocidade.
+Mas, mesmo sem o “piloto automático”, o motorista já não manda tanto em seu veículo. Caso o limite de velocidade imposto pelas placas de trânsito não sejam obedecidos, o próprio carro aciona o sistema de freios e diminui.
+Esses exemplos de inteligência automotiva já estão sendo testados e alguns estarão disponíveis em lançamentos para o ano que vem no Japão e Estados Unidos.
+Cérebro do automóvel, o computador de bordo é a grande estrela desses e outros sistemas que chegam para facilitar cada vez mais a estressante rotina de dirigir.
+Atualmente, o uso mais comum do computador de bordo é a indicação de caminhos através do GPS, com telas de até 10 polegadas e comandos no painel lateral ao volante.
+Por meio de satélites na órbita terrestre, o sistema avalia o posicionamento do veículo na cidade indicada e, por meio de mapas armazenados no disco rígido interno do carro, aponta as direções para que o motorista chegue ao seu destino.
+Infelizmente, os sistemas de GPS atuais indicam apenas o caminho a ser tomado baseado em mapas da cidade e não na condição de tráfego registrada no exato momento, o que torna o acessório uma ótima opção quando as ruas estão livres.
+Por enquanto, a limitação do sistema no Brasil está no mapeamento das ruas para oferecer os serviços de guia. Por sua vez, o mercado norte-americano oferece inúmeras opções.
+Um exemplo é o sistema da companhia OnStar, que permite, por meio de um espelho retrovisor com comunicação, que o motorista fale o caminho e receba o direcionamento sonoro sem ter que se concentrar na tela do computador de bordo.
+E que tal a projeção das informações, com mapas e indicações, diretamente no pára-brisa? Como forma de manter a atenção do motorista voltada para a estrada, e não para a tela LCD no painel do veículo, fabricantes como a Siemens VDO estão colocando os mapas projetados no vidro. Coisas de filme de ficção científica!
+Exercendo o papel de maestros do carro digital, os computadores de bordo já estão presentes em veículos de montadoras como Audi, Mercedes-Benz, Ford, Fiat e Citröen.
+E hoje, graças aos avanços infinitos da tecnologia, eles são responsáveis por bem mais do que simplesmente reproduzir graficamente as direções indicadas pelo sistema de localização Global Positioning System (GPS).
+Quer um exemplo? Os sensores inteligentes de rastreamento avisam que há uma batida iminente e direcionam a ordem para o sistema de frenagem acionar a pastilha de freio que pára o veículo.
+Em um aparelho em que o menor atraso pode ter conseqüências mortais – o tempo de reflexo de um motorista em uma colisão iminente é menor que um segundo – o exagero de núcleos de processamento exigiu mudanças na comunicação interna do veículo.
+As montadoras vêm integrando em uma única via a comunicação de todos os principais sensores dentro de veículo com o computador de bordo, numa espécie de espinha dorsal do automóvel que encurta o tempo de resposta.
+“Em modelos mais modernos, como o Megane, a miniaturização dos componentes faz com que o automóvel tenha 64 minicomputadores interligados dentro do seu chassi”, revela o supervisor de engenharia elétrica e de sistemas eletrônicos da Renault, Ricardo Peres. <br><br><hr>
+Data da Publicação: 30/10/2006 - Pagina: 03 <br>
+Editoria: Informática <br><br>

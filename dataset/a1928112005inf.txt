@@ -1,0 +1,23 @@
+OBSERVATÓRIO
+<b>  </b><br>
+ <br>
+A Lei Geral do Software
+O setor de software e serviços de informática amargou historicamente situações de desprezo explícito por parte dos nossos governantes, em graus variados, desde os primórdios da informática no Brasil.
+Soluções e ações tópicas e isoladas como a produção de software básico pela Cobra, criação do Softex e outras menores e em número ínfimo, eram apenas aquilo mesmo: soluções descasadas e, em sua maioria, com sérias soluções de continuidade.
+Além disto, nossas divergências com o poder público só se explicitavam através de parcas demandas judiciais, alguns esperneios públicos e, além de “reclamar com o bispo”, nada mais. Nós demoramos a perceber, a despeito dos exemplos de vários outros setores, de que, como na Medicina, prevenir sempre foi e será melhor, mais eficiente, mais rápido e mais barato do que remediar. Nós, da Federação Nacional das Empresas de Serviços Técnicos de Informática (Fenainfo), aprendemos e incorporamos a lição.
+Passamos a discutir, sempre que tivemos a oportunidade, critérios, políticas e conceitos com o executivo, legislativo e até com o judiciário. Casos como o acordo sobre software livre, a inclusão no refinanciamento das dívidas das micro e pequenas empresas, a não gravação por ocasião da Reforma Tributária es a duas vitórias em relação ao PIS e Cofins são emblemáticos.
+Mas, talvez, o maior exemplo desta nova postura seja o projeto que está em andamento no Conselho de Altos Estudos e Avaliação Tecnológica, órgão de assessoria da Mesa Diretora da Câmara dos Deputados dirigido por um deputado daquela Mesa e composto por representantes dos maiores partidos da Casa.
+Relatado pelo deputado paraibano Marcondes Gadelha (PSB), defendido pelo então presidente do Conselho, deputado Luiz Piauhilyno (PDT-PE) e apoiado pelos deputados Luiza Erundina (PSB-SP) e Ariosto Holanda (PSB-CE), o projeto foi aprovado em novembro de 2003 após uma longa e densa apresentação do tema “O Mercado de Software no Brasil” pelo nosso presidente Maurício Mugnaini baseado no documento da Assespro, Fenainfo e Softex sobre o nosso setor. Apresentação esta seguida de demorado e profícuo debate.
+Durante o ano eleitoral de 2004 o projeto pouco andou. Neste ano, porém, as atividades do Conselho se intensificaram e iniciamos a implementação dos três resultados exigidos de cada projeto naquele conselho:
+1) produção de pelo menos um evento de vulto sobre o tema;
+2) realização de coletânea de idéias, textos e dados de forma a gerar pelo menos uma publicação a respeito
+3) elaboração de pelo menos um diploma legal que venha ajudar a solucionar o(s) problema(s) detectado(s) pelo estudo.
+Em junho passado, o Conselho, através da coordenação do deputado Gadelha, do trabalho da Consultoria Legislativa e do apoio e idéias da Fenainfo, realizou o seminário “O Mercado de Software no Brasil”.
+Os teores das palestras do evento, mais alguns textos relevantes, estão sendo compilados para gerar a publicação que cada projeto necessita. E, para completar o tripé de premissas, uma compilação da legislação existente sobre software mais alguns dispositivos resgatados de legislações não mais em vigor e outros coletados de idéias levantadas no seminário citado, geraram um “draft” de um Projeto de Lei que, sem medo de exagerar, poderemos apelidar de Lei Geral do Software.
+Este PL embrionário já foi discutido no Rio de Janeiro, São Paulo, Porto Alegre e Recife e será discutido hoje, às 19 horas, no plenário da Assembléia Legislativa, a convite da Comissão de Ciência e Tecnologia daquela Casa através da deputada Janete de Sá (PSB), com a presença dos deputados Gadelha e Renato Casagrande, além do secretário estadual de Ciência e Tecnologia e do presidente da Fenainfo.
+Após esta rodada de debates, será realizada uma Audiência Pública na Comissão de Ciência e Tecnologia da Câmara dos Deputados, no início de dezembro, e o projeto será apresentado solenemente em uma Comissão Geral no Plenário da Câmara dos Deputados, no início da próxima legislatura.
+Com absoluta certeza, devido às competências envolvidas em sua concepção e graças ao processo democrático de seu aperfeiçoamento, este PL será o marco mais expressivo para o nosso setor de todos os tempos.
+
+Leonardo Humberto Bucher é diretor da Fenainfo e presidente da Assespro Espírito Santo <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 19 <br>
+Editoria: Informática <br><br>

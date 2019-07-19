@@ -1,0 +1,24 @@
+Fraudes crescem 600%
+<b> No universo digital, golpes e
+roubo se tornaram um negócio
+lucrativo para os cybercriminosos,
+com crescimento de 600% em 2005 </b><br>
+ <br>
+Os fraudadores e golpistas do mundo virtual não querem mesmo saber de dar trégua. Dados do Centro de Estudos, Respostas e Tratamento de Incidentes de Segurança, do Comitê Gestor da Internet no Brasil (Cert.br), revelaram que as tentativas de fraudes pela internet cresceram quase 600% em 2005, em comparação ao ano anterior. Foram 27.292 casos reportados ao Cert.br no ano passado, contra 4.015 em 2004.  
+Atentas a esses números alarmantes, empresas estão adotando medidas de segurança para não se tornarem parte dessa estatística. No universo digital, golpes e roubo de dados confidenciais se tornam um negócio lucrativo para fraudadores. Portanto, todo cuidado é pouco.
+Com o aumento das fraudes, também são maiores os prejuízos.  Bancos e administradores de cartões perderam cerca de R$ 300 milhões com os crimes digitais no ano passado, um crescimento de 20% em relação a 2004. 
+Segundo o Instituto de Peritos em Tecnologias Digitais e Telecomunicações (IPDI), as perdas poderiam ter chegado a R$ 1 bilhão se não fosse o reforço das medidas de segurança. Assim como as empresas, um grande número de vítimas é atingido: os correntistas que deixam suas máquinas abertas para os fraudadores.  
+Os bancos já adotaram várias estratégias para intensificar o combate aos criminosos virtuais através de um forte esquema de segurança. Anti-spam, antivírus, firewall e ids (detector de intruso) são alguns procedimentos utilizados.
+Além da segurança adotadas pelos que combatem o roubo de senhas, os usuários devem fazer a sua parte com aões simples e eficazes.
+“Em primeiro lugar, o segredo é a sua garantia. Nunca permita que outras pessoas tenham acesso à senha e nem anote em lugar nenhum”, disse o consultor em Tecnologia da ITNet, empresa que atua no ramo de segurança da informação, Ricardo Biccas.
+Outra dica do especialista é a respeito da escolha dos códigos. “Opte por senhas que nada têm a ver com seus usuários. Nada mais óbvio que uma composta a partir da data de nascimento, por exemplo. Evite também os números repetitivos ou seqüenciais, de telefone, carteira de identidade ou CPF”, orientou o especialista da ITNet.
+
+Cuidados com vírus
+
+Quando um novo vírus surge, alguns de nós cairá doente, outros morrerão e uma parte vai sobreviver. Essa é a beleza dos seres humanos. Cada um de nós tem um sistema de imunológico único.
+Este é um conceito que a indústria de segurança de computadores deveria adotar, afirmou uma professora da ciência da computação da Universidade do Novo México, Stephanie Forrest, durante o evento Symposium on Information Security and Privacy, realizado em Boston, nos Estados Unidos.
+A diversidade dos sistemas e das aplicações podem ter um papel central na proteção de computadores e das redes de ataques de códigos maliciosos, argumenta Forrest.
+“Uma das razões pela qual os computadores são tão vulneráveis a ataques é que eles são todos iguais. Tornar cada computador único deixaria a vida mais difícil para as pessoas mal-intencionadas”, acredita a pesquisadora.
+A proposta da pesquisadora não vai fazer com que cada usuário tenha o seu próprio sistema operacional ou programa de e-mail. O segredo seria proteger o código em vez de filtrar as portas dos sistemas. Stephanie Forrest mostrou sua idéia para engenheiros da Intel no ano passado. Mas eles não gostaram. <br><br><hr>
+Data da Publicação: 24/04/2006 - Pagina: 07 <br>
+Editoria: Informática <br><br>

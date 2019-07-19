@@ -1,0 +1,8 @@
+Nova praga no Orkut
+<b>  </b><br>
+ <br>
+Um novo vírus começou a circular esta semana no Orkut, um dos maiores sites de relacionamentos da internet do mundo. O alerta é da Trend Micro. A mensagem que chega ao usuário no “scrapbook” é enviada por um amigo de seus contatos, que provavelmente teve seu perfil clonado ou invadido, e diz: “Dá uma olhada nas fotos da nossa festa, ficaram ótimas”.
+No recado deixado há um link que, ao clicá-lo, o usuário faz o download e instala automaticamente em sua máquina um vírus, uma mistura de trojan e spyware, que monitora e rouba suas informações bancárias, como números de cartões de crédito, senhas, dados de contas ou outras informações pessoais.
+“Esse tipo de ataque é conhecido como phishing. Por isso é importante que o usuário esteja sempre atento e mantenha seu antivírus atualizado”, afirma o gerente de serviços Midsize da Trend Micro para América Latina, Leonardo Bonomi. <br><br><hr>
+Data da Publicação: 12/06/2006 - Pagina: 22 <br>
+Editoria: Informática <br><br>

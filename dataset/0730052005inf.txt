@@ -1,0 +1,52 @@
+Congresso em Vila Velha
+<b> Congresso capixaba de tecnologia da informação vai
+mostrar as novidades do setor e oferecer palestras e mini-cursos </b><br>
+ <br>
+Executivos, CIO’S, formadores de opinião, estudantes, empresários, profissionais do setor e interessados em informática têm um encontro marcado nos dias 15, 16 e 17 de junho de 2005, quando acontece o “10º Congresso InfoWorld de Tecnologia da Informação”. 
+O encontro será no hotel Parthenon Pasargada, na Praia da Costa. Organizado pela Sociedade dos Usuários de Informática e Telecomunicações (Sucesu-ES), o evento tem como objetivos atualizar profissionais da área de Tecnologia da Informação (TI), proporcionar maior interação entre as novas tecnologias e seus usuários e facilitar o fechamento de negócios entre empresas e clientes.
+Durante o congresso, o participante terá a oportunidade de aperfeiçoamento profissional, de acordo com o segmento de atuação abordado no evento.
+As inscrições estão por R$ R$ 140, para associados da Sucesu-ES, R$ 200 para demais profissionais e R$ 50 para estudantes – cursando ensino médio, técnico, tecnólogo ou graduação. Os valores incluem a participação nas palestras, Keynotes, material promocional e coffee break.
+Serão apresentadas palestras conceituais, priorizando o que há de mais inédito em TI, além de cases de sucesso, que poderão servir de “Benchmarking”.
+Os keynotes speakers vão compartilhar uma visão direcionada e aplicada aos negócios. Também serão oferecidos diversos “Tutoriais”, mini-cursos cuja finalidade é disseminar e aprofundar o conhecimento em um tema específico.
+O evento vai contar com um “Business Center”, um espaço disponível ao público e às empresas participantes, destinado a pequenas reuniões, fechamento de negócios, consultorias e acesso à internet.
+O “10º Congresso InfoWorld de Tecnologia da Informação” conta com o patrocínio do Cimcorp, da Cisco Systems, Gartner, HP, Sun, Vixteam, EMC2, G Plus, Oracle, Symantec, Consist, Decatron, ISH, AGE, Atos Origin, Banco do Brasil, Unitera, UVV, Senac, entre outros. Para obter outras informações entre em contato pelo telefone 3225-9955 ou pelo e-mail: eventos@sucesues.org.br. 
+O participante deverá preencher o formulário de inscrição no endereço www.sucesues.org.br, e posteriormente, efetuar o pagamento. Mais informações no site da Sucesu ou através do telefone (27) 3225-9955.
+
+Temas
+
+•Business Intelligence / CRM
+•Gestão
+•Segurança da Informação
+•Desenvolvimento Web
+•Infra-Estrutura
+•Software Livre
+•Horário do evento: 8h30 às 18 horas
+
+Mini-cursos
+•Das 18h30 às 21h30
+•R$ 30,00 – Associados Sucesu-ES
+•R$ 40,00 – Demais profissionais
+•R$ 20,00 – Estudantes
+•OBS: Inclui material didático.
+
+Novo anti-spam no mercado capixaba
+
+É difícil encontrar hoje em dia quem utilize o correio eletrônico e que já não tenha ouvido falar em spam, ou pior ainda, não seja uma de suas vítimas diárias.
+Se você é um dos felizardos que nunca foi apresentado ao spam, saiba que este é o termo pelo qual é comumente conhecido o envio, a uma grande quantidade de pessoas de uma vez, de mensagens eletrônicas, geralmente com cunho publicitário, mas não exclusivamente.
+Em plena era de internet comercial, o spam é uma das principais perturbações para internautas, administradores de redes e provedores, de tal forma que o abuso desta prática já se tornou um problema de segurança de sistemas.
+Além disso, é também um problema financeiro, pois vem trazendo perdas econômicas para uma boa parte dos internautas e lucro para um pequeno e obscuro grupo. 
+A capixaba Itnet Informática acaba de incluir em seu portfólio o Symantec Premium AntiSpam. Direcionado às empresas que querem proteger o servidor de e-mail da invasão dos indesejados “spams”, o lançamento da Symantec é um serviço de subscrição adicional e opcional para os clientes do Symantec Mail Security incluído no pacote Symantec AntiVirus Enterprise Edition e já está disponível para avaliação e comercialização.
+O produto proporciona prevenção de primeira linha contra spam sem necessitar de administração ou instalação de softwares adicionais.
+A prevenção multicamadas contra o spam tira proveito de mais de 20 tecnologias de filtragem, incluindo assinaturas de spam, heurística, filtros de reputação, identificação de linguagem e métodos patenteados.
+
+Tecnologia pioneira no Estado
+
+Localizada na TecVitória, incubadora de empresas de base tecnológica, a Imatic Sistemas Industriais de Visão é a primeira empresa capixaba especializada no desenvolvimento de sistemas de inspeção visual automática.
+A empresa trabalha no desenvolvimento de produtos e soluções em uma área de tecnologia conhecida mundialmente como machine vision ou visão computacional.
+A inspeção visual automática é usada para assegurar a qualidade de vários processos de manufatura, desde pequenos chips de computadores a grandes veículos espaciais.
+As soluções desenvolvidas pela Imatic possibilitam significativos ganhos de produtividade e eliminação de desperdícios nos processos produtivos, além de assegurar a qualidade do produto final.
+Essa tecnologia é aplicada em segmentos industriais como, por exemplo, o setor farmacêutico, cosmético, automotivo, metalúrgico, de alimentos e bebidas, eletroeletrônico, gráfico, entre outros.
+A missão da Imatic é tornar esta tecnologia cada vez mais acessível, principalmente para as indústrias capixabas. Gerando redução de custos, ganhos de produtividade, controle eficaz de processos, aumento da qualidade e competitividade dos produtos do nosso Estado.
+Além disso, a empresa pretende gerar produtos de alta qualidade, alimentando o mercado nacional e com capacidade para competir no mercado internacional. Mais informações podem ser obtidas através do e-mail anderson@imatic.com.br ou pelo telefone 3324-4097. <br><br><hr>
+Data da Publicação: 30/05/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

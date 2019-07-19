@@ -1,0 +1,13 @@
+Preview do Opera
+<b>  </b><br>
+ <br>
+A norueguesa Opera acaba de liberar a segunda versão preview do navegador Opera 9 (http://labs.opera.com/downloads) cujas principais novidades são a inclusão de “widgets” e a integração com a rede BitTorrent. 
+Os widgets funcionam como pequenas janelas do navegador que exibem informações de interesse do usuário retiradas da internet e posicionadas na área de trabalho do computador. Essas janelas não exibem apenas páginas de web, podendo conter pequenos programas que extraem dados da Grande Rede. 
+Para tentar popularizar os widgets, a Opera promete entregar o produto com dez deles prontos e instruções que permitirão, segundo a empresa, a qualquer pessoa com conhecimentos básicos de criação de conteúdos na web, como HTML, JavaScript e CSS, criar seus widgets sem dificuldade. 
+Com relação ao BitTorrent, a nova versão embutirá um programa para acesso à rede de troca de arquivos, que, a rigor dispensará o usuário de usar outros programas, facilitando o processo.
+Nessa rede, os downloads são divididos em pequenos pedaços, podendo vir de diferentes usuários que contenham o arquivo procurado, agilizando o processo. 
+Além desses recursos, o novo Opera permitirá que o usuário defina preferências específicas para cada site visitado, inclusive parâmetros de segurança e privacidade.
+O bloqueador de pop-ups e as ferramentas integradas de busca também foram melhoradas. O novo navegador também exibe imagens reduzidas das páginas visitadas para facilitar sua localização entre as abas abertas ou no histórico. 
+A versão preview é uma das últimas fases da etapa de desenvolvimento. A idéia é que ela sirva de base para uma última depuração pelos usuários. Segundo a empresa, a versão final do Opera 9 será liberada ainda nesse semestre. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

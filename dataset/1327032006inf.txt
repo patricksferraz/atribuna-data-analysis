@@ -1,0 +1,13 @@
+Criptografia automática
+<b> Com capacidade de armazenamento de até 4 GB, nova
+linha de pen drives promete segurança total </b><br>
+ <br>
+A família DataTraveler Elite Privacy Edition (DTE Privacy Edition), da Kingston Technology, reúne os primeiros pen drives USB do mundo a oferecer total segurança de dados. Plug and play e com capacidade de armazenamento de até 4 GB, os DTE Privacy Edition foram especialmente projetados para atender os requisitos de segurança e compatibilidade de usuários corporativos.
+O fabricante garante que, mesmo em caso de perda ou roubo, os dados armazenados continuam protegidos. Com criptografia por hardware AES (Advanced Encryption Standard) de 128 bits automática e contínua (on-the-fly), os novos pen drives da Kingston apresentam diversas outras medidas de segurança avançadas, incluindo um complexo protocolo de senha e um mecanismo que bloqueia potenciais “assaltantes” depois de 25 tentativas inválidas consecutivas de entrada de senha, assegurando o acesso somente a usuários autorizados e frustrando tentativas de posse dos dados de dispositivos perdidos ou roubados. 
+Graças a sua ampla capacidade, portabilidade e simplicidade, os dispositivos de armazenamento USB estão ficando extremamente populares entre usuários de computadores e têm rapidamente ganhado espaço nas empresas.
+No entanto, as organizações têm enfrentado o desafio de prevenir a transferência ou perda de dados corporativos contidos nestes dispositivos. O DTE Privacy Edition é a solução ideal para empresas que procuram um método eficiente e econômico de manter seus dados seguros.
+“A segurança de dados móveis é um dos principais desafios que os profissionais de TI enfrentam hoje”, afirma o diretor de desenvolvimento de negócios de mídia digital da Kingston, Mark Leathem.
+Segundo o diretor, uma das principais questões que afligem as companhias atualmente é o reforço de suas políticas de segurança. “Enquanto é relativamente simples estabelecer as melhores práticas e políticas, o desafio é fazer com que elas sejam seguidas a risca pelos funcionários. Se não há como forçar a obediência à segurança reforçada, então os dados da empresa estão comprometidos”, avalia Leathem. 
+Mais informações no site www.kingston.com.br. <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,20 @@
+A revolução da telefonia IP
+<b> Pequenas, médias e grandes
+empresas, se já não implementaram
+alguma solução, avaliam as
+possibilidades de adotar o VoIP </b><br>
+ <br>
+Usar a internet para falar ao telefone. Essa é a promessa da tecnologia de voz sobre IP (VoIP, da sigla em inglês), que desafia as grandes operadoras de telecomunicações e promete reduzir o custo das ligações para o consumidor. 
+Mesmo existindo há praticamente uma década, somente de dois anos para cá a tecnologia de voz sobre protocolo IP (VoIP) vem conquistando um número significativo de adeptos.
+E a razão é muito simples. A qualidade e segurança aumentaram e, comparado com os custos da telefonia tradicional, é mais barato usar a telefonia IP, que trafega voz – em vez de dados – pela mesma rede da internet.
+Pequenas, médias e grandes empresas, se já não implementaram alguma solução, avaliam com muito interesse as possibilidades de adotar o VoIP. E os serviços destinados também a residências começam a surgir em grande quantidade no Brasil.
+Para o analista Álvaro Leal, da consultoria IDC, três foram os fatores responsáveis por esse fenômeno. O primeiro deles é o desenvolvimento da tecnologia de compressão de voz em dados, os chamados codecs, que foram aperfeiçoados desde o final da década de 90.
+O objetivo era alcançar a melhor qualidade do áudio e o menor tamanho dos pacotes de dados. “Outro fato que ajudou bastante é o acesso crescente das empresas e usuários domésticos a computadores mais velozes, que processam esses pacotes”, explica Leal.
+O mais importante, no entanto, era o desenvolvimento e a popularização de redes de rápida transferência de dados, que permitiriam o uso de voz sobre IP da mesma maneira que os telefones convencionais – a banda larga em profusão.
+Por contar com uma base de usuários ainda muito diminuta, presente principalmente no ambiente corporativo, o mercado de voz sobre IP apresenta altas taxas de crescimento ano a ano.
+Em 2004, a IDC estimou a movimentação de US$ 60 milhões no setor para, em 2008, atingir US$ 7,6 bilhões em todo o mundo, um crescimento médio anual de 282%.
+Quanto ao número de usuários, 2005 deve terminar com cerca de três milhões de assinantes no mercado residencial. Até 2009, então, a consultoria prevê a adoção por 27 milhões de usuários, um crescimento médio anual de 800%.
+“Estamos vendo um crescimento porcentual astronômico de VoIP que, por ainda ter uma base pequena de usuários, é natural, não surpreende”, explica o consultor da IDC. 
+Atualmente, os maiores consumidores mundiais da tecnologia são os Estados Unidos e a Ásia, com maior destaque para China e Japão. <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 03 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,44 @@
+PRATELEIRA
+<b>  </b><br>
+ <br>
+Para blogueiros
+Os blogs se tornaram febre entre jovens que desejam compartilhar idéias e mostrar aos amigos e outros internautas acontecimentos de seu dia-a-dia. Com a popularização dos serviços de hospedagem na internet, os diários virtuais ficaram cada vez mais criativos e divertidos, contabilizando números de acessos tão altos quanto o de grandes portais.
+Atualmente, a grande novidade no segmento é a possibilidade de inserção de vídeos caseiros editados ou intervenções em vídeos já existentes. Trata-se do fenômeno dos videologs, uma nova versão dos blogs que possibilita aos internautas a inserção e troca de vídeos digitais. Empresas como a You Tube, Videolog.TV e Podomatic já disponibilizam o serviço gratuitamente, bastando que o usuário disponha de meios para realizar sua própria produção.
+De olho nesse mercado, a empresa Pinnacle acaba de lançar a versão 10.5 do software Studio. Voltado para usuários amadores, o produto facilita a vida dos videoblogueiros que, acostumados a postar vídeos sem cortes ou legendas, acabam tornando o material que disponibilizam em suas páginas bastante cansativo. Ao adicionar recursos como trilha sonora, efeitos especiais e edições dos trechos mais interessantes, o usuário tem a chance de deixar seu blog mais criativo e dinâmico para os visitantes. 
+
+Resistente
+A Panasonic lançou no mercado japonês um novo notebook que, além da configuração atraente, pode ganhar mais usuários por sua alta resistência a impacto e derramamento acidental de líquidos. 
+O Letsnote CF-Y5 é o novo integrante da família de notebooks ToughBook e possui um processador Intel dual core de 1.5 GHz, monitor de 14,1 polegadas, 1 GB de RAM, placa de rede sem fio e 60 GB de disco rígido.
+Um sistema de drenagem impede que o derramamento acidental de líquidos danifique componentes internos. A resistência a impactos também é um item importante para os usuários mais desastrados ou que precisem de um portátil valente assim.
+Atualmente, o CF-Y5 só está sendo vendido no Japão, por um preço US$ 2,3 mil. Mas, como a linha ToughBook já é vendida no mercado americano, é capaz que em breve o Letsnote invada as prateleiras ocidentais.
+
+Energia 
+elétrica
+A TS Shara, está lançando no mercado o Smart Protector, o primeiro gerenciador de energia elétrica produzido no País. Ideal para proteger equipamentos eletro-eletrônicos, como home teathers, TVs, monitores, DVDs, aparelhos de som, microcomputadores, impressoras, telefones, faxes e periféricos, contra os picos de voltagem, comuns no retorno da energia após as interrupções ou durante tempestades.
+ Nestes casos, o produto só libera o funcionamento dos equipamentos a ele conectados depois que a corrente elétrica estiver estabilizada. Isto é possível através de um sistema “timer” que é ativado no retorno brusco da energia.
+ Enquanto a maioria dos produtos se preocupa com a queda de energia, o Smart Protector protege os equipamentos contra sub e sobretensão decorrentes do retorno da energia, desligando-o automaticamente sem a interferência do usuário, evitando danificar o equipamento a ele conectado.
+O preço é de R$ 96,50. Mais informações no site www.tsshara.com.br.
+
+Câmera sem fio
+O Box2home, portal da integradora 2S, apresenta a Câmera para Internet Wireless-G da Linksys para quem se preocupa em deixar os filhos sozinhos em casa ou quer controlar seu escritório remotamente. 
+O produto pode ser usado para monitorar o ambiente desejado pelo usuário ou como webcam, com o benefício do computador não precisar estar ligado, o que evita despesas com energia. 
+É possível também ouvir o que está sendo falado no local visualizado através do microfone embutido, capaz de captar voz ambiente. Seu modelo é moderno e despojado, além de pequeno, o que facilita seu acomodamento em qualquer lugar. 
+A câmera tem velocidade de 54 Mbps e resolução de 640x480, e está disponível na loja virtual www.box2home.com.br por R$ 1.499,00.
+
+Quem costuma montar gabinetes e ficar muito tempo no computador vai gostar do Fan Controller que a Leadership acaba de colocar no mercado. Com botões iluminados em azul, além de oferecer um visual moderno e diferenciado para a máquina, o painel conta com botões que permitem controlar a velocidade de até quatro ventiladores internos. A novidade já está disponível nas lojas especializadas por R$ 94,00.
+
+A empresa japonesa Matsunichi criou um tocador de MP3 no formato de bola de futebol. O aparelho tem uma tela de 8 x 5 centímetros feita de OLED. 
+O tocador, que tem diâmetro de 4 cm, também tem rádio embutido e 30 espaços de memória, além de ter microfone para gravação de som ambiente. O dispositivo funciona com bateria recarregável de lítio, que dura até por 10 horas de reprodução contínua. 
+O produto reproduz os formatos WMA, WAV e MP3 e tem relógio e despertador. O seu preço ainda não foi divulgado.
+
+Robô doméstico
+A China fabricou seu primeiro “robô doméstico” que, além de fazer os serviços da casa, pode ainda acessar a internet e contar para seus donos as notícias do dia e como está o clima. Liangliang, o robô de 80 centímetros, é capaz de andar e desviar-se de obstáculos facilmente, bem como desempenhar tarefas solicitadas por humanos. 
+Seu fabricante, a empresa Xinsong Automation Co., ligada à Academia de Ciências da China, informou que o robô poderia “prestar serviços de educação, entretenimento e segurança” e atuar como um assistente pessoal, afirmou a Xinhua. “Na primeira apresentação do robô, um funcionário enviou uma mensagem curta de celular para a máquina, perguntando sobre a situação em casa e, em dois minutos, Liangliang respondeu com a mensagem: temperatura de 22 graus e tudo normal em casa”, disse a Xinhua. 
+Liangliang, em chinês, é uma reprodução dupla do ideograma para “brilhando” e “luminoso”. 
+
+HDD FireWire
+Acaba de chegar ao mercado brasileiro o disco rígido para desktop HDD FireWire800/FireWire 400 e USB 2.0, da Iomega. O aparelho opera acima de 7.200 RPM, tem disco rígido externo, é rápido e funcional.
+Com capacidade de 400 GB, o HDD possui versão compatível com FireWire 800 e 400 e USB e inclui o software Iomega Automatic Backup e o Symantec Norton Ghost 2003, onde é possível fazer backup de determinados arquivos ou recuperar todo o sistema, caso o disco trave.
+Mas, para aproveitar todos os benefícios que o HD tem a oferecer, é preciso utilizar a conexão FireWire 800 para transferência de dados. O modelo custa R$ 2.699,00. <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 16 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,39 @@
+Jornadas de tecnologia
+<b> Cursos em Vila Velha para
+formar profissionais especializados na
+criação de imagens digitais e
+desvendar os padrões web </b><br>
+ <br>
+As feras da informática vão se reunir em Vitória nos próximos dias para ministrar dois cursos inéditos sobre tecnologia. A partir desta quarta-feira, começa a I Jornada Oficial Tableless, na Faculdade Univila, em Vila Velha.
+O evento vai desvendar os padrões web, abordando os conceitos essenciais para o trabalho com os Web Standards, como a semântica do mark-up, XML, XHTML e separação entre formatação e conteúdo.
+Web Standards e Tableless são tecnologias voltadas para o  desenvolvimento e sua implantação proporciona uma série de vantagens. Dentre elas, redução de custos, desenvolvimento mais ágil, tecnologia acessível e facilidade para criar versões de layout. 
+Repleto de dicas práticas para o trabalho diário, o curso dará ênfase para o que há de mais avançado no mercado da tecnologia. O suporte on-line também faz parte do programa. Os professores vão manter contato por um mês com os participantes através de um site sobre Web Standards chamado Tableless, onde é possível encontrar dicas, novidades e artigos sobre desenvolvimento com padrões web. 
+No módulo inicial, “Tableless I: Introdução aos Padrões Web”, o aluno conhecerá o mundo dos padrões web, abordando os conceitos essenciais para o trabalho com os Web Standards.
+Este módulo inclui uma introdução a CSS, um breve estudo de diferenças entre os principais navegadores e o aprendizado de XHTML. Ao final, o aluno será capaz de criar XHTML Strict válido, com boa parte da formatação já em CSS. 
+No módulo seguinte, “Tableless II: Técnicas Avançadas”, os instrutores vão se aprofundar no estudo de CSS e das diferenças entre os principais navegadores, habilitando o participante a criar layouts tableless com perfeição.
+“Ajax I: Tornando sua página uma aplicação” é o tema do último módulo. Ajax, sigla para “Asynchronous Javascript and XML”, é uma maneira de utilizar Javascript para transformar suas páginas em aplicações, de modo que não precise recarregar a tela cada vez que o usuário clicar em alguma coisa. Com Ajaxé possível construir aplicações, como o GMail, do Google, ou o Start.com, da Microsoft. 
+PHOTOSHOP
+Entre os dias 5 e 10 de junho, também na Univila, será a vez da II Jornada Adobe Photoshop CS2, que pretende formar profissionais especializados na criação e edição de imagens digitais para uso em revistas, jornais, publicações, internet e demais meios de comunicação.
+À frente da II Jornada estará o papa da Adobe no Brasil e único instrutor de Adobe Atmosphere – software para criação de sites totalmente em ambiente 3D com chat –, Alexandre Barrichello. Ele é Adobe Certified Expert (ACE) em Photoshop 6.0, 7.0, CS, CS 2, InDesign CS, CS2.
+Barrichello atua há mais de 17 anos na área de direção de arte para internet, multimídia e desktop publishing. Já trabalhou para as revistas Exame, Veja, Veja SP, Isto É, Gula e foi diretor de arte da revista Melhor.
+O curso será dividido em três módulos. O módulo I será sobre Photoshop Standard, no dias 5 e 6. Na ocasião, os temas em destaque serão o ambiente de trabalho (menu, barra de opções, palhetas, barra de ferramentas e modos de trabalho) e ferramentas de manipulação da área de trabalho (zoom e pan). A utilização das ferramentas de seleção, trabalhando com colagens e manipulando layers também serão abordadas.
+No segundo módulo, entre os dias 7 e 8, o tema principal será o “Photoshop Professional”. Nele, os participantes vão aprender a configurar, adequar as preferências gerais de trabalho do Photoshop, visualizar e gerenciar tamanhos de arquivos, entre outras coisas.
+ “Photoshop - Tratamento de Imagens” é o tema central do módulo III, nos dias 9 e 10.  A calibração de monitor e gerenciamento de ambiente para retoque de imagens é um dos assuntos que faz parte deste módulo.
+ Através do endereço eletrônico www.fractalmedia.com.br/photoshop, os participantes podem obter mais informações sobre os cursos e módulos, bem como fazer sua inscrição no evento.
+
+
+Saiba mais
+I Jornada 
+Oficial Tableless no Espírito Santo
+• Data: 24 a 31 de maio
+• Horário: das 8h30 às 17h30
+• Informações e inscrições: www.fractalmedia.com.br/visie
+II Jornada Adobe 
+Photoshop CS2 no ES 
+• Data: 5 a 10 de junho
+• Horário: das 8h30 às 17h30
+• Carga Horária: 48 horas
+• Informações e inscrições: 
+www.fractalmedia.com.br/photoshop <br><br><hr>
+Data da Publicação: 22/05/2006 - Pagina: 14 <br>
+Editoria: Informática <br><br>

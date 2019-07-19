@@ -1,0 +1,14 @@
+Novos aliados contra spywares
+<b>  </b><br>
+ <br>
+Nem dá para calcular o tamanho do transtorno que as empresas sofrem quando são atingidas por alguma praga virtual. Independente do porte da instituição, o prejuízo é certo. Por isso, estar bem protegido faz toda a diferença.
+A Trend Micro, empresa que atua no ramo de segurança de conteúdo e gerenciamento de ameaças, está oferecendo duas soluções de proteção desenvolvidas especialmente para empresas: o Anti-Spyware Enterprise Edition e o Anti-Spyware for SMB. 
+Eles são os mais recentes produtos de sua linha contra spywares, que conseguem detectar de forma precisa e em tempo real, tanto spywares quanto graywares. 
+Desenvolvido para atender às necessidades das grandes e complexas corporações, o Anti-Spyware Enterprise Edition é compatível com múltiplas camadas de proteção de redes corporativas da Trend Micro. 
+Sua performance de gestão e tecnologia pró-ativa, capaz de fornecer relatórios, protegem os usuários finais contra os spywares, detectando, limpando e, até mesmo, restaurando os sistemas infectados. 
+Dessa forma, os usuários e servidores são blindados por um sistema de defesa, que monitora ativamente o download de arquivos e usa uma base de dados de spywares para rastrear e limpar a área de trabalho do computador. 
+Além disso, oferece uma camada de proteção flexível que independe da existência de outros produtos de segurança nas áreas de trabalho.
+Com características automatizadas, como a identificação automática de computadores sem proteção, instalação silenciosa e atualizações em tempo real, o Trend Micro Anti-Spyware for SMB é destinado a pequenas e médias empresas.
+O produto oferece proteção superior e facilidade de utilização nas organizações que dispõem de recursos de informática limitados. Os administradores podem implantar e administrar essa solução anti-spyware de forma centralizada e remota, por meio de um dashboard (painel de controle) baseado na web. <br><br><hr>
+Data da Publicação: 31/07/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

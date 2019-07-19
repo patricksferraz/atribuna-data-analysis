@@ -1,0 +1,29 @@
+Redes de terceira geração
+<b> “A maior oferta de
+aparelhos 3G deve
+permitir mais 
+acesso a serviços
+sem fio e de alta
+velocidade” </b><br>
+ <br>
+Em outubro, o primeiro lançamento comercial da tecnologia UMTS no mundo completou cinco anos. A operadora pioneira no serviço foi a japonesa NTT DoCoMo, que atualmente já possui mais de 29 milhões de seus clientes utilizando o sistema.
+Sigla para Universal Mobile Telecommunications System, o padrão é a evolução de terceira geração para a família GSM em termos de capacidade, velocidade e serviços novos. 
+Desde seu lançamento, não imaginávamos o crescimento que a tecnologia teria: o mundo conta hoje com 81 milhões de usuários UMTS em 57 países  (135 operadoras), sendo que a o grande incremento foi nos últimos 12 meses, dos cerca de 500 milhões de novos clientes GSM conquistados no mundo, no último ano, 41 milhões já são usuários UMTS 3G. 
+As previsões de crescimento também são bastante positivas: segundo nossos cálculos, até 2009, a tecnologia UMTS terá mais de 551 milhões de usuários. Alem disso, 298 operadoras já anunciaram suas intenções de atualizar suas redes para UMTS.
+O UMTS é uma tecnologia IP que suporta pacotes de dados e voz, oferecendo velocidades teóricas de até 2 Mbps e velocidades médias de 220-320 kbps. Além disso, transmite voz e dados simultaneamente, alta densidade de usuários, com infra-estrutura de baixo custo. 
+Na América Latina, a colombiana OLA se encontra em processo adiantado para lançar UMTS. A uruguaia Ancel – depois de um teste que durou cerca de um ano – já está perto de um lançamento comercial do padrão com previsão de ter HSDPA em 2007. 
+Nossa previsão é que outros países da América Latina comecem a ter UMTS/HSDPA no ano que vem.
+Entretanto, o Brasil ainda está atrás do restante do continente na implantação da tecnologia. Embora a Anatel já tenha lançado as bases para o leilão das faixas de 3G, ainda depende fortemente das questões regulatórias. 
+Além disso, a TIM e a Vivo já anunciaram planos de migrar para as redes de terceira geração em 2007, porém ainda não realizaram ações concretas para tal.
+Mundialmente, a tecnologia UMTS já tem uma evolução: o HSDPA (High-Speed Downlink Packet Acess). Desde seu lançamento comercial – realizado pela Cingular Wireless nos EUA em novembro de 2005 – 51 operadoras já oferecem o serviço. 
+A tendência é que praticamente todas as operadoras UMTS migrem para HSDPA devido aos benefícios significativos tanto para elas, quanto para o usuário, já que as velocidades de download que atingem 550 a 1100 kbps, e possibilitam serviços multimídia mais ricos e competitivos. 
+A nova tecnologia oferece também uma combinação bem-sucedida da eficiência de espectro (4 a 5 vezes maior que o UMTS), altas taxas de transmissão e baixa latência, o que permite banda larga móvel para o mercado de massa. 
+No Brasil, bem como no mercado latino-americano, é esperado que, uma vez implementado, o UMTS/
+HSDPA impulsione o aumento da receita média por usuário (ARPU). Além disso, a maior oferta de aparelhos 3G deve permitir mais acesso a serviços sem fio modernos e de alta velocidade.
+Recentemente, lançamos um estudo com recomendações técnicas para os aparelhos UMTS/ HSDPA, o que pode facilitar a inserção de serviços 3G no mercado. 
+Atualmente, uma das maiores barreiras para a aceitação maciça de 3G tem sido o custo relativamente alto dos terminais. No mercado brasileiro, especificamente, são as questões regulatórias que impedem o processo. 
+Para se ter uma idéia, o UMTS, às vésperas de completar cinco anos, não tem sequer previsão de lançamento no Brasil, e não se sabe ao certo se já virá antes sua evolução, o HSDPA. Fica a expectativa que a Anatel decida nos próximos meses como ficará a questão, que acaba de passar por consulta pública. 
+
+Erasmo Rojas é diretor da 3G Americas para a América Latina e Caribe <br><br><hr>
+Data da Publicação: 30/11/2006 - Pagina: 23 <br>
+Editoria: Opinião <br><br>

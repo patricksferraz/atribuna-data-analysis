@@ -1,0 +1,25 @@
+Software para deficientes visuais
+<b> Gratuito, novo programa é
+alternativa ao método Braille,
+além de ajudar a desenvolver o
+intelecto das crianças com deficiência </b><br>
+ <br>
+“Uma criança de sete anos que possui deficiência visual é um ou dois anos mais atrasada em termos de desenvolvimento intelectual que outra da mesma idade sem problema de visão”, revela o diretor do Departamento de Ciência das Computação, da Universidade do Chile, Jaime Sánchez Ilabaca.
+Mas agora, as crianças com deficiência visual já podem desenvolver o intelecto e se equipararem às crianças normais com o auxílio de softwares especiais que utilizam o som espacial como linguagem.
+Desenvolvidos para serem uma alternativa ao método Braille, estes softwares estão sendo disponibilizados no mercado capixaba pelos cientistas ligados à Rede Ibero-Americana de Apoio a Portadores de Deficiência Física (Riberdiscap). Através de jogos interativos, as crianças cegas aprendem, ainda, a realizar uma série de tarefas domésticas e escolares.
+“O que se pretende com estes softwares é permitir que as crianças aprendam coisas que dificilmente teriam acesso através do método Braille. O som é entendido e processado pela criança cega de forma muito mais rápida que pelas demais pessoas”, destaca Jaime Sánchez Ilabaca.
+Sanchez esteve em Vitória, junto com 200 cientistas da Europa e América Latina, participando do IV Congresso da Riberdiscap. Ele é uma das autoridades mundiais na criação e desenvolvimento de jogos interativos para deficientes visuais, trabalho que realiza no Chile há dez anos.
+O diretor da Universidade do Chile e sua equipe já desenvolveram softwares para o aprendizado de matemática, para o desenvolvimento da capacidade intelectual e para execução de tarefas e para a mobilidade. Um dos últimos trabalhos ajuda os cegos a utilizar o metrô. A equipe agora prepara um software para ensiná-los a utilizar o ônibus urbano.
+Pais e familiares de crianças com deficiência visual poderão receber os softs gratuitamente. A solicitação pode ser feita pela internet, através do endereço eletrônico jsanchez@c5.cl. Os softwares, originalmente, contêm áudio e texto em espanhol, mas poderão ser adaptados ao português.
+“Com a ajuda de um especialista em informática, é possível fazer a adaptação”, explica Sanchez. Os programas podem ser instalados em qualquer computador doméstico. 
+
+Como funciona
+
+Para utilizar os softwares é preciso acoplar ao computador quatro caixas de sons, uma em cada direção (norte, sul, leste e oeste). Uma das caixas deve estar posicionada atrás do usuário. É necessário, também, substitutos ao mouse, como pranchetas gráficas, joy-stick ultrasônico e teclado. Os softs apresentam tela visual com grande contraste de cor para facilitar as crianças que ainda possuem um resto de capacidade visual.
+O programa consiste em emitir sons com diferentes significados. A criança identifica de onde vem este som e responde imediatamente a cada comando. O jogo pode envolver um processo ou personagem em movimento. Um jogo de sucesso é o estimula as crianças a encontrarem o tesouro, seguindo uma série de pistas ao longo do caminho.  Sanchez salienta que usa nos jogos sons reais, sempre que possível. “Como todo jogo, o objetivo é ganhar. Mas a grande prêmio é o desenvolvimento intelectual”, afirma.
+“Todos os sistemas de aprendizado desenvolvidos pelos educadores são para pessoas que enxergam ou baseados em modelos mentais de pessoas que enxergam. A criança cega tem um modelo mental diferente. A percepção é pelo tato ou sons”, acrescenta. A matemática, salienta, é toda baseada em modelos mentais visuais. Sánchez diz que cérebro do deficiente utiliza a memória visual para processar sons. Logo, tem maior capacidade para processar sons que a pessoa com visão normal. Os softs desenvolvidos pelo cientista também estão sendo utilizados por pessoas normais interessadas em desenvolver a audição.
+O trabalho é feito diretamente com escolas para deficientes visuais. Para desenvolver e testar cada um dos softs, são necessários dois anos. Sanchez e equipe desenvolveram um método todo especial para testar se de fato as crianças aprenderam a se orientar pelos
+Com o auxílio de legos, cordas, massas, fitas e outros materiais, pedem para que as crianças reconstruam os traçados percorridos pelos personagens nos jogos do tipo labirinto. Esta técnica foi usada para testar o soft criado para ajudar os cegos a utilizar o metrô, em Santiago.
+Segundo Sanchez, estes softs funcionam como uma espécie de “bengala virtual” para os deficientes. <br><br><hr>
+Data da Publicação: 13/03/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,16 @@
+Sistema contra fraude de celulares
+<b> Operadoras vão compartilhar sistema, com informações dos clientes
+e números, facilitando o bloqueio de telefones roubados </b><br>
+ <br>
+BRASÍLIA – As operadoras de telefonia celular deverão concluir até o fim de novembro deste ano a unificação do sistema de controle dos telefones roubados. 
+Para aperfeiçoar o atual cadastro de telefones “impedidos’’ por serem furtados ou roubados, a Associação Brasileira de Roaming (ABR) formalizou na última sexta-feira a adesão das duas operadoras que faltavam ao sistema: Oi e Brasil Telecom Celular. 
+Com a adesão das empresas, a ABR passará a usar a tecnologia de identificação da Oi, pioneira no padrão GSM no Brasil, para bloquear não só o cartão (chip), que corresponde à linha telefônica no caso da Tecnologia GSM, mas também o uso dos aparelhos roubados. 
+As informações dos clientes e os respectivos telefones de todas as operadoras serão compartilhadas em uma central, facilitando o bloqueio. 
+Antes do convênio, as empresas que usam a tecnologia GSM conseguiam bloquear o uso dos telefones furtados somente nas suas próprias redes, com exceção da Oi e TIM, que tinham um convênio para intercâmbio de informações. 
+Com o novo sistema, mesmo que um novo chip adquirido legalmente seja inserido no telefone roubado, as chamadas serão bloqueadas ao passarem pelo EIR (equipamento de identificação e registro), instalado na central telefônica. 
+Como a habilitação desses telefones (GSM) funciona apenas com a introdução de um chip, havia o risco de um aparelho roubado ser habilitado em outra operadora com o uso de um novo cartão. 
+Na avaliação da ABR, a medida vai tornar mais eficiente o sistema antifraude das empresas, evitando a sobreposição de investimentos por todas as operadoras. 
+Os custos de unificação e gerenciamento do sistema, estimados em R$ 3,6 milhões, serão divididos pelas empresas que utilizarem o EIR. 
+A ABR já conta com um cadastro de estações móveis impedidas (Cemi), mas que serve com eficiência apenas as operadoras que utilizam as tecnologias CDMA e TDMA, em que a habilitação dos aparelhos celulares é feita pela própria empresa, que pode consultar a legalidade dos aparelhos, e não pelo usuário, como no caso da GSM. A associação não revelou os números de celulares roubados no País. <br><br><hr>
+Data da Publicação: 20/06/2005 - Pagina: 15 <br>
+Editoria: Cidades <br><br>

@@ -1,0 +1,11 @@
+Capixabas investem em visão artificial
+<b>  </b><br>
+ <br>
+Os sistemas inteligentes de automação industrial serão apresentados no 5° Seminário e Exposição de Instrumentação, Sistemas e Automação (ISA Show ES 2006), que acontece quarta e quinta-feira, no Centro de Convenções de Vitória.
+Os sistemas de visão artificial já são realidade nos processos de produção da indústria, principalmente para o controle da qualidade dos produtos desenvolvidos pelas empresas automobilísticas, siderúrgicas, de mineração, farmacêuticas, de alimentação, entre outras.
+Esta tecnologia está sendo desenvolvida há três anos no Estado, por meio de uma parceria entre pesquisadores da Universidade Federal do Espírito Santo (Ufes) e a empresa Mogai, que patenteou o sistema. Atualmente, são realizados testes na Aracruz Celulose, na CST e na Votorantim Celulose e Papel.
+Segundo o diretor-comercial da Mogai e um dos palestrantes do evento, Franco Machado, os sistemas de visão artificial têm mecanismos que classificam automaticamente os produtos defeituosos.
+O sistema utiliza duas câmeras digitais dispostas lado-a-lado, que capturam as imagens como dois olhos humanos. Isto permite extrair as dimensões espaciais dos objetos e obter informações como comprimento, área e volume, no processo chamado de fotogrametria. 
+A medição do volume de pilhas de eucalipto, e a verificação da qualidade do polimento de superfícies em mármore e em granito estão entre outras aplicações enfatizadas pelo diretor da Mogai.(www.isa-es.org.br). <br><br><hr>
+Data da Publicação: 31/07/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

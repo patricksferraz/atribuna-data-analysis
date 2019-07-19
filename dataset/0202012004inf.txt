@@ -1,0 +1,40 @@
+Ataque em massa na web
+<b> Especialistas em segurança
+alertam para uma ameaça que
+deve atacar a internet entre
+quinta e sexta-feira desta semana </b><br>
+ <br>
+Uma ameaça de ataque em massa na internet para o início deste ano vem tirando o sono de muitos especialistas em segurança da informação. A empresa norte-americana Trend Micro divulgou, na última semana, um possível ataque dos criadores da praga do ano, o Sober Z.
+De acordo com análise da Trend, os ataques devem acontecer entre a próxima quinta e sexta-feira, dias 5 e 6 de janeiro. Para se propagar, o vírus utiliza falsas mensagens de e-mail.
+Uma delas, por exemplo, chega em nome da Polícia Federal dizendo que o internauta foi identificado como um usuário de softwares piratas e pede que a vítima clique em um link malicioso para obter mais informações.
+Quando o internauta segue as instruções, ele instala involuntariamente em eu micro a praga, que se auto-envia para endereços de e-mail arquivados no C. Como os usuários não percebem que o vírus está sendo transmitido, a propagação
+ocorre sem nenhuma intervenção.
+O código malicioso tem como alvo os computadores com sistema operacional Windows 98, ME, NT, 2000, XP e Server 2003. Empresas que trabalham em rede correm o risco de ter todos os micros comprometidos.
+Quem não possui um antivírus atualizado pode rastrear a máquina na ferramenta gratuita da Trend Micro, digitando www.trendmicro.com/br e clicando em HouseCall.
+“O ideal é configurar o servidor para bloquear ou remover e-mails que tenham arquivos anexados com extensões comumente usadas para disseminar vírus, como .vbs, .bat, .exe, .pif e .scr. Em caso de contaminação, isole rapidamente os computadores infectados, a fim de evitar um comprometimento ainda maior de sua empresa. Faça uma análise posterior e restaure o computador usando meios confiáveis” , alerta o consultor em tecnologias da empresa capixaba ItNet, Philipe Brandão.
+O Symantec Security Response criou uma ferramenta para remover o W32.Sober.X@mm. Como alternativa ao uso da ferramenta, você pode remover a ameaça manualmente. As instruções aplicam-se a todos os produtos antivírus Symantec atuais e recentes, incluindo as linhas de produtos Symantec AntiVirus e Norton AntiVirus.
+Em primeiro lugar, desative a Restauração do Sistema (Windows Me/XP). Depois, atualize as definições de vírus e, em seguida, execute uma verificação completa do sistema para excluir todos os arquivos detectados.
+O Worm_Sober.AG, que se espalhou rapidamente pelo Brasil, Estados Unidos, Canadá, Nova Zelândia, Bélgica e Alemanha, propaga-se da seguinte maneira: anexa uma cópia de si mesmo na mensagem de e-mail, a qual envia para endereços eletrônicos utilizando engenharia própria de SMTP (Simple Mail Transfer Protocol).
+
+Dicas para os usuários
+
+•Tenha sempre um programa antivírus atualizado no computador
+•Instale um firewall. Ele protege o computador de invasões
+•Preste toda atenção ao endereço de internet que você acessou, pois os piratas criam versões falsas das páginas dos bancos
+•Desconfie de e-mails que fazem propostas sedutoras porque eles podem esconder programas que roubarão suas senhas
+•Nunca, em hipótese alguma, acesse páginas de banco a partir de cybercafés, nem digite senhas e dados em computadores que você não sabe se são seguros
+•Confira os extratos de suas contas bancárias sempre que puder. Assim, você poderá reaver o dinheiro rapidamente junto ao banco, caso tenha sido roubado por um hacker
+
+Proteja-se de graça
+Computação segura significa ter, no mínimo, um antivírus, um firewall e um anti-spyware instalados no micro. Seguro e gratuito, o AVG Anti-Vírus tem updates frequentes. É só digitar free.grisoft.com.
+De graça, o Zone Alarm é mais flexível e poderoso que a maioria dos firewalls pagos. Entre em www.zonelabs.com. O Windows AntiSpyware também é gratuito e, apesar de beta, é uma ótima ferramenta.
+
+Recomendações para empresas
+
+•Desative e exclua os serviços de que não precisa. Por padrão, muitos sistemas operacionais instalam serviços auxiliares que nem todos utilizam, como clientes FTP, telnet e servidores web. Só que esses serviços são verdadeiras vias de ataque. Se removidos, além de menos vias de ataque, você terá menos serviços e, assim, menos atualizações de correções com que se preocupar
+•Se uma ameaça diversificada atingir serviços de rede, desative-os ou bloqueie o acesso a eles até poder aplicar uma correção. Mantenha seus níveis de correção sempre atualizados, especialmente no caso de computadores que abrigam serviços públicos e são acessíveis através do firewall, como os de HTTP, FTP, correio e DNS
+•Adote uma senha. As senhas compostas dificultam a quebra dos arquivos de senha dos computadores afetados. Isso contribui para evitar ou limitar os danos quando um computador é afetado
+•Configure seu servidor para bloquear ou remover e-mails que tenham arquivos anexados com extensões comumente usadas para disseminar vírus, como .vbs, .bat, .exe, .pif e .scr. Isole rapidamente os computadores infectados. Faça uma análise posterior e restaure o computador usando meios confiáveis
+•Treine os funcionários a não abrir os anexos não esperados. Além disso, não execute softwares descarregados da internet antes de submetê-los a uma verificação de vírus. A simples visita a um site comprometido pode promover infecções se certas vulnerabilidades do browser não tiverem sido corrigidas <br><br><hr>
+Data da Publicação: 02/01/2004 - Pagina: 02 <br>
+Editoria: Informática <br><br>

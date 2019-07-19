@@ -1,0 +1,19 @@
+Pagamento via celular
+<b> Chega ao Brasil tecnologia
+para fazer pagamentos de produtos
+e serviços através dos aparelhos
+móveis via canal de voz </b><br>
+ <br>
+Vamos imaginar aqueles momentos em que você quer comprar aquela lata de refrigerante ou sanduíche, pagar o estacionamento do shopping ou o aluguel do DVD na locadora e está sem dinheiro, cartão ou talão de cheques. Que tal pagar a conta usando o celular, que está sempre em mãos, como uma parte da roupa.
+Isso já é possível graças à tecnologia de “mobile payment” via canal de voz, inédita e patenteada mundialmente pela empresa eslovena de alta tecnologia Ultra d.o.o, líder nos segmentos de Mobile Asset Management Plataform e Mobile Payment. O serviço já está disponível em alguns países, como o Japão e Alemanha.
+Por aqui, a operação será implantada pela M-Pay do Brasil. Por ser uma tecnologia comum a todas as operadoras, a M-Pay conta com a possibilidade de permitir que a indústria financeira atinja todos os usuários de celular – pré e pós pagos – para execução de transações seguras e em tempo real. A perspectiva é atingir um faturamento de R$ 100 milhões nos próximos dois anos.
+Com o lançamento, a tecnologia tornará possível, por exemplo, a compra de produtos em máquinas de auto-serviço (vending machine) com o simples uso do telefone celular. A ligação para uma central de atendimento eletrônico é o suficiente para realizar um pagamento com seu telefone.
+Um dos principais diferenciais da plataforma é a utilização do canal de voz para executar uma transação de pagamento. “A solução é de extrema simplicidade, não envolvendo o uso de recursos mais complexos e privilegiando o uso da voz, que é a essência do telefone”, afirma o vice-presidente da M-Pay Brasil, Jorge Marinho.
+Em termos práticos, o cliente liga para uma U.R.A (Unidade de Resposta Audível), que o questiona sobre sua senha e o valor desejado e, em seguida, envia uma resposta codificada, semelhante a um sinal de fax.
+Neste momento o usuário simplesmente aproxima o celular do terminal e é iniciado o processo de autenticação e transferência dos créditos entre a plataforma central, através da ligação estabelecida, para a máquina de auto-serviço.
+O processo valida a presença física do seu aparelho celular, a autenticidade da máquina de auto-serviço e opcionalmente exige uma senha, pessoal e intransferível, semelhante ao uso dos cartões de débito, além de validar o número serial do telefone do cliente.
+“É extremamente simples, prático, vale para qualquer tipo de transação de pagamento e terá cobertura nacional. Os créditos eletrônicos poderão ser adquiridos nas empresas com desconto direto em folha, por associação aos programas de benefícios alimentares, débito em conta corrente, cartão de crédito e nos bancos autorizados” explica Marinho.
+Pelo fato de utilizar as redes das operadoras de celular como canal de transmissão de dados e por inovar com uma tecnologia de terminais passivos de baixo custo, que não demandam nenhum tipo de linha telefônica no lojista – fixa ou móvel –, o sistema traz uma revolução no modelo tradicional de transações.
+A segurança é outro ponto muito importante. O processo de conexão e transferência do crédito é feito de forma totalmente criptografadas e utiliza algoritmos de extrema sofisticação. <br><br><hr>
+Data da Publicação: 05/12/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

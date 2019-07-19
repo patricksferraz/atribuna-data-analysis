@@ -1,0 +1,15 @@
+OBSERVATÓRIO
+<b>  </b><br>
+ <br>
+O Espírito Santo já desenvolve softwares com tecnologia XP
+
+Apesar de ter sido criada a pouco tempo, em meados da década de 90, a metodologia eXtreme Programming, mais conhecida como XP, vem conquistando cada vez mais adeptos no mundo todo. Grandes empresas têm demonstrado crescente interesse pelo assunto, adequando suas metodologias e ferramentas aos conceitos e práticas ágeis.
+É o caso da Microsoft ao produzir o MSF Ágil, e dos principais fornecedores de IDEs ((Integrated Development Environments) para desenvolvedores que já incorporaram a seus produtos funcionalidades para apoio a equipes que trabalham com desenvolvimento veloz.
+O termo “extremo” (tradução de extreme) é utilizado porque a metodologia incorpora , a níveis extremos, 12 antigas e melhores práticas de desenvolvimento de software. Elas são regidas por quatro princípios: comunicação, simplicidade, feedback e coragem.
+As práticas variam desde o trabalho de pares de desenvolvedores, programando ao mesmo tempo em um mesmo computador (pair programming), passando por um ciclo rápido de planejamento e entrega de releases (1 ou 2 semanas), até a programação de códigos de teste antes do código do sistema propriamente dito (desenvolvimento orientado a testes). 
+O XP é uma abordagem disciplinada de engenharia de software que busca a entrega de produtos com altos níveis de valor agregado e qualidade para o cliente no menor tempo possível. No Espírito Santo, a Phidelis empresa capixaba especializada em softwares acadêmicos, vem desde 2003 adotando com sucesso a metodologia eXtreme Programming para desenvolvimento de seus produtos. 
+Com o XP, a Phidelis conseguiu criar um processo de evolução constante em seus sistemas. Desde 2003, quando começou a adotar suas práticas, foram liberadas centenas de versões para clientes que viviam realidades de negócio bem distintas. Graças à prática de desenvolvimento orientado por testes, foi possível, por exemplo, automatizar a execução de mais de mil testes a cada release gerado, o que minimiza muito a possibilidade de entregas com defeitos ou inconsistências.
+Como um dos principais ideais da empresa é o desenvolvimento tecnológico do Espírito Santo, com ganho de competitividade e capacitação profissional frente ao eixo Rio-São Paulo, o gerente responsável pela área de desenvolvimento da Phidelis, Alisson Vale, vem disponibilizando, desde o início do ano, informações técnicas valiosas sobre o projeto que utiliza a metodologia XP em seu blog (www.phidelis.com.br/blogs/alissonvale). No site, ele descreve não só as práticas utilizadas, mas também dá dicas sobre o uso das diversas ferramentas de apoio.
+Rodrigo Immaginário é diretor executivo da Phidelis e MVP pela Microsoft <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 06 <br>
+Editoria: Informática <br><br>

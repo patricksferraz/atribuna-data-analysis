@@ -1,0 +1,6 @@
+Versão econômica do chip Athlon 64
+<b>  </b><br>
+ <br>
+A Advanced Micro Devices (AMD) lançou uma nova versão de seu processador Athlon 64. O modelo é um tanto diferente do seu irmão mais velho anunciado em setembro, mas tem preço que vai ajudar a tecnologia de 64 bits da AMD a encontrar um lugar em desktops de preço mais baixo. O AMD Athlon 64 3000+ tem velocidade de clock de 2 GHz, a mesma do Athlon 64 3200+. Mas o novo chip vem com a metade de memória cache de seu predecessor, apenas 512 Kbytes. Cache é uma memória no chip que armazena as instruções acessadas com mais frequência próximo à CPU (unidade central de processamento). O processador pode realizar tarefas muito mais rápido se não tem que esperar muito para que a tarefa venha da memória do sistema. Os processadores Athlon 64 permitem aos usuários rodar aplicativos de 32 e 64 bits em seus sistemas. Diversas versões do sistema operacional Linux já são compatíveis com a tecnologia da AMD, porém as vendas de computadores com o chip só devem decolar quan - do a Microsoft lançar uma versão de 64 bits do Windows XP, que ainda está em fase de testes beta.   <br><br><hr>
+Data da Publicação: 05/01/2004 - Pagina: 2 <br>
+Editoria: Informática <br><br>

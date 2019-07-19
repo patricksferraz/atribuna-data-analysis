@@ -1,0 +1,39 @@
+Urna eletrônica faz 10 anos
+<b> Utilizado pela primeira vez no
+Brasil em 1996, o equipamento
+revolucionou as eleições e caiu
+no gosto de políticos e eleitores </b><br>
+Jaldecy Pereira <br>
+Ela chegou meio tímida, com risco de não resistir à ação dos fraudadores de plantão e de não atender bem aos eleitores idosos. Mas com o passar do tempo a urna eletrônica caiu no gosto de políticos e eleitores, colocando o Brasil numa posição confortável de um País que tem a maior eleição informatizada do mundo. 
+A urna eletrônica está completando 10 anos. Utilizada pela primeira vez em um país da América Latina nas eleições municipais brasileiras de 1996, a urna eletrônica é um conjunto de software e hardware desenvolvidos para viabilizar a informatização do processo de votação no Brasil. 
+Nessa última década, a urna eletrônica evoluiu tecnologicamente os seus meios de armazenamento de informações. Em 1996, os votos eram guardados num disquete comum e de 1998 para cá, passou a utilizar um flash card ou memory card (cartão de memória). 
+Um não, dois. A máquina usa dois cartões porque no caso de um falhar, o outro garante. Outra evolução foi na bateria. Antes ela durava menos de quatro horas e atualmente suporta mais de 12 horas fora da tomada. 
+“A bateria utilizada é semelhante à de uma motocicleta. Nada parecido com aquelas de littium dos celulares”, salienta o secretário de Informática do Tribunal Regional Eleitoral (TRE), Danilo Magno Marchiori.
+Danilo informou, ainda, que a robustez da urna eletrônica brasileira é devido à economia. “A empresa vencedora da licitação operou com material bom, barato e de fácil manutenção”, disse. 
+“A grande revolução mesmo foi no software, que teve um incremento no quesito segurança. As informações são criptografadas e os registros são digitalizados. Isto é tudo invisível para o eleitor”, destacou Danilo. 
+A urna eletrônica é um produto 100% desenvolvido no Brasil, projetada e produzida para enfrentar as variadas condições climáticas e de transporte nas regiões mais remotas do País. 
+“Elas foram preparadas para enfrentar o frio do Sul, o calor e a umidade do Amazonas e os sacolejos no transporte pelas estradas brasileiras”, ressaltou.
+
+Saiba mais
+n Fabricação – A Unisys Brasil contratou a licença de uso de tecnologia da Omnitech, do engenheiro Carlos Rocha, para a fabricação das primeiras 78 mil urnas eletrônicas brasileiras, após vencer a licitação do Edital TSE 002/95, em março de 1996.
+n Peso – As urnas eletrônicas brasileiras poderiam ter sido quatro vezes maiores que as atuais: teriam 25 quilos. Esse foi o modelo apresentado, pela Diebold Procomp, na licitação para compra de coletores eletrônicos de voto (urnas eletrônicas), em fevereiro de 1996. 	
+A urna eletrônica desenvolvida pela Diebold Procomp mostrou-se similar a um quiosque de auto-atendimento bancário. Tratava-se de um microcomputador PC comum, coberto por um gabinete gigante.
+n Notebook – As urnas eletrônicas brasileiras poderiam ter sido japonesas. O modelo IBM, desenvolvido no Japão, é similar a um notebook. 	
+Esse, inclusive, é o modelo usado nas eleições japonesas, mas, segundo o secretário de Informática do TRE, Danilo Magno Marchiori, o sistema saiu muito caro. 
+n Autonomia – A urna eletrônica brasileira pesa apenas oito quilos e tem autonomia de mais de 12 horas de uso fora da tomada, ou seja, só com a bateria interna. 
+n Patente – Logo após assinar o contrato de licença de uso da tecnologia para a fabricação de urnas pela empresa Unisys Brasil, em março de 1996, o engenheiro Carlos Rocha fez o pedido de patente de invenção da urna eletrônica brasileira. 
+n Lentidão – Nos Estados Unidos e no México uma eleição presidencial pode durar mais de uma semana. Isto porque tanto o ato de votar quanto o de apurar os votos é manual. A contagem é feita cédula por cédula. E ainda podem ocorrer pedidos de recontagem dos votos nas situações de suspeita de fraude.
+Fonte: Tribunal Regional Eleitoral (TRE)
+
+TRE apresenta plano de mídia 
+
+As empresas de rádio e TV do Estado, juntamente com os candidatos, irão conhecer, na sexta-feira, o plano de mídia contendo o tempo que cada coligação vai ter durante a propaganda eleitoral gratuita, que começa a partir do dia 15 de agosto. 
+O presidente do Tribunal Regional Eleitoral (TRE), desembargador Frederico Guilherme Pimentel, e o diretor-geral do órgão, Alvimar Dias do Nascimento, irão apresentar o plano numa sessão especial que está marcada para as 14 horas. 
+A reunião para definição do plano de mídia será no salão pleno do TRE, que fica na Enseada do Suá, em Vitória. Emissoras de rádio e TV, empresas de propaganda e representantes de partidos políticos já estão convidados. 
+O tempo que cada coligação terá é calculado pelo sistema do Tribunal. Após a definição dos tempos, haverá um sorteio da ordem de veiculação no primeiro dia de propaganda (15 de agosto). 
+Ao todo serão 45 dias de propaganda eleitoral gratuita. Os representantes dos partidos podem aceitar ou não o cálculo feito pelo TRE. 
+“O TRE contou até com a consultoria de um matemático para fazer essa distribuição dos tempos de cada partido. O tempo depende da representação que cada um dos partidos tinha no início da legislatura em 2002, na Câmara dos Deputados”, informou Danilo Magno Marchiori, secretário de informática do TRE.
+Segundo Danilo, cada inserção terá 30 segundos. A exibição será homogênea durante o dia, ou seja, não haverá apresentação de candidatos para mais nem para menos. 
+“O partido que não tem representantes na Câmara teoricamente não teria direito a tempo, entretanto terá, tendo em vista que um terço do tempo destinado à propaganda é dividido entre todos os concorrentes de forma igualitária”, explicou o secretário.  <br><br><hr>
+Data da Publicação: 25/07/2006 - Pagina: 32 <br>
+Editoria: Política <br><br>

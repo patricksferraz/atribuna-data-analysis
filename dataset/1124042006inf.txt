@@ -1,0 +1,19 @@
+Google lança agenda on-line
+<b> Gratuito e fácil de usar,
+o Google Calendar oferece
+diversos recursos para
+registrar compromissos </b><br>
+ <br>
+O Google lançou, na última semana, um serviço gratuito de agenda na web para consumidores que desejem registrar compromissos e compartilhá-los com outros usuários, aumentando a competição com rivais como o Yahoo e a Microsoft.
+O Google Calendar (calendar.google.com), oferece diversos recursos que tornam tão fácil usar o serviço on-line quanto os programas desse gênero instalados em computadores, a exemplo do Outlook, permitindo que os usuários “cliquem e arrastem” anotações de uma agenda para outra.
+O novo serviço aproveita truques inteligentes de programação na web e emprega as linguagens Javascript e XML, bem como o RSS. Mas o maior avanço talvez seja o uso de uma tecnologia conhecida como “linguagem natural de processamento”, que simplifica o registro de anotações.
+O recurso permite que usuários digitem comandos simples como “reunião com Raphaela na quinta-feira às 17 horas” ou “sinuca com a galera no sábado às 15 horas”, que o sistema é capaz de interpretar e inserir automaticamente na agenda.
+Uma vez que os eventos são criados, o Google Calendar envia convites por e-mail para outros participantes e manda mensagens para que o usuário se lembre de sua agenda.
+O serviço ainda vai permitir que o usuário receba automaticamente o registro das datas de jogos de futebol importantes ou da exibição de filmes na TV, entre outros compromissos públicos que o internauta achar interessante participar. Outro recurso importante é um mecanismo de busca que permite encontrar registros de eventos anteriores. 
+Outro destaque do Google Calendar é ser altamente customizável, permitindo ao usuário programar eventos isolados, reuniões que acontecem periodicamente, disparar e-mails para vários convidados de um só evento e ser avisado, por e-mail, da ocorrência de tal compromisso com a antecipação que o usuário configurar. 
+Segundo o gerente de produto do Google Calendar, Carl Sjogreen, as anotações podem ser pessoais, compartilhadas com amigos ou abertas a todos os usuários da internet.
+“O Google Calendar toma todos os eventos de minha vida e os conserva em um único lugar. Permitimos que o usuário crie múltiplas agendas e as compartilhe com outras pessoas, e vincule as agendas na internet à agenda de sua máquina”, explica o executivo do Google. 
+Os usuários do serviço gratuito de e-mail do Google, o Gmail, provavelmente considerarão o Google Calendar especialmente útil. O software do Google vasculha o Gmail e reconhece menção a eventos, e oferece ao usuário a oportunidade de acrescentar as datas à sua agenda.
+O serviço de agenda é um desafio direto ao Yahoo Calendar, líder entre os serviços on-line de agenda nos Estados Unidos, introduzido em 1998 e pouco alterado nos últimos anos. <br><br><hr>
+Data da Publicação: 24/04/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

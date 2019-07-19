@@ -1,0 +1,26 @@
+Previsões mais que otimistas
+<b> Em 2005, a venda
+de micros aumentou em 38%.
+Para este ano, as perspectivas
+são ainda melhores </b><br>
+ <br>
+Um total de 5,6 milhões de computadores pessoais foram vendidos no Brasil no ano passado. Esse valor é 38% maior que o registrado em 2004. Os números foram revelados pela IT Data Consultoria, que continua otimista para as vendas deste ano.
+A expectativa é de um novo aumento em 2006. Somente no último mês de janeiro foram produzidos 527 mil PCs, um número 30% maior que o registrado no mesmo período do ano passado. 
+Segundo a consultoria, o crescimento das vendas se deve à queda dos preços, que chegou a 30% em 2005. Contribuíram para esta redução, a queda do dólar, a MP do Bem e a guerra dos sistemas operacionais.
+A IT Data constatou ainda que, com a queda de preços, os usuários domésticos foram às compras. As vendas para este público cresceram 120% no ano que passou. 
+Além do programa “Computador Para Todos”, fatores como a queda do dólar e o aumento da repressão ao contrabando contribuíram pesado para o aumento nas vendas de desktops no Brasil em 2006.
+Segundo o analista da IDC, empresa de consultoria de Tecnologia da Informação e Telecomunicações, Ivair Rodrigues, este ano oferece  boas perspectivas para as vendas na área de informática, mas tudo depende das metas do governo.
+“As previsões para 2006 são otimistas, mas o crescimento vai depender de uma continuidade nas políticas de repressão ao contrabando”, afirma o analista. Até o final do ano, o instituto prevê vendas de cerca de 5,2 milhões de unidades.
+Embora tenham um impacto nas vendas como um todo, as medidas de inclusão digital, principalmente as de repressão ao mercado de PCs ilegais, têm outro resultado importante: a redução na pirataria.
+Segundo dados da IDC, a participação do mercado cinza nas vendas de computadores caiu 74% em dezembro de 2004, para 65% em agosto de 2005.
+Com o baixo custo dos computadores, a pirataria não ganha tanto peso como em alguns anos atrás. Assim, os usuários ficam mais propensos a comprar o PC legal – que, em geral, tem condições de parcelamento mais favoráveis nas lojas.
+
+
+Micros de até R$ 1,4 mil
+O programa “Computador Para Todos” entrou em vigor com a publicação da MP do Bem no Diário Oficial da União. O projeto tem como objetivo aumentar o número de brasileiros com acesso a micros e também à internet.
+A grande mudança prática realizada com o programa foi a isenção de tributos (PIS/Pasep e Cofins) em máquinas de até R$ 2,5 mil. Isso, na prática, significa redução de cerca de 9,25% nos preços.
+Micros de até R$ 1,4 mil que seguem as configurações estipuladas pelo governo poderão ser parcelados em até 24 prestações de R$ 70,00. O valor final a ser pago inclui os juros cobrados na venda a prazo. 
+Para se encaixar nessa categoria, o equipamento, de qualquer marca, deve utilizar obrigatoriamente software livre, como o Linux. Além disso, precisa contar com um processador de 1,5 GHz, disco rígido de 40 GB, memória RAM de 128 MB, monitor de 15 polegadas, unidade de disco flexível, unidade de CD-Rom, modem de 56 K, placas de vídeo, áudio e rede on-board, mouse, teclado, porta USB e 26 programas instalados.
+Um exemplo desses micros populares é o POS AT Series L, da Positivo Informática, que custa R$ 1.399,00. A máquina tem Linux, processador Celeron de 1,8 GHz, memória RAM de 128 MB, disco rígido de 30 GB, unidade de CD-Rom, modem de 56 kbps, mouse, teclado, caixa de som e placas de som e de rede on-board. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

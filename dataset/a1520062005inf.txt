@@ -1,0 +1,13 @@
+Guia prático para a construção de software
+<b>  </b><br>
+ <br>
+Escolhido pela revista Software Development Magazine como uma das três pessoas mais influentes no setor de software, Steve McConnell lança no Brasil, pela Bookman, “Code Complete - Um guia prático para construção de software”. A publicação, inédita no País, pretende trazer para a prática comercial as mais novas técnicas de programação existentes.
+Uma das propostas do livro é mostrar como utilizar as mais recentes pesquisas para que o leitor desenvolva um software de qualidade, em menos tempo. Tanto programadores que passaram por treinamento formal, como os autodidatas poderão acessar facilmente as informações do texto, todas divididas por área de interesse.
+Para Mc Donnell, apesar do desenvolvimento de software de ponta ter avançado bastante nos últimos anos, a prática comum não acompanhou o processo.
+Pesquisadores da indústria tem descoberto práticas eficazes, que eliminam a maior parte dos problemas de programação. No entanto, a maioria das organizações não tem acesso a elas. “Muitos programas continuam contendo erros, atrasam e estouram o orçamento, e vários deles não conseguem atender às necessidades dos usuários”, afirma Mc Donnell.
+Um dos destaques do livro é a apresentação e análise de 500 exemplos de códigos bem-feitos e mal-feitos para melhor visualização das técnicas citadas pelo autor. Além disso, a publicação entra nos detalhes da construção, que vão desde a formação de classes, uso de dados e das estruturas de controle até depuração refactoring e técnicas de otimização do código.
+Outra facilidade de “Code Complete” é que os conceitos propostos podem ser utilizados pela maioria dos ambientes e de linguagens como C++, C#, Java e Microsoft Visual Basic.
+Steve McConnell já trabalhou em projetos de software na Microsoft, na Boeing e em outras empresas na região de Seatlle. Atualmente, o autor do livro atua como engenheiro-chefe da Construx Software, onde supervisiona as práticas de engenharia de software.
+“Code Complete - Um guia prático para construção de software” pode ser encontrado nas livrarias por R$149,00. <br><br><hr>
+Data da Publicação: 20/06/2005 - Pagina: 15 <br>
+Editoria: Informática <br><br>

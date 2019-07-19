@@ -1,0 +1,22 @@
+Insegurança da informação na rede
+<b> Brasil lidera número de ataques na
+América Latina. É preciso conscientizar </b><br>
+ <br>
+Este ano, o 30 de novembro, Dia de Conscientização da Segurança da Informação, foi marcado com uma triste notícia para o País: O Brasil é o primeiro lugar disparado no ranking de ataques da América Latina. A notícia serve como um alerta para lançar uma campanha com o objetivo de aumentar a conscientização sobre segurança na internet e educar os usuários e a comunidade virtual.
+Para o analista do Centro de Atendimento a Incidentes de Segurança da RNP (CAIS), Jacomo Piccolini, a eficácia dos antivírus é cada vez menor porque os criminosos estão adotando novas táticas. Por isso, é tão importante disseminar a cultura de segurança entre os usuários da internet e acompanhar os principais incidentes que envolvam usuários da rede.
+“Cada vez mais, os criminosos da internet estão utilizando técnicas de engenharia social. Uam a persuasão para convencer internautas descuidados a fornecerem números de cartão de crédito, senhas de banco e coisas do tipo. Engana-se quem pensa que o perigo vem apenas de hackers”, alerta Jacomo.
+No último Seminário de Capacitação e Inovação, realizado pela Rede Nacional de Ensino e Pesquisa (RNP), foram discutidos os principais problemas em segurança identificados em 2005. Na avaliação dos analistas, a Microsoft corrigiu falhas e tornou o Windows, sistema operacional utilizado pela maioria dos internautas, mais seguro com o spyware.
+Os vírus, porém, têm se modificado de maneira tão veloz e tão eficiente que os programas antivírus não os estão mais detectando direito. 
+Especialistas em segurança na internet e provedores de acesso têm motivos de sobra para se preocupar. O Brasil é o País de origem de 19% de todos os ataques via internet na América Latina e já ocupa o 3º lugar no ranking mundial de ataques de hackers.
+A quantidade de golpes virtuais registrados cresceu 1.313%, se comparados os terceiros trimestres de 2004 e 2005. Isso porque pouca gente sabe que, da mesma forma que é possível transmitir dados, também é possível recuperar e acessar dados de outros computadores.
+Estima- se que o prejuízo com fraudes seja de cerca de R$ 300 milhões. Recente pesquisa mundial da PricewaterhouseCoopers aponta que, para 62% das 7,5 mil empresas entrevistadas, incluindo 450 brasileiras, os gastos com segurança cresceram 50% neste ano.
+Os números tiram o sono de muitos provedores de acesso e de grandes empresas que se utilizam de redes de comunicação. Informações confidenciais encontram-se abertas para pessoas ou usuários alheios ao meio de sua corporação e as formas de reparação de qualquer dano, infelizmente, não são muitas.
+O Código Penal do Brasil foi feito em 1940 e está completamente desatualizado. “Se alguém danificar o computador de outra pessoa, pode ser processado por danificar a propriedade alheia. Mas, se digitar um comando e apagar informações valiosas, isso não é considerado crime”, diz o procurador do Ministério Público de São Paulo, Rodrigo Carnellas Dias.
+
+Barrando os indesejáveis
+
+Os e-mails do tipo spam estão mais agressivos do que nunca. Mas os provedores de internet estão ficando cada vez melhores em bloquear as mensagens indesejadas antes que estas cheguem às caixas de entrada dos usuários, é o que diz estudo da Federal Trade Commission (FTC) dos Estados Unidos divulgado na última semana.
+A FTC descobriu que os “spammers” – pessoas que enviam spam – continuam a garimpar endereços na web usando programas automáticos, que buscam sufixo iniciado com o sinal de “@”. Mas, mais de 96% dessas mensagens já são bloqueadas por dois provedores de e-mail baseados na web que estão em testes pela FTC. 
+Os consumidores podem enganar os spam se usarem seus endereços de e-mail alterados quando publicarem estes on-line, explicou a FTC. Escrever um endereço como “janedoe(at)isp(com)” em vez de “janedoe@isp.com” irá enganar a maior parte dos programas usados pelos spammers, continua a FTC. <br><br><hr>
+Data da Publicação: 05/12/2005 - Pagina: 12 <br>
+Editoria: Informática <br><br>

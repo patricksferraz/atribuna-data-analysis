@@ -1,0 +1,14 @@
+Primeiro dia de aula no curso de Linux
+<b> Centro de treinamento em Vitória
+oferece oito cursos preparativos
+para a prova de certificação
+oficial Mandriva Linux Conectiva </b><br>
+ <br>
+O recém-lançado centro de treinamento oficial da Mandriva Conectiva no Espírito Santo realiza hoja a aula inaugural dos cursos da formação de administradores no sistema operacional Linux. São oito cursos preparativos para a prova de certificação oficial Linux da Mandriva Conectiva.
+Os treinamentos são destinados a profissionais interessados em ampliar seus conhecimentos em administração de serviços e redes e oferecem capacitação necessária para o gerenciamento e realização das principais tarefas administrativas no Linux. 
+O objetivo dos treinamentos é oferecer conhecimento e aprimoramento técnico na plataforma Linux, com foco em administração de sistemas, conceitos de redes, TCP/IP, segurança, controle de tráfego, entre outros.
+Dentre os cursos dessa formação estão Fundamentos de Sistemas, Administração de Sistemas e Redes Linux, Segurança de Redes – Firewall, Integração de Linux e Windows. Cada treinamento pode ser realizado separadamente e quem realizar todos receberá 20% de desconto. 
+O único centro de treinamento Mandriva do Estado é fruto de uma parceria entre a Conectiva, empresa líder em serviços, desenvolvimento e distribuição do sistema operacional Linux para a América Latina, e a capixaba Mindworks, que também é único centro de treinamento oficial da Microsoft e da Trend Micro no Espírito Santo.
+Os interessados podem fazer as inscrições ou obter mais informações pelo site www.mindworks.com.br. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

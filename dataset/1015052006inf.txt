@@ -1,0 +1,27 @@
+Tecnologia na construção
+<b> Chegam ao mercado as versões
+2007 de aplicativos baseados
+em Revit e AutoCAD para facilitar
+a vida de arquitetos e engenheiros </b><br>
+ <br>
+A Autodesk acaba de atualizar toda a sua carteira de soluções de software para o setor de construção, tornando ainda mais fácil para arquitetos, engenheiros estruturais e engenheiros de sistemas de construção realizarem suas idéias.
+Com a disponibilidade imediata dos produtos Autodesk Revit Building 9, Autodesk Revit Structure 3, Autodesk Architectural Desktop 2007, Autodesk Building Systems 2007 e Autodesk VIZ 2007, os profissionais de design de construção e engenharia podem criar, gerenciar e compartilhar informações de design de forma mais eficiente, contribuindo para o aumento da lucratividade, redução de risco e menores ineficiências de design, edificação e administração de construções.
+“Com as novas versões 2007 de nossos aplicativos baseados em Revit e AutoCAD, a Autodesk está continuando a aumentar a produtividade e eficiência por todo o setor da construção”, comenta o vice-presidente da Divisão de Soluções de Construção da Autodesk, Jay Bhatt.
+O Revit Building e o Revit Structure foram projetados especificamente para a modelagem de informações de construção (BIM – Building Information Modeling).
+Com tecnologia de mudança paramétrica, qualquer alteração, a qualquer momento e em qualquer lugar é automaticamente coordenada por todo o projeto, inclusive visões de modelo, folhas de desenho, tabelas, seções e planos, ajudando os designers a organizar documentações de forma consistente.
+O Autodesk Revit Building 9 reflete o mundo real da arquitetura ao permitir que arquitetos e designers trabalhem em construções holisticamente, em vez de trabalhar em termos de planos separados de pisos, seções e elevações.
+O Autodesk Revit Structure 3 aumenta a eficiência, precisão e flexibilidade de design pela integração de um modelo físico — para layout, coordenação e documentação — com modelos analíticos passíveis de edição independente para múltiplas análises e vínculos bidirecionais para software de análise líderes do setor, de modo que os resultados atualizam o modelo de forma precisa.
+Já o Autodesk AutoCAD Revit Series — Building 9, para arquitetos e designers, combina AutoCAD 2007, software líder do setor, com o Autodesk Revit Building 9, enquanto que o Autodesk AutoCAD Revit Series — Structure 3, para engenharia e esboços estruturais, combina o AutoCAD 2007 com o Autodesk Revit Structure 3.
+
+Modelos tridimensionais
+Os produtos Architectural Desktop e Building Systems, versões específicas do Autodesk AutoCAD para o setor de construção, foram atualizados para aproveitar os aprimoramentos do AutoCAD 2007, o aplicativo  líder global para desenho 2D, detalhamento, documentação de design e design básico 3D.
+A plataforma AutoCAD apresenta produtividade inigualável para design e documentação para profissionais do setor de construção que ainda não estão prontos para migrar para o BIM. 
+O Autodesk Architectural Desktop 2007 torna o software AutoCAD melhor para os arquitetos. Com as características fáceis de usar e opções flexíveis de implementação, a produção de esboços e documentos de construção é mais fácil, rápida e precisa.
+Compartilhar informações é simples usando o formato DWG líder do setor, permitindo que dados de design sejam coordenados de forma eficiente com engenheiros e outros profissionais de design. Ferramentas para desenhos arquitetônicos e design podem ser usadas imediatamente, com um suave caminho de transição para características mais avançadas.
+A criação embutida de modelos tridimensionais dá vida aos projetos em apresentações que impressionam o cliente.
+Já o Autodesk Building Systems 2007 é o AutoCAD melhor e mais rápido para engenheiros de sistemas mecânicos, elétricos e hidráulicos (MEP – Mechanical, Electrical and Plumbing), designers e desenhistas que podem aumentar sua produtividade, precisão e coordenação — desde o design conceitual até a documentação da construção.
+O Autodesk Building Systems 2007 permite uma colaboração ininterrupta das tarefas usando aplicativos baseados no software AutoCAD e o ambiente intuitivo de design maximiza a eficiência dos fluxos de trabalho de engenharia.
+Usando ferramentas aprimoradas de sistemas de design de linha simples e dupla e de produtividade de layout, a produção de documentos de construção pode ser automatizada, com menos erros de coordenação entre equipes de design de engenharia mecânica, elétrica e hidráulica  bem como com arquitetos e engenheiros estruturais.
+Os novos produtos estarão disponíveis no segundo trimestre de 2006. Mais informações no site www.autodesk.com. <br><br><hr>
+Data da Publicação: 15/05/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

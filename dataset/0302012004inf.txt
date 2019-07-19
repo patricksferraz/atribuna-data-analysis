@@ -1,0 +1,21 @@
+A turma do mal ronda a internet
+<b> Os hackers de hoje são membros
+de quadrilhas do crime organizado
+que procuram acesso a informações
+pessoais dos internautas </b><br>
+ <br>
+Os números relativos às pragas virtuais em 2005 são alarmantes. Mais de 10 mil novos programas malignos surgiram no ano e provocaram grandes estragos aos usuários de microcomputador. As informações são do PandaLabs, que explica que novas pragas surgem diariamente e são responsáveis por ações altamente perigosas, funcionando como robôs dentro do computador.
+Os hackers de hoje já não são mais um grupo formado por adolescentes invadindo sistemas por passatempo, mas sim membros de quadrilhas do crime organizado que procuram acesso a informações pessoais de internautas.
+Eles criam pragas automatizadas, cuja função é se instalar nos equipamentos para realizar ataques de modo automático, seja para roubar dados pessoais e bancários do usuário, seja para o envio continuado de material não solicitado através de spams, transformando o desktop em “equipamentos zumbis”.
+Segundo o diretor do PandaLabs, Luis Corrons, a atividade viral na internet é altamente elevada no momento e, ao contrário do que se imagina, o perigo não está nas pragas de correio eletrônico que se propagam rapidamente, mas nos códigos maliciosos desconhecidos que roubam dados pessoais e bancários, o que explica a ação dos ladrões cibernéticos em criar novos pragas cada vez mais perigosas.
+“Evidentemente, uma epidemia de pragas virtuais que desperte o interesse dos usuários e dos meios de comunicação não interessa aos ladrões cibernéticos, que logo tratam de introduzir suas criações sem que ninguém note sua presença e assim podem levar a cabo seus objetivos maliciosos por um longo tempo”, comenta Corrons. 
+O executivo conta que a detecção desta grande quantidade de pragas foi possível graças à tecnologia TruPrevent criada pela Panda, que identifica e impede imediatamente qualquer ataque aos PCs e, o que é melhor, sem a necessidade de atualização.
+“Muitas pragas são criadas para receber e executar ordens remotamente. Desta maneira, em vez de limitar-se a realizar apenas uma ação, estas pragas podem levar a cabo muitas outras tarefas malignas dependendo dos objetivos de seus autores”, explica o diretor do PandaLabs.
+“Em geral, o objetivo dos criadores dos programas malignos não é a instalação em apenas uma máquina, mas criar redes de máquinas infectadas”, revela Corrons.
+Para os ladrões, esta tática de ataque pode lhes render grandes lucros, uma vez que, com apenas a instalação de um único spyware é possível atacar uma grande quantidade de computadores ao mesmo tempo e coletar milhões de informações bancárias e outros dados importantes.
+Para instalar um nova praga em um sistema, os ladrões virtuais podem utilizar meios como a vulnerabilidade dos navegadores web. Uma vez que os softwares antivírus somente podem combater as pragas conhecidas, um arquivo malicioso não conhecido escapa de seu campo de ação.
+Para poder combater a estas pragas é necessário o uso de tecnologias pró-ativas, capazes de determinar por si mesmas, sem necessidade de atualizações, a presença de um código malicioso.
+“Um exemplo são as tecnologias de proteção pró-ativa TruPrevent, criada pela Panda Software, que bloquearam mais de 23 mil códigos maliciosos desconhecidos desde agosto de 2004 até o momento”, revela Luis Corrons.
+“Não se trata de substituir as soluções antivírus atuais, que são de fato eficazes, mas complementá-las, de modo que tornem a possibilidade de um código maléfico – conhecido ou não – de invadir o PC do usuário seja cada vez menor”, completa o especialista em segurança. <br><br><hr>
+Data da Publicação: 02/01/2004 - Pagina: 03 <br>
+Editoria: Informática <br><br>

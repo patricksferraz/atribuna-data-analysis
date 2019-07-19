@@ -1,0 +1,30 @@
+É melhor se prevenir
+<b> Faça backup dos arquivos
+que você tem dentro de
+seu computador para
+não passar aperto no futuro </b><br>
+ <br>
+Marília Linhalis
+Computador é muito bom. Essa caixinha mágica virou uma biblioteca de textos, músicas, documentos importantes e fotos. Mas, o lado ruim é que, às vezes, os arquivos armazenados no micro simplesmente se perdem, somem, desaparecem, para tristeza e desespero da vítima. Quem nunca passou por isso com certeza já ouviu alguém reclamar.
+No mundo da tecnologia, onde praticamente tudo envolve o trabalho digital, perder arquivos por pane ou por vírus significa perder dias de trabalho ou até anos, que não poderão ser mais recuperados. 
+Esse foi o caso da publicitária Suellen Santos que, ao final de sua faculdade, perdeu toda a sua monografia por causa de um vírus no computador. “Meu antivírus expirou, mas achei que não tinha problema e continuei mexendo no computador. Quando fui ver tinha perdido tudo, inclusive minha monografia”, relembra Suellen.
+É aí que entra o tão conhecido backup. Que, por mais tempo e trabalho que o usuário gaste para fazer as cópias de seus arquivos, é compensador no final.
+Depois de perder sua monografia, Suellen faz semanalmente backup de seus arquivos. “Toda vez que faço um trabalho importante faço backup. Às vezes gravo em CD ou mando o material para o meu e-mail”, revela a publicitária.
+Conhecido também como um mandamento da área de informática, o backup pode ser feito não só em arquivos de documentos, mas também em imagens, vídeos, músicas, projetos e até em arquivos on-line, como o e-mail.
+Segundo o técnico de informática Magno de Lima, o processo de backup é a forma mais eficaz de se guardar arquivos. “O backup consiste simplesmente na cópia de arquivos de um meio de armazenamento (HD, CD-Rom) para outro (disquete, zip drive, HD, CD-R, etc). Assim, se houver alguma pane, você conseguirá recuperá-los através da restauração do backup sem nenhum problema”, afirma o técnico.
+Em poucas palavras: o backup é a replicação de arquivos e programas em algum tipo de mídia externa, como o CD ou disquete, para preservá-los em caso de pane do sistema, roubo ou mesmo uma limpeza indesejada do disco rígido original do computador. 
+Na era virtual, ignorar a necessidade de fazer backups é um erro que pode resultar na perda de informações financeiras, de projetos pessoais, podendo até levar uma empresa à falência.
+“Apesar do risco de se perder documentos, pouca gente sabe de fato como fazer um backup, muito menos como restaurar informações perdidas” conta Magno de Lima. “O que é contraditório, pois o mercado atual oferece diversas soluções, como software, para backup”completa. 
+Com a popularização dos gravadores de CD e DVD, armazenar cópias de arquivos em discos é uma boa solução. Há também a possibilidade do uso de um disco rígido externo ou mesmo de armazenamento em servidores de terceiros, isto é, de empresas que oferecem backup on-line. 
+O jeito mais simples de fazer backup é através da tradicional dobradinha “copiar” e “colar”. Manualmente, o usuário seleciona o arquivo desejado, o copia e depois cola na mídia de backup, isto é, nos diretórios dos drives de CD, DVD ou HD externo. No caso do backup on-line é preciso fazer o upload dos documentos.
+Mas nem sempre o simples é o mais fácil. Imagine copiar e colar variados arquivos espalhados por diversas pastas. Por isso, é importante se organizar e ter consciência do que é importante e merece ser copiado.
+De acordo com o técnico de informática Wilian Roza da Silva, a criação de uma pasta específica para o backup evita a perda de arquivos no próprio computador.
+“É preciso estar pronto para o backup, ou seja, se prevenir salvando sempre uma cópia dos arquivos importantes em uma pasta específica para isso, que pode ser batizada como ‘Backup’, por exemplo. Assim será mais fácil encontrá-los no momento desejado”, conta Wilian.
+Mas Wilian alerta: alguns programas costumam salvar arquivos em áreas desconhecidas. “A dica nesse caso é tomar nota do nome do diretório onde esses programas salvam os dados”, sugere o técnico.
+
+
+O que é backup?
+Backup significa cópia de segurança. Fazer uma cópia de segurança dos dados armazenados em seu computador ou seu site é muito importante, não só para se recuperar de eventuais falhas, mas também para evitar uma possível infecção por vírus ou até uma invasão do sistema de dados. 
+As cópias podem ser simples, como o armazenamento de arquivos em CD-Rom ou em disquetes, ou mais complexas, como o espelhamento de um disco rígido inteiro em um outro disco de computador. <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 02 <br>
+Editoria: Informática <br><br>

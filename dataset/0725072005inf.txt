@@ -1,0 +1,17 @@
+Soluções ágeis e eficazes
+<b> Delphi Meeting 2005 em Vitória marca o início do primeiro
+centro de treinamento oficial da Borland no Estado </b><br>
+ <br>
+A Tectrilha, em parceria com a TDS System traz, a partir de agosto de 2005, os treinamentos oficiais Borland para o Espírito Santo. Os treinamentos serão focados na nova versão do Delphi, o Delphi 2005, com ampla visão da utilização do framework .Net para criação de soluções ágeis e eficazes.
+Para iniciar suas atividades como Borland Learning Partner, a Tectrilha está trazendo para Vitória o Delphi Meeting, com participação da Borland, para a apresentação do Delphi 2005.
+O evento, que está percorrendo várias cidades brasileiras, desembarca em Vitória no dia 4 de agosto de 2005. Na agenda, uma palestra sobre Delphi e o futuro do desenvolvimento, uma mostra dos recursos do Delphi 2005 (Win32 e .NET) e dicas e exemplos de aplicações ASP.NET.
+As inscrições são gratuitas, porém com vagas limitadas. Quem quiser saber mais informações basta acessar o site www.tectrilha.com.br.
+O Delphi 2005 é considerado pelos especialistas o melhor de todos os tempos, possibilita o desenvolvimento .NET e Win32, em Delphi (Pascal) ou C# e traz várias inovações, como refactoring, teste unitário e Software Configuration Management (SCM).
+Quando o Delphi foi lançado no Brasil, em 1997, o desenvolvimento de aplicações profissionais tinha uma marcação bem clara. No ambiente corporativo a linguagem dominante era o COBOL, e entre os desenvolvedores independentes a linguagem mais utilizada era o Clipper.
+Porém rapidamente o mercado se rendeu à eficiência do Delphi, que tinha um ambiente bastante produtivo, gerava um código eficiente, e era capaz de atender às demandas de aplicações corporativas.
+“Rapidamente o Delphi se disseminou e tornou-se um padrão no desenvolvimento de aplicações para Windows”, comenta o desenvolvedor capixaba, Leonardo Hess Drummond.
+“No final de 2004 foi lançado o Delphi 2005, gerando tanto código Win32 quanto código .NET, permitindo a continuidade da manutenção das aplicações desenvolvidas em Delphi 7 ou versões anteriores e atraindo cada vez mais a atenção dos desenvolvedores de software”, declara Leonardo, que atua há 13 anos em Vitória com desenvolvimento de software e treinamento técnico para desenvolvedores na Tectrilha
+A empresa é agora a responsável pelos treinamentos oficiais Borland para o Espírito Santo Referência no Estado na linguagem Borland Delphi, a Tectrilha já organizou vários eventos de sucesso em Vitória, como o Borland Day e o Linux Day, ambos em parceria com o Infocentro.
+A Tectrilha possui o certificado de Fornecedor Qualificado no Prodfor, é  certificada no SGQ_TEC, em referência ao seu Sistema de Gestão da Qualidade das empresas de Tecnologia da Informação (TI), e é Fornecedora Qualificada da Indústria do Petróleo pela Organização Nacional da Indústria do Petróleo (Onip). <br><br><hr>
+Data da Publicação: 25/07/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

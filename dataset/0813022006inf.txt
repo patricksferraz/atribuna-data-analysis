@@ -1,0 +1,21 @@
+Perspectiva desanimadora
+<b> Relatório da IBM prevê o aumento de ataques 
+cibernéticos criminosos durante o ano de 2006 </b><br>
+ <br>
+O Índice Global de Segurança em Negócios da IBM resume as tendências de segurança ao final de todo ano e fornece uma perspectiva futura. De acordo com o relatório desenvolvido pelo time de Serviços de Inteligência de Segurança Global da IBM, os ataques globais a TI passaram a maior parte de 2005 em um nível médio.
+A IBM também forneceu uma perspectiva nada animadora das ameaças potenciais à segurança em 2006. Com base em indicadores anteriores, a companhia prevê uma mudança fundamental, ou evolução, na cibercriminalidade, indo do aumento de invasões globais até ataques menores e mais furtivos dirigidos a organizações específicas, com propósitos de extorsão. 
+Enquanto o worm Zotob ganhava atenção internacional, atingindo empresas de mídia bastante conhecidas, houve menos incidência global de malware em comparação com o ano anterior. 
+Mas esse fato não revela a história inteira. O elemento criminoso que motiva diversos spams, malware e outros ataques a TI se tornou claro no ano passado.
+As prisões de alta repercussão de criminosos cibernéticos nos Estados Unidos e no mundo inteiro apontam para indivíduos ligados ao crime organizado, cujo objetivo é simplesmente ganhar dinheiro. 
+Com softwares e redes se tornando cada vez mais seguros, é de se esperar que grande parte destes criminosos procurem atingir o ponto de acesso mais vulnerável dentro da companhia ou organização – os funcionários – para executar o ataque.
+“A diminuição de ataques disseminados em 2005 vai na direção contrária à que a sociedade em geral acredita, de que eles representam uma grande ameaça aos seus dados pessoais”, afirma o vice-presidente de Serviços de Privacidade e Segurança da IBM, Cal Slemp.
+“A IBM acredita que o cenário mudou. Com o aumento da proteção à segurança na maioria dos sistemas e penalidades mais rigorosas, temos visto aproveitadores organizados e tenazes ganharem espaço. Isso significa que os ataques serão mais direcionados e danosos”, alerta o executivo.
+
+Tendências para 2006
+Ataques internos –  Enquanto os softwares vão se tornando mais seguros, os usuários de computador continuarão a ser o elo mais fraco de empresas e organizações. Criminosos se esforçarão para convencer usuários finais a executar o ataque, ao invés de perder um tempo longo para descobrir onde o software é vulnerável.  Recursos globais, funcionários demitidos, fusões e aquisições apresentam desafios para empresas que desejam instruir usuários contra esses ataques.
+Mercados emergentes – Criminosos cibernéticos tiram proveito da fraca cooperação internacional contra a cibercriminalidade e fazem ataques internacionais com pequeno risco pessoal. Por essa razão, ataques a países emergentes e em desenvolvimento, e ataques vindo dos mesmos, estão aumentando.
+Gerenciamento de blogs – O aumento no uso de ferramentas de colaboração, como os blogs, também aumenta a possibilidade de vazamento de dados confidenciais.
+Mensagens instantâneas – Botnets, um conjunto de robots de software que permite o controle de um sistema sem conhecimento do proprietário, continuarão a representar uma das maiores ameaças da internet. Botnets mais novos, que terão células menores para melhor se esconder, provavelmente chegarão a mensagens instantâneas e outras redes ponto-a-ponto para comandar e controlar os sistemas infectados. 
+Dispositivos móveis – O número de aparelhos celulares, PDAs e outros dispositivos wireless afetados por malware aumentou substancialmente no último ano, mas isso ainda não se transformou em aumento do número de invasões, já que eles não podem se espalhar sozinhos – ainda. Portanto, essa tendência continua a estar no radar em 2006. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 08 <br>
+Editoria: Informática <br><br>

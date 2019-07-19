@@ -1,0 +1,10 @@
+Novo verme eletrônico se espalha
+<b>  </b><br>
+ <br>
+O vírus Sober foi classificado como a pior praga eletrônica a assolar os computadores de todo o mundo em novembro, segundo ranking elaborado pela empresa de software antivírus Sophos. A praga, que surgiu em novembro, é recente, mas já conseguiu se posicionar como a terceira praga mais ativa de 2005, com 6% do total de detecções.
+“O Sober é um worm (verme), que depois de se instalar na máquina, duplica-se e envia a si próprio para os endereços cadastrados no computador”, explica o técnico em informática da Doc Soluções, Roberto Otaviano.
+De acordo com a Sophos, o Sober.Z está em um em cada 13 e-mails enviados, prejudicando as empresas onde o fluxo do correio eletrônico é grande.
+“É de suma importância que todos os programas de defesa e prevenção instalados – gratuitos ou não – sejam atualizados constantemente junto ao site do fabricante. Só assim o computador ou a rede estará protegido contra essas pragas”, alerta o diretor de tecnologia da ItNet Vanderson Leite.
+Além do Sober, constam do ranking da Sophos os vírus Netsky, Mytob e Zafi. <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 18 <br>
+Editoria: Informática <br><br>

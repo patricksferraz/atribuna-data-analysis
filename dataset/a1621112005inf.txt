@@ -1,0 +1,19 @@
+Nova geração do IP Phone
+<b>  </b><br>
+ <br>
+Lançado há pouco mais de um ano, o IP Phone, um telefone micro-processado da Clone, uma das maiores empresas de informática do País, rapidamente se esgotou das prateleiras.
+Usuários domésticos, profissionais liberais, pequenas empresas, e outros consumidores de diversas áreas, passaram, através dos aparelhos que eram vendidos aos pares, a realizar chamadas por voz para outro usuário de IP Phone para qualquer localidade do mundo, bastando para isso que ambos os computadores estivessem conectados à internet com banda mínima de 33Kbps, por conexão de alta velocidade ou simples dial-up.
+Depois da fase inicial de comercialização, que previa apenas a comunicação entre os aparelhos, sem nenhuma tarifa para os usuários, exceto os custos normais de sua conexão de internet, a empresa está implantando a segunda fase.
+Agora, o aparelho também realiza chamadas para telefones fixos comuns e celulares, com economia de tarifa de até 80% em ligações nacionais ou internacionais, utilizando os serviços da Taho, uma operadora de VoIP brasileira.
+Essa modalidade dá segurança ao consumidor que, ao comprar créditos, tem como obter um extrato através da internet e recebe uma nota fiscal em sua casa referente aos serviços prestados pela operadora.
+O saldo disponível também aparece no display do telefone. Os aparelhos, que no início só eram vendidos aos pares, agora podem ser comprados também individualmente.
+O IP Phone pode ser conectado a qualquer computador através de uma porta USB. As ligações poderão ser executadas desde que os computadores estejam conectados à internet via cabo ou rede wireless, ou seja, em locais como aeroportos, hotéis, e até em deslocamento é possível efetuar ou receber chamadas através de um notebook, por exemplo.
+A instalação não exige configurações complicadas, sendo o único aparelho Plug & Play disponível para o mercado brasileiro. A configuração é feita através da internet e a instalação do aparelho não afeta a segurança do computador.
+Diferente do que acontece com os conhecidos softphones, que trabalham com softwares de download acoplados aos telefones, o IP Phone possui um microprocessador que converge as mais avançadas tecnologias de internet e telecomunicações, permitindo a comunicação por voz através da internet com qualidade.
+O aparelho tem tamanho reduzido, semelhante a um aparelho celular, possui display LCD com luz de fundo azul e duas linhas de oito caracteres, memória para os números discados e para as chamadas não atendidas, agenda telefônica para seleção de números, identificador de chamadas e número fixo para cada aparelho.
+A entrada para fone de ouvido e microfone permite continuar operando o computador normalmente durante a conversação. A combinação do uso do IP Phone com uma webcam permite ao usuário realizar uma teleconferência com muito mais realismo, sem custos ou tarifas.
+Os requisitos mínimos para funcionamento do IP Phone é um  Pentium II ou superior, Windows 98SE/ME/2000 ou XP, porta USB e conexão com internet acima de 33Kbps.
+O valor do aparelho até o dia 30 de dezembro é de R$ 199,00.
+Para mais informações entre no endereço www.clonevoip.com.br. <br><br><hr>
+Data da Publicação: 21/11/2005 - Pagina: 16 <br>
+Editoria: Informática <br><br>

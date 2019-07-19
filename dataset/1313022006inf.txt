@@ -1,0 +1,27 @@
+Efeitos mais que especiais
+<b> Novo software para edição
+de vídeo possibilita a criação
+de filmes de alta qualidade
+em DVD, HDV ou streaming </b><br>
+ <br>
+Hoje em dia, com os recursos tecnológicos disponíveis e uma boa dose de tempo é possível criar filmes de alta qualidade em DVD, HDV ou streaming de vídeo. Interessada no crescente mercado de edição de vídeo, a Pinnacle Systems acaba de lançar a nova versão da linha Liquid.
+Com 50 novos efeitos, que oferecem mais recursos e qualidade na edição, a solução destaca-se por trabalhar com HD (alta definição) e ser compatível com os principais formatos utilizados hoje.
+De acordo com o diretor de Vendas da Pinnacle para América Latina, Jaime Paez, os lançamentos de reprodutores de vídeo digitais portáteis (iPod vídeo, PlayStation, etc) e de novos formatos mais compactos de alta definição trazem o vídeo para o dia-a-dia do consumidor.
+A nova versão é compatível com os principais formatos utilizados profissionalmente hoje: WM9, HDV, DV, DIVIX, MPEG2 e MPEG4, dentre outros. O WM9 (Windows Media Vídeo), um dos formatos mais interessantes do momento, oferece alta compactação sem perder a qualidade.
+O layout da interface de trabalho segue uma linha mais prática e acessível, baseada em três passos (Input, Edit e Output). Assim, o trabalho fica mais fácil, com a possibilidade de visualizar as janelas e ferramentas de uma forma mais ágil.
+Com uma adaptação interna através do box de conexão, o Avid Liquid 7 também permite a visualização em HDV (alta definição) através de um monitor de TV convencional. Além disso, a ferramenta chamada “EZ Capture” facilita ainda mais a escolha dos formatos na hora da captura.
+Entre os recursos mais inovadores do produto estão também o Liquid CX Color Correction com correção de cores secundárias e seletivas e slow motion dinâmico, possibilitando a variação da velocidade da imagem na mesma cena. A função Image Stabilization estabiliza imagens tremidas e possibilita a recuperação de cenas com problemas.
+O upgrade do Avid Liquid 7 versão Pro com Box USB2 será comercializada no Brasil pelas principais revendas do produto por R$ 3.500,00.
+Para mais informações visite o site www.pinnacleal. com.
+
+Requisitos
+• Windows XP Home ou Professional com Service Pack 1 ou 2
+• Pentium 4 HT de 3.0 GHz ou AMD equivalente para vídeo padrão DV e MPEG-2 IBP
+• Pentium 4 HT 3GHz ou Dual Xeon (para padrão HDV) 
+• 1GB RAM
+• Placa VGA AGP ou PCI Express de 128 ou 256MB compatível com DirectX 9C
+• HD Serial ATA para áudio e vídeo
+• Gravador de DVD
+• Placa de som compatível com Surround 5.1 <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

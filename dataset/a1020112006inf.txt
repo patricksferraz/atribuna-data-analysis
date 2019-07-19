@@ -1,0 +1,11 @@
+Programas na mira dos piratas
+<b>  </b><br>
+ <br>
+Bastou a Microsoft anunciar a finalização do Windows Vista e Office 2007 que os piratas começaram a investir contra a proteção anticópia existente nas nova versão do sistema operacional e do Office.
+Por causa dessa rápida investida, os “cracks”, como são chamados os arquivos que destravam programas pagos e burlam sistemas de autenticação e necessidade de registro, já circulam por sites de pirataria na internet. 
+O crack para o Windows Vista se chama “Vista BillGates” e substitui alguns arquivos e componentes da versão final por outros da versão Beta, o que confunde o sistema e permite que uma chave de ativação beta utilizada pelos sistemas de teste possa ser utilizada como original. 
+Uma cópia do Office 2007 Enterprise Edition também já está circulando pela rede. Ao contrário das versões domésticas, não é necessário o uso da internet para ativar esta versão corporativa, o que pode facilitar a atividade dos piratas.
+Segundo a Microsoft, as supostas cópias piratas do novo sistema operacional terão um tempo limitado a quem utilizá-las, já que não são as versões finais dos programas e terão as suas chaves de ativação bloqueadas pelo Software Protection Platform da Microsoft.
+Outra atitude seria a continuação da estratégia WGA (Windows Genuine Advantage), que limita determinadas atualizações para proprietários de versões piratas do sistema, na tentativa de sufocar e desmotivar aqueles que não usem uma versão original do programa. <br><br><hr>
+Data da Publicação: 20/11/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

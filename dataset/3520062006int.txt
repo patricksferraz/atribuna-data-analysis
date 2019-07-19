@@ -1,0 +1,12 @@
+Cientista movimenta objetos com a mente
+<b>  </b><br>
+ <br>
+O Instituto de Engenharia Neurológica da Escola de Medicina, da Universidade Tsinghua, em Pequim, desenvolveu um sistema que traduz as ondas cerebrais do pensamento humano em instruções para um computador.
+Por meio de uma interface que une o cérebro ao computador, o indivíduo pode se comunicar com outros e controlar objetos sem a necessidade de usar um só músculo.
+“A atividade mental humana produz nas ondas cerebrais um tipo específico de ritmo e de padrão espacial, que se grava na superfície da cabeça”, explicou Hong Bo, do Instituto de Engenharia Neurológica.
+Com a ajuda de um amplificador biológico, o sistema idealizado pelos cientistas chineses pode extrair esta marca das ondas cerebrais e catalogá-lo automaticamente para mostrar o estado mental da pessoa em tempo real.
+Segundo o experimento, quando um dos estudantes imaginava o movimento da mão direita ou esquerda, o robô se deslocava à direita ou à esquerda, respectivamente. Quando imaginava o movimento de seus pés, o cachorro andava para frente.
+Seguindo o mesmo princípio, cientistas conseguiram fazer uma chamada telefônica utilizando apenas o pensamento.
+O centro de Pequim afirma que este tipo de tecnologia poderia ser utilizado para tratamentos de reabilitação ou para situações nas quais o indivíduo tem mobilidade reduzida, mas funcionamento normal dos cérebros. <br><br><hr>
+Data da Publicação: 20/06/2006 - Pagina: 35 <br>
+Editoria: Internacional <br><br>

@@ -1,0 +1,33 @@
+Conhecimento e tecnologia
+<b> Ajax, Windows XP e educação
+à distância são dissecados em
+novos lançamentos que
+chegam às livrarias </b><br>
+ <br>
+Num constante processo de mudança, o mundo da tecnologia e da informática oferece, a cada dia, uma gama de novas informações. E para ficar por dentro dos assuntos do momento é mais do que necessário se atualizar.
+A leitura de livros sobre o tema desponta entre as dicas mais eficazes. Um dos mais completos livros do mercado sobre a nova tecnologia que está revolucionando a internet é o “Ajax em Ação”, um dos últimos lançamentos da Editora Pearson.
+Escrita por Dave Crane, Darren James e Eric Pascarello, a obra é voltada para programadores e desenvolvedores. O título oferece ao leitor o passo-a-passo de como distribuir os aplicativos entre o cliente e o servidor, além de mostrar como certificar-se de que seu aplicativo é flexível e consistente.
+Um destaque de “Ajax em Ação” é o acesso livre a um fórum web privado, organizado pela Manning Publications, onde o leitor pode fazer comentários, perguntas e receber ajuda de outros usuários e dos autores. O livro custa R$ 99,00.
+Outra sugestão é a obra “Windows XP – Home & Professional para Usuários e Administradores”, 2ª Edição. O livro é do autor Júlio Battisti, que já assinou vários best-sellers nesse segmento.
+Destinada aos que desejam aprender rapidamente a implementar, configurar e utilizar o Windows XP, o título indica as melhores configurações de segurança e desempenho aos usuários – sejam eles residenciais ou profissionais.
+No livro, Júlio Battisti apresenta todas as informações sobre o Service Pack 2 (SP2) e como tornar o computador mais seguro com as novidades que o pacote da Microsoft trouxe. Também ensina como administrar usuários e grupos, pastas compartilhadas, impressoras e políticas de segurança.
+Além disso, os leitores terão acesso às informações de configuração de monitoramento do sistema, de rede, do protocolo TCP/IP e de permissões NTFS. Com 1.080 páginas, o livro custa cerca de R$ 220,00.
+A terceira dica é uma obra que aborda a forma como a tecnologia é implantada nas empresas, assim como a educação à distância, além da importância de todos os indivíduos estarem adaptados aos recursos tecnológicos.
+Lançado neste mês, o livro “As novas Tecnologias da Informação e a Educação à Distância”, de Alessandro Marco Rosini, custa cerca de R$ 31,00.
+
+
+A cara nova do Firefox  
+A Mozzila, responsável pelo Firefox 1.5, acaba de lançar a nova versão do programa, o Firefox 2.0, uma versão mais completa do ponto de vista da experiência do usuário.
+Entre os novos recursos do navegador estão um verificador de ortografia para formulários web, alertas de phishing e capacidades de busca e navegação por abas ampliadas.
+As extensões do Firefox 1.5 funcionarão com a versão 2.0, mas os mantenedores terão que fazer pequenas adaptações. O navegador ainda traz mudanças, como a correção de falhas, mas também apresenta dificuldades.
+Uma delas é a atualização automática, que não está disponível imediatamente, pois a Mozilla entende que alguns usuários ainda não querem migrar para o 2.0.
+Para tanto, será oferecida para este público uma versão 1.5.0.8, que permitirá ao internauta escolher fazer o upgrade posteriormente. A versão 1.5.0.8 também inclui correções e está prevista para chegar ao mercado até o final deste mês. Ou seja, entre hoje e amanhã.
+
+
+Lições de fotografia digital
+Para alguns, não basta apenas olhar para uma fotografia com detalhes perfeitos, é preciso também saber como ter o “olho técnico” e a capacidade de fazer semelhante.
+Essa foi a idéia inicial do livro “Expressões e Técnicas de Fotografia Digital”, dos autores Sillas Duarte Júnior e Felipe Ferraz, que mostram e ensinam como obter o resultado final apresentado nas páginas da obra.
+O livro faz uma viagem pela beleza natural das Américas, visitando as Cataratas do Iguaçu, dunas maranhenses, parques americanos, além das savanas africanas, mostrando um close impressionante do olhar do leopardo e muitos outros lugares impressionantes.
+Com 180 páginas, “Expressões e Técnicas de Fotografia Digital” será lançada no mês que vem e custará cerca de R$ 99,00. <br><br><hr>
+Data da Publicação: 30/10/2006 - Pagina: 22 <br>
+Editoria: Informática <br><br>

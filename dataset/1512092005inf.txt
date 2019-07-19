@@ -1,0 +1,32 @@
+Os perigos do mundo virtual
+<b> Empresas, que são vítimas de
+ ataques de pragas e boatos
+ através da internet, precisam 
+adotar políticas de segurança </b><br>
+ <br>
+Eles tem nomes bem estranhos e fazem estragos incalculáveis nas máquinas de usuários de todas as partes do planeta. No ranking dos vírus mais perigosos estão o W32/Netsky-P, W32/Mytob-AS, W32/Mytob-BE, W32/Zafi-D, W32/Zafi-B, W32/Mytob-C, W32/Mytob-CX, W32/Netsky-D e W32/Mytob-CJ. 
+Além destas ameaças existem também os boatos virtuais. Neste segmento os destaques são: Hotmail hoax, Bonsai kitten, Meninas da Playboy, Budweiser frogs screensaver, ICE virus hoax, A virtual card for you, WTC Survivor, Jamie Bulger, Mobile phone hoax e Bill Gates fortune.
+A lista dos males incidentes no mundo virtual, no último mês,  foi divulgada pela Sophos. A pesquisa da empresa mostra que 1.99% das mensagens, ou um em cada 50 e-mails, que circularam em agosto tinham conteúdo. 
+A Sophos, empresa fornecedora de soluções corporativas antivírus, anti-spam e spyware afirma que o público atingido pelas pragas virtuais afetaram as empresas em todo o mundo no último mês.
+O relatório, que é preparado pela rede global de estações de monitoramento da Sophos revela que o verme Netsky-P, criado por um adolescente alemão agora preso, Sven Jaschan, confirmou novamente sua posição de liderança no ranking deste mês. Os mais recentes vermes Zotob não aparecem no ranking, apesar de terem recebido grande visibilidade na imprensa por conseguirem infectar com sucesso um grande número de importantes empresas de mídia.
+A incidência do verme Netsky-P aumentou um pouco em agosto subindo de 13.9% para 14.7%, mas as variantes do vírus Mytob continuam a ser as piores ameaças aos usuários de PCs, representando 54% de todos as piores pragas relatadas à Sophos. Além disso, a pesquisa sugere agora que a família de vírus Zotob tem também ligações diretas com o Mytob.
+“Os vermes Mytob e Zotob podem se disseminar de várias maneiras, mas o seu código-fonte é muito parecido,” afirmou a consultora de segurança da Sophos, Carole Theriault.
+“Mais ainda: o pseudônimo do criador do Zotob, Diablo, aparece em mais de vinte variantes do Mytob , o que pode levar a crer que os vermes foram criados pela mesma pessoa. Um fato, entretanto, é verdadeiro: o Mytob continua levando o caos às empresas que ainda não atualizaram suas soluções de proteção antivírus e não fizeram correções nas vulnerabilidades dos softwares,” explica Theriault.
+As pragas virtuais que aparecem no ranking de agosto causaram um impacto menor e fizeram um número reduzido de vítimas em comparação ao mês anterior.
+“Esse decréscimo das ocorrências não significa que os hackers desistiram de sua tentativa de infectar os PCs. A razão desta redução é mais provável que esteja relacionada à chegada do mês de agosto, a época do ano preferida para férias por um grande número de pessoas,” explicou Theriault. “Enquanto as pessoas aproveitam suas férias, uma grande quantidade de PCs está desligada e imune à infecção”, salienta.
+Para minimizar a exposição das empresas às pragas virtuais, a Sophos recomenda que elas adotem uma política de segurança em seu gateway de e-mail que possa bloquear a entrada de anexos executáveis indesejáveis provenientes de usuários de fora da empresa. 
+As companhias devem também manter suas soluções de segurança antivírus atualizadas e instalar firewalls e as mais recentes correções de segurança.
+
+Ambientes vulneráveis
+Redes, computadores e até mesmo, celulares desprotegidos são alvo fácil para fraudadores, que se aproveitam do despreparo dos internautas para fazer transações de dinheiro e roubar dados pessoais, a afirmação foi feita na última semana por  pesquisadores do Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil (CERT.br). 
+E os números comprovam o alerta do grupo, vinculado ao Comitê Gestor da Internet no Brasil (CGI.br). Somente no segundo trimestre deste ano um total de 17.542 reclamações de internautas vítimas de incidentes de segurança na web, dos quais 45% são relacionados a fraudes. Há um ano, a quantidade de queixas era um pouco menor, mas o volume de fraudes representava apenas 3% do total. 
+No final de agosto, a Polícia Federal lançou a maior operação contra fraudadores que se fazem passar por sites de bancos e outras instituições para roubar dinheiro de internautas desprevenidos. Mais de 85 pessoas foram presas acusadas de integrarem um esquema que fraudou cerca de 200 pessoas em pelo menos R$ 10 milhões. 
+ O conselheiro do Comitê Gestor, Cassio Vecchiatti, pediu a união de empresas e associações do setor de internet para uma campanha de educação dos internautas. O conselheiro apontou como exemplo equipamentos que oferecem possibilidade de conexão sem fio via tecnologia Bluetooth, de ondas de rádio. Muitas vezes os usuários desses aparelhos não sabem que, se esse recurso for mal configurado, pode representar uma porta aberta para o roubo de informações pessoais. Além de furto de dados, o Bluetooth pode servir de canal para transmissão de vírus. 
+
+Proteção programada na rede
+Os computadores do futuro terão um equipamento preparado para fazer a segurança pró-ativa da rede com o codinome Circuit Breaker. Ele terá capacidade para monitorar e gerenciar automaticamente anormalidades e tráfego do ambiente, podendo detectar rapidamente presença de worms nas máquinas. A solução é uma proposta da Intel.
+Com o novo equipamento, as máquinas serão capazes de colocar worms em quarentena para evitar que eles se propaguem em rede para outras máquinas. A tecnologia que vai fazer esse controle foi uma das novidades apresentadas pela Intel durante o Developer Forum, realizado na última semana em São Francisco, nos Estados Unidos. 
+De acordo com responsável pela unidade de tecnologias corporativas da Intel, Justin Rattner, o equipamento, ainda em teste, analisa todo o comportamento da rede e ao perceber a entrada de vírus desconecta o PC imediatamente. Assim, o worm não se propaga para outros micros. 
+A Intel vem desenvolvendo várias pesquisas em seus laboratórios para que os equipamentos do futuro tenham inteligência para monitorar não apenas a contaminação de vírus, mas também outros problemas de segurança, como incêndios e vazamento de água.  <br><br><hr>
+Data da Publicação: 12/09/2005 - Pagina: 15 <br>
+Editoria: Informática <br><br>

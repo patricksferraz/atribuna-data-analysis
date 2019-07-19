@@ -1,0 +1,32 @@
+Nova trama de ladrões virtuais
+<b> Rede de vírus engana sistemas 
+com programa de pagamento por 
+clique em banners de websites </b><br>
+ <br>
+A PandaLabs detectou a existência de uma rede de computadores infectados com o bot Clickbot.A, que está sendo utilizado por ladrões virtuais para enganar os sistemas on-line de programas de pagamentos por clique em anúncios publicitários e banners em páginas na web. 
+O objetivo é obter grande soma de dinheiro fraudando estes sistemas a partir da utilização de bots. Segundo a Panda, a trama já infectou mais de 34 mil computadores zumbis de várias partes do mundo, onde se encontram instalados o bots.
+O controle dos bots é feito remotamente pelos ladrões virtuais a partir de vários servidores web. Eles escolhem as páginas web onde se encontram os anúncios e definem o número máximo de cliques que podem ser realizados por cada endereço IP (o endereço que identifica cada PC), para não levantar suspeitas. 
+Os piratas obtêm um controle muito preciso sobre os cliques realizados por cada bot e identificam quantos deles se encontram on-line naquele momento. O sistema utilizado pelos ladrões ilude os sistemas de detecção de fraude ao enviar solicitações de clique a partir de diferentes endereços IP não relacionadas entre si.
+A Panda apurou que esta modalidade de ataque já se constitui um modelo de negócios para os ladrões virtuais. “Eles se aproveitam de sistemas infectados para ganhar dinheiro a custas de PCs desprotegidos e da inocência de milhões de usuários em todo o mundo. Por isso, é fundamental para o usuário manter o seu PC permanentemente equipado com um programa de proteção contra vírus, sypware, cavalos de Tróia e outras ameaças”, adverte o CEO da Panda Brasil, Ricardo Bachert.
+O Clickbot.A é um bot composto de duas partes. A primeira é um arquivo executável que lança uma biblioteca de vínculo dinâmico no sistema. A segunda um componente do Internet Explorer que permite notificar ao sistema pirata que o computador foi infectado, permitindo inclusive atualizar seus componentes de controle automaticamente.
+Depois de coletar no computador infectado os dados do participante do programa de pagamento por clique, o bot se passa pela pessoa que possui autorização para realizar o ‘login’ no sistema de controle e recebe imediatamente uma lista dos endereços para iniciar o seu trabalho de cliques.
+Para verificar e eliminar vírus pelo serviço gratuito ActiveScan, que já identificou que 70% das pragas virtuais no primeiro trimestre deste anos estavam relacionadas aos crimes virtuais é só digitar www.pandabrasil.com.br.
+
+
+Os perigos da Rede 
+A SaferNet Brasil (www.safernet.org.br), ONG responsável pela Central Nacional de Denúncias que combate os crimes contra os Direitos Humanos e a disseminação da pornografia infantil na internet, em parceira com o HackerTeen (www.hackerteen.com), curso de formação em segurança da computação para adolescentes, acabam de liberar gratuitamente uma cartilha para alertar sobre os principais riscos da internet.
+“Como 95% dos crimes digitais são cometidos por jovens, a melhor forma encontrada foi envolver os alunos do HackerTeen na elaboração da cartilha, fazendo-os, desta forma, pensar e dividir com outros jovens as dicas que aprenderam”, explica a diretora de Responsabilidade Social do HackerTeen, Eliane Feliz. 
+Segundo o presidente da SaferNet Brasil, Thiago Tavares, é necessário o engajamento e uma ampla aliança entre os diversos segmentos da sociedade brasileira para reverter o cenário atual do uso indevido da Rede para práticas criminosas.
+“A luta contra a pedofilia e os demais crimes contra os Direitos Humanos na internet no Brasil precisa ser travada com muita seriedade e comprometimento das instituições, que precisam incluir estes temas nas suas agendas”, destacaTavares.
+Com a preocupação de garantir o total anonimato dos denunciantes, a ONG SaferNet Brasil desenvolveu um sistema automatizado de recebimento e gestão das denúncias, baseado em software livre, que permite ao internauta acompanhar de forma anônima cada passo do andamento da denúncia feita no portal. 
+Os crimes de pornografia infantil ou pedofilia, racismo, neonazismo, intolerância religiosa, maus tratos a animais, entre outras atrocidades que circulam na grande rede mundial de computadores devem ser denunciados através do site www.denunciar.org.br. 
+
+Novo software combate crimes financeiros 
+A C&M Software apresentou neste mês, em São Paulo, o Neural Activity Monitor. O software monitora o comportamento e perfil dos usuários dos sistemas eletrônicos de bancos em tempo real. O objetivo é evitar a conclusão de operações bancárias fraudulentas, com segurança para correntistas que utilizam cartão de débito ou sistemas Internet Banking.
+O Neural Activity Monitor é baseado em redes neurais que, tal como o cérebro humano, traça um perfil das atividades mais comuns e emite alertas, no caso de um comportamento fora desse padrão. Com as redes neurais, é possível analisar o comportamento dos usuários, agrupá-los, determinar previsibilidade das transações do grupo e de cada usuário.
+“Quem utiliza o Internet Banking para ver o extrato bancário e fazer pagamento das contas via internet, por exemplo, tem o registro dessas atividades feito pelo Neural Monitor”, explica o gerente de desenvolvimento da C&M Software, Roberto Vergilli.
+Os usuários de cartão de débito também serão beneficiados com a novidade. Todos os dados como local e valor da compra são registrados e mapeados. Isso dificulta a ação de fraudadores.
+Segundo o presidente da C&M Software, Orli Machado, o novo produto é dirigido exclusivamente ao mercado financeiro. “O valor das fraudes financeiras chegou a R$ 300 milhões em 2005, e o Neural Monitor é uma novidade em termos de segurança, um novo aliado no combate ao crime do século XXI”, disse.
+Mais informações no site www.cmsoftware.com.br.  <br><br><hr>
+Data da Publicação: 29/05/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

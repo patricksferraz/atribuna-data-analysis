@@ -1,0 +1,24 @@
+Congresso sobre Microsoft
+<b>  </b><br>
+ <br>
+Nos próximos dias 24 e 25 de março vai acontecer em Vila Velha um dos maiores eventos ligados à Microsoft no País. O “BIT 2006” – Congresso Baboo de Informática e Tecnologia – vai percorrer as cidades mais imporantes do Brasil. O congresso vai acontecer na Universidade de Vila Velha (UVV), com várias palestras práticas sobre Tecnologia da Informação (TI).
+O BIT foi criado por um dos melhores sites voltados para a tecnologia Microsoft, o www.baboo.com.br, que conta com quase um milhão de usuários em todo o Brasil. O congresso, que está no seu segundo ano, foi um sucesso de público no ano de 2005 e pretende crescer ainda mais esse ano.
+O BIT Baboo 2006 vai abordar os principais sistemas e plataformas da Microsoft. Em 2005, o congresso reuniu cerca de 600 profissionais de TI (infra-estrutura) e 400 de DEV (desenvolvimento), que participaram de palestras 100% práticas.
+Uma das palestras que mais chamou a atenção da platéia foi onde os MVPs – premiados da Microsoft – de TI instalaram e configuraram diversos produtos da plataforma Microsoft (Windows Server 2003, Exchange Server 2003, ISA Server 2004, Sharepoint, MOM 2005) simulando o trabalho real numa empresa fictícia. 
+Os interessados podem se escrever no site www.bit2006.com.br/ES.
+
+BIT 2006
+
+Dia 24
+• “MSF Agile e Visual Studio Team Foundation: Implementando no meu ambiente”, com Wallace dos Santos
+• “Visual Studio Team System de A a Z”, com Wallace dos Santos
+Dia 25
+• “Windows Server 2003 R2”, com Fábio Hara
+• “Exchange Server 2003”, com Rodrigo Immaginario
+• “IIS e Sharepoint”, com Fábio Hara
+• “ISA Server 2004”, com Rodrigo Immaginario
+• “TrendMicro EPS”, com Niase Borjaille
+• “Dicas de Segurança”, com Rodrigo Immaginario e Fábio Hara
+• “Windows Vista”, com Aurélio “Baboo” Minerbo <br><br><hr>
+Data da Publicação: 13/03/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

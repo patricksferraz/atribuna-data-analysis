@@ -1,0 +1,9 @@
+Internet tem 100 milhões de endereços
+<b>  </b><br>
+ <br>
+A internet chegou a um novo patamar nesta semana quando  o número de sites existentes ultrapassou a casa dos 100 milhões de endereços, num crescimento extraordinário em relação aos 18 mil sites existentes em 1995,  início da World Wide Web. 
+O dado foi divulgado pela empresa de pesquisas Netcraft, que acompanha o crescimento  das páginas na Web desde 1995. 
+A cifra envolve mais de 100 milhões de domínios (endereços completos como site.com.br),  sendo que quase metade deles são sites ativos, ou seja, que têm conteúdo atualizado com freqüência, algo em torno de 47 e 48 milhões de endereços. 
+Os EUA são o país que mais cria sites. <br><br><hr>
+Data da Publicação: 02/11/2006 - Pagina: 38 <br>
+Editoria: Ciência e Tecnologia <br><br>

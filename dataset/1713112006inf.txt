@@ -1,0 +1,19 @@
+Novo vírus “mata” Bush
+<b> Praga virtual sobre falsa morte do
+presidente dos Estados Unidos,
+infecta o computador da vítima 
+e abre o PC para outros ataques </b><br>
+ <br>
+Aproveitando-se da curiosidade das pessoas, mais um vírus procura se propagar pela rede, infectando os computadores dos mais desatentos. Desta vez, a notícia sobre a falsa morte do presidente dos Estados Unidos, George W. Bush, tenta convencer o usuário a clicar em um programa nocivo. 
+A praga virtual, batizada de W32/Dref-N, infecta o computador do usuário ao ser executada. Para isto, basta abrir o arquivo que está no e-mail, que promete mostrar detalhes sobre a “notícia”.
+Com isso, o computador do ususário é automaticamente infectado pelo vírus, que desabilita o firewall do Windows e abre o computador para o ataque de hackers. Além disso, a praga baixa outros arquivos nocivos para o PC da vítima.
+Mesmo que o endereço do remetende seja de alguém conhecido, o usuário deve ficar atento, pois na verdade o e-mail foi enviado de um computador infectado por um worm, outra praga virtual e também conseqüência do vírus, que faz com que a mensagem se replique a todos os endereços de e-mail que a vitima possui e seu catálogo de contatos.
+O mesmo vírus ainda pode ser encontrado em mensagens sobre o início de uma guerra nuclear ou mesmo o assassinato do presidente russo Vladimir Putin. 
+Caso a curiosidade vença e mesmo assim o usuário quiser confirmar se realmente é verdade, jamais clique no arquivo. Exclua a mensagem e procure um site de notícias confiável na internet ou mesmo na TV. Afinal, se alguma dessas notícias realmente fosse verdade, não seria difícil de ter acesso a elas.
+SERASA
+Outro tipo de mensagem que costuma pegar o usuário desavisado são os e-mails informando que ele está em débito com alguma empresa. Esse tipo de golpe é conhecido como scam e fornece um endereço para que o usuário visite, a fim de conferir as suas pendências financeiras. 
+Caso ocorra visita ao site embutido na mensagem, o usuário receberá um comunicado padrão de nada consta. Entretanto, o que a vítima não sabe é que seu computador foi infectado por um trojan (cavalo de tróia), que instala um aplicativo que vai permitir que o interessado na fraude obtenha informações sobre suas contas e senhas de banco.
+A primeira orientação para esses casos é não utilizar o computador para transações bancárias enquanto não for detectada, combatida e anulada a praga, que é um leitor de leitor de teclado (keylogger). Ele registra tudo o que for digitado no computador infectado.
+Uma das empresas mais usadas para esse tipo de golpe é a Serasa, que tem alertado sobre o e-mail em sua página (www.serasa.com.br), recomendando deletar imediatamente a falsa mensagem. A empresa também já comunicou sobre a circulação desse tipo de e-mail à polícia especializada em crimes eletrônicos e vem desenvolvendo providências jurídicas e técnicas na busca de evitar novos ataques. <br><br><hr>
+Data da Publicação: 13/11/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

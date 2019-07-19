@@ -1,0 +1,40 @@
+O futuro da comunicação
+<b> Com uma redução de custos
+que pode chegar a 70 %,
+o Voice over IP ganha cada vez
+mais adeptos no Espírito Santo </b><br>
+ <br>
+De usuários domésticos, passando por pequenas e médias empresas, até chegar às grandes corporações, a tecnologia IP vem se popularizando cada vez mais entre os capixabas. O principal fator para tamanha adesão é o custo benefício.
+Chamada a distância a preços locais, integração de telefonia móvel e fixa, tudo isso aproveitando a estrutura já existente no local, faz com que o retorno do investimento seja rápido.
+“O VOIP, pode ser usado por qualquer pessoa, tanto empresa quanto usuários domésticos. O investimento não é alto e é compensado a curto ou médio prazo”, explica o consultor de tecnologia, Mário Conrado, da ItNet.  
+Os grandes sites e provedores antenados com a nova tendência não perderam tempo e já estão disponibilizando o serviço de webfone, similar ao sistema IP. Segundo o portal UOL, a economia chega a 90% do custo da ligação convencional. 
+A grande vantagem desse sistema é, que o usuário fica sabendo na hora o quanto gastou. O produto está disponível para  Windows XP/ ME/ 2000. 
+As vantagens do uso tecnologia IP vão além da economia que proporciona ao usuário. O VOIP abre o mercado para mais concorrência, alia o tráfego de voz a mais ferramentas, une matriz com filiais a custo zero, além de criar canais de comunicação entre fornecedores e clientes também a custo zero.
+“Hoje é possível utilizar serviços 100% gratuitos através da internet. O grande pioneiro desse serviço é o Skype”, afirma o técnico da Doc Info Soluções, Wanderley Silva do Carmo. 
+No Espírito Santo, algumas empresas já optaram pelo sistema com intuito de economizar nas ligações. É o caso da Viminas Vidros Especiais que, a partir desse mês interliga três unidades da empresa com o sistema VOIP, o que, segundo o gerente industrial Luiz Cláudio Ribeiro  Rezende, permitirá uma economia de 25% nas ligações interurbanas.
+“O sistema liga a sede, na Serra, e as unidades de Campos (RJ) e Belo Horizonte (MG). Com essa tecnologia, os funcionários das três empresas podem se comunicar normalmente, com o custo de ligação local”, explica Luiz Cláudio. 
+O Brasil é o quinto maior usuário da tecnologia, ficando atrás apenas dos Estados Unidos, Polônia, Alemanha e França. Os programas mais utilizados são Skype, VoxFone e VoIPwebfone.
+O procedimento é simples. Consiste em con verter os pacotes analógicos em pacote digital e fazê-lo trafegar pela internet.  O VOIP ainda pode ser utilizado através de ATAs (Analog Terminal Adapeters), aparelhos que permitem conexão diária, 24 horas por dia, sem a necessidade de um computador e fones de ouvido.  
+A instalação também é simples e rápida. Segundo Wanderley, caso não haja nenhuma complicação técnica, em quatro horas o sistema estará disponível, pronto para ser usado.
+Em casos de empresas que utilizam PABX, é necessário um técnico em telefonia para instalação do gateway. A implantação dos serviços VOIP (em empresas) pode ser encontrada a partir de R$ 250 mensais. Já para utilização residencial, o webfone é uma opção interessante e sua mensalidade pode ser encontrada a partir de R$ 3,99.
+
+Celulares VOIP
+A VOIP já é realidade e, a cada dia, ganha mais espaço no ambiente das grandes corporações. Com isso, mais dia ou menos dia, a tendência é que a grande maioria das empresas migre para esse novo paradigma de comunicação de voz.
+Prova disso, é que todos os grandes fabricantes de aparelhos celulares estão se preparando para lançar aparelhos VoIPCel. A grande vantagem dos aparelhos VoIPCel será unir as baixas tarifas de ligações VOIP com a modalidade dos celulares. Os primeiros aparelhos devem ser lançados já em 2006.
+
+Vantagens
+Redução dos custos, podendo chegar a 70%
+Não é necessário criar uma nova estrutura inteira, apenas estrutura para voz
+Retorno de investimento é rápido
+Custo zero para ligações dentro da empresa – entre matriz e filiais localizadas em quaisquer cidades do mundo
+Custo zero para ligações de Telefone IP para qualquer outro Telefone IP
+Redução drástica de custos para ligações interurbanas e principalmente para ligações internacionais
+Tarifas bem inferiores às das concessionárias tradicionais
+Eficiência em comunicação com custo acessível
+Integração com o PABX da empresa
+Fácil implantação dos equipamentos VoIP
+Segurança e privacidade
+Qualidade de voz equivalente ao da telefonia convencional
+Escalonável: permite ampliação conforme suas necessidades <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 02 <br>
+Editoria: Informática <br><br>

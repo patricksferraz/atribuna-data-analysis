@@ -1,0 +1,20 @@
+Teste para cirurgia no espaço
+<b> Franceses fizeram a 1ª operação em
+gravidade zero. Objetivo foi testar
+condições para a realização de 
+procedimentos médicos no espaço </b><br>
+ <br>
+Uma equipe de cirurgiões franceses realizou ontem a primeira operação em ambiente de microgravidade do mundo, a bordo de um avião em queda livre que simulava as condições de ausência de peso que os astronautas sentem. 
+Eles esperam que o procedimento seja o primeiro passo para a realização de operações no espaço. O grupo de médicos foi liderado por Dominique Martin, chefe da unidade de cirurgia plástica do Hospital Universitário de Bordeaux. 
+A bordo de um Airbus 300 construído especialmente para simulações de microgravidade (e batizado Zero-G), eles extraíram um cisto sebáceo, um tipo de tumor benigno, do braço do voluntário Philippe Sanchot, 46.
+Sanchot foi escolhido por ser um ávido praticante de bungee-jump e, portanto, acostumado às condições desse tipo de ambiente (nos EUA, o avião que faz esse tipo de manobra, para treinar astronautas, é chamado de “cometa do vômito”). 
+“Só estou um pouco cansado, mas é porque minha cabeça está girando”, disse ele após a cirurgia – feita com anestesia local.
+A operação durou cerca de 11 minutos e foi realizada em 32 etapas, durante as quais o avião voava em arco, subindo e caindo livremente. A cada queda, condições de ausência de peso eram criadas por 22 segundos.
+Os instrumentos cirúrgicos foram acomodados sobre ímãs para que não flutuassem e os médicos foram amarrados à sala de cirurgia. “Se tivéssemos tido duas horas, poderíamos ter operado uma apendicite”, disse Martin.
+O médico afirmou que o procedimento, planejado há três anos, não tinha nenhuma aplicação técnica imediata. “O que fizemos hoje (ontem) foi um teste de viabilidade”, comentou. 
+A idéia era descobrir como seria uma cirurgia no espaço – obter informações sobre fluxo sangüíneo ou equipamentos especiais para tornar a prática possível na Estação Espacial Internacional (ISS).
+“Hoje, se houver uma emergência absoluta lá em cima, como um hematoma intracraniano, não há nada que possamos fazer”, afirmou Martin.
+Em condições de microgravidade, o coração tem atividade reduzida, o que cria estresse vascular. O sangue, além de fluir de forma diferente, jorra em forma de esferas, portanto foi preciso um sugador especial para contê-lo.
+A Agência Espacial Européia (ESA) quer desenvolver robôs-cirurgiões controlados da Terra para uso em missões espaciais. <br><br><hr>
+Data da Publicação: 28/09/2006 - Pagina: 46 <br>
+Editoria: Ciência e Tecnologia <br><br>

@@ -1,0 +1,55 @@
+Robô com tato humano
+<b> Novo sensor  poderá dar a 
+robô sensibilidade do tato humano.
+Invenção será usada em cirurgias </b><br>
+ <br>
+Os robôs já têm hoje mãos e braços poderosos, com bem mais força que os de uma pessoa. Em breve poderão ter também dedos tão sensíveis como os humanos, graças ao trabalho de uma dupla de cientistas nos EUA.
+Vivek Maheswari e Ravi Saraf, da Universidade de Nebraska, produziram um sensor eletrônico com a mesma capacidade de tato de um dedo humano. 
+Os dois descrevem o trabalho na edição de ontem da revista científica Science. Ainda está longe a criação da bela heroína-robô do livro e filme Blade Runner. Mas algo parecido com a pele da ponta dos seus dedos já é realidade.
+Um dos objetivos da pesquisa é o uso de robôs em cirurgias minimamente invasivas, com cortes pequenos. Um médico consegue, usando o tato, identificar tumores ou pedras na vesícula. 
+Para que um cirurgião-robô faça isso, seus dedos precisam ter o mesmo grau de sensibilidade que um dedo humano.
+Há várias linhas de pesquisa sobre microssensores de tato, usando componentes deformáveis ou microeletromecânicos. A dupla de Nebraska optou por uma estratégia diferente. 
+Eles criaram um filme finíssimo usando camadas de diferentes materiais, como ouro, polímeros e sulfeto de cádmio.
+O filme tem a propriedade de ser “eletroluminescente”, isto é, capaz de detectar mudanças sutis de pressão e emitir luz na mesma proporção da força sentida. A luz pode, então, ser captada por uma câmera digital e transformada em uma imagem.
+Maheswari e Saraf criaram um sensor com 2,5 centímetros quadrados e o testaram com uma moeda americana de um centavo, com a efígie do presidente Lincoln – também o nome da cidade que sedia sua universidade. 
+O sensor passou no teste. Conseguiu produzir uma imagem nítida das letras “ty” da palavra “liberty”, além de detalhes da efígie. 
+Para Richard Crowder, da Universidade de Southampton, Reino Unido, o desenvolvimento do tato em robôs é um desafio complexo, que precisa da conjugação de várias tecnologias, que incluem mecânica, eletrônica e inteligência artificial. 
+Um robô de hoje não consegue ainda fazer algo que uma criança de seis anos faz sem pensar, como amarrar o sapato, diz.
+
+
+Vacina contra câncer de útero vai chegar ao Brasil
+Foi aprovada ontem nos EUA a primeira vacina que protege as mulheres contra o câncer de colo do útero, doença que mata pelo menos sete mil mulheres brasileiras por ano. 
+A aprovação no Brasil está sendo aguardada para o segundo semestre. Autorizada pela agência norte-americana que regula fármacos e alimentos, FDA, a vacina Gardasil (Merck Sharp & Dohme) é recomendada para mulheres entre 9 e 26 anos e previne a infecção pelo papilomavírus humano (HPV), que causa o câncer de colo uterino. 
+A recomendação em idade tão precoce foi feita em razão de a vacina funcionar melhor em meninas que ainda não iniciaram a vida sexual e, portanto, não tiveram contato com o HPV. 
+Ela não protege pessoas já infectadas e não imuniza contra todos os tipos de câncer uterino – cobre cerca de 70%. No próximo dia 29, o comitê norte-americano de práticas de imunização deve definir como será a rotina de vacinação com o novo produto nos EUA.
+O assunto é polêmico. Grupos conservadores, como o Foco na Família, são contra a obrigatoriedade para crianças e jovens. Para eles – que defendem a abstinência sexual como melhor forma de prevenir o HPV e outras doenças sexualmente transmissíveis –, a decisão deve partir dos pais. 
+O laboratório fabricante já pediu à Anvisa (Agência Nacional de Vigilância Sanitária) a licença para comercializar a vacina no Brasil. A agência deve dar um parecer a respeito entre setembro e outubro.
+Se for positivo, a vacina entrará no mercado nacional ainda neste ano. “Os documentos estão sendo analisados e o processo estaria correndo a contento’’, disse Luisa Villa, do Instituto Ludwig de Pesquisa sobre o Câncer, em São Paulo. 
+Ela coordenou a etapa brasileira dos testes clínicos da vacina, que envolveu três mil mulheres.
+
+
+Pesquisa aponta cura para a Aids
+Uma injeção que aumenta a sobrevida de macacos contaminados com o vírus da Aids pode oferecer pistas sobre a produção de uma vacina para a doença.
+O experimento gerou informações importantes sobre como o vírus HIV destrói o sistema imunológico e sobre como monitorar a saúde de pessoas infectadas.
+“Uma vacina deste tipo não parece evitar a infecção”, disse Norman Letvin, da Escola Médica de Harvard, em Boston, que participou do estudo. Segundo ele, a vacina ajuda os pacientes a viverem mais tempo sem apresentarem sintomas da doença.
+O estudo, cuja publicação coincide com os 25 anos da primeira descrição médica da Aids, foi divulgado pelo Centro de Prevenção e Controle de Doenças dos EUA.
+Na década de 1980, os pesquisadores achavam que seria fácil desenvolver uma vacina contra o HIV. Mais de 3 bilhões de dólares depois, isso não aconteceu, embora haja mais de 30 protótipos em diferentes estágios de testes em humanos.
+
+
+Empresa cria gato que não causa alergia
+A companhia americana Allerca, do Estado da Califórnia, criou os primeiros exemplares de gatos hipoalergênicos do mundo. 
+A empresa garante que os animais não causam qualquer tipo de alergia. 
+A Allerca utilizou as mais recentes tecnologias em genética para desenvolver os felinos. 
+Os gatos comercializados são selecionados, testados e criados especialmente para serem animais de estimação de pessoas que tem algum tipo de alergia.
+
+
+Estudo revela diferenças entre cérebros
+Pode ser um assunto delicado para o jantar de dia dos Namorados: quanto, afinal, diferem os cérebros masculino e feminino? Segundo o pesquisador americano Larry Cahill, uma análise dos trabalhos científicos publicados na última década sobre o assunto sugere que a resposta é: mais do que você imagina. 
+Mas, antes que extremistas dos dois lados da guerra dos sexos comecem a cantar vitória, é preciso deixar claro que grandes diferenças não representam, necessariamente, que um tipo de equipamento cerebral seja “melhor” que outro. 
+Ao contrário: entre os trabalhos revisados por Cahill, há alguns que mostram que a atividade cerebral diferente, em homens e mulheres, pode levar a comportamentos idênticos. 
+Conclusão? Em alguns casos, a atividade cerebral diferente nos sexos pode existir exatamente para compensar outras diferenças fisiológicas, levando a performances semelhantes. 
+Em artigo publicado na edição de junho da revista britânica Nature Reviews Neuroscience, Cahill enumera alguns “equívocos comuns” quando o assunto são as diferenças entre o cérebro do homem e da mulher. 
+A primeira é de que essas diferenças seriam pequenas e pouco importantes; a segunda, de que as diferenças que aparecem nas estatísticas seriam fruto de uma distorção provocada por alguns casos extremados presentes na amostra; a terceira, de que diferenças dentro de um mesmo sexo seriam maiores que entre os sexos; a quarta, de que as diferenças seriam todas explicáveis por diferenças de nível hormonal. 
+O artigo de Cahill não nega que os hormônios provoquem algumas diferenças de comportamento, mas lembra que os hormônios têm também um papel no desenvolvimento do cérebro, podendo levar a diferenças, mais duradouras, na própria estrutura do órgão. <br><br><hr>
+Data da Publicação: 09/06/2006 - Pagina: 39 <br>
+Editoria: Ciência e Tecnologia <br><br>

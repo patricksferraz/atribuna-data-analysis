@@ -1,0 +1,20 @@
+Palestra mostra as vantagens da VoIP
+<b> Sucesu promove, em abril, evento sobre
+telefonia IP no auditório do Senac </b><br>
+ <br>
+Periodicamente, a Sociedade de Usuários de Informática e Telecomunicações do Espírito Santo 
+(Sucesu-ES), patrocinada pela Aracruz Celulose, CST, CVRD e Samarco, promove palestras no Estado sobre assuntos emergentes da Tecnologia da Informação (TI). No dia 17 de abril, às 9 horas, no auditório do Senac, em Bento Ferreira, a entidade realiza um evento sobre “Telefonia IP”.
+Durante sua palestra, o especialista em TI Gilberto Sudré vai esclarecer as mudanças que estão chegando com a Voz sobre protocolo IP. No programa, Sudré traça os caminhos da telefonia convencional, fala sobre transmissão de dados, esclarece o que é Voz sobre IP e Telefonia IP, faz um paralelo sobre VoIP x telefonia convencional, entre outros assuntos que estão tirando o sono dos gestores de TI de boa parte das empresas capixabas.
+“A tecnologia reinventa nosso modo de vida o tempo todo. É exatamente isto que estamos assistindo na área da telefonia. Evoluímos das tradicionais linhas telefônicas e suas empresas operadoras para a possibilidade da transmissão da voz através da internet ou redes próprias, com qualidade similar a de uma ligação convencional”, comenta Gilberto Sudré.
+Tudo sem complicações ou necessidade de um curso de engenharia e, o melhor, a uma pequena fração do custo do serviço telefônico que conhecemos hoje.
+Isto só foi possível devido a dois fatores. A popularização do acesso à internet por banda larga e à tecnologia VoIP ou Voz sobre o protocolo IP para os iniciados. A VoIP se baseia na capacidade de transformar a voz humana em pacotes de informações e transmiti-los como se fossem dados, exatamente como acontece com um e-mail enviado pelo seu computador.
+A redução dos valores pagos é possível porque se utiliza a infra-estrutura de dados, que tem custo fixo, independente da distância entre origem e destino ou tempo de uso. Muito diferente da ligação telefônica, que tem seu custo proporcional à distância e ao tempo de comunicação (ou impulso).
+Um novo modelo de negócios está surgindo. Para nós usuários, vai possibilitar economia e flexibilidade na comunicação telefônica. Para as operadoras de telecomunicações um grande desafio está pela frente: mudar completamente a forma de cobrança e prestação dos serviços de telecomunicações. É o futuro fazendo uma ligação de longa distância para você. 
+
+Voz sobre IP
+Palestra com Gilberto Sudré
+• Dia 17 de abril, às 9 horas, no auditório do Senac. Av. Marechal Mascarenhas de Moraes, 2077, Bento Ferreira, Vitória
+• Inscrições: R$ 10,00 para associados da Sucesu-ES e funcionários das empresas associdas ou R$ 15,00 para participantes da comunidade em geral
+• Informações: (27) 3225-9955 ou eventos@sucesues.org.br <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 06 <br>
+Editoria: Informática <br><br>

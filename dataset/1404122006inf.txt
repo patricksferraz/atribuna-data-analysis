@@ -1,0 +1,43 @@
+Que computador escolher?
+<b> Mercado oferece opções para
+todos os gostos e bolsos, mas quem
+quiser comprar um computador neste
+final de ano precisa ficar atento </b><br>
+ <br>
+Quem está procurando o primeiro computador ou deseja trocar a máquina por uma mais atual, vai encontrar muitas oportunidades neste fim de ano. O momento é bastante propício, já que o preço de um equipamento novo caiu cerca de 20% nos últimos 12 meses e o consumidor pode contar com promoções e parcelamentos que cabem no seu bolso. Mas como escolher o computador adequado às necessidades de cada um? 
+O mercado dispõe de várias opções, que aliam preço e performance. “Escolher um modelo somente pelo preço pode representar um desperdício de dinheiro, pois um computador muito barato pode indicar falta de recursos importantes, como memória e velocidade do processador”, alerta o especialista em Tecnologia em Redes de Computadores, Marcelo Okano.
+É relevante levar em conta   que os computadores envelhecem rapidamente, já que novos modelos são lançados várias vezes ao ano. Isso significa que um equipamento com um ano de uso pode ser considerado obsoleto, dependendo dos tipos de tarefas executadas no computador. Então, o ideal é escolher um que possa te atender bem até a possível próxima troca.
+PROCESSADOR
+O processador é o motor do computador e muito do desempenho da máquina é de responsabilidade dele. Geralmente, cada fabricante possui duas linhas: uma de alto desempenho, com preços também altos, e outra com desempenho e preço menores. A escolha do processador deve ser feita de acordo com as atividades que serão realizadas no PC.
+Atualmente, o padrão de interface para ligar impressoras, pendrives, unidades externas, máquinas fotográficas e outros dispositivos é o USB. Devido à grande quantidade de equipamentos que normalmente são conectados ao computador, o ideal é optar por um que apresente uma quantidade razoável de interfaces USB. 
+Escolha um modelo que tenha, ao menos, uma entrada USB na frente do PC, pois isto facilita a conexão de pendrives e câmeras digitais.
+Se tiver a oportunidade de adquirir um modelo com gravador de DVD, prefira, pois a diferença de preço entre os gravadores de CD e DVD é mínima e compensa pela capacidade, uma vez que um disco de DVD oferece quase seis vezes mais espaço do que um CD. 
+Mas, se o preço não permitir, fique com uma opção mais barata, com um gravador de CD e leitor de CD e DVD.
+Magazines e lojas especializadas vendem a garantia estendida na hora da compra para períodos extras de dois ou três anos. “É uma opção interessante para o comprador que não quer ter dor de cabeça”, lembra Okano.
+Grandes estabelecimentos sempre fazem promoções com preços atraentes e parcelamentos com cartão de crédito, mas os modelos são padronizados e pode ser que não tenham os recursos desejados. Para os personalizados ou com mais recursos, procure uma loja especializada.
+
+Cinco passos para escolher o pc
+
+n 1º Passo: Encontre o computador ideal para cada atividade. 
+Quem trabalha com edição de fotos e vídeos, desenvolvimento de programas e usuários que gostam de jogos de computador devem optar por uma linha de alto desempenho de processadores. Já a linha de baixo desempenho é mais indicada para quem executa atividades mais “leves”, como acessar a internet, ler e-mails, editar textos, elaborar apresentações e ouvir músicas.
+n 2º Passo: Duas cabeças pensam melhor que uma. 
+Para quem quer mais desempenho, o ideal são os processadores de núcleo duplo (dual core, em inglês). O custo é um pouco maior, mas eles são ideais para a realização de atividades simultâneas sem prejudicar a velocidade com que os programas funcionam.
+n 3º Passo: Assegure-se de ter memória RAM suficiente. 
+ A quantidade de memória RAM contribui para o desempenho geral do seu sistema. Escolha um computador com pelo menos 512 megabytes ou 1 gibabyte de memória RAM. 
+n 4º Passo: Escolha o disco rígido com a maior capacidade, dentro do seu orçamento.
+O disco rígido é o principal dispositivo de armazenamento de dados do PC. Pense nele como um armário grande para guardar todos os seus programas e dados pessoais como arquivos de textos e fotos digitais. Uma dica é escolher um disco rígido com, pelo menos, 100 gigabytes. 
+n 5º Passo: Escolha uma janela para o mundo.
+Há vários modelos e formas de monitor e o que vai contar é o uso que terá o computador. Quem trabalha com edição, jogos de videogame, provavelmente vai preferir monitores maiores, mas quem vai usar no dia-a-dia, um de 15 polegadas é o suficiente. O usuário também pode escolher entre o monitor comum e  o LCD, que ocupa menos espaço, cujos preços têm caído ultimamente.
+
+Internet vence televisão
+
+Até bem pouco tempo atrás, era comum as mães reclamarem que os filhos não saíam da frente da televisão, já que a TV sempre despontou entre os aparelhos tecnológicos mais atraentes.
+Mesmo com a popularidade em alta até os dias de hoje, a televisão disputa sua liderança com o computador. É cada vez mais frequente encontrar jovens que trocam programas televisivos pelos conteúdos on-line.
+Um levantamento realizado em 11 países pelo Ofcom, um órgão de fiscalização das telecomunicações do Reino Unido, revelou que, em média, um terço dos consumidores com acesso rápido à internet vêem menos televisão desde que começaram a navegar pela web.
+Entre as principais atividades, os jovens têm utilizado seus computadores para assistir a programas de TV, se comunicar por mensagens instantâneas e por blogs, participar de sites de redes sociais, como MSN e Orkut.
+E com o aumento crescente de oferta de conteúdos on-line, os usuários têm a chance de escolher o que irão assitir, ao contrário da televisão, pelo menos a aberta.
+Segundo o estudo, Holanda, Suécia e Japão têm os mais altos índices de penetração da banda larga entre suas populações: 58%, 45% e 44%, respectivamente. 
+A China sai na frente do mundo todo em incidência de pessoas que assistem a clipes de música e a programas de televisão por meio de acesso rápido à web.
+Os resultados da pesquisa mostram que 76% dos usuários de banda larga na China vêem videoclipes via download e que 70% assistem à televisão por banda larga.  <br><br><hr>
+Data da Publicação: 04/12/2006 - Pagina: 14 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,37 @@
+Mapa de ameaças
+<b> Pesquisa fornece um exame
+histórico dos locais onde as
+páginas de phishing e crimeware
+estão hospedadas na internet </b><br>
+ <br>
+A Websense anunciou o lançamento do “Mapa Global Interativo de Ameaças de Phishing e Crimeware”. O mapa expõe as informações mais recentes coletadas pela empresa e fornece um exame histórico dos locais onde as páginas de phishing e crimeware (software criminoso) estão hospedadas na internet. 
+Pelos dados já coletados, o avanço das atividades fraudulentas tem ganhado força em países emergentes, como a República da Coréia e China, onde foi detectado um aumento significativo do número de páginas de phishing e crimeware. Os Estados Unidos, no entanto, continuam a ser o principal país de origem das atividades criminosas na internet.
+Para se ter uma idéia, o mapa mostra que, na última semana, a China foi responsável por cerca de 6% dos ataques de phishing e crimeware, enquanto os Estados Unidos responderam por 43,2% do total. O Brasil, que está num patamar medianamente alto (nível amarelo), ficou com cerca de 2,9% dos ataques. 
+O mapa também permite que os visitantes localizem os ataques num mapa-mundi interativo. Assim que descoberta, a página é procurada pelo seu endereço IP, o que possibilita indicar seu país de origem.
+Os dados são atualizados aproximadamente 15 minutos após a descoberta e os usuários podem procurar as ameaças em todo o globo, por região geográfica, data e tipos de ameaça. 
+A Websense passou também a publicar um blog de segurança, amparado por alertas da empresa, e que serve de fonte adicional de notícias sobre pesquisa de quebra de segurança. A empresa considera que, juntos, o mapa e o blog proporcionam conhecimento da evolução e do avanço do crime eletrônico. 
+Especializada em procurar e analisar códigos móveis maliciosos (MMC) e invasões em páginas web, a Websense informa que analisa mais de 70 milhões de páginas diariamente. A equipe gerencia uma rede de computadores sem proteção e as conclusões são usadas para o estudo de novas técnicas, ações e comportamento num sistema de rede corporativa.
+O “Mapa de Ameaças” está disponível no endereço www.websensesecuritylabs.com/charts/threatmap.php e também pode ser acessado no site do APWG (Anti-Phishing Working Group), grupo voltado ao combate do phishing scam.
+
+Golpistas invadem Orkut
+
+Numa legião de milhões de pessoas em todo o mundo que se renderam às maravilhas do mundo virtual, difícil é encontrar alguém que não participe do Orkut, uma das redes de relacionamentos mais populares da atualidade.
+Mas, em meio a tantas emoções e facilidades de comunicação que essa modernidade oferece aos internautas, os cuidados também devem ser redobrados. A popularidade do Orkut no Brasil estimulou golpistas a desenvolverem armadilhas para seus usuários.
+Falsas notificações de scraps (recados) do Orkut têm circulado nos últimos dias pela internet. Os ataques podem acontecer de duas maneiras: um seria por e-mail e outro dentro da própria rede.
+Por e-mail, as notificações são cópias maliciosas das mensagens originais, enviadas pelo Orkut quando um usuário do site deixa um scrap para outro amigo. 
+No entanto, os links das mensagens fraudulentas detectadas sobre esse golpe levavam a endereços que não pertencem ao Orkut e, provavelmente, apontavam para cavalos-de-tróia. 
+O outro golpe seria um vírus que gera um scrap no scrapbook dos amigos da vítima infectada. Esse recado que foi gerado possui um link que, se for acessado, baixa um vírus na máquina.
+“Normalmente, as vítimas não percebem que é um vírus porque veio de uma pessoa confiável, mas devemos sempre nos preocupar antes de baixar arquivos com extensões .exe”, orienta o consultor em Tecnologia da ITNet, empresa capixaba que atua no ramo de Segurança da Informação, Ricardo Biccas.
+Lentidão repentina do computador, programas rodando sem a permissão do usuário, arquivos estranhos no micro são alguns sinais que devem ser observados. “Além disso, é fundamental passar o antivírus atualizado para saber se realmente existe vírus ou não”, alerta o especialista.
+
+Proteção contra vulnerabilidades e vírus do Internet Explorer
+
+Os usuários do antivírus premiado NOD32, distribuído pela Office Media (www.officemedia.com.br) ganham mais uma arma para combater as invasões no computador. A Protagon Data Security / Eset Software Brasil, que produz o programa, anunciou que o antivírus está protegendo os usuários contra recentes vulnerabilidades anunciadas no popular browser Internet Explorer (IE), da Microsoft. 
+Enquanto a Microsoft está desenvolvendo um patch para corrigir estas vulnerabilidades, o NOD32 Antivírus permite que os usuários naveguem de forma segura pela internet sem se tornar uma vítima destas vulnerabilidades.
+Os usuários de computadores que não são protegidos pelo antivírus podem, potencialmente, ter seus PC’s propensos à ação de hackers simplesmente ao visitarem um site contaminado.
+Computadores comprometidos são freqüentemente convidados a participar de atividades on-line ilegais, incluindo envio de e-mails como spam e phishing e a hospedagem de materiais (páginas pornográficas de crianças).
+Vítimas dos computadores atacados podem perder dados e informações pessoais, conduzindo ao roubo de identidade. 
+O Eset NOD32 identificou de maneira pró-ativa múltiplos ataques contra esta vulnerabilidade heurísticamante, e os identificou com o nome de “JS/Exploit.CVE-2006-1359 trojan” desde a versão de 1.1457 vacinas contra vírus.
+O antivírus pode ser encontrado nas lojas por R$ 94,90 (Edição 2006 Individual) e R$ 139,90 (Edição 2006 Profissional). Já o upgrade – para quem já tem outras edições do NOD32 ou outro antivírus instalado – custa R$ 69,90. Mais informações em www.officemedia.com.br. <br><br><hr>
+Data da Publicação: 17/04/2006 - Pagina: 14 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,9 @@
+Programa de planilhas do Google
+<b>  </b><br>
+ <br>
+O Google acaba de lançar um programa gratuito de planilhas baseado na web, aumentando a competição com a Microsoft e invadindo a área de softwares de produtividade.
+Batizado de Google Spreadsheets, o aplicativo on-line vai importar e exportar arquivos no formato .xls, usado pelo Microsoft Excel. Por meio de um navegador, usuários em locais remotos poderão vizualizar e editar dados de um arquivo simultaneamente. A plataforma do software é neutra, o que significa que ele pode ser acessado pelos browsers Firefox, Internet Explorer ou Safari.
+O Google aceitará um número limitados de testadores beta do programa, que podem se cadastrar pela internet, no site www.google.com/googlespreadsheets/try_out.html.
+A Ajax13 também oferece um beta gratuito de software com a mesma função na rede, chamado ajaxXLS e, até agora, foi a empresa que chegou mais perto de ter uma linha completa de aplicativos que desafiam o Microsoft Office. <br><br><hr>
+Data da Publicação: 12/06/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

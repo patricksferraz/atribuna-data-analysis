@@ -1,0 +1,18 @@
+Pesquisa de remédios mais rápida
+<b> Banco de dados que cruza
+informações sobre ação de 
+droga e moléculas envolvidas 
+em doenças tem sucesso em teste  </b><br>
+ <br>
+Cientistas nos Estados Unidos acabam de dar uma resposta a quem achava que o sequenciamento do genoma humano não trouxe benefícios práticos. 
+Um banco de dados criado pela Universidade Harvard e do Instituto de Tecnologia de Massachusetts (MIT) demonstrou que se pode turbinar a velocidade da pesquisa de novos medicamentos.
+A nova ferramenta, que por enquanto funciona apenas com parte de seu potencial, é uma grande malha que mostra em detalhe as relações entre diversos tipos de drogas e variadas doenças. 
+Batizado de “Mapa da Conectividade”, o novo recurso foi todo feito com base no genoma e estará disponível de graça para qualquer cientista. 
+“Criamos um site com uma pequena caixa de busca, como o Google, mas onde você digita nomes de um grupo de genes”, disse o geneticista Justin Lamb, do Instituto Broad (um consórcio entre Harvard e MIT), um dos criadores da ferramenta. 
+“Apertando o botão, aparece uma lista de drogas numa ordem de prioridade, pela qual você pode navegar e comparar com suas hipóteses.” 
+A idéia é simples, mas o fato de o banco de dados ser grande e estruturado de modo sistemático faz uma diferença brutal. Por enquanto, o site inclui dados sobre 164 drogas (a meta inicial é ampliar para 1,4 mil), mas foram incluídos dados genéticos de um número bem menor de doenças, só o bastante para avaliar o método.
+Na opinião de cientistas, a ferramenta pode adiantar em alguns anos a descoberta de tratamentos. Entre entender como uma doença afeta as células e descobrir uma proteína relacionada a ela – um defeito na proteína p53, por exemplo, pode causar câncer – é um processo longo.
+Depois, ainda é preciso fazer enormes triagens para achar drogas que afetem a proteína em questão. 
+“Criamos um atalho que pode cortar a etapa central: podemos relacionar a doença diretamente à atividade da droga”, diz Lamb, que detalha o método em estudo na edição de hoje da revista Science (www.sciencemag.org). <br><br><hr>
+Data da Publicação: 29/09/2006 - Pagina: 45 <br>
+Editoria: Ciência e Tecnologia <br><br>

@@ -1,0 +1,10 @@
+Espiões estão por toda parte
+<b>  </b><br>
+ <br>
+De acordo com o estudo State of Spyware realizado pela empresa Webroot, praticamente nove em cada dez máquinas em todo o mundo têm algum spyware, ou software espião. O informe se baseou em dados estatísticos e análise de mais de um milhão de computadores de usuários domésticos e 35 mil máquinas corporativas. 
+Exatos 88% dos computadores analisados apresentaram diversas formas de spyware. De acordo com a Webroot, um PC contém em média 18 cookies e sete pequenas aplicações publicitárias (adware), de monitoramento de sistema, de detecção de senhas e trojans. 
+De todos os spywares detectados no estudo da Webroot, o mais agressivo é o Cool Web Search, do qual foram encontradas sete variantes diferentes. Ele aparece em 8% das máquinas analisadas. Outros programas espiões de grande propagação são o Gator, 180Search e Powerscan. 
+O estudo analisou ainda 4,25 mil sites que contêm, no total, 89,8 mil páginas desenhadas para infectar os computadores visitantes com softwares espiões.
+A Webroot diz que os crimes cibernéticos devem aumentar fortemente este ano, e que os programas espiões e os trojans serão as ferramentas mais usadas por crackers mal-intencionados. As informações são do DiarioTI.com.  <br><br><hr>
+Data da Publicação: 21/11/2005 - Pagina: 12 <br>
+Editoria: Informática <br><br>

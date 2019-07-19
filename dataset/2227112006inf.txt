@@ -1,0 +1,32 @@
+Prepare-se para o Windows Vista
+<b> Novo sistema operacional da
+Microsoft traz uma série de 
+novidades e inovações, voltados
+principalmente para multimídia </b><br>
+Karine Nobre <br>
+Quase cinco anos depois do lançamento do Windows XP, a Microsoft finalmente anuncia o lançamento da nova versão de seu sistema operacional, o Windows Vista. Na próxima quinta-feira, o Vista será lançado para usuários de licença de volume, mas apenas em 30 de janeiro de 2007 é que será feito o seu lançamento mundial.
+De acordo com a Microsoft, o Windows Vista tem centenas de novas funções, a começar pelo novo layout. O Vista traz uma série de inovações, principalmente no campo multimidia, como o Windows DVD Maker.
+Outra das novidades promete aumentar o nível de comunicação entre máquinas em uma rede doméstica usando a tecnologia peer-to-peer, facilitando o compartilhamento de arquivos e mídia digital entre computadores e dispositivos. 
+Sobre a compatibilidade dos computadores com o novo sistema operacional, a Microsoft dividiu em duas categorias: Vista Capable e Vista Premium Ready.
+Um PC considerado Vista Capable precisa ter no mínimo um processador de 800 MHz, 512 MB de RAM e uma placa gráfica de classe DirectX 9, e não será capaz de suportar os gráficos “high end” do Vista, incluindo a interface do usuário Aero. 
+Já os computadores considerados Vista Premium Ready, para poderem usufruir desses recursos precisam de, no mínimo, um processador de 1 GHz, 1 GB de memória RAM, e uma placa gráfica Aero-compatível com no mínimo 128 de memória gráfica e suportando o novo Windows Display Driver Model.
+Quem planeja apenas fazer uma atualização, é preciso ficar atento. A opção pode ser mais em conta, entretanto, há alguns limites, quando comparado ao usuário que planeja comprar o Vista.
+Por exemplo, se o seu atual sistema operecional for o Windows 2000 ou Windows XP Pro x64, não será possível fazer a atualização para o Vista, necessitando instalá-lo do zero. 
+Já os usuários do Windows XP Home Edition podem atualizar para qualquer versão do Vista. Entretanto, as outras três versões – XP Pro, XP Media Center e XP Tablet PC – só podem ser atualizadas para algumas versões do Vista.
+
+Novidades
+n Desktop com Sidebar – Essa barra lateral na área de trabalho do Windows reune diversas funções, como leitor de RSS, visualizador de fotos e relógio.
+n Windows Media Center – A nova versão do Media Center, presente nas versões mais avançadas do Vista, mantém a interface limpa e traz melhorias na gravação de conteúdo de TV e compartilhamento de conteúdo multimídia.
+n Álbuns no Photo Galery – O novo Photo Galery também facilita o acesso do usuário a funções como gravação de um CD ou publicação dos arquivos em um blog, por exemplo. A criação de álbuns se tornou mais fácil com o novo sistema de qualidade, que usa estrelas para classificação.
+n Windows Photo Galery – Além de permitir a visualização rápida de imagens, que apresenta novo sistema para gerenciar os arquivos espalhados pelo PC do usuário e sistema de filtragem por tags.
+n Preview do IE7 – O novo navegador da Microsoft vai oferecer pequenas visualizações de todas as páginas abertas no PC, além das funções já conhecidas, como navegação por abas e sistema antiphishing.
+
+n Controle da internet – O Parental Control também permite o bloqueio de programas específicos, a estipulação de horários livres para navegação ou o bloqueio de determinadas páginas on-line.
+n Efeitos 3D do Vista – Alardeados como principal atração da versão Aero do Windows Vista, os recursos gráficos do novo sistema incluem a visualização em 3D das janelas abertas e efeitos estéticos.
+n Windows Movie Maker – Além de uma interface mais limpa, vai permitir uma integração com o Windows Photo Gallery e facilitar o processo de criação de DVDs com novos efeitos.
+n Windows Media Player 11 – Além de colocar à disposição do usuário o serviço de vendas de músicas Urge, também traz uma interface mais intuitiva, com representação das capas dos álbuns.
+n Reprodução Windows Media Player 11 – O aplicativo também ganha novo sistema de navegação, interação maior do usuário com os arquivos e sincronização de canções com tocadores digitais.
+
+n Controle dos pais – Voltada a pais preocupados com o acesso dos filhos a conteúdo impróprio, a função Parental Control oferece comandos que podem, inclusive “censurar” determinados jogos no Vista. <br><br><hr>
+Data da Publicação: 27/11/2006 - Pagina: 22 <br>
+Editoria: Informática <br><br>

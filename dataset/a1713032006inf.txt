@@ -1,0 +1,10 @@
+Segurança digital
+<b>  </b><br>
+ <br>
+Programas espiões com atualização automática ou que se auto-apagam estão assombrando o mundo virtual das instituições financeiras, de comércio eletrônico e até pessoas físicas.
+Perícias digitais realizadas pelo Instituto de Peritos em Tecnologias Digitais e Comunicações (IPDI) revelaram que, no ano passado, os prejuízos com fraudes virtuais atingiram R$ 300 milhões, alta de 20% em relação a 2004.
+Nos últimos anos, o ponto de partida para os ataques era a disseminação de milhões de spams, mas as máquinas contaminadas ficavam ativas por pouco tempo graças à ação dos anti-spywares, gerando um problema para o fraudador.
+Seguindo as dicas do consultor em Tecnologia da ItNet, empresa de Segurança da Informação, Ricardo Biccas, é possível detectar alguns sinais desses espiões virtuais.
+Primeiramente é necessário verificar se o computador vê anúncios publicitários mesmo quando não está na web. Outra dica é observar se a máquina está demorando mais do que o normal para executar suas tarefas ou se bloqueia muito mais vezes do que o habitual.  <br><br><hr>
+Data da Publicação: 13/03/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

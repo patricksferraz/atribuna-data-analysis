@@ -1,0 +1,6 @@
+Vírus atinge o MSN Messenger  
+<b>  </b><br>
+ <br>
+Um novo worm ataca quem usa o programa de mensagens instantâneas da Microsoft, o MSN Messenger. O Jitux.A vem na forma de uma mensagem instantânea convidando o usuário a clicar em um endereço web. Acessando a URL, o arquivo jituxramon.- exe é instalado, se torna residente no sistema e envia a mesma mensagem recebida para toda a lista de contatos do usuário. O worm não tem outros efeitos destrutivos aparentes, nem causa mudanças à configuração do sistema, de acordo com a Panda Software. A empresa foi uma das primeiras a detectar o worm, que começou a se espalhar rapidamente na último dia 2, a partir de Portugal, Espanha e México. O código malicioso está compilado em Visual Basic e roda nos Windows 95, 98, ME, NT, 2000 e XP. Vários desenvolvedores de antivírus, incluindo a Network Associates e a Symantec, atualizaram seus produtos e recomendam aos usuários que façam o download do pacote de definições de vírus.   <br><br><hr>
+Data da Publicação: 12/01/2004 - Pagina: 2 <br>
+Editoria: Informática <br><br>

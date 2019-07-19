@@ -1,0 +1,15 @@
+Ameaças natalinas
+<b> Aproveitando a época de festas,
+criminosos digitais investem no
+phishing, fraude que visa o roubo
+da identidade do internauta </b><br>
+ <br>
+Quando o assunto são pragas virtuais todo cuidado é pouco. Parece que os criminosos digitais são imunes ao espírito natalino, aproveitando essa época do ano para aumentar as estatísticas de phishing. Por isso, é mais do que necessário cuidados especiais nas operações financeiras pela web, como compras on-line.
+A Internet Security Systems (ISS), líder mundial em soluções de proteção da informação, lançou um alerta na web para o crescimento do phishing, fraude que visa o roubo da identidade do internauta, e o furto de dados no período do aumento das compras on-line neste final de ano.
+A empresa também destaca a necessidade de cuidados especiais com notebooks e PDAs nas viagens. Uma das táticas usadas pelos hackers tem sido o envio de e-mails imitando as confirmações das compras on-line.
+A ISS avisa aos seus clientes e usuários que, pelo procedimento correto, as lojas enviam o e-mail de confirmação minutos após a compra ser efetuada. Esta mensagem sempre contém o mesmo número de identificação da página de aprovação da venda.
+A dica é checar os códigos para verificar a legitimidade do e-mail. Além disso, a empresa orienta para que os internautas atualizem seus sistemas, incluindo Intrusion Prevention System (IPS), antivírus, firewall e filtro anti-spam.
+Outro alerta é para o fato de os usuários terem cuidado especial com as viagens de final de ano. A perda ou roubo de equipamentos, como notebooks e PDAs pode fornecer dados para hackers acessarem os dados individuais ou corporativos dos usuários.
+Para mais informações acesse o site www.iss.net e conheça as últimas vulnerabilidades divulgadas. <br><br><hr>
+Data da Publicação: 19/12/2005 - Pagina: 19 <br>
+Editoria: Informática <br><br>

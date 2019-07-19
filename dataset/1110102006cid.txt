@@ -1,0 +1,71 @@
+Pesquisa reprova rodovias no Estado
+<b> A Confederação 
+Nacional dos
+Transportes avaliou
+condições das
+estradas no período
+de junho a agosto </b><br>
+ <br>
+Nenhuma rodovia que corta o Espírito Santo foi aprovada por uma pesquisa realizada pela Confederação Nacional dos Transportes (CNT). Os dados regionais, das análises feitas entre os dias 28 de junho e 5 de agosto, foram divulgados ontem.
+Apesar de reconhecer que o asfalto está totalmente perfeito em 80,2% dos casos e que a visibilidade das placas de sinalização é boa em 84,2% dos trechos, a CNT classificou, em seu estado geral, as rodovias estaduais e federais como regular, ruim ou péssima. Entre os principais problemas estão o traçado da via e a falta de uma terceira faixa em terreno ondulado e montanhoso.
+A assessoria de comunicação da Secretaria de Desenvolvimento de Infra-Estrutura e dos Transportes (Sedit) contestou a pesquisa e afirmou que as recuperações feitas em vários pontos não foram consideradas.
+A assessoria cita que, no período da pesquisa, a rodovia ES-381, que liga São Mateus a Nova Venécia, já estava em ótimo estado, pois as obras, com instalação de baias para ônibus, sinalização e novo pavimento, estavam concluídas. O mesmo teria acontecido com a ES-375, que liga Iconha a Vargem Alta – o serviço de pavimentação estava pronto em 40% da extensão da via. 
+O superintendente regional do Departamento Nacional de Infra-Estrutura e Transportes (Dnit), Élio Bahia, também afirmou que as rodovias federais no Estado estão em boas condições.
+“Existe sim uma deficiência na sinalização, que vai ser suprida até o final do ano. O único ponto em que a análise é ruim é a geometria das rodovias, isto é, o traçado. Já fizemos obras em alguns pontos críticos, mas isso é algo que só podemos resolver a longo prazo”, disse Bahia.
+
+Dados
+
+Estado Geral dos trechos avaliados (%)
+Ótimo	3,1
+Bom	14,8
+Regular	44,4
+Ruim	20,3
+Péssimo	17,4
+
+Pavimento (%)
+Ótimo	48,9
+Bom	0,2
+Regular	41,7
+Ruim	5,7
+Péssimo	3,5
+
+Geometria da Via (%)
+Ótimo	2,8
+Bom	5,8
+Regular	20,4
+Ruim	30,4
+Péssimo	40,5
+
+Sinalização (%)
+Ótimo	8,3
+Bom	15,8
+Regular	41,4
+Ruim	21
+Péssimo	13,5
+
+Avaliação Geral das Estradas
+
+Rodovia	Estado Geral	Pavimento	Sinalização	Geometria
+BR-101	Regular         	Ótimo	Regular	Regular
+BR-259	Ruim             	Regular	Ruim	Péssimo
+BR-262	Regular            	Ótimo	Regular	Regular
+BR-482	Ruim             	Regular	Péssimo	Péssimo
+BR-484	Regular            	Ótimo	Regular	Ruim
+ES-010	Regular           	Regular	Regular	Regular
+ES-060	Regular          	Bom	Bom	Regular
+ES-080	Péssimo        	Regular	Péssimo	Péssimo
+ES-137	Ruim             	Regular	Regular	Péssimo
+ES-137/BR-381Regular  	Ótimo	Regular	Regular
+ES-164        Péssimo       	Péssimo	Péssimo	Péssimo
+ES-245/BR-101Regular  	Regular	Regular	Ruim
+ES-257	Regular          	Regular	Regular	Ruim
+ES-261	Ruim             	Regular	Bom	Péssimo
+ES-355	Péssimo         	Ruim	Ruim	Péssimo
+ES-375/BR-101Regular  	Ótimo	Bom	Ruim
+ES-381/BR-381Ruim       	Regular	Regular	Péssimo
+ES-446	Péssimo        	Péssimo	Péssimo	Péssimo
+ES-484/BR-484Péssimo 	Regular	Péssimo	Péssimo
+ES-490	Regular           	Ótimo	Regular	Ruim
+Fonte: Confederação Nacional do Transporte <br><br><hr>
+Data da Publicação: 10/10/2006 - Pagina: 11 <br>
+Editoria: Cidades <br><br>

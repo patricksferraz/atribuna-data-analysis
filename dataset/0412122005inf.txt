@@ -1,0 +1,16 @@
+Computador na sola
+<b> Com tecnologia ainda mais
+avançada, nova geração do
+primeiro tênis inteligente garante
+153% mais agilidade para o corredor </b><br>
+ <br>
+A adidas acaba de lançar no dia 30 de novembro o novo modelo do tênis de corrida inteligente, o adidas 1.1. Com tecnologia ainda mais avançada que o primeiro, o tênis promete revolucionar o mercado de calçados para o esporte. O inédito sistema computadorizado presente no solado faz com que ele ajuste o amortecimento após os quatro primeiros passos do atleta.
+Para isso, ele leva em consideração algumas variáveis, como peso do corredor, tipo de piso (macio ou duro), inclinação do terreno e velocidade. Essa adaptação contínua do amortecimento proporciona um nível perfeito de conforto e amortecimento a todo instante.
+O adidas 1.1 possui um sensor magnético na altura abaixo do calcanhar que mede a compressão a cada passo dado. Seu microprocessador analisa os dados recebidos do sensor, já que é pré-programado com algarítimos que o fazem entender as leituras do sensor e determinar se o atleta está tendo um amortecimento correto.
+Uma vez que o motor recebe as instruções do computador, ele age imediatamente, abrindo ou fechando um elemento ligado a um cabo, que vai para a unidade de amortecimento localizada no calcanhar.
+A posição do elemento de limitação controla as propriedades físicas do amortecimento do tênis, sendo que o nível de amortecimento é calibrado pelo microprocessador. O resultado é percebido no substancial conforto para o atleta em qualquer tipo de terreno, velocidade e nível de condicionamento.
+Um destaque do motor computadorizado que fica abaixo do peito do pé é a garantia de 153% a mais de agilidade. O novo tênis inteligente agora está apto a entender e adaptar ainda mais rápido, de acordo com as necessidades individuais do atleta, garantindo uma corrida leve e sem interrupções.
+Outra novidade é que agora o tênis inteligente também vem em novas versões de cores, além do tradicional branco e dourado, como azul e prata e preto com vermelho. 
+O preço médio do calçado é de R$ 1.200,00. <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 04 <br>
+Editoria: Informática <br><br>

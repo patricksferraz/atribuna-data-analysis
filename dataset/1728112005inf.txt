@@ -1,0 +1,16 @@
+Plano B contra pragas
+<b> Empresas investem cada
+vez mais em planos de
+emergência para se proteger
+em situações de crise  </b><br>
+ <br>
+Não são só as pragas virtuais, vírus e spys que povoam os pesadelos das empresas. Na onda de tsunamis, furacões Katrina e Vilma, além de outros fenômenos naturais que surpreendem com seus estragos, os Planos de Contingência de Negócios (PCN) são esquemas essenciais que devem ser montados para prevenir estas catástrofes, definir atitudes a serem tomadas durante momentos de crise e guiar processos de recuperaão pós-desastre.
+E não só de desastres de tamanha proporção vivem os PCN. Os planos também devem estar preparados para administrar incêndios, greves, enchentes, apagões, etc.
+Segundo o diretor técnico da ISH Tecnologia, Renato Jager, a velha relação custo versus benefício deve ser avaliada durante a implementação de um plano de contingência.
+“O plano é uma espécie de seguro. Antes de sua implementação é fundamental que cada organização estude quais são os recursos e serviços cruciais para a manutenção de sua atividade, porque tudo tem um custo”, explica Jager.
+De acordo com o especialista em Segurança da Informação, um Plano de Contingência bem elaborado vai muito além da manutenção de backups dos bancos de dados.
+“Algumas empresas chegam até mesmo a manter espaços alugados para transferência da sede em caso de catástrofes. Também é preciso garantir a comunicação interna e propiciar meios para manter a comunicação externa em caso de uma situação que impossibilite a entrada na empresa”, revela.
+Outro ponto importante que ele aponta é a delegação de responsabilidades e o treinamento da equipe. “De nada adianta manter toda estrutura de contingência se os empregados não estiverem devidamente treinados e atualizados para agir em situações de crise”, explica Jager.
+Sobre o backup, ele ainda lembra que não é seguro manter cópias dos arquivos se os lugares não forem geograficamente distantes. “Um bom plano de contingência mantém arquivos de segurança em pelo menos dois lugares diferentes, e distantes um do outro, claro”, ensina. <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 17 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,11 @@
+Gestão de cálculos matemáticos
+<b> Novo software faz cálculos avançados em
+diversas áreas, além de avaliar riscos </b><br>
+ <br>
+Ferramenta completa para gestão de cálculos matemáticos, a nova versão do MathCad, da americana Mathsoft, está sendo distribuída no Brasil pela Anacom, tradicional distribuidora de soluções para desenvolvimento de projetos eletrônicos. A solução ganhou recursos para depuração de projetos e aprimorou ferramentas para criar e gerir informações.
+De acordo com Robert Stefehn, gerente de produto da Unidade de Negócios LabSis da Anacom, o MathCad é uma espécie de Gerenciamento Eletrônico de Documentos (GED) avançado da matemática e conta com funcionalidades para gerir cálculos em diversas áreas, desde o processamento de imagens, na medicina e aeronáutica, até o desenvolvimento de modelos para avaliar riscos na concessão de crédito, em instituições financeiras.
+Para se ter uma idéia, os recursos de processamento de imagens permitem realizar estudos da mecânica do corpo humano para desenhar próteses para pessoas com deficiência física. 
+O MathCad permite fazer estudos e projeções com altos níveis de aprimoramento, já que provê total controle da evolução dos cálculos, sendo um recurso estratégico para alavancar a produtividade.
+Neste sentido, armazena o histórico do desenvolvimento e funciona como um workflow poderoso da etapa de criação, que permite o compartilhamento e ainda reduz erros de cálculo.  <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

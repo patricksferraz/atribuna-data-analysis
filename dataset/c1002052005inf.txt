@@ -1,0 +1,21 @@
+Caveira no celular
+<b>  </b><br>
+A tribuna <br>
+A Trend Micro, líder no mercado de antivírus corporativo e segurança de conteúdo, detectou mais uma praga para celulares. Trata-se do Symbos_Skulls.I, que pode infectar os aparelhos da série 60, que são oferecidos por diversos fabricantes, como LG Electronics, Lenovo, Nokia, Panasonic, Samsung, Sendo, e Siemens que utilizam o sistema operacional Symbian.
+Entretanto, o principal alvo do Symbos_Skulls.I é o modelo 7610 da Nokia, já que o arquivo vem disfarçado de assunto de interesse para este aparelho especificamente. O Symbos_Skulss.I desabilita aplicações do telefone e muda cada ícone da aplicação para a figura de uma caveira. 
+Uma vez que o file .SIS é instalado, o vírus extrai diversos arquivos do drive C e E do telefone, o que causa o mau funcionamento de diversas aplicações do aparelho. É importante ressaltar que esses arquivos contém nomes legítimos de aplicações contidas nesses telefones, usualmente localizadas no Rom drive e que podem vir a confudir o usuário. 
+Os usuários podem se prevenir de ser infectados pelo Symbos_Skulls.I através da solução TMMS (Trend Micro Mobile Security), antivírus e anti-spam para telefones móveis e PDAs data-centric, que está sendo oferecido aos clientes da empresa sem custo nenhum até junho de 2005, através do site www.trendmicro.com/mobilesecurity.
+
+Vulneráveis
+Nokia 7650 
+Nokia 7610 
+Nokia 6620 
+Nokia 6600 
+Nokia 3650, 3600 
+Nokia 3660, 3620 
+Nokia N-Gage 
+Panasonic X700 
+Siemens SX1 
+Sendo X  <br><br><hr>
+Data da Publicação: 02/05/2005 - Pagina: 10 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,20 @@
+O correio eletrônico
+<b> Aprenda truques e macetes
+para entender o funcionamento
+e otimizar a utilização
+das mensagens pela internet </b><br>
+Alessandra Tonini/Marília Linhalis <br>
+
+Você sabia que, diariamente, cerca de 84 bilhões de e-mails passam pela internet? Mas o que provavelmente pouca gente sabe é que a maioria dessas correspondências eletrônicas são enviadas por um programa embutido no Windows, o Outlook, que tem cerca de 400 milhões de usuários e equipa mais de 90% dos computadores pessoais do mundo.
+Bastante utilizado nos tempos que não existiam webmails gratuitos, o Outlook Express ganhou novas versões e sistemas que interagem cada vez mais com seus usuários.
+Além de se associar com outros webmails, possibilitando o recebimento de mensagens de provedores em seu próprio sistema, o Outlook também pode ser utilizado para personalizar e organizar as mensagens enviadas.
+Com recursos de criação de papel de carta, cartão de visita, anexo de músicas e fotos, esse programia pode otimizar e facilitar a vida de todos os usuários do Windows. Por isso, é importante conhecer os principais mecanismos e “botõezinhos” do poderoso Outlook. 
+Mas, para isso é preciso aprender a manusear e dar umas boas “futucadas” no seu computador. Assim, será fácil aprender os truques e macetes que esse software tem a oferecer. 
+Para saber aonde estão localizadas algumas funções do Outlook é importante passar o cursor do mouse em cima dos ícones, como “Arquivo”, “Editar” e “Ferramentas”, que ficam na parte superior da tela do programa. Dessa forma, você irá visualizar pequenas legendas que indicam as funções de cada ícone.
+Outro modo de conhecer as funções do programa é clicando em cima de algumas mensagens, contatos ou pastas com o botão direito do mouse para ver os atalhos que cada ícone ou link oferece.
+O próximo passo para utilizar o Outlook é a configuração da conta de e-mail. Para isso, vá até a opção “Ferramentas” e selecione “Contas”. Clique em “Adicionar” e depois em “Correio”.
+Crie uma denominação para a conta. Dê um nome ao seu e-mail e, na tela seguinte, insira os servidores POP3 (mensagens recebidas) e SMTP (mensagens enviadas). Se ainda estiver confuso, não se preocupe, esses dados são fornecidos pelo seu provedor e geralmente tem estruturas como: pop.nome.com.br.
+Depois disso, insira o nome e senha do usuário e depois clique em “Concluir” para finalizar o processo de criação de conta.
+Nas páginas a seguir você irá conferir um passo-a-passo mostrando como enviar mensagens, anexar fotos e músicas e, ainda, como criar um papel de carta para o seu e-mail. Confira! <br><br><hr>
+Data da Publicação: 25/09/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

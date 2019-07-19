@@ -1,0 +1,25 @@
+Falha de segurança
+<b> Hackers aproveitam-se de 
+problemas de segurança do
+Firefox 2 e Internet Explorer 7 para
+roubar senhas e dados de usuários </b><br>
+ <br>
+O Internet Explorer 7 da Microsoft e o Firefox 2 da Fundação Mozilla estão no alvo dos hackers. Desta vez, foi descoberta uma falha, apelidada de “Reverse Cross-site Request”, ou RCSR, que permite que sejam coletados nomes e senhas dos usuários através de formulários e logins falsos.
+Os dois programas dão ao usuário a opção de salvar seus dados para serem usados posteriormente, como login e senha de e-mail.
+O RCSR permite o uso desses dados salvos para preencher automaticamente os formulários falsos, enviando-os para um hacker.
+No caso do Internet Explorer 7, este não preenche automaticamente os campos, a menos que o RCSR apareça na mesma página que o formulário autêntico. 
+Mas no Firefox 2, o problema parece ser mais grave, já que o Gerenciador de Senhas preencherá qualquer senha salva e seu nome de usuário nos formulários. 
+O internauta deve ficar atento aos sites em que navega, já que o RCSR tem sido explorado na comunidade virtual MySpace.com e pode ser reproduzido também em blogs ou fóruns que permitam o preenchimento de códigos HTML. 
+“Usuários tanto do Firefox quanto do Internet Explorer precisam estar cientes de que suas informações podem ser roubadas desta forma quando visitarem blogs e fóruns em endereços confiáveis”, explica o especialista em segurança, Robert Chapin. 
+A firma de segurança Netcraft, que descobriu a exploração da falha no MySpace, informou que a página falsa de login estava hospedada dentro dos servidores da própria companhia.
+Uma vez hospedada dentro do servidor oficial do MySpace e sem trazer conteúdo externo, a falsa página consegue convencer o usuário a enviar os seus dados novamente, e desta vez irão parar nas mãos de um hacker.
+ATAQUES
+Tanto o Internet Explorer quanto o Firefox não fazem a verificação do destino dos dos enviados através de formulários antes do início da transferência. Os dois navegadores não notificam o perigo porque tudo está sendo feito dentro de um endereço confiável. 
+Isso pode fazer com que os ataques do RCSR sejam mais bem sucedidos que os de XSS (de Cross-site Scripting), que também utilizava-se dessa falha, cuja ameaça já havia sido identificada e controlada. 
+Para evitar que o RCSR continue fazendo mais vítimas, a Fundação Mozilla já anunciou que está trabalhando em uma solução para o problema na versão do Firefox 2, mas ainda não foi informado se as versões anteriores do navegador podem ser afetadas. 
+Já a Microsoft também foi notificada a respeito do problema, mas a companhia comunicou que já estava ciente da falha e que, por políticas internas, não poderia comentar a respeito de investigações em andamento.
+Para evitar ter seus dados roubados, é recomendado desabilitar o recurso nos dois programas que memoriza senhas e sites. No Firefox, abra a janela de configurações pessoais no menu Ferramentas dentro de Opções. Em seguida, selecione o painel Segurança e desmarque a opção Memorizar senhas de sites.
+No Internet Explorer, vá ao menu Ferramentas, clique em Opções da Internet e depois escolha a aba Conteúdo. Em Informações Pessoais, clicar o botão Autocompletar para desmarcar a opção Nomes de usuários e senhas em formulários. É recomendável, ainda, limpar o histórico de Autocomple-
+tar. <br><br><hr>
+Data da Publicação: 04/12/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

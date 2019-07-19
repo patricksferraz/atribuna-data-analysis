@@ -1,0 +1,14 @@
+Duas décadas de terror
+<b>  </b><br>
+ <br>
+No mês passado, o primeiro vírus mundial para computadores completou 20 anos. Duas décadas depois, esses elementos cibernéticos que fazem das vidas virtuais um verdadeiro inferno, se sofisticaram e tornaram-se mais complexos e devastadores.
+Criado por dois irmãos para proteger um game que haviam escrito, o vírus Brain surgiu em janeiro de 1986. Eles eram espalhados por meio de disquetes e podiam ser facilmente evitados, bastando usar o disquete apenas para leitura.
+Hoje, além dos vírus que se propagam com mais gravidade e menos controle, outros problemas se somam aos ataques que os usuários podem sofrer. Worms, cavalos de tróia e spywares são alguns que podem, de alguma forma, trazer transtornos.
+“Assim como os vírus humanos possuem níveis de gravidade diferentes, como o Ebola e o vírus da gripe, os vírus de computador variam entre levemente perturbador e totalmente destrutivo. A boa notícia é que um verdadeiro vírus não se dissemina sem ação humana. É necessário que alguém envie um arquivo ou envie um email para que ele se alastre”, explica o consultor em Tecnologia da Itnet Informática Ricardo Biccas da Silva.
+Já o Worm, uma subclasse de vírus, geralmente, se alastra sem a ação do usuário e distribui cópias completas – possivelmente modificadas – de si mesmo através das redes. Um worm pode consumir memória e largura de banda de rede, o que pode travar o computador.
+“Um worm pode enviar cópias de si mesmo a todas as pessoas que constam no catálogo de endereços de e-mail e os computadores dessas pessoas passam a fazer o mesmo, causando um efeito dominó de alto tráfego de rede que pode tornar mais lentas as redes corporativas e a internet como um todo”, ressalta Ricardo.
+Assim como o mitológico Cavalo de Tróia parecia um presente, mas na verdade escondia soldados gregos em seu interior, que tomaram a cidade lendária, os cavalos de tróia do mundo virtual são programas de computador que parecem ser úteis. Mas, na verdade, comprometem a segurança e causam muitos danos.
+“Um cavalo de tróia recente apresentava-se como um e-mail com anexos de supostas atualizações de segurança da Microsoft, mas era um vírus que tentava desativar programas antivírus e firewalls”, lembra o consultor.
+O primeiro passo para se prevenir desses ataques indesejáveis é ter um antivírus eficiente, capaz de limpar todos os programas prejudiciais que geram ataques. Uma indicação da Itnet é o Symantec antivírus corporation versão 10, que apenas em um scan consegue detectar e limpar todos os programas mal intencionados citados acima. <br><br><hr>
+Data da Publicação: 06/02/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

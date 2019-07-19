@@ -1,0 +1,8 @@
+Livros
+<b>  </b><br>
+ <br>
+Um catálogo de livros com mais de 260 mil títulos das mais variadas editoras está disponível num click. Com acesso totalmente gratuito, o Portal do Leitor  traz livros dos mais variados temas e editoras, catalogados dentro da seção Estante Virtual.
+Nela, o usuário indica o nome do título, do autor ou da editora para efetuar a busca desejada, com a possibilidade de ainda fazê-la pelo gênero, palavra-chave e ISBN (Internacional Standard Book Number) da publicação.
+Encontrado o livro, o usuário tem acesso a informações relevantes, como sinopse, número de páginas, preço de capa, além da relação de livrarias que oferece a publicação. <br><br><hr>
+Data da Publicação: 10/04/2006 - Pagina: 19 <br>
+Editoria: Informática <br><br>

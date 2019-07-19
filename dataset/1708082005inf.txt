@@ -1,0 +1,13 @@
+Linux mais potente na versão 2006
+<b> O sistema operacional possui interface mais funcional  e reflete
+a sintonia entre profissionais da Conectiva e Madrakesoft  </b><br>
+ <br>
+O novo sistema operacional apresenta mudanças em gerência de rede, segurança, desktop e na versão do kernel (uma das partes fundamentais do sistema operacional). Além de integrar tecnologias da Conectiva e da Mandrakesoft, o Mandriva Linux 2006 inclui componentes da Lycoris, distribuição Linux norte-americana, que teve ativos adquiridos pela Mandriva em junho.
+ “Com os componentes conseguimos oferecer uma interface mais funcional e bem cuidada em termos de fontes e janelas”, detalha Cavassin.
+O lançamento do beta Mandriva Linux 2006 aconteceu na última quarta. Entretanto, a fabricante brasileira Mandriva Conectiva guarda na manga a versão final do sistema, que deve ser anunciada em outubro deste ano.
+Esta é a primeira versão do sistema operacional de código-fonte aberto após a fusão da brasileira Conectiva com a francesa Mandrakesoft, em fevereiro deste ano. A última versão lançada antes da fusão foi o Conectiva Linux 10, em junho de 2004.
+“Os times de desenvolvimento no Brasil e na França estão bastante afinados e publicam atualizações semanais sobre a versão em desenvolvimento, apelidada de cooker”, conta o gerente de desenvolvimento da Conectiva. Para acompanhar a evolução do novo OS, os internautas podem acessar listas de discussão dos cookers em inglês e português.
+Segundo Wanderlei Cavassin, gerente de desenvolvimento da Mandriva Conectiva, o sistema ainda contará com suporte técnico e atualizações até junho de 2006.
+Para fazer o download da versão beta do Mandriva Linux 2006 basta acessar o endereço www.mandrivalinux.com. <br><br><hr>
+Data da Publicação: 08/08/2005 - Pagina: 17 <br>
+Editoria: Informática <br><br>

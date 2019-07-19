@@ -1,0 +1,35 @@
+Tecnologia capixaba em alta
+<b> Dois professores da Faesa
+ irão atuar em programa
+que desenvolve projetos
+ligados à área tecnológica </b><br>
+ <br>
+O professor da faculdade Faesa Rober Marcone Rosi e a empresa Interama Jogos Eletrônicos, incubada no projeto Genevix-Faesa, foram selecionados para o Programa Empresa Inovadora (Pappe), que irá financiar projetos ligados à área tecnológica. 
+Os projetos inovadores são originados de pesquisas pioneiras no Espírito Santo. A empresa incubada Interama desenvolve, há um ano,  aplicativos e jogos 3D.
+A equipe criou o “Abraham Crowds”, projeto de uma plataforma de simulação de multidões e aglomerados de pessoas, em locais fechados ou abertos, que processa em tempo real os dados e modificações de ambiente inseridas pelo usuário. 
+Para isso, os profissionais da Interama – professores e alunos do curso de extensão em Jogos 3D da instituição – utilizam tecnologia de jogos tridimensionais, inteligência artificial e estudos de psicologia de massas.
+Dessa forma, criam ferramentas indispensáveis para o planejamento de grandes empreendimentos, como em eventos, feiras, superlojas e shoppings.
+Esse software simula a movimentação de pessoas virtuais em determinados espaços, sendo excelente para prever o comportamento geral do público, em situações normais ou de emergência.
+O segundo projeto aprovado pelo Pappe é o do professor Rober Marcone Rosi, também coordenador da Unidade de Computação e Sistemas da Faesa. 
+Ele irá desenvolver, em parceria com a empresa Inflor, um sistema de Cadastro de Atendimento Cartográfico na Web, baseado em Ontologias, ou seja, a parte da Filosofia que se ocupa do ser enquanto ser, concebido na sua totalidade e na sua universalidade.
+A proposta é desenvolver uma base ontológica que registre formalmente o conhecimento produzido pela empresa na área de SIG florestal, permitindo a integração do conhecimento em um ambiente de desenvolvimento de sistemas de informação geográfica florestal.
+Esses projetos têm o prazo de 18 meses para saírem do papel e se transformarem em ferramentas para as empresas e instituições. Essa é uma iniciativa inédita no Espírito Santo, implementado pela Fundação de Apoio a Ciência e Tecnologia (Fapes) e pela Financiadora de Estudos e Projetos FINEP/MCT, que além do projeto de Rober e da Interama, selecionou outros seis projetos.
+
+
+Dicas de Photoshop e Corel
+Novas tecnologias, o futuro da informática, internet e design são alguns assuntos que serão abordados no ciclo de palestras que acontece na próxima quarta-feira, dia 9.
+Promovido pela Data Point, o evento é gratuito. Os palestrantes são profissionais que se destacam em suas áreas de atuação, como web design, design gráfico, 3D, vídeo e outras.
+O tema da palestra de quarta-feira  é “Ilustração Publicitária: Passado, Presente e Futuro” e será voltada para designers, ilustradores, publicitários e estudantes de comunicação e design. 
+Serão apresentadas as técnicas de ilustração utilizadas no passado e como as mesmas estão sendo trabalhadas atualmente com os programas Photoshop e Corel Painter. 
+Também será demonstrado o processo de pintura desenvolvido no computador e serão fornecidas informações sobre o mercado de trabalho nesta área. O palestrante é o diretor de arte da Sempre Comunicação, Charles Luppi, que atua no mercado publicitário da Grande Vitória há 20 anos.
+
+
+Saiba mais
+•Tema da palestra: Ilustração Publicitária: Passado, Presente e Futuro
+•Data: Quarta-feira, dia 9
+•Horário: 19 horas
+•Local: Data Point, rua Dr. Eurico de Aguiar, 403, Santa Lúcia, Vitória
+•Público alvo: designers, ilustradores, publicitários e estudantes de comunicação e design
+•Inscrições gratuitas: 3324- 6688 ou www.datapoint.com.br/ciclopalestras <br><br><hr>
+Data da Publicação: 07/08/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

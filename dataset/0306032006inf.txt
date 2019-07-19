@@ -1,0 +1,22 @@
+Para o bem ou para o mal
+<b> Um micro com programas
+maliciosos e conectado à web
+pode ser prejudicial para todos
+os que se comunicam com ele </b><br>
+ <br>
+Muitos usuários de computador relaxam na segurança de suas máquinas sob o argumento de que não acessam site bancários via internet, não fazem compras on-line e não guardam informações críticas no sistema.
+Este argumento, no entanto, é falacioso. Se o seu computador está conectado à web, você deve considerá-lo como integrante de uma rede, uma máquina que pode interagir com outros computadores – para o bem ou para o mal – e, se você não tomar cuidado, esta interação pode acontecer sem o seu próprio conhecimento. 
+Um computador comprometido por programas maliciosos e conectado à internet pode ser prejudicial não só para o seu dono, como para muitas outras pessoas.
+Uma das formas comuns de comprometimento de computadores domésticos, atualmente, está relacionada aos chamados bots, softwares maliciosos que formam redes de máquinas comandadas remotamente por alguém mal-intencionado. 
+A palavra bot provém de robot (robô) e se refere ao fato de que uma máquina comprometida por um desses programas pode ser controlada a distância e receber comandos de terceiros. Os computadores infectados por bots são chamados de zumbis, e as redes formadas por vários zumbis coordenados são chamadas de botnets (redes de robôs). 
+Segundo o Centro de Atendimento a Incidentes de Segurança (CAIS), que faz parte da Rede Nacional de Ensino e Pesquisa (RNP), as botnets cresceram visivelmente nos últimos anos e se tornaram o principal problema de segurança enfrentado por seus técnicos em 2004. 
+Tanto computadores domésticos quanto corporativos podem se tornar parte de uma botnet, mas os usuários domésticos têm sido alvos bastante freqüentes destes ataques, pelo simples fato de que suas máquinas normalmente não dispõem de uma segurança tão rígida.
+Quando um sistema é invadido por um bot, fica à mercê do invasor, que pode tomar várias atitudes prejudiciais ao usuário, desde acessar dados privados – como senhas –, até usar a máquina comprometida para atacar outros computadores. 
+Portanto, cuidar para que seu sistema esteja sempre livre de qualquer ameaça é essencial. Mesmo que você julgue não ter nada de importante armazenado no computador, poderá ter dores de cabeça se sua máquina for usada sem o seu conhecimento em ataques a sistemas alheios.
+De acordo com o pesquisador em segurança Christopher Boyd, do Facetime Security Labs, sediado nos Estados Unidos há guerras na internet envolvendo crackers que controlam diferentes redes de bots – também chamadas botnets. 
+Uns tentam roubar computadores da rede dos outros, ou mesmo tomar o controle de toda a rede. A maioria dos zumbis são recrutados por meio de vírus e outros programas de invasão de sistemas, chamados trojans.
+O especialista em Segurança da Informação Guillame Lovet, da equipe de resposta a ameaças na internet da empresa Fortinet diz que as estatísticas comprovam que grande parte dos vírus que circularam na rede em 2005 foram programados para recrutar bots.
+“Vírus como o MyTob e outros que surgiram na primeira metade do ano passado faziam uma varredura na web em busca de computadores vulneráveis a serem adicionados às fileiras das redes de zumbis”, conta Guilherme.
+Essas botnets são usadas por redes de distribuição de pornografia e conteúdo ilegal, envio de phishing – mensagens que tentam ludibriar o internauta a fornecer seus dados bancários ou de cartão de crédito – ou para tirar sites do ar para extorquir seus proprietários pedindo recompensa.  <br><br><hr>
+Data da Publicação: 06/03/2006 - Pagina: 03 <br>
+Editoria: Informática <br><br>

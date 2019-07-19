@@ -1,0 +1,24 @@
+Desktop Linux portátil
+<b> O Mandriva 2006 é ideal testar o Linux
+sem modificar o atual sistema operacional </b><br>
+ <br>
+A Mandriva, uma das principais distribuições Linux do mundo, e a LaCie, líder mundial na produção de periféricos de armazenagem para PC e Macintosh, acabam de anunciar que introduziram no Mandriva Linux 2006, o Globe Trotter 2.0, um dispositivo USB contendo disco rígido pré-carregado de 40GB ou 80GB. 
+Combinado com o poder e o design único do hardware LaCie, o Globe Trotter permite que os usuários transformem qualquer computador em seu desktop Linux pessoal.
+“Desejamos ajudar a comunidade Linux a transportar seu ambiente pessoal de trabalho de um lugar para outro”, afirma a vice-presidente de pesquisa e desenvolvimento da LaCie, Mathilde Bohrmann. 
+O Globe Trotter é perfeito para aqueles que precisam de poder e capacidade. Diferente dos CD-Rs e chaveiros USB, que apenas armazenam dados, ou então de laptops que são pesados e caros, o Globe Trotter oferece um ambiente completo em um pacote leve e de baixo custo.
+A instalação é simples, bastando conectar o dispositivo a uma porta USB de um PC. Assim, o hardware do computador é automaticamente detectado, mas não é modificado de forma alguma. Quando o processo estiver completo, o Globe Trotter pode ser levado para uma máquina diferente contendo até 80GB de dados do usuário, incluindo aplicações e configurações pessoais. 
+Com o Mandriva Linux em execução no dispositivo, os usuários usufruem da flexibilidade, segurança, facilidade de uso e os benefícios que só um sistema Linux pode oferecer.
+Dentre os softwares incluídos, estão a suíte de produtividade OpenOffice.org, gerenciadores de informações pessoais integrados como o Kontact e Evolution e também ferramentas de desenvolvimento completas.
+Além disso, o Globe Trotter vem com 30 dias de suporte web da Mandriva e uma assinatura do Mandriva Club e do Mandriva Online por um mês. 
+“Apesar do Linux ser tão fácil de instalar e usar quanto seus concorrentes proprietários, algumas pessoas ainda hesitam em migrar. O Globe Trotter remove uma das tão famosas barreiras na migração para o Linux: os usuários não querem realizar nenhuma instalação, seu hardware é automaticamente detectado e nada é modificado no computador hospedeiro”, destaca o CEO da Mandriva, François Bancilhon.
+O CEO da Mandriva também ressalta que este desktop móvel é atrativo tanto para iniciantes no Linux quanto para experts. “Eles vão adorar tornar um computador monótono com Windows em uma máquina sólida e versátil com o Linux”, comenta François.
+Mais informações sobre o produto no endereço wwwnew.mandriva.com/en/individuals/products/globetrotter2.
+
+Características 
+
+qDrive USB iniciável com Linux de 40 GB a 80 GB projetado pela LaCie
+qDetecção automática de hardware e armazenagem de perfis
+qUma edição específica do Mandriva Linux contendo o OpenOffice.org e muito mais já pré-carregada
+qAssinatura gratuita para o Mandriva Club e Mandriva on-line por um mês <br><br><hr>
+Data da Publicação: 05/12/2005 - Pagina: 18 <br>
+Editoria: Informática <br><br>

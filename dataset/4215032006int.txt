@@ -1,0 +1,53 @@
+CIÊNCIA E TECNOLOGIA
+<b> Proteínas contra vírus da Aids
+
+Cientistas afirmam que duas proteínas podem destruir o
+DNA do HIV, abrindo caminho para a cura da doença </b><br>
+ <br>
+Cientistas da Universidade Estadual de Ohio (EUA) descobriram um mecanismo celular contra o vírus da Aids que pode abrir caminho para uma nova estratégia médica contra a doença. 
+Em artigo publicado ontem na revista Proceedings of the National Academy of Sciences, os cientistas do Centro Integral contra o Câncer (CCC, na sigla em inglês) afirmam que duas proteínas que normalmente reparam o DNA também podem destruir o DNA do vírus de imunodeficiência humana (HIV) quando esse invade uma célula. 
+Segundo os pesquisadores, o DNA do HIV é essencial para a sobrevivência e reprodução do vírus que causa a Aids. 
+Atualmente, os tratamentos contra a doença usam uma combinação de medicamentos que não eliminam o HIV do corpo, mas neutralizam sua capacidade de propagação e multiplicação. 
+“Nossa descoberta identifica um novo alvo potencial para um remédio”, diz Richard Fishel, professor de virologia, imunologia e genética molecular e diretor do estudo. 
+O cientista acrescenta que os resultados dos experimentos realizados com as proteínas confirmam que essas participam da destruição do DNA do HIV. 
+“Esse processo reduz o volume do DNA do HIV que pode atingir os cromossomos e protege com isso as células de uma infecção”, acrescentou. 
+A próxima tarefa será determinar a forma com que as proteínas destroem o DNA do vírus, o que poderia ajudar na criação de medicamentos que ajudariam essas proteínas a destruírem uma maior quantidade de DNA, afirmam. 
+VACINA
+Cientistas de diversos países trabalham no desenvolvimento de uma vacina contra a Aids. A última boa notícia em relação ao assunto veio da China no final do ano passado. 
+Pesquisadores do Centro de Prevenção de Controle de Doenças de Nanning, no sul do país, informaram que não foram detectados efeitos colaterais nos cerca de 50 voluntários que receberam a vacina. 
+Eles estão na primeira fase da pesquisa, que durar até junho, quando serão divulgadas mais informações. Apenas na segunda fase espera-se comprovar a eficácia imunológica e a segurança da vacina. 
+Segundo a Organização das Nações Unidas (ONU), há no planeta cerca de 40,3 milhões de pessoas infectadas com o HIV. Calcula-se que no ano passado 5 milhões tenham sido infectadas e 3,1 milhões tenham morrido em decorrência da doença.
+
+Astronauta brasileiro passa em testes com excelentes notas
+O tenente-coronel aviador Marcos Pontes foi aprovado com “notas excelentes” e apresentado oficialmente ontem, ao lado do russo Pavel Vinogradov e do americano Geoffrey Williams, como tripulante da 13ª missão permanente à Estação Espacial Internacional (EEI). 
+De Moscou, em entrevista coletiva que se seguiu à apresentação da equipe, que parte no próximo dia 30, o brasileiro destacou a importância da missão Centenário – uma homenagem aos 100 anos do primeiro vôo do 14 Bis.
+“Creio que todos os experimentos preparados para mim têm uma importância extraordinária. Vou procurar efetuá-los com êxito”, afirmou Pontes sobre a missão que lhe foi confiada pela Agência Espacial Brasileira (AEB).
+De acordo com informações do Centro de Treinamento de Cosmonautas da Rússia, Pontes e os colegas passaram por simulações de operação da nave Soyuz e da parte russa da EEI.
+No teste, os astronautas passaram por todos os estágios da jornada da espaçonave, desde o lançamento e a acoplagem à estação espacial até a volta à Terra, além de terem sido obrigados a “apagar incêndios” de emergência na cápsula de retorno da Soyuz e na parte russa da estação espacial.
+O lançamento da nave Soyuz TMA-8, na qual Pontes vai viajar, está marcado para 6h29m do próximo dia 30 (horário local), do cosmódromo de Baikonur, no Cazaquistão.
+Pontes deve voltar ao lado do russo Valery Tokarev e do americano William MacArthur, que estão orbitando a Terra desde outubro do ano passado.
+
+Tristeza por ter que deixar a Rússia
+Na última entrevista coletiva realizada antes da ida ao centro de lançamento de Baikonur, no Cazaquistão, o astronauta brasileiro Marcos Cesar Pontes se disse “triste” por deixar a Rússia.
+“Agora que o meu treinamento está quase terminado, sinto-me feliz por minha viagem ao espaço, mas também tristeza, pois meus amigos ficarão aqui”, disse Pontes. 
+Ele está agora na Cidade das Estrelas, localizada nos arredores de Moscou. Já seus colegas de viagem na Soyuz TMA-8, o russo Pavel Vinogradov e o americano Jeffrey Williams, destacaram a ansiedade pela volta dos vôos do ônibus espacial americano, prevista para julho.
+Com o Discovery, irá ao espaço o alemão Thomas Reiter, complementando a tripulação fixa da ISS. 
+Pontes também comentou que sentiu na pele o famoso inverno russo durante um exercício de sobrevivência ao lado dos outros tripulantes. Eles enfrentaram temperaturas de até 30º negativos.
+“Depois daquele teste, perdi o medo do frio”, disse o brasileiro, que vai passar oito dias a bordo da EEI, antes de retornar à Terra em 9 de abril.
+Os outros integrantes da missão devem permanecer na estação espacial por seis meses.
+
+Recorde de gás carbônico na atmosfera 
+Cientistas americanos registraram um aumento significativo na concentração de dióxido de carbono na atmosfera, fazendo com que um nível recorde fosse atingido. 
+Dados mostram que a concentração de CO2 já chega a 381 partículas por milhão (ppm) – 100 ppm acima da média registrada antes do período de industrialização. 
+A pesquisa indica que houve, no ano passado, um dos maiores aumentos já verificados, de 2,6 ppm. 
+O analista de dióxido de carbono da Administração Nacional Oceanográfica e Atmosférica dos Estados Unidos (Noaa, na sigla em inglês), Pieter Tans, disse que os dados confirmam uma tendência preocupante: a de que, nos últimos anos, as taxas de aumento registradas têm sido o dobro das existentes 30 anos atrás. 
+“Nós não vemos nenhum sinal de queda. Na verdade, nós estamos vendo o oposto, o ritmo de aumento tem se acelerado”, afirmou Tans.
+
+Antivírus apagam programas
+Usuários dos famosos antivírus da McAfee podem ter sido induzidos ao erro e apagado diversos arquivos importantes e não-infectados do sistema. O problema aconteceu por conta de um erro em um arquivo DAT. 
+Assim que o antivírus recebia a atualização, começava a confundir programas inofensivos com o vírus W95/CTX, descoberto em 2004. 
+Arquivos do Microsoft Excel, Adobe, Flash, barra de ferramentas do Google, alguns drivers da Adaptec e diversos arquivos do Java Runtime Enviroment, da Sun Microsystem, além de outros 300 arquivos, foram confundidos pelo antivírus e podem ter sido indevidamente deletados. 
+No site da empresa (http://vil.nai.com/vil/content/v_138884.htm) algumas instruções são dadas sobre como recuperar seu sistema do erro, mas a McAfee afirmou que está trabalhando caso a caso junto com os clientes que tiveram problemas. 
+De acordo com o site do jornal The Sydney Morning Herald, a falha ocorreu nos antivírus VirusScan Enterprise 7.0 ou superior, Managed VirusScan 3.5 e 4.0 Beta, VisusScan Online 10 ou superior, LinuxShield e VirusScan 7.03. <br><br><hr>
+Data da Publicação: 15/03/2006 - Pagina: 42 <br>
+Editoria: Internacional <br><br>

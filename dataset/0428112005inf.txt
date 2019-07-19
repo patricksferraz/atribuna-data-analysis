@@ -1,0 +1,30 @@
+Para sair falando na web
+<b> Os passos para usar a telefonia IP
+são simples, mas em primeiro
+lugar é preciso ter uma
+conexão de banda larga  </b><br>
+ <br>
+Desde a popularização do Skype e dos mensageiros instantâneos com aplicações de voz – MSN Messenger, ICQ, AOL Instant Messenger –, falar com outras pessoas pela internet não é mais nenhum mistério. 
+O que pouca gente sabe é como montar um sistema que, utilizando apenas aparelhos simples e acessíveis, permita fazer e receber ligações pela internet em telefones comuns.
+Os passos para essa montar sua rede e deixá-la pronta para receber a telefonia por IP são relativamente simples. Em primeiro lugar, é preciso ter uma conexão de banda larga. Depois, é só montar uma rede simples e instalar o telefone IP. 
+Para fazer e receber chamadas pelo telefone VoIP, é necessário que ele esteja conectado à internet e tenha um endereço IP próprio – fornecido normalmente pelo seu provedor de acesso –, da mesma maneira que o computador tem um endereço IP único para enviar e receber dados, como arquivos e e-mails. 
+Para isso, a solução mais comum é instalar um pequeno roteador logo após o modem. Responsável por compartilhar a conexão da internet entre vários aparelhos, o roteador é um aparelho relativamente barato (custa entre R$ 150 e R$ 300 – e é comercializado em qualquer loja de artigos de informática. 
+Dentro de uma rede doméstica ou de uma pequena empresa, o roteador é responsável por dedicar um endereço IP para cada aparelho a ele conectado. Os mais simples do mercado possuem, em média, quatro portas de conexão – uma para cada equipamento da rede. 
+Outra solução é conectar o telefone IP logo após o roteador e, a partir do próprio telefone, ligar um cabo diretamente ao computador. Isso só é possível porque a maioria dos aparelhos VoIP comercializados possui uma porta que permite utilizar a conexão com a internet por dois equipamentos. 
+Essa dica vale para quem não tem muito espaço e quer o menor número possível de cabos em volta do PC. 
+Depois que tudo estiver conectado, tanto o telefone quanto o computador receberão automaticamente os seus respectivos endereços IP. 
+Se quiser conectar mais aparelhos com a web, basta conectar mais um cabo de rede ao roteador e ligá-lo ao equipamento desejado. 
+O próximo passo é escolher a sua operadora VoIP. Da mesma maneira que você recebe um modem quando assina um serviço de conexão banda larga, as operadoras VoIP fornecem aparelhos IP para seus novos clientes. 
+Caso tenha adquirido um aparelho antes de sua linha IP, é necessário ligar para a operadora e registrar o aparelho dentro da rede da empresa. Este detalhe é importante porque, para ter o seu próprio número de chamada, o aparelho precisa ter acesso autenticado pela própria provedora de serviços. 
+As configurações necessárias são feitas pela interface do próprio telefone IP e podem ser modificadas a qualquer momento. 
+Para quem quiser economizar no aparelho especial, há também adaptadores específicos para telefones comuns. Chamados de ATA (Analog Telephone Adapter, em inglês), esses pequenos equipamentos permitem que o seu aparelho de telefonia fixa ganhe mais um número e receba ou faça ligações pela rede IP. 
+Após completar todas estas etapas, o seu telefone VoIP terá um tom de linha como em um aparelho comum e fica pronto para fazer e receber chamadas de qualquer número fixo ou celular.
+
+Ligação na faixa com o Skype 
+A gratuidade, simplicidade de instalação e a grande quantidade de usuários cadastrados em todo o mundo no Skype colaboram para sua rápida expansão. Se você possui conexão à internet, microfone e alto-falantes – ou fones de ouvido –, basta fazer o download do programa gratuitamente para conversar com outras pessoas em qualquer parte do mundo, sem cobrança de taxas – no caso de conexões entre PCs.
+A seguir, seguem alguns passos necessários para instalar e utilizar o programa. 
+1) Download – Para obter o software gratuitamente, basta visitar a página www.skype.com. Vale lembrar que o Skype só funciona corretamente com as versões XP ou 2000. A configuração mínima pede um micro com processador de 400 MHz e 128 MB de memória.
+2) Instalação – Basta seguir as indicações que surgem na tela. Terminados os passos básicos, chega o momento do registro como usuários do Skype. Como em um programa de mensagens instantâneas, esse registro indica qual será a identificação de usuário.
+3) Chamando – O Skype enviará uma mensagem para a outra pessoa, perguntando se deseja conceder autorização para você se comunicar com ela. <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 04 <br>
+Editoria: Informática <br><br>

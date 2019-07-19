@@ -1,0 +1,17 @@
+Seguro e econômico
+<b> Novo desktop da Sun
+apresenta consumo de
+energia inferior ao
+de uma lâmpada </b><br>
+ <br>
+Alternativa segura aos computadores pessoais tradicionais, a nova geração de Ultra Thin Clients, da Sun Microsystems, consome apenas quatro watts de energia. O lançamento leva o ambiente de computação tradicional baseado em PCs a um novo estágio, com baixo custo, opções de desempenho e suporte para Windows.
+Utilizando smart cards integrados e equipados com tecnologia Java, os usuários do Sun Ray 2 são autenticados em uma infra-estrutura de alta disponibilidade baseada em servidores rodando Solaris, Linux ou Windows, o que protege o desktop, tornando o Sun Ray imune a ataque de vírus, proporcionando segurança, criptografia e mobilidade de acesso remoto.
+“O ambiente de TI deve trabalhar de forma segura e sem restrição de acesso, ou seja, as informações e aplicações devem ser acessadas de qualquer lugar e a partir de um device totalmente seguro”, afirma o diretor de Desktop & Mobilidade da Sun Microsystems, Jose Alessandro Oshiro.
+O Sun Ray 2 e Sun Ray 2FS foram desenvolvidos com tecnologia já aprovada por agências governamentais, instituições financeiras, empresas de call centers e companhias do mundo todo. O novo Sun Ray 2 traz o que existe de mais avançado em características de segurança de nível militar, portas USB e serial para periféricos e um leitor integrado de smart card.
+“As manchetes constantes sobre prejuízos de dados, brechas na segurança causadas por dano de equipamentos, responsabilidade civil aos funcionários por perda de informações e as reclamações sobre a dificuldade de gerenciamento de aplicações no desktop estão tornando cada vez mais evidentes os benefícios da tecnologia Sun Ray com o smart card”, destaca o executivo.
+O lançamento faz parte da linha “Eco Friendly”, com baixo consumo de energia, são apenas quatro watts, comparado aos 80 watts de um PC.
+O Sun Ray 2FS vem com duas portas de monitor, o que possibilita utilizar duas telas como uma única. Esta funcionalidade reduz custos e aumenta a produtividade do funcionário.
+As duas opções – Sun Ray 2 ou Sun Ray 2FS – oferecem redução de custos em gerenciamento, baixo consumo de energia e permitem as empresas a continuidade do acesso ao ambientes Windows, Linux ou Solaris como se fosse um PC, porém sem as dificuldades e necessidades de administração local.
+Mais informações no site www.sun.com. <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

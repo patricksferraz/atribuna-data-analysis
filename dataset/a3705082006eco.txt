@@ -1,0 +1,11 @@
+Caixa acionado pela mão
+<b>  </b><br>
+ <br>
+RIO – Cartão, senha e palma da mão. Em breve, esse será o caminho obrigatório para uma transação nos caixas eletrônicos do Bradesco.
+O banco iniciou os testes do sensor que utiliza a identificação biométrica do cliente para acesso aos terminais. Até o fim do ano, 50 unidades já terão o novo mecanismo. 
+A biometria é uma avançada tecnologia  de segurança que tem como característica utilizar as medidas físicas ou comportamentais exclusivas de uma pessoa. No caso do Bradesco, o dispositivo será a palma da mão. O aparelho será desenvolvido pela empresa Fujitsu.  
+Ele funciona como um scanner que captura a imagem do padrão vascular da mão, que servirá de senha complementar para o usuário toda vez que acessar a máquina.
+Entre as principais vantagens da identificação biométrica está  a alta precisão na identificação do usuário. 
+Atualmente, duas unidades estão funcionando, experimentalmente, em São Paulo: uma na matriz do banco e outra na unidade administrativa de Alphaville (município de Barueri). <br><br><hr>
+Data da Publicação: 05/08/2006 - Pagina: 37 <br>
+Editoria: Economia <br><br>

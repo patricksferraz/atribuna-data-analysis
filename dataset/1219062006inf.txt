@@ -1,0 +1,17 @@
+Homens de lata na Copa 
+<b> Versão da Copa do Mundo para 
+robôs reúne 440 times
+que incluem desde modelos
+pequenos a humanóides </b><br>
+ <br>
+A Alemanha, pelo que parece, não se cansa de futebol nestes últimos dias. Com a Copa do Mundo em andamento e com a casa cheia de turistas, um outro torneio já está dando o que falar – só que com robôs ao invés de humanos correndo pelo campo para fazer gols.
+A Robot World Cup, conhecida também como RoboCup, que começou na última quarta-feira, dia 14, e vai até 20 de julho, em Bremen, na Alemanha, completa 10 anos nesta edição, e junta 440 times de 40 países, divididos em cinco ligas.
+Criada pelo cientista japonês Hiroaki Kitano durante os anos 90, o evento oferece a pesquisadores de robótica uma oportunidade para testar seus sistemas de computação em uma competição com colegas internacionais, como se fosse uma plataforma para que cientistas desafiassem uns aos outros na área de inteligência artificial.
+Inicialmente, a competição era somente focada em tarefas simuladas em recuperação de desastres. Mas, por causa de seus amplos requerimentos para este tipo de tarefa pelo mundo, o grupo concordou em realizar um campeonato de futebol, com suas regras definidas e seu estilo de jogo rápido e imprevisível.
+O evento turbinou uma área que combina robótica com pesquisa de inteligência artificial, com diferenciações em relação ao setor de eletrônica que faz robôs, por exemplo, para automação automotiva ou voltados para tarefas logísticas.
+Já o futebol é uma situação real onde os jogadores têm que trabalhar em grupo e reagir em relação à bola e aos jogadores rivais. 
+De acordo com o diretor do Centro de Informação Tecnológica em Bremen, Ubbo Visser, que organiza a RoboCup junto com o Centro de Feiras de Bremen, os jogadores robóticos, que podem ter pernas ou rodas, precisam saber onde devem estar a qualquer hora, seguir os movimentos de outros jogadores e da bola e reagir a estas mudanças apropriadamente.
+A competição é organizada em cinco ligas: a de simulação, a de pequeno tamanho, a de tamanho médio, robôs com pernas e a liga de humanóides.
+De acordo com Ubbo Visser, a automação da inteligência ainda apresenta um dos grandes desafios para os pesquisadores. “O objetivo da RoboCup é desenvolver um time de robôs completamente autônomos que podem jogar – e ganhar – contra o campeão da Copa do Mundo até o ano de 2050”, afirma o cientista. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

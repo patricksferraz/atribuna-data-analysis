@@ -1,0 +1,642 @@
+O resultado da avaliação de títulos
+<b>  </b><br>
+ <br>
+MÉDICO ACUPUNTURISTA	
+Adriana da Rós D. Kataoka	0,0
+Celise Car valho Gabetto	3,0
+Claudia Dobes Kawatake	6,0
+Claudia Mara Neves Vieira	2,0
+Clemilda Soares Marques	6,0
+Ediron Pinho Carpes	7,0
+Ester Vago	2,5
+Fabio Merçon Vieira Junior	2,0
+Fernanda Có e Gomes	2,0
+Isabella Quintas Schirmer	7,0
+José Vicente Praxedes	3,0
+Luciene Santos Costa	2,0
+Ludmila Geysa Paris Salviato	7,0
+Maria Sueli M. Gonçalves	5,0
+Nelson Braga Mello	5,0
+Rossana Roberts Vargas	6,0
+Suzel de Oliveira Barbosa	3,0
+
+MÉDICO ANGIOLOGISTA
+Andressa R. Bolelli Ferreira	1,0
+Edmar Pereira Olympio	0,0
+Eliud Garcia Duarte Junior	8,0
+Ronaldo Conforti Costa	7,0
+Sergio Lisboa Junior	0,0
+
+MÉDICO CIRURGIÃO GERAL	
+Adilio Ferreira R. Junior	9,5
+Alice Almeida M. de Andrade	3,0
+Anderson Fontes	7,0
+Andressa Vieira Caldellas	0,0
+Aneildo Menezes de O. Junior	0,0
+Antonio Mauro Bof	7,0
+Antonio Wilson Fiorot	5,5
+Arilton Pirola Santos Junior	0,0
+Bruno Baracho Rodrigues	0,0
+Carlos Henrique S. Junior	3,0
+Cesio Flavio C. Brandão	5,0
+Christiano Caran Brahim	7,0
+Cristiano de Souza Pinto	5,0
+Denizard Rocha Santos	8,0
+Douglas Luís S. de Oliveira	2,0
+Eduardo Simões Gonçalves	5,0
+Edvaldo Massariol Junior	6,0
+Elder Luiz R. Barbosa	8,0
+Emanuel da Silva V. Junior	4,0
+Fabio Mascarenhas Vieira	8,0
+Fernanda Alves Mendonça	3,5
+Flávio Soares Costa	7,0
+Gerson Pereira dos Santos	0,0
+Jeane Pissarra Teixeira	3,0
+Joana Gama do Vale	3,0
+João Passamani	8,5
+José Alberto da M. Correia	0,0
+Juarez Silva Gontijo	8,0
+Juliano Almeida do Valle	4,0
+Karla Orsi Hemerly	5,0
+Leticia Rizzo Batista	0,0
+Lizia Lara Girelli Boing	0,0
+Luciana A. de Oliveira	8,0
+Marcos Pavesi Lopes	8,0
+Marcos Rogerio F. Filho	5,0
+Maria Auxiliadora T. da Silva	7,0
+Mário Vaz Júnior	6,0
+Mozart Rosa Abelha	8,0
+Olivio Battisti Netto	4,0
+Patricia Ribeiro Braganca	1,0
+Paulo Roberto M. Pratti	8,0
+Pedro Cabral Filho	8,0
+Pedro Sfalsini	0,0
+Ramilson dos Santos	7,0
+Ricardo Diniz Barros	3,5
+Ricardo Ferreira Moura	0,0
+Rodrigo Moulin Foletto	3,0
+Rosana B. Barroso Rangel	8,0
+Rudiney Fonseca Rodrigues	8,0
+Sergio Riguete Zacchi	0,0
+Simone Leal Suzano	7,0
+Teng Chang Sing	8,0
+Walas Silvério da Rocha	4,0
+Walter Gonçalves Vargas	8,0
+Wdson Pozzatto Pimentel	8,1
+Wilson Alvarenga Junior	6,0
+
+MÉDICO CLÍNICO GERAL
+Adilson Junior Furieri	8,0
+Adilson Lamounier Filho	3,5
+Adriana de C. Lima Loureiro	7,1
+Alana Rocha Puppim	5,0
+Aldo Lugão de Carvalho	7,0
+Alessandra Dias Ferraço	7,5
+Alessandra Patrícia de Oliveira	6,0
+Alexandra Ribeiro Barcelos	0,0
+Alexandre Canas Ribeiro	2,1
+Aline Ladeira Gonzaga	0,0
+Aline Machado do Carmo	3,0
+Ana Christina F. B. Corrêa	7,0
+Andrea da Fonseca Potratz	7,0
+Antonio Lepori Vale	0,0
+Arianne Sibien Ruberth	0,0
+Carlos Eduardo D. da Silva	0,0
+Carlos Magno P. Dalapicola	8,5
+Carlos Tadeu B. Dalmonik	2,0
+Christiane H. Lorencine	8,0
+Chyrlleny Alves Gusmão	8,5
+Cintia Furlani Costa	4,0
+Cláudia Reis C. de Mello	7,0
+Cleanice R. do Valle Risso	7,0
+Cleverson Kiffer Marim	5,0
+Daniel de Moraes Bermond	0,0
+Daniela Mill Damasceno	7,0
+Edilson de Castro Araujo	6,0
+Edna Hollunder de Souza	6,5
+Eduardo A. dos Santos Neto	5,0
+Elton Leonardo de O. Lopes	7,5
+Elton Pinheiro Barbiero	3,0
+Emilia Melotti Alvarenga	2,0
+Érica Vieira Serrano	3,0
+Erick Sessa Merçon	3,0
+Everton Kristian L. dos Santos	4,0
+Fabiola Pontin Pereira	7,5
+Fabrina Thome P. T. de Sousa	6,0
+Fernanda Maria Z. Freire	5,0
+Fernanda Leal Suzano	0,0
+Fernanda Zon Pretti	0,0
+Flavia de Souza Nunes	3,5
+Flaviano de Assis Caçador	1,0
+Flavio Calhau Machado	1,0
+Flávio Rosalem	5,5
+Francismara B. de Sant’Anna	6,0
+Giovana Pereira N. da Gama	3,0
+Giovanna Sant’Ana	3,0
+Gisele Torezani Storch	3,0
+Gisele Zamprogno Schimidt	6,0
+Gustavo Antunes França	2,0
+Gustavo Maia de Freitas	0,0
+Ingrid Zon	2,0
+Isabela Ferrari Ferreira	2,0
+Jean Flores Baldon	5,0
+Jeana Mara Freixo Venturi	7,5
+Jeovania G. Gonçalves	8,0
+João de Almeida Júnior	3,0
+Junia Marize G. Junior	5,5
+Karina Sagassa Batista	3,0
+Katiuska M. Grativvol	4,0
+Kiyoshi Fernandes Aikawa	0,0
+Krishna Sandoval Gonçalves	7,0
+Larissa Miranda Costa	0,0
+Leila Martins Reis Miguel	4,5
+Leonardo Dias Gonçalves	1,0
+Leonardo H. da Pas Scardua	1,0
+Letícia Maria Akel Mameri	0,0
+Lívia Botti Damião	0,0
+Lorena Milholi Borges	0,0
+Lorenza Lakimé Jareski	0,0
+Lucilene Salles Sena	4,5
+Marcela Perini	0,0
+Marcelle Daher do Valle	2,0
+Márcia Cristina S. Silva	3,0
+Marcia Regina S. Coutinho	6,5
+Marcio José Carvalho Silva	4,5
+Marcus de Angeli Altoé	7,5
+Marcus Vinícius Q. Rocha	3,0
+Maria Aparecida de Souza	0,0
+Maria Cleuza Farias	7,5
+Maria Isabel de C. Delmaestro	7,5
+Mariana Hunka F. Sarcinelli	0,0
+Patricia Conceição de Oliveira	1,0
+Patricia L. Castro de Oliveira	7,5
+Paula Canedo Chierici	0,0
+Paulo Cesar A. de Aquino	8,0
+Paulo Roberto da Silveira	8,0
+Penha Fabia Calazans	7,0
+Petherson Susano Grativvol	5,0
+Priscila Coelho Rabelo	0,0
+Rafaela Claudino de Freitas	0,0
+Ribamar Duy Rezende	5,0
+Roberta Oliveira Bizerra	0,0
+Roberto Marques G. Filho	4,0
+Rodrigo Santos da Silva	1,0
+Rosângela Valente Bragança	8,0
+Rosiane Cazeli Barbosa	5,0
+Sabrina Tiradentes Ferreira	2,0
+Selma Pereira do Nascimento	0,0
+Sheila Mara Abikahir Nunes	7,0
+Sibia Soraya Marcondes	3,0
+Simone Fialho P. P. Martins	7,0
+Soraya Ribeiro Amorim	3,0
+Valeria Maria Antolini Grijó	5,0
+Washington Luis S. R. F. de Freitas	5,0
+Wellington Carvalho do P. Socorro	5,0
+Wellington Pinto de C. Filho	6,0
+
+MÉDICO DERMATOLOGISTA
+Andréa Gouvêa Modenesi	5,5
+Angela Cristina Akel Mameri	5,0
+Elida Alves Leal	8,0
+Juliana Nunes V. G. Drumond	3,0
+Karina Demoner de Abreu	0,0
+Mariangela A. Rodrigues	5,0
+Renata da Penha N. Módolo	8,0
+Rubens Luiz Valladro	0,0
+
+MÉDICO ENDOCRINOLOGISTA
+Andressa Doelinger Ramos	2,0
+Angela Cristina B. Soares	8,0
+Camila Spagnol	2,0
+Carmen Dolores G. Brandão	10,0
+Fabiana Lima Marques	0,0
+Juliana de Paula Peixoto	5,0
+Milenne Rios da Silva	0,0
+Mirna Piredda da Graça	6,0
+Renata Calina R. Albuquerque	6,0
+Sabrina Ribeiro Franca	2,0
+Solange Alves Pinheiro	0,0
+
+MÉDICO GERIATRA
+Daniela Souza G. Barbieri	4,0
+Flávia Lirio Coutinho	5,0
+Juliana Gama Nascimento	0,0
+
+MÉDICO GINECOLOGISTA	
+Adenilton Pedro Cruzeiro	5,5
+Adriana Riberio	8,5
+Ana Luiza Gualandi Murad	8,0
+Ana Raquel F. S. Daltro	8,5
+Andréa Nunes de Menezes	8,0
+Angela de Carvalho G. Teixeira	8,5
+Antonio Carlos Muniz V. Junior	0,0
+Antonio Thomaturgo Littig	7,0
+Aron Stephen Souza	8,0
+Carla Guerra Vasconcellos	8,0
+Celia Francisca dos Santos	7,0
+Chiara Musso R. de O. Souza	8,0
+Christiane Faria Guterres	7,5
+Christina Barbosa Lemos	7,0
+Cinara Pereira N. Sadala	7,5
+Claudete Simões M. de Angeli	8,5
+Cleverson Gomes do C. Junior	0,0
+Denise Carvalho Lyrio	8,5
+Denise Tironi P. Saade	5,0
+Ednildes de Almeida O. Rua	8,5
+Elaine Christine Monis S. Silva	7,0
+Flavia Helena R. F. Sampaio	5,0
+Flavia Rezende Baião	6,0
+Gilsara Marília T. Marques	4,0
+Glessy Ribeiro Caetano	8,0
+Gustavo Enrico C. Ruschi	8,0
+Janine Martins Machado	5,0
+Juliane Oliveira de Assis	7,1
+Jussanã Nogueira Pereira	7,0
+Karolline Coutinho Abreu	4,5
+Kate Brinatti Torres Amaral	6,0
+Leonardo Fiorani da Silva	0,0
+Lorena Galaes	0,0
+Luciana Braido H. Paixão	4,0
+Luis Claudio Limongi Horta	8,5
+Madalena Oliveira B. de Mello	7,5
+Marcia Negreiros F. Cruz	6,0
+Marco Antonio R. Nascimento	8,0
+Maria Aparecida G. Ramos	5,0
+Maria Cecilia Pontual M. Cohen	8,0
+Maria das Graças P. Partele	6,0
+Mayra Herculano Franco	0,0
+Monica Barboza G. Morelo	5,0
+Mônica Bernardi R. Canal	5,0
+Murilo Vitor Lopes	8,5
+Nara Lucia Pereira Ramos	4,5
+Patricia Ribeiro Pinto	2,0
+Patricia Rosa da Silva	7,0
+Patricia Subtil Cardoso	8,0
+Paulo Cezar Viecili	4,5
+Regina Célia L. Carlos	8,0
+Rolney Scardini	8,5
+Rowena Pettersen Doelinger	5,0
+Sandra Mara R. Bellezia	8,0
+Sarah Martins B. Almeida	3,0
+Sérgio Emílio Rua	7,5
+Sergio Wilson Alves Pereira	6,5
+Simeria Nunes R. Soares	8,0
+Simone Teixeira Ribeiro	8,0
+Sônia Faria Pedrosa	8,0
+Suely Gomes Pereira	5,0
+Tatiana Santos Guzzo	5,0
+Valci Cardoso	5,0
+
+MÉDICO HOMEOPATA
+Almir do Espirito Santo	7,5
+Ana Rita Vieira de Novaes	7,0
+Flavia Gimenes Azevedo	7,0
+Flavia Mattos Vieira	7,0
+Flavia Piazzarollo Madeira	4,5
+João Luiz de Moraes	7,0
+Leontina Aparecida de O. Cestari	0,0
+Luiz Fernando F. Guedes	7,0
+Norma Persio	7,0
+Rosane de Paula Nogueira	7,0
+
+MÉDICO INFECTOLOGISTA	
+Alexandre Rodrigues da Silva	6,0
+Ana Luisa Rocha Vitali	5,1
+Claudia Biasutti	9,0
+Fábio Gonçalves Coutinho	0,0
+Gizele Bernabé Machado	7,0
+Glaucia Gleine S. Ferraz	4,5
+Jacqueline Oliveira Rueda	9,5
+Junia Rodrigues	5,0
+Mylene Murad Moraes	3,0
+Myriam Santos Almeida	8,5
+
+MÉDICO NEUROLOGISTA
+Leonardo de Paula Liparizi	0,0
+Vanessa Loyola de O. Marim	1,0
+
+MÉDICO OFTALMOLOGISTA	
+Adriana M. D. Brandão	8,0
+Aguida Aparecida Nicoli	0,0
+Cesar Ronal V. Gomes Filho	1,0
+Daniele Fioroti	0,0
+Elane Dellacqua Passos	3,0
+Ellen Portugal Lacerda	0,0
+Fábio Petersen Saraiva	3,5
+Giancarlo Cardoso Jeveaux	3,0
+Gilberto Brandão de Azevedo	8,0
+Kahlil Ruas Ribeiro Mendes	0,0
+Ludimila Frechiani Zago	3,0
+Patricia Grativol Costa	3,5
+Sara Capanema F. Ribeiro	3,5
+Sheyna Reis Silva	6,0
+Suzana Batista V. de Oliveira	3,0
+Tatiana Nemer Vieira	2,5
+Vanessa Ronconi Guimarães	6,5
+
+MÉDICO ORTOPEDISTA
+Ceciliano José S. dos Santos	4,0
+José Carlos Gomes	5,0
+Leandro F. da Cunha Junior	8,0
+Leonardo Ribeiro Bastos	4,5
+Tarciso Fávaro	0,0
+
+MÉDICO PEDIATRA	
+Adriana Gomes Silveira	8,5
+Aline Barros Torres	6,0
+Aline Caetano Marchette	0,0
+Amanda Libânio Figueiredo	8,0
+Ana Luiza Cardoso Izoton	8,0
+Ana Luiza F. da Silva Paiva	6,0
+Ana Maria Nogueira Servino	8,0
+Ana Maria N. da P. Carvalho	5,0
+Ana Maria Ramos	8,5
+Ana Paula A. S. Abelha	6,0
+Ana Paula B. Fernandes	2,0
+Ana Paula P. Custódio	0,0
+Ana Teresa Fialho Ferreira	7,0
+Analucia Santolin Peixoto	8,0
+Andrea Portela Sampaio	8,0
+Andreia Ribeiro Pereira	8,0
+Andressa Chiabai Paterlini	8,5
+Andressa Tápias de Oliveira	0,0
+Angela Cristiane Bravin	8,0
+Angela Maria Crespo	8,0
+Angela Rita da Silva	5,0
+Antônio Sérgio P. de Assunção	5,0
+Bianca Faustini Baglioli	0,0
+Bianca Giovanna Bruno	4,5
+Bianca Neves Marson	2,0
+Bruna Bragança Boreli	2,0
+Bruna Lopes Pereira	0,0
+Camilla Dalla B. Tironi Martins	0,1
+Carlos Henrique S. dos Santos	8,0
+Carolina Queiroz O. Costa	4,5
+Carolina Strauss E. Gadelha	3,0
+Cecilia Guilherme B. Pancoti	8,0
+Celina Chaves Lameirão	0,0
+Christiana Kelly dos Santos	8,0
+Cintia Barreto Ferreira	6,0
+Cíntia Moreira I. Pinto	0,0
+Clarissa Marinho de Oliveira	0,0
+Cláudia Cristina Côra Rocha	8,0
+Claudia Fabiola M. Guimarães	8,0
+Claudia Gonçalves Paiva	5,5
+Claudia Rabelo Vieira	8,5
+Claudia Souza Bortolote	7,5
+Cristina Dutra Rosa	4,0
+Cynthia Fernandes Chácara	0,0
+Daniela Melo Piccin	7,0
+Danieli Gomes da Silveira	4,0
+Danielle Rosetti Binda	3,0
+Darcilaine Cápua Dallapícula	8,0
+Denice Margarida Brosegmini	5,0
+Denise do Valle G. Daflon	8,0
+Denise Sena de Miranda	8,0
+Dirce Celestino Rocha	5,0
+Dória Sá de A. Peixoto	8,0
+Edilene Amaro de Miranda	5,0
+Edilia Dias Ferreira	8,0
+Édina Maria F. de O. Curzio	9,5
+Elaine Guedes G. de Oliveira	8,0
+Elba Altoé Almeida E Silva	3,0
+Elisabeth Maestri Zouain	7,0
+Eneida Fardin Perim Bastos	9,0
+Fabiana Maia L. Cardozo	7,0
+Fernanda Jusan Fiorot	0,0
+Fernanda Medani Bortolozzo	8,0
+Flavia Maulaz B. Rodrigues	8,0
+Flavia Regina dos S. Fregona	0,0
+Francelina Maria R. Mascarenhas	5,0
+Geysa Ribeiro C. de Souza	8,0
+Gisele Nascimento Loureiro	0,0
+Giseli Barbiero de Almeida	0,0
+Heloisa F. Moça Vasconcellos	8,5
+Heloisa Helena R. Gonçalves	6,5
+Hilda Maria Costa e Silva	8,0
+Iara Regina Selestino	3,0
+Ilbene Mendes S. Gomes	8,0
+Ildes Milbratz	8,5
+Indira Souza C. Campos	8,0
+Ingrid Kandler	5,5
+Isabel Cristina M. Carvalho	8,0
+Isabela Marreco Weigert	0,0
+Isaura Rosa Stein	0,0
+Ivana Maria M. Teles Bufon	8,0
+Jacqueline de Lima Zottis	8,0
+Janaina Teixeira Serpa	7,0
+Joseane Chiabai	9,0
+Josilaine Lisi C. S. Fêzer	5,0
+Jovanna Couto C. Anechini	4,0
+Julia Analia de Souza Oliveira	6,0
+Jussara M. Silva Andrade	8,0
+Karina Todeschini Pires	6,0
+Karla Cristine Merscher	0,0
+Karla Loyola de Oliveira	4,0
+Katia Aguiar A. Ferreira	8,0
+Katia Iunes Miranda Costa	5,0
+Kelly Cristine Merscher	0,0
+Ketty Helena Hoyer	5,0
+Liliane Gomes Schwartz	8,5
+Lindinalva Rodrigues S. Gurgel	8,0
+Luciana Bissoli R. Silva	5,0
+Luiza Aurelia T. de Faria	5,0
+Marcelle Tavares P. M. dos Santos	4,0
+Marcelo Salemi Muniz	8,0
+Marcia Aparecida A. M. de Araujo	8,0
+Márcia Caran Miranda	8,5
+Marcia Maria Poltronieri	8,0
+Maria da Penha C.Santos Nass	8,0
+Maria da Penha P. P. Pacheco	8,0
+Maria da Penha R. A. Passos	5,0
+Maria das Graças Rocha	8,0
+Maria das Graças S. do Carmo	8,0
+Maria do Socorro S. Costa	7,0
+Maria Francisca M. Silva S. Silva	8,0
+Maria Helena F. de C. Queiroz	5,0
+Maria Ines Gomes Viana	5,0
+Maria Lucilia L. Paris	8,0
+Mariluce da Penha Kelher	5,0
+Marina Gaburro da Silveira	0,0
+Mario José A. de Paula	9,0
+Martha Siqueira Cardoso	8,0
+Maycka Onofre Witt	6,0
+Milena Gottardi T. Frasson	0,0
+Milena Santos Aguiar	0,0
+Monica Odete O. Bretas	0,0
+Musatye Dias Nascimento	5,5
+Mylene Guimarães Rejane	8,0
+Neuza Marchesi Braga Mello	8,5
+Nilzane Santos Silva	8,0
+Nixon Souza Sesse	0,0
+Nubia Carla A. Mota Santos	8,5
+Patricia Almeida Prebianchi	4,5
+Patricia Fonseca Saraiva	7,0
+Patricia Helena S. Machado	5,0
+Patricia Torres Bermudes	8,0
+Patricia Zambi Meirelles	3,5
+Pedro Vieira Carrancho	7,5
+Poliana Viana Guarconi	6,0
+Priscila Silva Griffo	0,0
+Rafaella Nunes Gomes	4,0
+Raquel Alves Aurich	4,0
+Raquel Favatto Garcia	6,0
+Rita de Cassia C. Passoni	8,0
+Roberta de Cássia N. C. Melotti	7,0
+Rodrigo Barroso Araujo	1,0
+Romulo Lopes Diniz	0,0
+Rosalva Groberio Pazo	8,0
+Rosana Arpini C. Pagung	8,5
+Rosana Leitão Brandão	4,0
+Rosane da Silva A. Limongi	8,0
+Rosemere Gomes de S. Prates	8,0
+Rosiane Freitas Moreira	8,0
+Sabrina Modenese Schwab	0,0
+Sandra Helena de Souza	7,0
+Silmara Pancieri de O. Alvarenga	8,0
+Silvia Portugal M. C. Vidaurre	3,0
+Sônia Maria A. A. Rabello	7,5
+Suely Zanetti B. Vieira	3,5
+Suselle Souza P. Melotti	1,0
+Sylvio Rogério de O. Neves	5,0
+Taíse Negrelli Vieira	3,0
+Tamir Cristiane da S. Correia	0,0
+Tânia Gomes M. de Aragão	5,5
+Tatiana Kerckhoff dos Santos	4,5
+Tercia Maria M. G. de Oliveira	8,1
+Thais Mulim D. da Silva	0,0
+Uderlaine dos S. Menenguci	3,0
+Valdirene Mataveli Morais	6,0
+Valeria de V. Schmidt	5,0
+Vanessa Faustini Pontes	6,0
+Vanessa Furlan	8,0
+Vera Lucia Fenyves Ferreira	8,0
+Vera Lucia Resende Marques	8,0
+Virginia Caetano Marques	5,0
+Virginia P. Castelo B. Echandi	8,0
+Zilda Jacqueline P. Campos	8,0
+
+MÉDICO PROCTOLOGISTA
+Flavia Lemos Moura Ribeiro	0,0
+Isabel Cristina A. Lemos Paulo	9,0
+Paula Moura Mendonça	3,5
+Simone Calmon Rangel	5,0
+Tadeu Marcus B. de Menezes	5,0
+
+MÉDICO PSIQUIATRA	
+Bernardo Santos Carmo	1,0
+Claudia Maria Leal Coser	5,0
+Daniel Lira Martins	0,0
+Henrique Torres Neto	5,0
+Janine Alvarino Faé	8,0
+Lara Giovanka Menezes	8,0
+Leila Maria Farias	5,0
+Lícia Fabris C. Libanio	3,0
+Liziane Faria Nunes	5,0
+Roberto R. Pereira da Silva	5,0
+Romulo José M. Azevedo	0,0
+
+MÉDICO REUMATOLOGISTA
+Camila Cuzzuol Pimentel	4,0
+Daniela Bergamim Pereira	1,0
+
+MÉDICO UROLOGISTA
+Alexander Hatsumura Casini	7,0
+Marcelo Zouain de Almeida	8,0
+Paulo Roberto F. de Oliveira	8,5
+
+CIRURGIÃO DENTISTA CLÍNICO
+Ademilde da Penha Faé	7,0
+Adriana Drummond de Aguiar	7,0
+Adriana Rezende da Silva	0,0
+Alessandra Almeida Candido	0,0
+Alessandra da Silva B. Bissoli	5,5
+Alexandre Eduardo R. Lucas	0,0
+Alexandre Fernandes da Silva	0,0
+Aline Lima de Oliveira	0,0
+Aline Santos Malta	0,0
+Aloízio Azevedo	0,0
+Ana Angelica Beccalli	7,5
+Ana Cláudia Ferreira Rabelo	4,5
+Ana Cláudia N. Del’Antonio	0,0
+Ana Cristina B. de Barros Pretti	7,1
+Ana Laura de O. Fagundes	2,5
+Ana Laurita Nunes Maia	0,0
+Ana Lúcia Oliveira Keil	7,0
+Ana Maria Cezana	5,0
+Ana Paula da Silva Ramos	9,1
+André do Espírito S. Dumas	0,0
+Andrea Cardoso C. Scaramussa	7,0
+Andrea Franco da C. P. da Cruz	4,5
+Andreia Loures R. P. Barreto	7,0
+Andreia Vasconcellos Marim	0,0
+Andressa Frossard Rasseli	0,0
+Andreza Kaliff Pontes	0,0
+Ângela Maria G. dos S. Martins	7,0
+Aniella Cristina S. Gonçalves	6,0
+Arlene Pereira David	7,5
+Augusto Cesar L. Fernandes	0,0
+Bárbara Pessôa da Silva	0,1
+Bernardo Wruck Kuster	0,0
+Betina Maria de L. Oliveira	7,1
+Bianca Mataveli Vimercati	0,0
+Bianca Nogueira da S. B. Souza	0,0
+Bianca Ruschi de Aragão	4,5
+Bianca Thomazelli M. de Oliveira	0,0
+Brígida Franco Sampaio	0,0
+Bruna Pereira Silva	0,0
+Bruna Santos Fiorott	0,0
+Bruno Barreto	7,5
+Bruno Daleprane	0,0
+Bruno Machado Xavier	0,0
+Bruno Ribeiro Vieira	0,0
+Camila Melo Cabral	7,5
+Camilla Cabral P. Soares	0,0
+Carla Ferrari Batista Martins	7,5
+Carlos Andre Fabres	0,0
+Carlos Henriques V. G. de Sá Filho	7,5
+Carlos Roberto Augusto	7,0
+Carolina Dutra D. Esposti	0,0
+Cecilia Regina Silva Botão	0,1
+Celio Carvalho de Alencar	5,0
+Christian Acácio Spagnol	3,0
+Christiane Pinto Rosa	7,0
+Cínthia Ornellas Menezes	0,0
+Cíntia Matos de Almeida	0,0
+Clara Beltrão Marangoni	0,0
+Clarice de Souza Gonçalves	0,0
+Claudio Cysne Rodrigues	0,0
+Cláudio Santos Almeida	7,1
+Clícia Giesen Falcão	6,1
+Clirene da Silva G. Carreira	7,0
+Conceição Cecilia M. P. Santos	7,0
+Cristiane dos Santos N. Barcellos	7,1
+Cristiane Sant’Ana Zucoloto	0,0
+Cynthia Santos Lorencini	6,0
+Daizy Guedes de C. Stikan	0,0
+Daniela Garayp Mussi	5,1
+Daniele Petri de Bortolo	0,1
+Danielle Karla G. Santos	0,0
+Dayse Freire Rocha	4,1
+Denilson Guimarães de Oliveira	0,0
+Denise Oliveira Freitas	7,1
+Dilma Solange Mariani	0,0
+Dilzemar Aparecida V. Carbone	7,1
+Diogo Favarato Loureiro	0,0
+Dulce Aparecida C. Bizarro	0,0
+Edson T. dos Santos Neto	0,0
+Eduardo Filipe da Paz Scardua	4,5
+Eduardo Oliveira Gomes	0,0
+Egidio Davilla Junior	5,5
+Elia Marcia V. da Silva	5,5
+Elissa Frauches Dalla	0,0
+Emanuela de Souza Moreira	0,0
+Eric Regattieri	7,0
+Erika Almada	5,5
+Estevão Duarte Guio	0,0
+Eva Elaine Lima C. Peixoto	0,0
+Fabiana Cristina Siqueira	7,1
+Fabiana de Freitas B. Nunes	0,5
+Fabiola Bof de Andrade	2,1 <br><br><hr>
+Data da Publicação: 23/10/2006 - Pagina: 15 <br>
+Editoria: Concursos <br><br>

@@ -1,0 +1,15 @@
+Filme filho da tecnologia
+<b> Totalmente digital, “Sin City” contou com o que há de mais
+avançado em tecnologia, como o processador AMD Opteron </b><br>
+ <br>
+Imagine ler uma história em quadrinhos cujas páginas medissem 6 x 15 metros. Não é necessário ser um gigante para passar por essa experiência. Baste ir assistir ao filme “Sin City”, que está em cartaz nos cinemas.
+Totalmente digital, o filme de Robert Rodriguez foi produzido em sistemas baseados no processador AMD Opteron. Em “Sin City”, não foi utilizada película.
+Desde as câmeras digitais de alta definição até os softwares de edição gráfica adotados, a tecnologia em geral aplicada na produção foi o elemento essencial para que o filme alcançasse o resultado idealizado.
+Os artistas digitais da equipe de Rodriguez utilizaram workstations e servidores baseados na tecnologia AMD64 com o software Softimage XSI, da Avid, e o sistema operacional Windows XP Pro, da Microsoft, para pré-visualizar cenas, criar e renderizar compostos digitais de alta definição (HD), adicionar efeitos visuais, editar e produzir um HD digital final.
+“O processo de edição das imagens costumava ser linear, em seqüência. E só. Fizemos o “Sin City” de uma forma que seria impossível sem a velocidade e segurança da tecnologia”, afirma Rodriguez.
+A tecnologia AMD64 permite aos criadores levar suas visões imaginárias para a tela em formatos que os espectadores nunca viram antes. “Robert Rodriguez é um dos raros artistas que explora novas tecnologias para satisfazer as suas visões criativas e, simultaneamente, abrir um novo caminho para outros seguirem”, comenta o diretor de Mídia Digital e Entretenimento da AMD, Charlie Boswell.
+“O Sin City ressalta as possibilidades da AMD64 como uma ferramenta de produção artística de extrema potência e relação custo-benefício. Com ela, o acesso a capacidade de produção de ponta não é mais restrito aos grandes estúdios com altos orçamentos. Agora, qualquer pessoa que edita vídeos ou fotos em casa pode utilizar o que os profissionais usam”, continua Boswell.
+O longa dirigido por Robert Rodriguez está sendo apontado como um divisor de águas no segmento das adaptações de histórias em quadrinhos. A fidelidade do filme à Grafic Novel de Frank Miller, na qual se baseia, é tão grande que só falta mesmo saltar o balãozinho na tela com as falas dos personagens e do narrador. 
+Tamanha semelhança, que inclui enquadramentos e seqüências idênticas as da versão impressa além de cortes rápidos no estilo dos quadrinhos, só foi possível graças à tecnologia avançada usada na produção. <br><br><hr>
+Data da Publicação: 08/08/2005 - Pagina: 10 <br>
+Editoria: Informática <br><br>

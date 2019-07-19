@@ -1,0 +1,18 @@
+Sem limites para a criatividade
+<b> Novo After Effects traz ambiente
+flexível de projeto, suporte OpenGL
+de alta fidelidade, exportação
+Flash Vídeo e pré-ajustes projetados </b><br>
+ <br>
+A Adobe acaba de anunciar o software Adobe After Effects 7.0, a ferramenta padrão do setor para a produção de gráficos animados e efeitos visuais para filme, vídeo, DVD e internet.
+Agora, os profissionais de animação podem aperfeiçoar seus fluxos de trabalho para produzir conteúdo convincente para qualquer mídia com as novas características acumuladas no novo software, inclusive uma interface unificada e redesenhada de usuário, suporte acelerado OpenGL de alta fidelidade e a capacidade mais abrangente do setor de exportação de Flash Vídeo (FLV).
+“O Adobe After Effects 7.0 atende às necessidades dos mais exigentes profissionais de filme e vídeo e permitem que criadores que estejam se movendo em projetos baseados em tempo criem facilmente movimentos gráficos e efeitos visuais convincentes”, ressalta o vice-presidente de Administração de Produto, Internet e Soluções de Vídeo da Adobe, Jim Guerard.
+O novo After Effects aperfeiçoa os fluxos de trabalho e melhora a produtividade geral com uma interface de usuário redesenhada e unificada, apresentando painéis acopláveis. Os usuários podem eliminar janelas e paletas sobrepostas, rearrumar painéis, salvar locais de trabalho comuns e controlar o brilho UI.
+Os usuários After Effects podem criar rapidamente animações de ótima aparência com centenas de pré-ajustes de animação e comportamento totalmente personalizáveis para a animação de texto, efeitos, transições e fundos que podem ser acessados por meio do Adobe Bridge, um navegador completo de arquivos que pode ser lançado de forma independente.
+Quando usado como componente do Adobe Production Studio, o Adobe After Effects 7.0 fornece acesso ao Adobe Dynamic Link, uma tecnologia de aprimoramento de fluxo de trabalho que elimina a necessidade para a submissão intermediária de projetos.
+O suporte expandido para o OpenGL 2.0 acelera o tempo de produção pela aceleração de apresentação na tela de composites 2D e 3D e apresentação de suporte de alta fidelidade para modos de combinação, obscurecer movimentos em camadas 2D, anti-descontinuidade gráfica, controles de acabamentos e sombras.
+O Adobe After Effects 7.0 permite que os profissionais do setor produzam movimento gráficos que chamam a atenção e sofisticados efeitos visuais para a apresentação virtual em qualquer mídia. O novo Editor Gráfico torna fácil a criação de animações precisas em múltiplas camadas, permitindo um completo controle visual sobre edição de quadros chave e fácil sincronização de efeitos.
+O Adobe After Effects 7.0 para Mac OS X 10.3.9 ou 10.4, e Microsoft Windows XP chega às lojas na segunda quinzena de fevereiro. Os preços para a versão completa é de US$ 1.948,00 ou US$ 1.296,00 para a edição padrão.  Os preços de atualizações são de US$ 389,00 e US$ 933,00 para atualizar as edições Padrão e Profissional, respectivamente.
+Para obter mais informações visite o site www.adobe.com/aftereffects. <br><br><hr>
+Data da Publicação: 30/01/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

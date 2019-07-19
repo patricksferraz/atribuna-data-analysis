@@ -1,0 +1,23 @@
+Computadores mais baratos
+<b> Devido à queda do dólar e
+incentivos fiscais do Governo
+Federal, os preços dos
+computadores estão caindo </b><br>
+ <br>
+O preço do computador já caiu 5,2% desde dezembro de 2005 até a segunda semana de maio de 2006. A informação é do Índice de Preço ao Consumidor (IPC), da Fundação Instituto de Pesquisas Econômicas (Fipe). 
+No período de um ano – entre maio de 2005 e abril de 2006 – a queda do preço dos computadores é ainda maior: 16,8%. “Essencialmente, essa queda pode ser explicada pelo fator dólar e pelos incentivos do Governo Federal”, declarou o coordenador do IPC da Fipe, Paulo Picchetti.
+Apesar de serem montados no Brasil, os principais componentes de um computador, como os chips, são importados. Com a queda do dólar, ficam mais baratos e afetam o preço final da máquina.
+Além disso, a MP do Bem isentou de Pis/Cofins (9,25%) as empresas que produzem o Computador para Todos, um PC popular para atender as classes de baixa renda. Com isso, é possível encontrar computadores com preços que começam a partir de R$ 900, sem o monitor.
+Desde que a Fipe começou a medir o item computador no seu índice de inflação, em janeiro de 2000, a queda do preço é de 46,8% até abril de 2006.
+Atualmente, o computador tem peso de 0,04% no orçamento das famílias pesquisadas. O IPC da Fipe pesquisa famílias que ganham até 20 salários mínimos em municípios da Grande São aPaulo.
+
+
+Prepare seu PC para o Vista
+Na última semana, a Microsoft anunciou no web site www.microsoft.com/windowsvista/getready/capable.mspx com informações sobre as exigências mínimas de configurações de hardware para que o Windows Vista, próxima versão do seu sistema operacional, que, segundo Bill Gates, deve ser lançada em janeiro de 2007, funcione.
+A empresa optou por dois tipos de configurações: uma para computadores que rodem versões básicas e outra considerada avançada, para aqueles usuários que vão se aproveitar da nova interface gráfica do Windows Vista, o Aero.
+Os computadores com versões básicas do Windows Vista precisam de um processador com velocidade de pelo menos 800 MHz, 512 MB de memória e um processador gráfico que suporte o DirectX9.
+Para usuários avançados, será necessário uma configuração de um processador de 32 bits ou de 64 bits com velocidade de pelo menos 1 GHz, 1 GB de memória, 128 MB de memória gráfica, 40 GB de espaço no disco rígido com 15 GB de espaço livre, um DVD-Rom e capacidade de acesso à internet.
+Será necessário ainda um processador gráfico que rode o Windows Aero, que a Microsoft define como um processador gráfico que suporte DirectX9 que suporte o Display Driver Model Driver e Pixel Shader 2.0.
+O PC popular do programa de inclusão digital do Governo Federal, em suas configurações básicas, não poderia rodar o novo sistema operacional da Microsoft. <br><br><hr>
+Data da Publicação: 22/05/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,18 @@
+Seminário Open-Source
+<b> Evento vai trazer especialistas
+que vão mostrar a revolução da
+tecnologia Open-Source e seu
+impacto nas organizações </b><br>
+ <br>
+Vitória vai sediar o Seminário Técnico Professional Open-Source Tour Brasil, que está passando pelas principais capitais do País. Gratuito, o evento é uma oportunidade única para diretores, gerentes, supervisores e profissionais da área de TI, interessados na revolução da tecnologia Open-Source e em seu impacto nas organizações. 
+O seminário irá apresentar de forma prática, soluções de produtividade, garantia da qualidade, gestão e segurança para ambientes corporativos de TI, com base no modelo de licenciamento Open-Source Gerenciado, que propicia as vantagens do software livre – redução de custo total de propriedade, liberdade e independência de fornecedores – com a qualidade e repasse de riscos próprios de acordo comerciais. 
+Durante todo o dia, será elaborada e desenvolvida uma aplicação com cinco classes e três Casos de Uso, inteiramente do zero – sem artefatos pré-criados –, passando por todas as suas fases, sempre com utilização de base J2EE Open-Source.
+No programa serão abordados assuntos como Gestão de Requisitos inicial, Modelagem da Solução em UML, Geração de Classes Javas e Desenvolvimento dos Casos de Uso em J2EE, Testes de Unidade, Aceitação e Carga, Liberação para Produção incluindo Segurança, Tunning e Monitoria e Integração com Portal.
+Um dos objetivos do evento é mostrar aos profissionais e dirigentes de TI os motivos que estão levando as grandes corporações a adotarem cada vez mais o modelo de licenciamento Open-Source 2.0.
+Também vão ser abordados durante o seminário os conceitos técnicos, suas principais funcionalidades e os benefícios deste novo modelo.
+Aproveitando os dez anos de criação da tecnologia Java, um outro aspecto importante que também será abordado é a alta produtividade já alcançada no desenvolvimento de aplicações web com esta plataforma, quando usados às práticas recomendáveis e ferramentas adequadas.
+Numa apresentação prática, será mostrada esta alta produtividade bem como a alta qualidade da interface obtida, hoje com resultados superiores ao ambiente Cliente/Servidor.
+As inscrições são gratuitas, mas as vagas são limitadas. Mais informações podem ser obtidas através do telefone 3337-5783.
+O “Seminário Técnico Professional Open-Source” é uma realização da Acrópolis Informática com a PowerLogic. A Acrópolis está no mercado capixaba há cinco anos e atua na área de soluções de TI com qualidade para empresas de médio e grande porte, desde consultoria, diagnóstico e planejamento de tecnologia de informação, passando pelo desenvolvimento de sistemas sob medida, serviços de arquitetura e engenharia de software até a comercialização, instalação e suporte de software próprio e de parceiros. <br><br><hr>
+Data da Publicação: 21/11/2005 - Pagina: 17 <br>
+Editoria: Informática <br><br>

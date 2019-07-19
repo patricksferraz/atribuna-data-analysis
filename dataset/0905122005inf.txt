@@ -1,0 +1,9 @@
+Passeio pela lua
+<b>  </b><br>
+ <br>
+Quer dar uma voltinha na lua? Agora, além de passear pelas cordilheiras, cânions e grandes centros urbanos usando fotos de satélites oferecidas na internet, o usuário poderá dar uma voltinha na lua com as imagens adicionadas ao software World Wind, oferecido pela Nasa (worldwind.arc.nasa.gov).
+O World Wind foi criado inicialmente para permitir ao usuário ver a Terra através de imagens capturadas por satélites. O sistema, que oferece visualização em 3D e traz informações de clima e topografia, ganhou uma nova leva de conteúdo com imagens de nosso satélite natural.
+O material é um apanhado das melhores imagens capturadas pela sonda Clementine, que orbitou ao redor da lua por dois meses após seu lançamento em 1994. A sonda, que ao todo realizou 1,8 milhão de fotos, conseguiu imagens de uma distância de apenas 20 metros da lua.
+Quem cansar dos tons pastéis e da monotonia lunar pode voltar a pesquisar a superfície da Terra, onde é possível aproximar a imagem a uma altura de apenas 15 metros. São 10 terabytes de fotos, inclusive de eventos específicos, como a recente passagem do furacão Katrina pelo território norte-americano. Para baixar o programa é só entar no site. <br><br><hr>
+Data da Publicação: 05/12/2005 - Pagina: 09 <br>
+Editoria: Informática <br><br>

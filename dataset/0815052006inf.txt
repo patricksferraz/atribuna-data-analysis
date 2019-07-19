@@ -1,0 +1,41 @@
+Piratas do ciberespaço
+<b> Os interesses econômicos
+se tornaram prioritários para
+os piratas virtuais, responsáveis
+por 70% das pragas da internet </b><br>
+ <br>
+Durante o primeiro trimestre deste ano, 70% das pragas virtuais estavam relacionada aos golpes financeiros através do furto de dados bancários dos usuários de computador. Os spyware, cavalos de Tróia, bots e discadores foram os tipos de malware mais detectados.
+A informação foi revelada pelo relatório trimestral da Panda. Uma das principais conclusões do estudo é que os interesses econômicos se tornaram prioritários para os piratas virtuais.
+Os números não deixam dúvidas. Do total de malwares detectados pelo serviço on-line gratuito Panda ActiveScan durante o primeiro trimestre, 40% eram spyware, um tipo de código malicioso muito utilizado para conseguir dados pessoais dos usuários de computador, principalmente por intermédio do acompanhamento dos hábitos de navegação dos usuários.
+Por sua vez, os cavalos de Tróia desenvolvidos para o roubo de senhas bancárias e aqueles que podem baixar todo tipo de aplicações maliciosas nos sistemas, denominados “dropper” e “downloader”, já somam 17% do total.
+Os dialers, códigos maliciosos que discam a números telefônicos com tarifas especiais sem o conhecimento do usuário, representam 8% do total. Já os bots, um tipo de praga que funciona como robôs dentro do PC como worms e trojans automatizados, cuja função é se instalar nos equipamentos para realizar a taques de modo automático, significam 4% do total. 
+Outro dado importante, que confirma esta nova dinâmica, é que o tradicional worm de correio eletrônico, até pouco tempo líder no panorama das ameaças na internet, agora representa apenas 4% do total.
+Segundo o CEO da Panda Brasil, Ricardo Bachert, esta queda dos worms se deve ao fato deles serem mais escandalosos que os demais.
+“As epidemias provocadas pelos worms de e-mail não são adequadas para os piratas porque fezem muito ‘barulho’. Atualmente, prevalecem aqueles tipos de praga que podem ser instaladas de forma oculta e silenciosa e permanecer assim por muito tempo nos sistemas, executando suas ações maliciosas”, alerta Ricardo.
+Depois das pragas troianas, os bots têm sido o tipo de ameaça mais detectado, o que indica o crescente interesse dos ciber-delinqüentes por este tipo de código malicioso.
+O informe da Panda também recorre a outros fatos pontuais ocorridos durante o trimestre, mas não menos importante para a segurança. Ele destaca um completo informe sobre a vulnerabilidade WMF do Windows, muito utilizada neste momento pelos criadores de vírus para distribuir suas ameaças. 
+Mais informações no site www.pandabrasil.com.br.
+
+
+Os bárbaros da Copa
+
+Revelar as táticas de jogos das seleções são a nova isca dos criminosos virtuais para enganar os internautas. Com a imaginação cada vez mais fértil para disseminar problemas, os fraudadores virtuais estão longe de dar trégua. Para garantir o sucesso de suas táticas, eles utilizam tudo que podem para atrair o interesse dos usuários, até mesmo dos mais atentos. Por isso, todo cuidado é pouco.
+Na Alemanha, por exemplo, uma agência de investigação criminal identificou um cavalo de tróia que chega ao usuário em forma de link que se instala no computador alegando conter táticas de jogos utilizadas pelas seleções da Copa.
+O e-mail em alemão contém a mensagem “Fussball Weltmeisterschaft 2006 in Deutschland” (Copa do Mundo de 2006 na Alemanha) e o link para o arquivo “googlebook.exe”.
+Ainda que não chegue ao Brasil, esse cavalo de tróia não é o primeiro e, infelizmente, parece que não vai ser o último a tentar a enganar os fãs da copa utilizando nomes de jogadores, instituições e tudo mais que for ligado à disputa.
+“Temos que usar o bom senso. Se tiver dúvidas sobre um anexo, exclua-o, especialmente se vier de uma fonte que você não conheça”, aconselha o consultor de Tecnologia, Ricardo Biccas, da ITNet, empresa que atua no ramo de Segurança da Informação.
+Segundo o especialista, é fundamental verificar os disquetes antes de usá-los e também não compartilhá-los, pois até um amigo bem intencionado pode transmitir um vírus, cavalo de tróia ou worm.
+A instalação de um antivírus confiável é outra dica fundamental. “Este é o passo mais importante que você pode dar para manter o seu computador livre de vírus, cavalos de Tróia, worms e outros códigos maliciosos”, explica Biccas.
+Para aqueles que, mesmo com todos os cuidados, tiveram o computador infectado, a orientação é entrar no site da www.symantec.com.br e procurar o procedimento de remoção do antivírus. Caso você não possua conhecimento técnico, entre em contato com uma empresa especializada para remoção do vírus.
+
+Fique atento
+1. Se tiver dúvidas sobre um anexo, exclua-o, especialmente se ele vier de uma fonte que você não reconheça. Se existirem animações atraentes em um site que pareça muito amador, não faça o download delas. 
+2. Verifique os disquetes antes de usá-los. Isso é sempre importante, especialmente se estiver usando o disquete para carregar informações entre um computador e outro. 
+3. Não faça a inicialização a partir de um disquete, que é uma das formas mais comuns de transmissão de vírus. Se você está usando um disquete enquanto trabalha em seu computador, remova-o quando desligar a máquina.
+4. Não faça download de programas da web de fontes não confiáveis, como grupos de notícias ou sites dos quais você nunca ouviu falar. Eles podem ser fornecedores de vírus. 
+5. Atualize com freqüência seu antivírus. O Symantec possui um recurso que procura por novas definições de vírus todas as vezes que você fica on-line. 
+6. Verifique todos os anexos de e-mail recebidos. Tenha certeza de fazer uma verificação de vírus em cada anexo que planeja abrir. 
+7. Não abra anexos automaticamente. 
+Fonte: ITNet Informática. <br><br><hr>
+Data da Publicação: 15/05/2006 - Pagina: 08 <br>
+Editoria: Informática <br><br>

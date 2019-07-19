@@ -1,0 +1,49 @@
+Cinco novas versões para o novo sistema
+<b> Mais estável e seguro, o Vista vai
+permitir aos usuários escolher qual 
+o perfil do sistema que combina 
+com sua utilização e seu bolso </b><br>
+ <br>
+Pelo menos cinco versões estarão disponíveis para os usuários do Windows Vista. Cada uma delas vai abrigar um perfil diferente, que se adapte a diferentes perfis de usuários, desde o mais simples, centrado apenas na utilização das ferramentas básicas do sistema, até o mais turbinado, próprio para jogadores e desenvolvedores de conteúdo multimídia.
+As versões Vista Business e Enterprise são direcionadas a empresas e possuem, além dos recursos básicos, vários recursos voltados para a Tecnologia da Informação (TI), além de trazer recursos de mídia digital. 
+Já as três versões para o usuário doméstico: Home Basic, Home Premium e Ultimate, procuram aliar não só funcionalidade, como é o caso de sua versão mais simples, como também avançados gerenciamentos de arquivos e recursos avançados de múltimídia nas versões mais avançadas.
+Um dos pontos fortes dos sistema é a praticidade e a interação. Segundo o desenvolvedor de sistemas da Flexwire, Deraldo Meffner, o novo sistema operacional é muito mais fácil de navegar, principalmente porque todas as suas janelas funcionam como um browser.
+“Os menus estão mais simples e intuitivos e o próprio sistema faz o diagnóstico automático do que não está funcionando corretamente, apontando para onde está o erro”, comenta Deraldo.
+O Vista agora pode realizar uma buscar inteligente em um CD ou DVD inteiro ou em diretórios e subdiretórios no disco rígido para encontrar um arquivo específico, sem ter que clicar na pasta específica. Dessa forma, a pesquisa torna-se mais rápida e dinâmica e o usuário não precisa quebrar a cabeça para se lembrar em qual pasta está o arquivo ou programa procurado.
+MUDANÇA
+Quando mudar para o Vista? Essa é a pergunta mais comum do usuário e Meffner avalia que ainda é muito cedo para as pessoas começarem a pensar em mudar o sistema.
+De acordo com Deraldo, há ainda o problema de compatibilidade com outros programas, que a maioria ainda anão possui uma versão definitiva para funcionar no Vista, o que deve levar mais alguns meses.
+
+Saiba mais
+
+Configuração mínima
+•Processador: 800 MHZ
+•Memória: 500 MB RAM
+•GPU: Direct X 9
+•Memória do GPU: 32 MB RAM
+•Capacidade do HD: 20 GB
+•Espaço livre do HD: 15 GB
+•Tipo de HD: Normal
+•Outros Drives: CD-Rom
+Configuração recomendada
+•Processador: 1 GHz
+•Memória: 1 GB MB RAM
+•GPU: Direct X 9 com placa de vídeo Pixel Shader v2.0 e suporte Driver WDDM
+•Memória do GPU: 128 MB RAM até 1280x1024 (excelente desempenho) ou 256 MB para maiores resoluções
+•Capacidade do HD: 40 GB
+•Espaço livre do HD: 15 GB
+•Tipo de HD: Normal, mas memória flash/disco rígido Hibrido recomendado
+•Outros Drives: DVD-Rom
+
+Onde usar o Vista
+
+Para empresas
+•Windows Vista Business – Suporta a interface Aero e inclui vários recursos voltados para gerenciamento de TI, como Fax e Scan, provisão de rede sem fio, backup e recuperação baseados em imagem do sistema e suporte a Group Policy (Diretiva de Grupo). Sem muitos recursos de mídia digital. US$ 299,00 novo ou US$ 199,00 upgrade.
+•Windows Vista Enterprise – Disponível somente para licenças em volume, preço não divulgado. Acrescenta recursos avançados de gerenciamento; um subsistema para aplicativos baseados em Unix e Virtual PC Express. Também não inclui funções de gravação de DVD ou media center.
+
+Para usuários domésticos
+•Windows Vista Home Basic – Oferece controle parental e algumas capacidades de mídia digital, mas não suporta a interface Aero. US$ 199 novo e US$ 99,95 upgrade.
+•Windows Vista Home Premium – Possui todos os recursos de mídia digital e também o Tablet PC e backup agendado de dados do usuário. US$ 239 novo e US$ 159 upgrade.
+•Windows Vista Ultimate – É a versão que abriga todos os recursos, desde os recursos multimídia das edições domésticas anteriores, passando pelos os recursos avançados de gerenciamento de arquivo e rede das versões corporativas. US$ 399 novo e US$ 259 upgrade.  <br><br><hr>
+Data da Publicação: 27/11/2006 - Pagina: 23 <br>
+Editoria: Informática <br><br>

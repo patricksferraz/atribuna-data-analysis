@@ -1,0 +1,22 @@
+OBSERVATÓRIO
+<b>  </b><br>
+ <br>
+Mudanças culturais
+
+Mudanças culturais são percebidas nas grandes cidades brasileiras com o crescimento no número de assinantes da telefonia celular e de acesso à internet em alta velocidade. Em shows musicais, as máquinas fotográficas banidas destes tipos de evento foram substituídas pelos celulares com câmera.
+Pais ficam mais tranqüilos em saber, através do telefone sem fio, a localização de seus filhos. Executivos falam com os familiares pelo telefone enquanto terminam suas apresentações, seja no escritório, em alguma viagem de negócios. Para usuários comuns e entusiastas de tecnologias celulares, a tão comentada convergência das mídias finalmente está ao alcance das mãos com a velocidade de acesso das novas redes. 
+Recentemente disponibilizada no mercado nacional, a tecnologia celular de terceira geração CDMA2000 1xEV-DO, também chamada de CDMA EV-DO, traz inúmeras vantagens tanto para o usuário de entretenimento no celular quanto para as empresas que pretendem equipar seus executivos e seu pessoal de campo.
+No aspecto de diversão, programas de televisão estão sendo criados especialmente para os telefones, download de músicas e trailers dos lançamentos semanais do cinema são oferecidos ao consumidor.
+Assistir a um vídeo no telefone virou realidade. Os trailers dos lançamentos do cinema já estão disponíveis. Enquanto espera a sua vez para comprar o ingresso é possível dar uma conferida nas opções, através da tela do seu celular.
+A conectividade e o acesso a informações 24 horas por dia, sete dias por semana, também já são uma realidade. Seja por motivos profissionais ou pessoais, pode-se escolher entre uma infinidade de dispositivos móveis (celulares, laptops, PDAs) e tecnologias de acesso.
+E é aí que surge a grande pergunta. Por qual optar? Na realidade, não há uma regra entre certo e errado. Deve-se conciliar a melhor tecnologia às necessidades do usuário. Atualmente, tecnologias celulares de terceira geração (3G) otimizadas para dados, como o CDMA EV-DO, provêm acesso sem-fio à internet com desempenho de banda larga.
+A taxa de dados média típica dessa tecnologia gira em torno de 300 a 700 Kbps. Esta performance é inclusive superior a muitas tecnologias de banda larga fixa, oferecendo ao usuário corporativo uma experiência similar à que ele tem hoje no escritório com a rede local cabeada, porém sem a necessidade de fios. 
+Desta forma, um executivo economiza tempo navegando na internet, baixando seus e-mails ou outros arquivos. Para se ter uma idéia, um e-mail de 3 Mbytes ou uma planilha do mesmo tamanho levariam cerca de um minuto para serem baixados utilizando o CDMA EV-DO. E como “tempo é dinheiro”, esta eficiência também é traduzida, naturalmente, em redução de custos.
+Tomemos como exemplo um executivo que, em uma sessão de VPN, baixe algo como 10 Mbytes. Fazendo este acesso através da tecnologia mais avançada disponível no Brasil ele teria uma economia de tempo de aproximadamente 40 minutos, se comparado ao acesso com uma tecnologia como o GSM/GPRS. Multiplicando estes minutos pelo custo da hora de um executivo é fácil concluir o altíssimo retorno para a empresa sobre o investimento na tecnologia.
+Na hora de comparar as tecnologias, não há melhor ou pior, somente a que melhor se encaixa a determinadas necessidades. Soluções de terceira geração, como o CDMA EV-DO, se diferenciam de tecnologias sem fio como o Wi-Fi que, apesar de oferecer taxas de dados similares, não oferece a cobertura de uma rede celular e nem o suporte a mobilidade. Além de não ser necessário procurar um hotspot com acesso Wi-Fi. Tecnologias celulares só necessitam de um contrato com a operadora e possibilitam o uso do serviço em toda área de cobertura.
+A aposta parece ser alta para quem vê as novidades chegarem de maneira tão rápida. Enquanto alguns céticos duvidam da rentabilidade e do poder de comercialização das redes 3G e seus serviços no Brasil, as operadoras de telefonia e os provedores de conteúdo vêem de outra forma.
+Tal como aconteceu com a internet brasileira, em que os jovens batem recordes de permanência on-line mês após mês e são quase os primeiros em todo o mundo a experimentar novos serviços e sites, o celular banda larga terá os mesmos adeptos com as suas mesmas manias tecnológicas e expectativas.
+
+Paulo Breviglieri é diretor de desenvolvimento técnico da Qualcomm no Brasil <br><br><hr>
+Data da Publicação: 24/04/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

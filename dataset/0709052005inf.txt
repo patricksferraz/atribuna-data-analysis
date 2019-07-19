@@ -1,0 +1,13 @@
+Vírus ataca torcedores
+<b> A praga virtual chega em mensagens em inglês e alemão, prometendo entradas gratuitas para a Copa do Mundo de 2006 </b><br>
+ <br>
+Um novo vírus está circulando na web camuflado como um e-mail que promete ingressos para a Copa do Mundo de 2006, na Alemanha. A praga foi identificada como um dos vírus mais propagados dos últimos tempos, chegando próximo a 67% de todos os vírus reconhecidos pelas estações de monitoramento da Sophos ao redor do mundo.
+A Sophos, fornecedora de soluções antivírus e anti-spam, alerta que seus especialistas detectaram a nova versão do vírus Sober. A praga bilingüe pode viajar por e-mails de ambas as línguas, inglesa e alemã, como um arquivo anexo malicioso.
+O verme Worm_Sober.S pode usar uma variedade de linhas de assuntos e corpos de mensagens, e quando enviado em alemão, pode se passar por um e-mail da Fifa (Associação Internacional de Futebol), dizendo que o destinatário ganhou entradas gratuitas para a Copa do Mundo de 2006.
+Se o usuário abrir o arquivo anexado, o vírus vai gerar mensagens de e-mail em massa para outros endereços, transportando a praga.
+Devido à quantidade de e-mails que podem ser enviados pelo verme virtual, os usuários do computador podem achar que suas caixas de e-mails estão lotadas e empresas infectadas podem perceber que seu serviço de e-mail está mais lento.
+“O criador deste vírus está tirando vantagem da popularidade da Copa do Mundo, reconhecendo que fãs e fanáticos por futebol ficarão tentados a acreditar que realmente ganharam ingressos para um dos maiores eventos esportivos do mundo,” comenta o analista sênior de segurança da Sophos, Gregg Mastoras.
+Mas esta não é a primeira vez que um vírus usa o torneio internacional de futebol para poder se espalhar. Em 2002, o vírus Chick-F tentou se aproveitar das últimas notícias sobre a Copa do Mundo na Coréia do Sul e Japão, camuflado de placar de pontuação dos times.
+Em 1998, nos dias anteriores à Copa do Mundo na França, um outro vírus, baseado em futebol, pedia às vítimas infectadas que fizessem uma aposta no time que elas acreditavam que ganharia a competição, e se o usuário não escolhesse o time correto, o vírus apagava todas as informações do HD do computador infectado. <br><br><hr>
+Data da Publicação: 09/05/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

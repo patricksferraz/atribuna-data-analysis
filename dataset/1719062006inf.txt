@@ -1,0 +1,17 @@
+Executivo do Earth  no Brasil
+<b> Palestra de Michael Jones
+terá como tema o impacto das
+imagens de satélite e mapas virtuais
+no mercado da geoinformação </b><br>
+ <br>
+O chefe de tecnologia do Google Earth, Maps and Local, Michael Jones, é uma das presenças confirmadas para o GEOBrasil Summit 2006. Ele estará no evento no dia 19 de julho, para apresentar uma palestra que traz como tema o impacto das imagens de satélite e mapas virtuais no mercado da geoinformação, além de falar sobre as novidades que a companhia prepara para essa área.
+Na parte da tarde haverá um debate sobre o tema com profissionais brasileiros, que irão avaliar as novas possibilidades de negócios para o setor de geotecnologias.
+A versão 4 do Google Earth já está disponível para download em fase beta. A principal novidade está na interface, que está mais bonita e com atalhos rápidos para adicionar bookmarks. 
+Os controles de inclinação do mapa e altitude também foram modificados, sendo mostrados diretamente no mapa, bastando para isso mover o mouse para o canto superior direito. Mas, a principal novidade para os brasileiros são os novos mapas detalhados do serviço, que incluem várias cidades do Brasil, como Salvador e Juiz de Fora. 
+A nova versão do Google Earth possibilita a utilização de novos tipos de arquivos de camadas. Com os novos arquivos KML é possível ver prédios em 3D com texturas, carregar um mapa de informação geográfica, como, por exemplo, dados de relevo, vegetação ou temperatura.
+Com esta nova função, também pode-se ver paisagens históricas, como a cidade de São Francisco, nos Estados Unidos, em 1946. 
+O Google também lançou o programa em italiano, francês, alemão e espanhol, além de uma versão para Mac OSX e, pela primeira vez, para Linux. Dados em 3D de picos, vales e cânions também foram atualizados para parecerem mais realistas. 
+O GEOBrasil Summit é o maior e mais completo evento de geoinformação da América Latina, organizado e promovido pela Alcantara Machado, de 18 a 20 de julho, no Centro de Exposiões Imigrantes, em São Paulo. 
+Mais informações podem ser obtidas no site www.geobr.com.br. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

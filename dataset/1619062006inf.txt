@@ -1,0 +1,39 @@
+Cursos para profissionais de TI
+<b> ISA Server 2004 e
+SQL Server 2005 são
+temas de dois treinamentos
+que acontecem em julho </b><br>
+ <br>
+Novidade no mercado, o mais completo produto de base de dados e análise, o SQL Server 2005 da Microsoft, é tema de um curso promovido pela Mindworks no próximo mês. O sistema é utilizado pelas empresas para a geração de soluções dimensionáveis de comércio eletrônico e de armazenamento de dados.
+O treinamento SQL Server 2005, dividido em nove módulos, fornece o conhecimento e as habilidades que os profissionais de Tecnologia da Informação (TI) precisam para instalar, configurar, implementar segurança e efetuar a manutenção de servidores e bancos de dados do Microsoft SQL Server 2005 em um ambiente empresarial. 
+Com o tema “Atualizando os Conhecimentos de Administradores de Banco de Dados para o Microsoft SQL Server 2005”, o curso abordará conteúdos como introdução à arquitetura do SQL Server 2005; instalando SQL Server 2005; ferramentas administrativas, monitoramento e segurança no Microsoft SQL Server 2005; mantendo bancos de dados e índices e recuperação de desastres, entre outros.
+Para se inscrever no curso, o aluno deve ser MCDBA certificado ou possuir conhecimentos equivalentes, ter experiência na administração de SQL Server 2000 ou SQL Server 7.0, banco de dados, base de dados e arquitetura, instalação e configuração, segurança e recuperação das bases de dados e tecnologias usadas para disponibilidade de banco de dados.
+Outro pré-requisito é ter conhecimento em automação de jobs, monitoramento de servidor e base de dados e resolução de problemas.
+Outro curso oferecido pela Mindworks para profissionais de TI interessados em buscar novas especializações é o “Implementing Microsoft Internet Security and Acceleration Server 2004”, o ISA Server 2004,  que será ministrado a partir de 10 de julho no período noturno.
+O aluno vai aprender conhecimentos e ferramentas necessários para gerenciamento e instalação do ISA Server. 
+O treinamento, que tem duração de 40 horas, é ministrado em dez módulos dentre os quais os alunos aprendem desde a visão geral do Microsoft ISA Server 2004, até o monitoramento e a criação de relatórios do sistema. 
+Mais informações no site www.mindworks.com.br.
+
+
+iPod também é cultura
+O governador Paulo Hartung fala sobre o jovem e a carreira política, uma economista que decidiu apostar no mercado de petróleo conta suas experiências bem-sucedidas, professores respondem perguntas sobre vida profissional e áreas em alta em cada carreira, o ex-prefeito Luiz Paulo Vellozo Lucas aborda o tema empreendedorismo.
+Esses são só alguns exemplos das entrevistas já disponíveis no PodVix, o primeiro podcasting do Estado, produzido pela Univix Faculdade Brasileira. Recém-lançado, o sistema já disponibiliza no site da faculdade (www.univix.br) 15 entrevistas sobre temas variados.
+Funciona assim: o interessado pode ouvir a entrevista – que, em geral, dura até 15 minutos – no próprio computador, acessando o site da Univix ou baixando os arquivos num tocador de MP3 para ouvir enquanto dirige, caminha na praia ou quando achar mais oportuno.
+Numa linguagem leve e dinâmica, as entrevistas procuram aproximar o mundo acadêmico dos “simples mortais”, por meio de uma linguagem leve, dinâmica e descontraída.
+O PodVix é uma realização do marketing da Univix e o objetivo fundamental da idéia é disseminar o conhecimento produzido na faculdade.
+“Além disso, buscamos cada vez mais interagir com nosso público, que é predominantemente jovem e está sempre atento às novidades tecnológicas”, explica o superintendente de marketing da faculdade, Leandro Sponfeldner. Ele explica que a faculdade montou uma ilha de produção e edição, onde são gravadas as entrevistas.
+
+
+Maes ganha acervo informatizado
+O Museu de Artes do Espírito Santo (Maes), está informatizando todo o seu acervo. Estão sendo reunidas, num único banco de dados, mais de 500 obras que poderão ser pesquisadas por biografia de autores, título, temas, local e data de produção, dimensões, estado de conservação, material e técnica, possibilidade do uso de imagens, entre outros.
+O trabalho está sendo feito por meio do Programa de Informatização Donato, cedido pelo Museu Nacional de Belas Artes (MNBA), do Rio de Janeiro. Em todo Brasil, poucos museus possuem esse software.
+A pesquisa ao acervo do Maes estará a disponível ao público na biblioteca do museu no início do segundo semestre do ano que vem para consulta dos seus usuários.
+O endereço do Maes na internet é www.maes.es.gov.br.
+
+
+Aulas de informática aos domingos
+A Data Control está oferecendo cursos de informática nas áreas de capacitação administrativa, comunicação, web design, web master, programação, projetos, Linux e internet express aos domingos.
+A iniciativa visa atender às pessoas que não têm tempo de fazer cursos durante a semana e desejam se capacitar para o mercado de trabalho.
+As vagas estão abertas em todas as filiais da Data Control, localizadas em oito municípios do Espírito Santo: Vitória, Vila Velha, Serra, Cariacica, Guarapari, São Mateus, Linhares e Aracruz. Informações e inscrições no telefone 3324- 6688 ou em www.datapoint.com.br. <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 16 <br>
+Editoria: Informática <br><br>

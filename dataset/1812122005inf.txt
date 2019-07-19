@@ -1,0 +1,28 @@
+Recorde de pragas
+<b> De cada 44 e-mails que circulam na rede,
+um está contaminado com ameaças eletrônicas </b><br>
+ <br>
+O ano de 2005 registrou número 48% maior de novas ameaças que 2004. A informação foi revelada na última semana pela empresa de segurança Sophos, com especial destaque para as pragas Zafi.D, Netsky.P e Sober.Z.
+Segundo a Sophos, 15.907 novas pragas foram detectadas entre janeiro e novembro deste ano, contra as pouco mais de 10.700 encontradas em 2004.
+“Esse enorme crescimento surgiu do crescente interesse das gangues criminais em criar cavalos-de-tróia, vermes e vírus com intuito de fazer dinheiro ilegalmente”, explica o pesquisador da Sophos, Graham Cluley. 
+“Ao focar os seus esforços em um número menor de vítimas, os cibercriminosos podem alvejar internautas com programas maliciosos feitos sob medida, aumentando as chances de conseguir invadir uma rede protegida”, alerta Grahan.
+Entre as pragas mais disseminadas, diz a Sophos, o húngaro Zafi.D foi eleito o vírus mais ativo do período, com 16,7% do total de detecções, enquanto o Netsky.P ficou na segunda posição, com 15,7%.
+O estudo revela também que a taxa de e-mails infectados circulando pela web ficou, em média, em uma a cada 44 mensagens. Em épocas de grande infestação da rede, porém, essa taxa chegou a um em cada 12 e-mails.
+Outro dado interessante divulgado pela Sophos é que o número de cavalos-de-tróia criados durante 2005 superou o número de worms em quase dois para um. Além disso, a porcentagem de programas maliciosos que incluíam componentes de espionagem aumentou de 54,2% em janeiro para 66,4% ao final deste ano. 
+O estudo da Sophos revela também que, durante o ano, um computador equipado com sistema operacional Windows sem as últimas atualizações de segurança tinha 40% de chances de ser infectado por um worm e, conseqüentemente, capturado para uma rede zumbi de PCs.
+Quanto ao spam, ou e-mails indesejados de propaganda, o maior emissor mundial continua a ser os Estados Unidos.
+
+Os dez mais
+
+1 - W32/Zafi-D 16,7% 
+2 - W32/Netsky-P 15,7% 
+3 - W32/Sober-Z 6,0% 
+4 - W32/Sober-N 4,3% 
+5 - W32/Zafi-B 4,0% 
+6 - W32/Mytob-BE 3,9% 
+7 - W32/Mytob-AS 3,8%
+8 - W32/Netsky-D 3,0% 
+9 - W32/Mytob-GH 1,9% 
+10 - W32/Mytob-EP 1,8% <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 18 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,12 @@
+Brasil é destaque em fraudes por e-mail
+<b>  </b><br>
+ <br>
+O Brasil, apesar de aparecer apenas na nona posição, teve atenção especial do relatório mensal da Anti-Phishing Working Group (APWG) em razão do número de phishing scams que procuravam roubar dados financeiros de correntistas de bancos do País.
+Segundo o relatório nos meses de fevereiro e março deste ano foram encontradas 13.353 diferentes mensagens fraudulentas, enquanto o número de sites hospedando esquemas de phishing cresceu 6,9%, chegando a 2.870 ao final de março. Já o número de marcas de empresas utilizadas nos golpes cresceu de 64 para 78.
+Os Estados Unidos continuam a ser os líderes de hospedagem de sites fraudulentos, com 34% do total de detecções, seguidos pela China (incluindo Taiwan e Hong Kong), 12%, e Coréia do Sul, 9%.
+Apesar de contabilizar um número estável de golpes únicos, o APWG afirma que os esquemas para captura de dados pessoais e financeiros estão ficando cada vez mais sofisticados.
+No total, foram encontrados de oito a dez novos tipos de cavalos-de-tróia por semana, hospedados em cerca de cem sites pela web. A principal característica das pragas é o keylogging, ou seja, captura de dados digitados no teclado.
+A principal recomendação do grupo é não abrir mensagens com aparência duvidosa, que oferecem um link para baixar programas e outros arquivos suspeitos.
+No Brasil, por exemplo, os bancos mantêm uma política de não enviar mensagens solicitando dados de seus correntistas sem a expressa autorização do usuário. É recomendável manter também um software antivírus sempre atualizado no sistema. <br><br><hr>
+Data da Publicação: 09/05/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

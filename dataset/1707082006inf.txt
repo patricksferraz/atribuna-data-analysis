@@ -1,0 +1,38 @@
+Fantasma ronda o MSN
+<b> Um worm que se propaga
+através do Messenger envia 
+mensagens de um suposto
+vídeo para a lista de contatos  </b><br>
+ <br>
+Uma nova ameaça virtual está assombrando o mundo virtual. Ela mal chegou e já fez muitos estragos, uma ocorrência comum entre as pragas criadas para executar crimes na internet.
+O PandaLabs registrou nos últimos dias um grande número de ocorrências do BlackAngel, um worm que vem se propagando através do mensageiro instantâneo da Microsoft, por intermédio de uma nova variante B.
+A praga envia mensagens para a lista de contatos dos usuários do MSN, fazendo-se passar por um vídeo intitulado “Fantasma”.
+Ao ser executado, ele mostra na tela do usuário uma imagem com texto “on the 1st day you get scared, on the 2nd you get desperate, on the 3rd you look for help and on the 4th you die” – traduzindo para o português “no primeiro dia você se espanta, no segundo se desespera, no terceiro busca ajuda e no quarto, você morre.
+Ao ser executado, o BlackAngel.B realiza uma série de modificações no sistema. Entre elas, a finalização dos softwares de proteção antivírus, firewall e outros, com a finalidade de evitar a sua detecção.
+Além disso, tenta fechar todas as aplicações administrativas para impedir que o usuário possa utilizar o sistema operacional, incluindo o administrador de tarefas do Windows, painel de controle, editor de registro, configuração de sistema e restauração de sistema.
+Para se propagar em todos os contatos do MSN Messeneger, a variante bloqueia uma janela do mensageiro e evita que o usuário possa acessá-lo.
+A partir desta janela, a praga inicia o envio da mensagem “jaja look a that” (veja este vídeo) e aciona um endereço web no qual descarrega uma cópia de seu exemplar para o computador que está sendo atacado.
+Portanto, a prevenção é fundamental. Para verificar e eliminar este vírus, uma dica é acessar o serviço gratuito ActiveScan da Panda no endereço www.pandabrasil.com.br.
+
+Empresas apresentam falhas
+O medo de ataques virtuais é cada vez maior em ambientes corporativos. Afinal, apenas um ataque que seja pode causar inúmeros prejuízos, paralisar atividades importantes e assim por diante.
+No entanto, mesmo com toda a preocupação, a adoção de medidas de segurança parece que não tem sido suficiente. Uma auditoria realizada pela empresa de segurança inglesa NTA Monitor revelou que 61% das firmas pesquisadas possuem sistemas falhos, com ao menos uma vulnerabilidade de alto risco.
+O problema permitiria, portanto, que um hacker ganhasse acesso ao sistema ou derrubasse seus servidores através de ataques DoS (Denial Of Service). 
+Segundo o site The Register, a pesquisa foi realizada junto a empresas inglesas e internacionais. De acordo com o estudo, o maior número de falhas foi encontrado no setor de Educação, com uma média de 61 vulnerabilidades por teste. Em segundo lugar ficaram os servidores governamentais, com 26 brechas encontradas a cada teste. 
+A NTA Monitor ainda fez recomendações de como as empresas podem se resguardar de possíveis ataques. Entre as dicas inclui-se a aplicação contínua de atualizações de segurança, disponibilizadas de tempos em tempos pelos criadores dos sistemas operacionais em uso.
+Mais informações sobre a NTA e também sobre segurança, podem ser encontradas em inglês no site da empresa, no endereço nta-monitor.com.
+
+
+Expediente
+Produção
+Dinâmica de Comunicação
+3322-7911
+Jornalista responsável
+Fabiana Pizzani
+Colaboração
+Marília Linhalis
+Editora adjunta
+Alessandra Tonini
+e-mail: informatica@redetribuna.com.br <br><br><hr>
+Data da Publicação: 07/08/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

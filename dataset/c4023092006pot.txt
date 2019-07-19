@@ -1,0 +1,10 @@
+Sites mostram os locais de votação
+<b>  </b><br>
+ <br>
+Eleitores de todo o País podem consultar no site do Tribunal Superior Eleitoral (TSE) seu locais de votação nas eleições gerais de 1º de outubro. 
+As informações também podem ser obtidas para os locais de votação de todo o Estado no site do Tribunal Regional Eleitoral (TRE) www.tre-es.gov.br
+Ao acessar o portal do TSE (www.tse.gov.br), o eleitor deve clicar na opção “Serviços ao Eleitor”, para saber em qual seção eleitoral vai digitar seus votos para os cargos de presidente, governador, senador e deputados federal e estadual (ou distrital).   
+Depois de acessar “Serviços ao Eleitor”, é preciso clicar na segunda opção constante da página, “Consulta ao Título de Eleitor e Local de Votação”. 
+Dentro dessa opção, o eleitor deve digitar os 11 números do seu título eleitoral e, abaixo deste, um código de segurança com seis caracteres do TSE para saber o exato local onde terá que votar. <br><br><hr>
+Data da Publicação: 23/09/2006 - Pagina: 40 <br>
+Editoria: Política <br><br>

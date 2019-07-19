@@ -1,0 +1,22 @@
+Windows Vista vai chegar às lojas em 30 de janeiro
+<b>  </b><br>
+ <br>
+Após muitos atrasos e adiamentos, o o novo sistema operacional da Microsoft Windows Vista chegará às lojas em 30 de janeiro de 2007, afirmaram diretores da empresa. Inicialmente, o lançamento do Windows Vista estava previsto para 2005, quando foi duas vezes adiado para 2006, até ter seu lançamento finalmente marcado para o começo de 2007. 
+O novo sistema, que será a primeira atualização do sistema operacional Windows nos últimos cinco anos, será lançado oficialmente em 30 de novembro, quando será recebido pelo mercado corporativo em uma cerimônia em Nova Iorque, mas só chegará às lojas dois meses depois. 
+A última versão do Windows, sistema operacional usado por 90% dos computadores no mundo, custará entre US$ 100 (R$ 214,50) e US$ 259 (R$ 555,7) para os que já tiverem o Windows XP, a versão anterior. 
+O novo sistema promete diversas mudanças, desde os joguinhos até a forma de o usuário interagir com o computador.
+No caso dos jogos, já se sabe que o layout será bem diferente. O de xadrez, por exemplo, terá uma visão em 3 D que animou os programadores que testaram o programa.
+As mudanças mais interessantes, porém, são reservadas às versões “‘premium’“, muito mais caras que o Windows XP. O que mais se destaca é seu novo aspecto gráfico, com janelas transparentes, batizado de Windows Aero. 
+Além disso, há funções melhoradas de busca interna no PC, um software mais sofisticado de leitura de música e vídeo (Windows Media Center) e uma nova versão do navegador Internet Explorer, que permite buscas múltiplas paralelas na internet de uma mesma janela e a possibilidade de um controle parental de navegação na internet, entre outras novidades.
+O Vista também incorpora o Windows Tablet PC, que permite usar uma tela sensível ao tato ao invés do teclado, uma agenda interativa, a possibilidade de se dar ordens ao computador por comando de voz, um sistema melhorado contra os ataques de hackers e de “spyware”, e um programa de cópia e gravação de DVD e montagem de vídeos.
+Mas os analistas não parecem seduzidos. “O Vista de fato concorre com o XP, que já é um bom projeto. Os usuários podem optar por ficar com o XP”, disse Joe Wilcox, analista do Jupiter Research. 
+
+Segurança contra vírus
+
+Durante uma coletiva por telefone com repórteres americanos, Jim Allchin, co-presidente da Microsoft, afirmou que as novas implementações de segurança do Windows Vista são de tão alta qualidade que o sistema operacional dispensa a necessidade de softwares antivírus. 
+Em tempo: Allchin disse que se sente seguro deixando o próprio filho de sete anos navegar em seu PC apenas com o suporte do Vista.
+O comentário veio em resposta a uma pergunta sobre qual era o seu nível de confiança de que o novo sistema operacional seria mais seguro do que o Windows XP SP2, atual versão do OS da Microsoft. 
+Allchin disse que o sucesso do Vista nesta área se deve, em parte, ao fato de que algumas funções-chaves que foram adicionadas ao sistema eram implementações que seus engenheiros tentaram fazer com o XP, mas não conseguiram.
+“Vou exemplificar: Aminha função favorita do Vista, chama-se ASLR (Address Space Layout Randomizations). O que ela faz é garantir que cada computador equipado com Vista seja ligeiramente diferente de todos os outros. Assim, ainda que haja uma invasão remota de uma máquina, através de um worm por exemplo, a probabilidade de que ele tenha sucesso é muito pequena. E eu queria ter feito isso com o SP2, mas não descobrimos como”, afirmou ele. <br><br><hr>
+Data da Publicação: 11/11/2006 - Pagina: 41 <br>
+Editoria: Esportes <br><br>

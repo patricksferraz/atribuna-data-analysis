@@ -1,0 +1,33 @@
+Arma contra espiões
+<b> Empresa de segurança
+disponibiliza versões gratuitas
+de produtos anti-spyware que
+verificam se o micro está infectado </b><br>
+ <br>
+Referência mundial em segurança da informação, a McAfee está à frente de uma iniciativa global contra os spywares. O objetivo da iniciativa é conscientizar os usuários de computadores sobre os riscos que este tipo de ameaça e outros PUPs – programas potencialmente indesejáveis – representam.
+Além de ampliar a conscientização, a iniciativa da McAfee também está instruindo os usuários, fornecendo dicas para evitar possíveis infecções por este tipo de ameaça.
+De acordo com o estudo “State of Spyware”, realizado pela empresa Webroot, praticamente nove em cada dez máquinas em todo o mundo têm algum spyware, ou software espião. O informe se baseou em dados estatísticos e análise de mais de um milhão de computadores de usuários domésticos e 35 mil máquinas corporativas. 
+Exatos 88% dos PCs analisados apresentaram diversas formas de spyware. O estudo analisou ainda 4,25 mil sites que contêm, no total, 89,8 mil páginas desenhadas especialmente para infectar os computadores visitantes com software espião.
+A Webroot diz que os crimes cibernéticos devem aumentar fortemente em 2006, e que os programas espiões e os trojans serão as ferramentas mais usadas por crackers mal-intencionados. 
+Outro estudo, realizado pela National Cyber Security Alliance (NCSA), aponta que, nos Estados Unidos, 80% dos computadores estão infectados com spywares.
+Mais uma pesquisa, realizada pelo Ponemon Institute, revela que 42% dos usuários de computadores infectados com spywares não têm idéia de como os spywares podem entrar em seu micro.
+Os usuários que visitarem o site www.mcafee.com/stopspyware poderão baixar uma versão de teste gratuita da solução McAfee VirusScan Plus AntiSpyware. O produto varre o sistema em busca de programas indesejados e exclui aqueles que forem encontrados.
+Embora os perigos de vírus, cavalos de Tróia e spans sejam bastante conhecidos, o spyware continua sendo um conceito confuso para muitos usuários.
+Na prática, este tipo de ameaça monitora o uso do computador e os hábitos de navegação do usuário infectado. Isso inclui monitorar o pressionamento de teclas, rastrear o histórico de internet e transferir informações confidenciais.
+Em muitos casos, os PUPs são baixados em um computador sem o conhecimento do usuário, simplesmente como resultado de uma visita a um site ou de uma instalação de um software gratuito. 
+No ano passado, o número de ameaças de PUPs cresceu significativamente e agora é uma das maiores ameaças de segurança de TI. De acordo com a Enterprise Security Survey, o spyware hoje é considerado a segunda maior ameaça à segurança de redes corporativas. O IDC acredita que mais de três quartos de todas as máquinas corporativas estão infectadas com diversas formas de spywares.
+“Com essa iniciativa, esperamos conscientizar os usuários de que essa é uma séria ameaça, da qual eles devem se proteger“, afirma o diretor de marketing de produto da McAfee, Steve Crutchfield.
+O spyware também contribui para a crescente ameaça de roubo de identidade. Ao rastrear os movimentos das pessoas que estiverem on-line e monitorar o pressionamento de teclas, é possível roubar senhas para serviços de banco on-line, por exemplo. Vários criminosos usam os spywares para assumir a identidade on-line das pessoas e cometer fraudes. 
+Para obter mais informações sobre a iniciativa Spywares McAfee, visite o site www.mcafee.com/stopspyware.  
+
+Usuários não têm consciência
+
+Uma pesquisa da National Cyber Security Alliance e da America Online identificou que 81% dos computadores domésticos têm falhas graves de segurança. Segundo o estudo, esse percentual representa os computadores que não têm pelo menos um de três tópicos críticos de segurança: um antivírus, um firewall e um anti-spyware, todos atualizados.
+Nesse grupo, 56% não tem nenhum antivírus ou não o atualizou nenhuma vez nos últimos sete dias, enquanto 44% não tem um firewall atualizado e configurado corretamente. Na luta contra o spyware, a situação é um pouco melhor, mas ainda preocupante: 38% dos usuários não tem nenhum sistema para coibir os programas espiões.
+“Apesar de muitos consumidores acreditarem que estão protegidos, esse estudo mostra o oposto. “Muitas pessoas ainda não têm essas proteções fundamentais para estar on-line com segurança”, afirma o diretor-executivo do National Cyber Security Alliance, Ron Teixeira.
+Apesar do cenário desolador, a mesma pesquisa aponta que a porcentagem de usuários domésticos com pelo menos antivírus e firewalls atualizados vem crescendo. 
+O melhor exemplo é justamente nesse segundo, em bom funcionamento em 56% dos computadores, contra apenas 28% há um ano. Essa melhora foi atribuída, pelos pesquisadores, ao firewall que faz parte do Windows XP Service Pack 2. 
+O mesmo estudo aponta que um em cada quatro internautas é alvo de ataques de phishing – tentativa de obtenção de dados pessoais, como senhas bancárias –, seja por e-mail ou por telefone. O principal problema é que, segundo o relatório, 70% dos usuários que recebem esse tipo de comunicado, acreditam que eles venham genuinamente das empresas que afirmam representar, como bancos ou provedores de acesso.
+“A maioria dos internautas não é capaz de dizer a diferença entre e-mails verdadeiros e  scams que levam a fraude e roubo de identidade”, afirma a vice-presidente da AOL, Tatiana Platt. <br><br><hr>
+Data da Publicação: 02/01/2004 - Pagina: 04 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,21 @@
+Universidade para hackers
+<b> Para ser admitido no curso
+de Ética Hacker aluno tem
+que provar que usará seus
+conhecimentos para o bem </b><br>
+ <br>
+O novo curso de Ética Hacker da Universidade de Abertay, na Escócia, investigará o passado de seus alunos antes de permitir que os mesmos integrem o grupo que passará pelos quatro anos de aulas.
+De acordo com o site The Register, a faculdade quer se certificar de que cada um dos hackers formados pelo novo curso usará as informações e conhecimentos obtidos apenas para o bem, como por exemplo, na defesa de redes de escritórios contra possíveis invasores.
+A ficha criminal de cada um dos alunos que tentarão entrar no curso disponível a partir de setembro de 2006 será examinada e, caso algo irregular seja constatado, a matrícula será negada.
+O assessor da faculdade afirmou que o procedimento não é normal, mas as circunstâncias pedem que tal atitude seja tomada com relação ao novo curso. 
+Para o professor responsável pela nova formação, Lachlan McKinnon, os alunos que passarem pelo treinamento serão hackers habilidosos. Mas, segundo o professor, a única forma de realmente garantir que um computador esteja seguro é desligando-o.
+“Monitoraremos nossos estudantes de perto porque queremos que sejam hackers com ética, mas nada é garantido. Basta ver o caso de Harold Shipman, que se qualificou como médico, mas depois disso decidiu virar um assassino.
+QUADRILHAS DIGITAIS
+A alta participação de pragas digitais que visam lucro financeiro, como ataques de phishing e pharming e spywares e pragas espiãs ilustram a mudança de perfil dos hackers responsáveis pelo ataques.
+Segundo a consultoria Deloitte Touche Tohmatsu, ao invés de ameaças desorganizadas promovidas pelas chamadas “scripts kids” – adolescentes que encontram códigos maliciosos na web e atacam sites sem qualquer intenção financeira –, o crescimento da participação de pragas extorsivas indica a maior participação de quadrilhas digitais, organizadas para ganhar dinheiro com os ataques.
+Segundo o estudo 2006 Global Security Survey, divulgada pela consultoria Deloitte, o número de instituições financeiras de alcance global que sofreram ataques de segurança externos à sua rede triplicou durante o ano de 2005,
+A pesquisa relata que 78% das 73 companhias com as quais a pesquisa foi conduzida – como bancos, seguradoras e instituições financeiras – contam que foram atacadas por vírus, spywares ou cavalos-de-tróia, contra 26% no ano anterior.
+O número de ataques internos causados por funcionários também cresceu, dos 35% registrados em 2004 para 49% durante 2005. Infecções com vírus e worms aparecem na primeira posição tanto no ranking de ataques externos como no de internos, com incidência de 63% e 31% entre as companhias, respectivamente.
+Entre os entrevistados, 99% declararam usar antivírus, 67%, ferramentas de monitoração de conteúdo e 50% admitiram utilizarem tokens de certificação digital em seus sistemas internos. <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

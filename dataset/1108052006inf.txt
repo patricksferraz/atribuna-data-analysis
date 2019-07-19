@@ -1,0 +1,21 @@
+Os perigos do VoIP
+<b> Empresas devem ficar atentas
+às vulnerabilidades dos sistemas,
+ataques e possibilidades de
+roubo de informações </b><br>
+ <br>
+Líder mundial em soluções de proteção da informação, a Internet Security Systems (ISS) está alertando as empresas para os perigos e as ações preventivas necessárias para a implementação e uso da tecnologia VoIP nas companhias.
+Com isso, empresários que buscam redução de custos, melhoria dos processos e a convergência de suas redes, devem prestar especial atenção para a segurança das suas informações e das chamadas telefônicas, na adoção da infra-estrutura VoIP.
+“O que muitos executivos não percebem é que a rede VoIP utiliza a mesma infra-estrutura de uma rede de dados, logo é tão vulnerável quanto a última. Se um hacker consegue acesso não permitido, além de poder derrubar a central de chamadas telefônicas da empresa, ele pode ouvir as conversas ou mesmo usar a rede para atacar outros locais”, alerta o presidente da ISS no Brasil, Rogério Morais.
+Para o executivo, esta conscientização é essencial para o crescimento do uso da tecnologia no País. Entre as razões pelas quais se preocupar, os especialistas do X-Force destacam que os problemas residem na visão das empresas que, na implementação da tecnologia, sempre se interessam mais com a qualidade do serviço e estrutura, deixando a segurança em um segundo plano.
+Além disto, é importante lembrar que as ligações em VoIP são consideradas como dados pelo sistema e enviadas em pacotes de informações. Logo, problemas como vírus, worms, trojans e Denial of Service (DoS) também podem impactar nestas redes, inclusive com o roubo de informações.
+Outro ponto importante é que a maioria das empresas permite que os sistemas e aplicações de suporte sejam instalados com a configuração default da ferramenta, a qual admite pouca ou nenhuma segurança, resultando que os sistemas fiquem vulneráveis assim que estiverem funcionais. Os ataques podem expor as informações dos funcionários, da empresa e de clientes.
+Mais informações no site www.iss.net.
+
+Saiba mais
+Denial of Service (DoS) – É o mais simples e comum tipo de ataque nos terminais VoIP. O hacker pode simplesmente bombardear a aplicaão que completa as chamadas ou o sistema de gerenciamento, com um número de pedidos simultâneos, que a ferramenta não conseguirá processar.
+Fraude e roubo – O ataque pode simplesmente ser pelo acesso de um usuário não autorizado, que ganhará privilégios no sistema, como autorizar a realização de chamadas de longa distância. Este é um ataque que pode ser particularmente caro, se o invasor tiver acesso para realizar, por exemplo, chamadas internacionais sem controle.
+Escuta clandestina – Permite a conversão pelos hackers dos pacotes de dados para arquivos formato WAV, possibilitando a escuta das conversas.
+Phishing – As mesmas técnicas usadas pelo phishing no e-mail podem ser empregadas nas redes VoIP. Como, por exemplo, funcionários recebendo ligações requisitando informações pessoais ou da companhia, usando um telefone e nomes legítimos de um colaborador da empresa. <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,15 @@
+É melhor prevenir
+<b> Aumenta o número de empresas capixabas que estão
+controlando o conteúdo dos e-mails de seus funcionários </b><br>
+ <br>
+A venda de softwares de controle e proteção de correio eletrônico corporativo tem aumentado no Espírito Santo. Esse crescimento foi acentuado após a divulgação do caso ocorrido com o funcionário do HSBC Seguros Brasil, demitido por justa causa por enviar fotos pornográficas pelo e-mail empresarial, aos seus companheiros de trabalho.
+A partir desse caso, a justiça decidiu que as empresas podem controlar as mensagens que seus empregados enviam ou recebem, alegando que o e-mail é uma ferramenta de trabalho e não deve ser utilizada para outras finalidades. 
+Segundo a gerente comercial da Mindworks, Simone Destefani, “as vendas de programas de controle e proteção de correio eletrônico aumentaram cerca de 30% após a divulgação do caso HSBC. A procurra pelos cursos de formação sobre esse tipo de software também cresceu significativamente”.
+O programa mais procurado na empresa é o InterScan Messaging Security Suíte - IMSS, da Trend Micro, líder mundial nos segmentos de segurança de redes e antivírus.
+O IMSS possibilita que os administradores de redes corporativas criem políticas diferenciadas na configuração do correio eletrônico de cada funcionário.
+O programa determina qual tipo de mensagem cada empregado pode enviar ou receber. O software possui uma configuração heurística que impede que textos que tenham certas palavras chaves, referentes a um assunto determinado, como por exemplo, termos ligados ao sexo ou ao racismo, sejam transitados pela rede, evitando também a proliferação dos spams.
+Além disso, ele controla qual a extensão de arquivos anexos podem chegar ou sair da caixa de e-mail, evitando que imagens, textos ou qualquer tipos de arquivos indevidos sejam utilizados pelo funcionário durante sua jornada de trabalho.
+O InterScan Messaging Security Suíte, realiza ainda proteção contra hackers, códigos maliciosos de tráfego de SMTP e POP3 no gateway de mensagens, vírus e outros problemas que podem ser transmitidos pelo correio eletrônico. 
+A Mindworks é o único Centro de Treinamento da Trend Micro no Espírito Santo, e ministra cursos sobre o InterScan Messaging Security Suíte. Os interessados no treinamento ou no software podem obter mais informações através do site www.mindworks.com.br. <br><br><hr>
+Data da Publicação: 20/06/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,19 @@
+Super-robô desarma bombas
+<b> Criado por inventores da Serra,
+o Z1 não brinca em serviço e é
+capaz de operar equipamentos
+em qualquer ambiente hostil </b><br>
+ <br>
+Texto: Gabriela Galvão
+Infográfico: Zota Coelho e Estevão Ribeiro
+
+Q uem acredita que robôs eficientes só saem de laboratórios americanos ou japoneses está enganado. No Espírito Santo, uma dupla de inventores construiu um super robô que não brinca em serviço. O protótipo, batizado de Z1, pode ser usado para desarmar bombas, combater incêndios, vazamentos de gás e operar equipamentos em ambientes hostis, tudo sob controle via rádio ou satélite.
+O robô foi idealizado pelo técnico em eletrônica Eduardo Zaban e pelo analista de sistemas William Rodrigues, capixabas, moradores da Serra, que começaram a desenvolver o projeto do protótipo há três anos.
+“A construção do Z1 mostra que o Estado tem potencial para construir robôs. Não precisamos comprar tecnologia de fora”, disse Zaban.
+O modelo básico do Z1 pode custar R$ 30 mil e o mais incrementado, com acessórios como sensor de presença, GPS e infravermelho, atinge o valor de R$ 100 mil. Segundo os inventores, o Esquadrão Anti-Bombas de São Paulo já utiliza um modelo semelhante, porém de fabricação estrangeira, avaliado em R$ 216 mil.
+Segundo o coordenador do Grupo de Pesquisa de Robótica da Universidade Federal do Espírito Santo (Ufes), professor Teodiano Freire Bastos Filho, a dupla inventora está no caminho certo. Para ele, o Z1 é um dos excelentes trabalhos em robótica realizados no Estado.
+“O que falta para o Z1 é ser comercializado para se tornar uma realidade no mercado”, disse Filho.
+Os coordenadores dos cursos de Engenharia de Automação e Controle da UCL e da área de Informática da Favi, respectivamente Fransérgio Leite da Cunha e Edilson Luiz do Nascimento, acreditam que o Z1 chama a atenção por ter uma tecnologia criada no Estado.
+“O Z1 estimula a produção de pesquisa estadual”, disse Nascimento. <br><br><hr>
+Data da Publicação: 15/10/2006 - Pagina: 48 <br>
+Editoria: Ciência e Tecnologia <br><br>

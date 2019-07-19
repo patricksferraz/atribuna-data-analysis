@@ -1,0 +1,16 @@
+Skype 2.0 vem com recurso de vídeo
+<b> Com as mesmas facilidades da
+versão anterior, o novo Skype
+tem barras de ferramentas para
+acesso ao Google e recurso de vídeo </b><br>
+ <br>
+Com a mesma facilidade da versão anterior o novo Skype 2.0 traz novidade e suporte de vídeo. Sua interface é um pouco mais simples, mas é bem similar à anterior, e o ícone do programa na tela mudou para azul.
+Após fazer o download de 8MB, o software do Skype faz a auto-instalação e procura pela webcam. Ao encontrar uma câmera conectada, o programa oferece a opção de vídeo para qualquer ligação a outros usuários do Skype 2.0. Neste caso, uma tela de imagem aparece na janela da conversa. Se a qualidade da webcam do usuário for boa, a imagem pode ser ampliada para a tela inteira.
+“Queremos fazer da conversação pela internet a coisa mais simples e natural para as pessoas em todo mundo”, destaca o executivo do Skype, Niklas Zennström.
+Os novos recursos do software – incluindo vídeo – já são comuns em sistemas de mensagem instantânea, como Yahoo Messenger, AIM e MSN Messenger. Mas o Skype está apostando na inclusão do vídeo como um serviço adicional a uma plataforma de telefonia e não simplesmente de chat.
+Outros recursos do mundo da mensagem instantânea foram importados pelo Skype, como sinais que falam sobre o estado de humor e disponibilidade do usuário ou indicam seu horário local, para evitar que sejam acordados no meio da noite.
+Os usuários também podem, a partir desta versão, juntar um grupo de contatos e fazer uma conferência com apenas um clique. Para se beneficiar da sua base de sete milhões de usuários, o Skype ampliou a capacidade de busca por contatos no seu banco de dados.
+Um beta da barra de ferramentas do Google Toolbar para o Microsoft Outlook permite ao usuário discar a partir de e-mails. O programa também está promovendo a capacidade de acrescentar botões de discagem via Skype em blogs e sites.
+Embora o software ainda esteja em beta, a Logitech vai iniciar a venda de câmeras certificadas para o programa imediatamente, pela loja virtual do Skype e a Creative as venderá nas lojas. <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 10 <br>
+Editoria: Informática <br><br>

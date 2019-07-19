@@ -1,0 +1,9 @@
+Concurso mundial de software livre
+<b>  </b><br>
+ <br>
+No pequeno estande da Centril (Centro Europeu de Transferência e Pesquisa em Software Livre), num dos mais de 25 pavilhões da CeBIT em Hanover, foi lançado o 3º Concurso Internacional de Software Livre. O “Trophées du Libre”, um dos maiores concursos do mundo em termos de código aberto, vai premiar com 3 mil euros o ganhador em cada uma das suas sete categorias. 
+A novidade este ano é a inclusão da categoria “Junior”, voltada para projetos acadêmicos de estudantes universitários. As outras seis são Gerenciamento de Empresas, Educação, Segurança, Multimídia e Games, PHP e Aplicações para o Setor Público e Comunitário. 
+Além dos 3 mil euros – cerca de R$ 7,6 mil –, o ganhador em cada categoria receberá ainda um laptop e recursos para financiar, executar e divulgar seu projeto. Em cada categoria, o segundo e o terceiro colocados receberão mil euros.
+As inscrições estão abertas até  1º de outubro no site www.tropheesdulibre.org. <br><br><hr>
+Data da Publicação: 20/03/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,34 @@
+Vírus da morte ataca PC
+<b> Link com conteúdo malicioso
+promete fotos de suposto acidente
+com o cantor Leandro Lopes, que
+ganhou no programa Ídolos, do SBT </b><br>
+ <br>
+Ele mal ingressou no mundo das celebridades e já começa a provar o gosto amargo da fama. Está circulando em comunidades virtuais uma mensagem prometendo fotos de um acidente em que Leandro Lopes, vencedor do programa Ídolos, do SBT, teria morrido.
+A falsa notícia vem acompanhada de um link que, ao ser acessado, instala um cavalo de tróia capaz de roubar informações bancárias e enviá-las via e-mail aos responsáveis pelo vírus.
+O conteúdo da mensagem é um texto que vem repleto de erros de ortografia: “Estou de luto !!! poxa estou muito triste com um fato que vi hj , poxa o leandro do idolos sofreu um acidente e morreu na hora olha so as fotos do acidente”.
+Em seguida, aparece um link para um site russo que hospeda o arquivo “fotos_acidente_leandro.cmd”. Usuários que tentarem abrir o endereço mencionado receberão apenas uma tela de confirmação de download de arquivo.
+Nenhuma foto é exibida. Até porque, Leandro Lopes, felizmente, não sofreu nenhum acidente. O arquivo malicioso, que contém 1.2 MB, monitora o uso do Internet Explorer para roubar senhas bancárias e enviá-las aos criminosos.
+Sempre antenados em associar seus golpes a temas e personalidades que estão em evidência, criminosos virtuais contam com uma grande aliada nessa missão ilegal: a curiosidade dos internautas.
+Portanto, a prevenção é fundamental. Nunca clique em links de conteúdo duvidoso, mesmo que enviado por um amigo de confiança. Uma das formas de remover o cavalo de tróia instalado é através da ferramenta de remoção genérica da Linha Defensiva, chamada Banker Fix.
+O endereço de download direto é linhadefensiva.uol.com.br/dl/bankerfix. Em caso de dúvida, chame um especialista da área.
+
+
+Eleitores viram alvos de golpes
+Nessa época de eleição, a internet facilita a comunicação de partidos e candidatos com seus eleitores. Mas o tema também serve de pretexto para que golpistas apliquem suas fraudes virtuais.
+Está circulando na web um e-mail, onde o usuário recebe uma mensagem falsa alegando que a sua entrada na lista de eleitores foi cancelada. 
+Para descobrir a razão do cancelamento e recuperar seu direito ao voto nas próximas eleições, o texto “orienta” o internauta a ler o regulamento em anexo. O link oferecido leva a um download de cavalo de tróia, que instala códigos maliciosos no computador da vítima. A URL que leva ao código malicioso está hospedada na Coréia. 
+O texto da mensagem é o seguinte: “Informamos que seu Título de Eleitor foi temporariamente cancelado. A razão para o cancelamento é uma irregularidade em seu Cadastro de Pessoa Física (CPF); por esta razão, o último foi suspenso, assim como seu título de eleitor.
+Para obter mais detalhes sobre estas irregularidades e que passos seguir, leia a regulamentação clicando no link abaixo. Depois de clicar no link, você verá uma janela onde deverá clicar na opção abrir/executar”, fala a mensagem.
+Além de manter o antivírus atualizado, é melhor desconfiar sempre. 
+O TSE e os TREs não enviam e-mails aos cidadãos sem que isso seja solicitado. 
+
+
+Cuidado com e-mail do iPod
+Um novo golpe via e-mail está em circulação. Desta vez, o assunto escolhido foi o tocador musical digital portátil iPod, da Apple Computer. 
+A mensagem diz ser uma confirmação de compra e envio de um iPod para a vítima e informa que US$ 479,95 foram debitados de sua conta bancária. No texto, os criminosos tentam convencer o usuário a abrir a correspondência eletrônica, que contém a seguinte informação falsa: “Os detalhes da transação e as especificações do produto escolhido estão contidas no arquivo compactado ZIP auto-descompactável. Leia-o cuidadosamente para certificar-se de que não houve erro nas características do produto escolhido. Apreciamos sua escolha.”
+A mensagem de e-mail contém um arquivo anexado em formato Zip. Se for aberto, o anexo instalará no PC/Windows do internauta um cavalo de tróia que tentará baixar um software maligno no sistema infectado.
+É importante o usuário lembrar que os cavalos de tróia sempre se apresentam como algo útil ou preocupante, mas são armadilhas que podem provocar diversos danos. Portanto, o melhor caminho é deixar a curiosidade ou o susto de lado e não abrir o arquivo.
+Se houver qualquer dúvida a respeito, a pessoa deve entrar em contato por telefone com a empresa que supostamente teria enviado o e-mail. <br><br><hr>
+Data da Publicação: 05/09/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

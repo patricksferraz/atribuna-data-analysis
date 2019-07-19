@@ -1,0 +1,22 @@
+O futuro da televisão
+<b> Do outro lado da telinha,
+brasileiros acumulam dúvidas
+sobre o que é a TV Digital e quais
+as mudanças para o telespectador </b><br>
+Marilia Linhalis <br>
+Nunca se ouviu falar tanto em TV Digital como nos últimos dias. O senado prevê os primeiros testes com o novo sistema já para esse mês. Mas será que a população está realmente sabendo o que é essa tal de TV Digital e quais os benefícios que ela vai trazer para o sistema de comunicação brasileiro?
+A TV Digital permitirá uma alta definição de imagens e som, transmissão sem interferências, maior variedade de canais abertos, recepção em celulares e maior interatividade. Por meio do aparelho de televisão digital será possível, inclusive, acessar a internet, características não possíveis na TV analógica. 
+Na última semana, o professor do departamento de Informática da PUC do Rio de Janeiro, Rogério Ferreira Rodrigues, concedeu uma entrevista exclusiva para o caderno de Informática do jornal A Tribuna, explicando o verdadeiro sentido de inserir a TV Digital no Brasil.
+Segundo Rogério, nos Estados Unidos, Japão e Europa, esse sistema digital já existe há vários anos. “Com a implantação desse sistema no Brasil, além da ótima qualidade do sistema HDTV vamos poder ter acesso a mais de uma programação simultaneamente no mesmo espaço. Os fãs de futebol, por exemplo, vão poder ver diferentes ângulos em diferentes câmeras na TV Digital. E os gamers vão poder jogar com o seu vizinho sem precisar de sair de casa”, explica Rogério.
+O sistema brasileiro de televisão digital (SBTVD) deverá ser um sistema híbrido, usando modulador e codificador importados e middleware parcialmente brasileiro.
+O modelo de negócios é que vai definir se as TVs brasileiras irão transmitir apenas em alta definição ou se usarão suas freqüências para irradiar até quatro canais simultâneos, se haverá convergência com internet e telefonia, se o canal de retorno será via telefonia ou pela própria banda de freqüência outorgada às redes e como se dará a “inclusão digital”.
+Mas tudo isso depende do sistema que será escolhido pelo presidente Lula: americano (ATSC), europeu (DVB) ou japonês (ISDB).
+Na semana passada, o Ministro das Comunicações, Hélio Costa, afirmou para a imprensa que, para ele, o melhor sistema seria o japonês, porque ele transmite informações em alta qualidade para televisores, celulares e veículos. Mas o ministro deixou bem claro que a decisão final será do presidente. Então, só resta aos brasileiros esperar para saber qual será o sistema escolhido.
+O professor Rogério Rodrigues informou que, também está em votação, na Câmara um sistema desenvolvido por faculdades brasileiras que une o melhor de cada sistema digital com uma adaptação para a TV do País.
+“ Foi passado um relatório para a Câmara de um novo sistema que talvez seria até melhor do que os que estão em votação, já que ele irá somar a melhor parte de cada um. Mas isso ainda está em votação”, comenta Rodrigues.
+
+Saiba mais
+Segundo o Ibope, em 2005, o brasileiro permaneceu em média cinco horas, dois minutos e 25 segundos por dia diante do televisor, consumindo não só TV aberta, mas também TV paga e DVD.
+O consumo de TV aumentou em todas as faixas etárias e sociais, mas foi mais acentuado entre os mais velhos, ou seja, os telespectadores com mais de 50 anos.  <br><br><hr>
+Data da Publicação: 06/02/2006 - Pagina: 02 <br>
+Editoria: Informática <br><br>

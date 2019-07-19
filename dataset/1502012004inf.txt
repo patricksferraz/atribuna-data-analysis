@@ -1,0 +1,17 @@
+Robôs mais que geniais
+<b> Revista elege os robôs mais
+famosos de todos os tempos,
+alguns saídos de filmes de ficção
+científica, outros são mais que reais </b><br>
+ <br>
+A equipe da revista Wired acaba de eleger os 50 robôs mais legais de todos os tempos. A reportagem, em inglês, pode ser lida no endereço www.wired.com/wired/archive/14.01/robots.html?pg=1&topic=robots&topic_set=.
+Em primeiro lugar foi eleito Stanley, o carro da equipe da Universidade de Stanford.O volkswagen Tuareg modificado venceu, para a equipe de Stanford, o Grande Challenge 2005, desafio em que carros robóticos devem atravessar o deserto do Mojave, nos Estados Unidos. O prêmio era de US$ 2 milhões. 
+Em segundo lugar ficou o Astroboy. Criado em 1951 no Japão, o robozinho tinha botas com foguetes e lasers que saíam dos dedos, e foi a inspiração para uma geração de garotos – alguns dos quais se tornaram pesquisadores em robótica. 
+Depois, em terceiro, estão os robozinhos Spirit e Opportunity, enviados à Marte em janeiro de 2004. Quase dois anos depois, eles continuam fortes e operantes, enviando cada um em torno de 100 megabits de dados por dia.
+Em quarto vem outro robô fictício, o Robby, do filme “Planeta Proibido” (1956). Mas, em quinto lugar, está um personagem bem real, o Shakey, criado em 1972 pelo Stanford Research Institute International. O robô tinha movimentos esquisitos, mas entrou para a história como a primeira máquina a localizar sozinha objetos, caminhar até eles e depois explicar porque o fez. 
+Em sexto lugar ficou o Qrio, o “embaixador” da Sony. Ele corre, salta, dança e serve alimentos ou bebidas em uma bandeja sem derrubar nada.
+Depois vem um robô inspirado no mestre Leonardo Da Vinci, que desenhou o Cavaleiro Mecânico em 1495. Quinhentos anos depois, o engenheiro Mark Rosheim usou os esquemas do mestre e construiu uma versão funcional miniaturizada, batizada Sistema Cirúrgico Da Vinci. O robô “cirurgião” é uma fusão de braços, câmeras e instrumentos que permitem ao médico operar o paciente à distância.
+Os procedimentos com o sistema Da Vinci são mais precisos que os feitos quando um homem comanda a “faca”. Segundo as pesquisas o sangramento é menor e a recuperação mais rápida. 
+Também merece destaque o Dante II, da Carnegie Mellon, que foi enviado ao Alaska e tornou-se o primeiro robô a ter sucesso numa exploração territorial. <br><br><hr>
+Data da Publicação: 02/01/2004 - Pagina: 15 <br>
+Editoria: Informática <br><br>

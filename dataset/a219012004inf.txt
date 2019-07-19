@@ -1,0 +1,6 @@
+Tecnologia nos chips 64 bits da AMD protege PC de ataques 
+<b>  </b><br>
+ <br>
+Os processadores Opteron e Athlon 64, da AMD, poderão detectar e remediar um ataque constantemente usado contra PCs conectados à internet e evitam que possíveis códigos maliciosos sejam executados por quem está atacando. Conhecida como “Proteção de Execução”, a nova ferramenta detecta quando um hacker tenta produzir um fluxo gigantesco no buffer do processador – um local onde os dados ficam temporariamente – com muito mais dados que um buffer pode aguentar. A Proteção de Execução não deixa que o código causador do overflow seja executado na memória, bloqueando qualquer acesso externo à aquele PC, disse John Crank, diretor de produção do Athlon 64. A novidade já está inclusa nos chips de 64 bits da empresa, o Opteron e o Athlon 64, e começará a funcionar quando a Microsoft lançar o pacote Windows XP Pack 2 no segundo trimestre de 2004. O sobrecarregamento de buffer possibilitou alguns dos mais devastadores worms e vírus do último ano, incluindo o Slammer e o Blaster e todas suas variações. Segundo Crank, a tecnologia da AMD não previne que todos os vírus ou worms prejudiquem o PC, só aqueles com vulnerabilidades de overflow.  <br><br><hr>
+Data da Publicação: 19/01/2004 - Pagina: 2 <br>
+Editoria: Informática <br><br>

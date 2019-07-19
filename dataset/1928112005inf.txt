@@ -1,0 +1,17 @@
+Computação generalizada
+<b> No futuro, roupas com chips vão
+se comunicar com a máquina
+de lavar e a bolsa vai informar
+quando você esquecer a chave </b><br>
+ <br>
+Imagine que a maçaneta de sua casa pudesse se comunicar com a torradeira da cozinha e com o sistema de iluminação.  Esse conceito, frequentemente mencionado como computação generalizada, não é novo. Mas, que as tecnologias emergentes estão antecipando rapidamente as previsões para esse novo mundo, isso sim, é uma novidade.
+A iminência do início dessa verdadeira revolução é a principal aposta do estudo “The Internet of Things” (A Internet das Coisas), conduzido pelo International Telecommunication Union (ITU) e apresentado durante a Cúpula Mundial da Sociedade da Informação, que aconteceu na última semana na Tunísia.
+O material cita quatro tecnologias, todas em estados avançados, que permitirão uma conectividade generalizada entre os objetos. São elas as etiquetas RFID (radio frequency identification), os sensores, os sistemas de inteligência embutidos e a nanotecnologia.
+Nesse novo mundo, roupas dotadas de chips poderão se comunicar com a máquina de lavar, informando sobre a cor do tecido e a temperatura ideal para a lavagem. Ou ainda, as mochilas poderão informar seu dono quando algum objeto for esquecido.
+“Ainda há desafios como padrões ou o gerenciamento das pesquisas, mas é evidente que caminhamos em direção a um mundo onde os objetos ao nosso redor se comunicarão sem nenhuma interferência hmana” afirmou a analista de telecomunicações do ITU, Lara Srivastava.
+Segundo Srivastava, que apresentou o estudo durante o encontro, a comunicação entre as máquinas, que já acontece hoje em dia, ganhará um impulso substancial nos próximos anos.
+Apesar dos diversos benefícios advindos dessa sociedade hiperconectada, há quem alerte para certos riscos. Para John Gage, pesquisador da Sun Microsystems, esse novo muntdo “trará profundas implicações”. Uma delas é a capacidade da tecnologia de acumular cada vez mais as informações sobre os humanos.
+“Toda pesquisa feita no Google é armazenada para sempre”, afirma Gage. “As etiquetas de RFID poderiam rastrear as pessoas e quando o sistema de rastreamento se sobrepor ao de identificação não existirá mais anonimato”, alerta Gage.
+Uma grande preocupação, segundo Gage, é que certos grupos, como a polícia, requisitariam o acesso a todas essas informações. “Será o fim da privacidade. Será um novo tipo de sociedade, na qual o controle e o Governo seria algo muito complicado”. <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 19 <br>
+Editoria: Informática <br><br>

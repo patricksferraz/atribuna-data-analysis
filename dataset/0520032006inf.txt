@@ -1,0 +1,17 @@
+Micro do tamanho de um livro
+<b> Computador ultraportátil, o
+Origami vai permitir que os
+usuários escrevam, desenhem,
+ouçam músicas e assistam filmes </b><br>
+ <br>
+Num show a parte durante a CeBIT foi apresentado o Origami, um computador ultraportátil, que vai permitir que os usuários escrevam, desenhem, ouçam músicas e assistam a filmes. Metade handheld, metade PC, a novidade foi desenvolvida em conjunto pela Microsoft, Intel e Samsung. As empresas afirmam que o novo aparelho será uma versão menor dos computadores portáteis do tipo Tablet.
+O Ultra-Mobile PC tem todas as funções de um desktop completo ou laptop, com uma tela de sete polegadas sensível ao toque. Segundo a Microsoft, o aparelho tem 2,5 centímetros de espessura e pesa menos que 1,1 quilo e é mais ou menos do mesmo tamanho de um livro grande. 
+O computador vai rodar uma versão completa do Windows XP e um novo software chamado Windows Touch Pack, para lidar com as funções de sensibilidade ao toque. Edições futuras irão suportar o Windows Vista, que deve ser lançado na segunda metade deste ano. 
+A Samsung, a Founder e a Asus, fabricantes do Ultra-Mobile PC, esperam disponibilizar o aparelho para vendas já em abril deste ano. Mika Krammer, diretor de marketing da Unidade de Portáteis para o Microsoft Windows, disse que o computador deve ser vendido por um valor entre US$ 600 e US$ 1 mil.
+O Ultra-mobile PC tem 60 GB de disco, duas portas USB e entradas para cartão de memória, além de conexões para diversas câmeras digitais e fones de ouvido. A bateria do aparelho dura algo entre 2,5 e 3 horas.
+PODEROSO
+O computador mais rápido do mundo, que alcança velocidade de processamento de 5.46 GHz, também chamou atenção na feira. Ele foi construído em parceria formada entre a Asetek, Kingston Technology e Western Digital. Esta é a quarta vez que as três empresas se juntam para construir um PC veloz. Em 2005, elas já haviam construído um modelo capaz de rodar 5 GHz. 
+O modelo 2006 é um processador Intel Pentium 4 de 3,8 GHz com overclock e possui um sistema de resfriamento da CPU desenvolvido pela Asetek, chamado Vapochill LightSpeed. A placa de vídeo e a placa-mãe do super PC também são resfriadas por sistemas independentes criados pela Asetek. 
+O PC comercial mais rápido do mundo possui ainda memória RAM DDR2, da linha HyperX da Kingston, e HD de 150 GB, da linha Raptor X da Western Digital.  <br><br><hr>
+Data da Publicação: 20/03/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

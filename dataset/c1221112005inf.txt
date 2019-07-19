@@ -1,0 +1,12 @@
+Atividade de redes zumbis cresce 140%
+<b>  </b><br>
+ <br>
+Cerca de 10 mil bots, códigos maliciosos que controlam o computador sem que o usuário saiba, estiveram ativos por dia no primeiro semestre de 2005, um crescimento de 140% sobre o mesmo período do ano passado, segundo pesquisa divulgada pela empresa de antivírus Symantec.
+Londres, segundo a pesquisa, é a capital dos computadores zumbis do mundo, com aproximadamente 150 mil micros secretamente controlados por hackers, revela a pesquisa da Symantec.
+O Reino Unido, em razão da rápida adoção da tecnologia de banda larga, é oficilamente o pior lugar do globo infectado por bots. Os Estados Unidos e a China são o segundo e terceiro países em computadores infectados por bots, com 19% e 7%, respectivamente.
+Segundo a pesquisa, a cidade de Winsford, também no Reino Unido, é a segunda em número de computadores zumbis, seguida por Seul, na Coréia do Sul.
+A empresa de antivírus Symantec estima que, aproximadamente, um terço dos computadores infectados por bots, cerca de dois milhões de micros, estão localizados no Reino Unido, sendo que 8% deles estão em Londres, de acordo com o gerente sênior do Symantec Security Responde Team, Dean Turner.
+As redes zumbis consistem de computadores com acesso à internet infectados por códigos maliciosos, permitindo que hackers tenham controle remoto sobre os sistemas. 
+Usualmente, essas redes zumbi são utilizadas em ataques de negação de serviço (DoS) ou mesmo em grandes campanhas de envio de spam. <br><br><hr>
+Data da Publicação: 21/11/2005 - Pagina: 12 <br>
+Editoria: Informática <br><br>

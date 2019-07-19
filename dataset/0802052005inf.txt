@@ -1,0 +1,28 @@
+Novo portátil no mercado
+<b> Notebook da Acer, que pesa 2,8 quilos e vem com gravador
+de DVD, chega às lojas brasileiras por menos de R$ 6 mil </b><br>
+A tribuna <br>
+A Acer, reconhecida no mercado mundial pela liderança no segmento de portáteis, expande sua linha de notebooks e acaba de lançar a série Acer TravelMate 4100, baseado na plataforma Intel “Sonoma”.
+O notebook pesa 2,8 quilos, vem com gravador de DVD, teclado em português, 512 MB de memória DDR 333 integrada, expansível até 2 GB, e possui disco rígido de até 60 GB. O equipamento chega ao mercado nacional em junho, custando menos de R$ 6 mil.
+A série Acer TravelMate 4100 é indicado aos usuários que, como os profissionais que atuam nos mercados Soho (Small Office/Home Office) e SMB (Small and Medium Business), que buscam alto desempenho, excelentes níveis de independência e comunicação abrangente com todas as vantagens da tecnologia wireless (sem fio). 
+A série Acer TravelMate 4100 inclui a plataforma “Sonoma” da Intel, baseada na mais recente tecnologia Intel Mobile Centrino com arquitetura PCI Express e processadores Intel Pentium M, com suporte de Bus Frontal a 533 MHz, e conectividade sem fios através da placa de rede Intel PRO/Wireless 2200BG, que inclui a norma IEEE 802.11b/g dual-mode WiFi Certified.
+O chipset é baseado no Intel 915GM Express ou 915PM Express. 
+A utilização de tecnologia Intel Mobile Centrino com base na arquitectura PCI Express garante além da economia de energia, duração prolongada da bateria, com autonomia de mais de quatro horas, com recarregamento em três horas e meia com o sistema em uso. 
+Todos os modelos incluem um gravador DVD e, para corresponder às necessidades de diferentes usuários, estão disponíveis em dois tamanhos de telas TFT Active Matrix: um clássico e luminoso LCD XGA de 15”(1024 x 768) ou um moderno e largo WXGA de 15,4” (1280 x 800), ambos com 16,7 milhões de cores. 
+O sistema de áudio estéreo compatível com MS-Sound possui colunas e microfone incorporados. 
+Os portáteis da série TravelMate 4100 possuem, além da placa de rede, fax/modem V.92 a 56Kbit/segundo integrado. Todos os modelos dispõem ainda de uma ligação IEEE 802.11b/g sem fios, suportada por Intel PRO/Wireless 2200BG. 
+Os modelos incluem um conjunto completo de portas de E/S, incluindo uma porta de infravermelhos (FIR) e três portas USB 2.0. Estes computadores portáteis incluem igualmente um conector VGA para monitores externos, uma porta S-Vídeo (NTSC/PAL) e uma ranhura PCMCIA CardBus Tipo II. A Série TravelMate 4100 inclui ainda uma porta Firewire IEEE 1394, que permite uma rápida ligação a uma gama de dispositivos multimídia.
+
+Longhorn para os mais antigos
+O sucessor do Windows XP vai rodar em máquinas menos poderosas. Pelo menos é o que garante a Microsoft. O sistema operacional Longhorn terá uma versão especial para computadores mais antigos. 
+De acordo com a empresa de Bill Gates para rodar o novo sistema será preciso um processador de 3GHz com 512 MB de memória. 
+Mesmo assim, quem tiver um PC inferior poderá usufruir de um “modo clássico”. Para rodar esta “versão” do Longhorn bastam 128 MB de memória. Este modo seria muito semelhante ao atual Windows XP. 
+O Longhorn deverá disponibilizar, pelo menos, quatro níveis de interfaces gráficas. Os possíveis nomes das interfaces, além do modo clássico, seriam: “Aero” e “Aero Glass” – feitas para o usuário mais exigente em relação a parte gráfica. 
+
+Expediente
+Produção - Dinâmica de Comunicação - 3322-7911
+Jornalista responsável - Fabiana Pizzani
+Colaboração - Marília Linhalis
+e-mail: informatica@redetribuna.com.br <br><br><hr>
+Data da Publicação: 02/05/2005 - Pagina: 08 <br>
+Editoria: Informática <br><br>

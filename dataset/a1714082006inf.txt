@@ -1,0 +1,29 @@
+PRATELEIRA
+<b>  </b><br>
+ <br>
+Alta definição
+A Canon lançou no mês passado seu primeiro modelo de vídeo de alta definição para uso doméstico. A câmera digital HV10 estará disponível para venda em todo o mundo a partir de setembro.
+Capaz de gravar filmes em alta definição, o equipamento também é o primeiro da Canon com o sensor de imagem CMOS, uma tecnologia adotada com sucesso em suas câmeras fotográficas digitais reflex.
+
+Profissionais e iniciantes
+Mais uma fonte de aprendizado para usuários das ferramentas Flash 8 e PHP 5. Os autores Dauton Janota e Bruno Tullio acabam de lançar o livro “Flash 8 – OOP e PHP 5”. 
+Voltado para profissionais experientes e iniciantes, o livro é dividido em três partes. Na primeira são discutidas as peculiaridades do Flash 8. Já a segunda é dedicada ao PHP 5 e MySQL.
+E a terceira parte conta com um  passo-a-passo do desenvolvimento de um sistema de notícias, incluindo um administrador remoto. 
+A obra custa R$ 69,00. Os interessados podem entrar em contato pelo e-mail editora@axcel.com.br.
+
+
+Para compartilhar
+A Dynacom está com uma novidade. Trata-se do MPmovie, um aparelho de media player que, além de reproduzir músicas, vídeos e imagens, permite ao usuário compartilhar com outras pessoas o que está ouvindo ou assistindo.
+O alto falante embutido no equipamento dispensa a conexão com caixas de som. Disponível nas cores preta e branca, o aparelho é portátil, pesa apenas 50 gramas e dispõe de uma capa de silicone para protegê-lo durante a prática de exercícios e das ações do tempo. 
+Além do tradicional formato MP3, ele reproduz arquivos WMA, ASF, WAV, AMV, JPG e TXT e faz  gravações de vídeos.
+O MP Movie já pode ser encontrado nas lojas por R$ 360,00 (o modelo de 512 MB) e R$ 480,00 (1GB).
+
+
+Duas mil músicas
+A LG Electronics ampliou sua linha de MP4 e lançou modelo JM-53, que reproduz diversos formatos de arquivos, incluindo músicas em MP3 e vídeos em MP4.
+O JM-53 traz display Oled de 1,77 polegada, com alta resolução de imagens e memória de 8 gigabytes, o que equivale a até duas mil músicas ou mais de 30 horas de som.
+Com esta memória também é possível assistir a mais de quatro horas de vídeo sem interrupção. Compatível com arquivos MP3, WMA, OGG (Q10), BMP, TXT e JPEG, entre outros, o novo MP4 player tem formato ultra-slim.
+Conta, ainda, com o Brainshower ou Music Terapy, um pacote de músicas selecionadas pela LG com o intuito de proporcionar relaxamento aos usuários.
+O preço médio é de R$ 1.299,00. Mais informações no site www.lge.com.br. <br><br><hr>
+Data da Publicação: 14/08/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,16 @@
+As estrelas dos scams
+<b> Britney Spears, Ayrton Senna, Shakira e Michael Jackson
+estão entre os nomes mais usados nas armadilhas da web </b><br>
+ <br>
+A cantora pop Britney Spears desbancou o líder da Microsoft, Bill Gates, no posto de celebridade mais associada com software malicioso distribuído via e-mail, segundo um relatório divulgado na última semana pela empresa de segurança Panda Software.
+Entre os cinco nomes de celebridades que mais aparecem em e-mails com códigos maliciosos estão as cantoras Jennifer Lopez e Shakira e o saudita Osama Bin Laden, além de celebridades como Bill Gates e Michael Jackson.
+Os pesquisadores da Panda analisaram mensagens maliciosas dos últimos sete anos para determinar quais os nomes que mais aparecem. De acordo com Patrick Hinojosa, Chief Technical Officer da Panda nos Estados Unidos, a explicação para a utilização de nomes de pessoas famosas é simples: servem como isca para atrair os internautas a acessar o conteúdo.
+“É um método de engenharia social. Muitas vezes, o envio tem a ver com algum acontecimento do dia-a-dia das celebridades”, declarou.
+Os criadores de vírus têm duas maneiras de disseminar o código. A primeira é explorar alguma falha do software utilizado ou conduzir os usuários a baixar os códigos maliciosos em seus computadores.
+Entre os vírus que utilizaram nomes de celebridades estão o “ILoveYou” e o “Anna Kournikova”, além do cavalo-de-tróia Borobt-Gen que revela o suposto suicídio do cantor Michael Jackson.
+Começou a circular na web, na última quarta-feira, uma nova mensagem que utiliza o nome de Ayrton Senna para capturar dados do internauta. O scam, nome dado ao e-mail malicioso que procura roubar informações pessoais e financeiras da vítima, promete um vídeo da carreira do piloto, mas entrega apenas o cavalo-de-tróia PWS.Banker-gen.
+A mensagem maliciosa pode ser facilmente identificada, já que mostra uma imagem de Senna em um bólido de Fómula 1 e leva o título de “Ayrton Senna Memorial”. Caso clique no link oferecido, a vítima será direcionada a uma página hospedada nos servidores da Netscape para baixar o arquivo “memorial_senna.exe”.
+O scam, identificado pela Batori Software, procura atingir correntistas de diversos bancos brasileiros. Segundo análise da empresa de segurança britânica Sophos, a praga tenta capturar dados de usuários do Banespa, Bradesco, Itaú, Banco do Brasil, Santander, Real, HSBC, Nossa Caixa e Citibank.
+Outra armadilha que está circulando na internet é um e-mail falso que promete um vídeo com a Grazielle do Big Brother Brasil. <br><br><hr>
+Data da Publicação: 20/06/2005 - Pagina: 11 <br>
+Editoria: Informática <br><br>

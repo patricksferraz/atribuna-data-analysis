@@ -1,0 +1,28 @@
+Proteção é essencial
+<b> Nova linha de desktops
+proporciona melhores níveis de
+segurança e contribuem para
+aumentar a produtividade </b><br>
+ <br>
+A necessidade de soluções de segurança cada vez mais eficientes faz com que o público corporativo se torne uma prioridade constante para o mercado tecnológico. A HP Brasil acaba de lançar uma nova linha de desktops e serviços que, além de proporcionar melhores níveis de segurança, também contribuem para aumentar a produtividade nas empresas.
+Desenvolvido especialmente para o setor corporativo, os Compaq dc5000 e dc7000 contam com a opção do software de segurança HP ProtectTools e do chip de segurança Trusted Platform Module (TPM) 1.2 integrado em todos os equipamentos, que oferecem proteção avançada para informações críticas de negócios.
+“Nosso objetivo em relação aos clientes corporativos consiste na oferta de soluções de computação com melhor custo benefício. Assim, evitamos a necessidade do cliente em dedicar tempo e esforço com a segurança das informações”, afirma a diretora do grupo de sistemas pessoais para empresas da HP, Renata Gaspar.
+Alguns modelos dos novos dc7700, dc5700 e dc5750 contam com o HP Smart Desktop Management Service, que foi desenvolvido para aumentar a produtividade nas empresas e reduzir o tempo de paralisações.
+Essa solução oferece a melhor proteção em sua categoria, incluindo antivírus, firewall, detecção e eliminação de spyware, prevenção contra cavalos de tróia e atualização de patches para o sistema operacional Microsoft, além da análise pró-ativa de pontos vulneráveis no PC.
+A ferramenta também realiza revisões pró-ativas e diagnósticos do estado do computador para detectar vulnerabilidades antes que ocorra uma ameaça grave. Além disso, as novas máquinas integram backup remoto automático e ferramentas de recuperação.
+PRODUTIVIDADE
+Uma variedade de ferramentas de administração também ajuda a maximizar a produtividade no ambiente de TI, permitindo o planejamento, a implementação e a transição dos PCs de modo mais eficiente. As novas máquinas são compatíveis com o novo sistema Microsoft Windows Vista.
+O modelo HP Compaq dc7700 foi desenvolvido para os mais exigentes ambientes. Apresenta estabilidade máxima e recursos de administração e segurança para que os usuários possam se concentrar nos negócios e não na administração dos PCs. 
+Disponível com a tecnologia Intel vPro e opção de dois tipos de chassis, o dc7700 ajuda a simplificar a administração do PC e a reduzir os custos ao longo do ciclo de vida por meio do gerenciamento e da segurança. 
+Por exemplo, com as funções Intel Advanced Management, os usuários podem analisar, fazer inventários e reparar remotamente os computadores em um ambiente seguro, com o sistema operacional ativo ou não, permitindo que as empresas reduzam as despesas com diagnóstico e consertos.
+A HP também permitirá que os departamentos de TI implementem, de forma muito simples e econômica, a tecnologia vPro Set-up e o serviço de configuração Factory Express em sua base de usuários.
+O desempenho do dc7700, associado aos recursos de áudio, permite realizar chamadas de voz sobre IP (VoIP) enquanto o usuário executa outras aplicações críticas no PC, sem afetar a velocidade. As chamadas são encaminhadas automaticamente ao destinatário indicado, mesmo se outras aplicações estiverem utilizando o áudio.
+O segundo modelo, o HP Compaq dc5700, também foi desenvolvido com funções e tecnologias para atender às demandas empresariais.
+Por incorporar as mais recentes tecnologias de processadores da Intel – Intel Core 2 Duo ou Pentium D Dual Core – e o chipset Q963, o dc5700 apresenta velocidades mais altas, melhor eficiência e espaço para tecnologias futuras.
+A nova máquina também traz várias funções desenvolvidas para aumentar a produtividade, como compatibilidade com monitores independentes e um novo design de chassis com tecnologias térmicas e acústicas otimizadas.
+O software de segurança HP ProtectTools, que garante um ambiente de computação seguro, estará em breve disponível como opcional no dc5700 para proporcionar proteção às informações das empresas. 
+Já o modelo HP Compaq dc5750 O HP economiza energia, mantendo o seu desempenho. Ele oferece a opção de processadores AMD64 com tecnologia Cool ‘n’ Quiet AMD, que permite realizar mudanças na freqüência e na voltagem do processador de acordo com a demanda para ajudar a reduzir o consumo de energia e a velocidade do ventilador.
+Dessa forma, é possível resfriar o PC, diminuir o consumo de energia e contar com um ambiente de trabalho mais silencioso. A produtividade pode ser aumentada com um segundo monitor, além da compatibilidade com backup de dados em tempo real (RAID).
+Os preços dos equipamentos ainda não foram definidos pela fabricante. <br><br><hr>
+Data da Publicação: 20/11/2006 - Pagina: 21 <br>
+Editoria: Informática <br><br>

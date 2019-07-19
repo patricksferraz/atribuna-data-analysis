@@ -1,0 +1,34 @@
+Zumbis invadem a rede
+<b> Máquinas invadidas por programas maliciosos podem 
+fazer do micro uma ferramenta para crackers </b><br>
+ <br>
+É bom tomar cuidado. Um simples e-mail contendo um arquivo de aparência inofensiva pode transformar o seu computador num verdadeiro zumbi. Esta é a denominação utilizada para identificar máquinas invadidas por programas maliciosos, que podem fazer do micro uma ferramenta para crackers.
+Quem dá o alerta é Ricardo Biccas, consultor em Tecnologia da ITNet Informática, empresa capixaba que atua no ramo de Segurança da Informação. O especialista explica que os zumbis são utilizados para propagar vírus e spams, entre outras pragas.
+“Se o computador se tornar um zumbi, sua utilização será praticamente inútil. Grupos de zumbis podem reduzir bastante o desempenho de redes ou até mesmo fazê-las parar de funcionar por completo. O maior indício desse problema é a lentidão”, explica Biccas.
+Os casos de computadores zumbis vêm aumentando, mas há meios simples de se proteger. A dica da ItNet é o Symantec Antivírus Corporate Edition versão 10.
+“Mas é importante mantê-lo atualizado. Conforme os arquivos chegam, o SAV faz uma verificação à procura de ameaças, alertando se algo for detectado. O software também verifica e-mails por completo antes de permitir o acesso a eles”, orienta o especialista em segurança da informação.
+Além do risco de se tornarem zumbis, os usuários desprotegidos também podem sofrer com vírus e worms. Eles excluem arquivos importantes ou enviam dados pessoais para pessoas que os vendem a terceiros. Por isso, é preciso redobrar a atenção e seguir algumas orientações dos especialistas. Só se deve abrir os anexos quando o remetente for conhecido, bem como o motivo pelo qual foram enviados.
+“Mesmo as pessoas conhecidas podem ter um computador zumbi, que enviam mensagens de e-mail sem o conhecimento do dono do computador. Isto acontece de verdade, mesmo que o nome e endereço do dono sejam exibidos como remetente”, informa Ricardo Biccas.
+Também é importante ter cuidado com arquivos de extensão .exe, .com e .svr. Estes são arquivos de programas e e-mails protegidos raramente os recebem. “E somente faça o download de programas que conheça bem. O ideal é saber quem criou o programa e o que ele realmente faz”, ressalta o especialista.
+Dados da empresa de segurança na internet Ciphertrust indicam que o número de computadores “zumbis” invadidos por crackers e usados na distribuição de spam e outros ataques virtuais está aumentando rapidamente.
+“Todos os dias estamos detectando mais de 250 mil computadores que se conectam à Internet e enviam e-mails”, informa o diretor de tecnologia da empresa, Paul Judge. 
+Segundo Judge, o total de novos bots – termo usado para se referir a esses computadores “seqüestrados” – chegou a 250 mil por dia em novembro do ano passado e tem se mantido neste nível. 
+Pode ser difícil identificar quais micros fazem parte dessas redes de bots, já que alguns são programados para enviar apenas algumas mensagens por hora. Mas, com milhares de computadores conectados à rede, a quantidade de e-mails indesejados enviados é enorme. 
+“Com o crescimento dessas redes “zumbis” tem havido uma divisão do trabalho por especialidades. Algumas pessoas criam as redes, enquanto outras as alugam aos anunciantes. Há ainda os encarregados de escrever o texto do spam, além daqueles que monitoram o spam para tentar impedir que essas mensagens sejam contaminadas com vírus”, explica Judge. 
+
+Fique atento
+
+• Somente abra anexos quando conhecer quem os enviou e o motivo pelo qual foram enviados. Até as pessoas conhecidas podem ter um computador zumbi, que enviam mensagens de e-mail sem o conhecimento do dono do computador.
+• Tome muito cuidado com arquivos de extensão .exe, .com ou .svr. Estes são arquivos de programas, e e-mails protegidos raramente os recebem.
+• Somente faça o download de programas que conheça bem. O ideal é saber quem criou o programa e o que ele realmente faz.
+• Preste atenção. Se algum amigo disser que recebeu um e-mail seu, sem que você o tenha enviado de fato, isto pode ser um sinal de que seu computador foi invadido.
+• Observe se o seu micro ficar muito lento, pois ele pode ter sido transformado em um zumbi.
+Fonte: ITNet Informática.
+
+Como evitar
+
+• Uma medida importante é instalar um software antvírus e atualiza-lo. É importante que seja capaz de limpar todos os programas  prejudiciais que geram ataques.
+• É preferível errar por excesso de segurança. Se tiver dúvidas sobre um anexo, exclua-o, especialmente se ele vier de uma fonte que você não reconheça. Se existirem animações atraentes em um site que pareça muito amador, não faça o download delas.
+• Não compartilhe disquetes. Até mesmo um amigo bem intencionado pode, involuntariamente, transmitir um vírus, Cavalo de Tróia ou um worm. <br><br><hr>
+Data da Publicação: 06/03/2006 - Pagina: 02 <br>
+Editoria: Informática <br><br>

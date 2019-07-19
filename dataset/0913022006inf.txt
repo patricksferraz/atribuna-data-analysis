@@ -1,0 +1,29 @@
+Segurança para usuários do Windows
+<b> Chega ao mercado linha
+de produtos para imunizar
+o computador contra as
+novas ameaças da internet </b><br>
+ <br>
+A Symantec anunciou na semana passada a nova linha de serviços de segurança Genesis, voltada para usuários do Windows XP e Windows Vista.
+Os produtos integrarão totalmente o pacote de segurança do Norton, que protege contra vírus, worms e spyware. Também conterá a tecnologia Tuneup PC (suíte de utilitários para a manutenção do sistema), além de incorporar uma ferramenta para backup on-line.
+Para imunizar o computador contra as novas ameaças da internet, haverá dispositivos contra crimeware (roubo de login e senha), phishing scams (redirecionamento para páginas falsas) e websites fraudulentos. A empresa afirma que isso tornará as atividades bancárias e as compras on-line mais seguras.
+Essa segurança será obtida através da tecnologia “zero-hour threat”, adquirida da Whole Security, que oferece uma camada extra de segurança, procurando especificamente por códigos criados para roubar informações pessoais.O cliente também teria oportunidade de obter mais informações através de chat, e-mail ou telefone. O Genesis também possui uma ferramenta que realiza um backup automático e on-line de documentos que o usuário considerar importante.
+Arquivos como fotos de família e extratos bancários devem ser classificados por categoria para que o sistema os identifique e realize um backup rotineiro para um site on-line. 
+Como a cada dia surge uma nova praga virtual, a Symantec diz que os produtos Genesis serão constantemente atualizados. 
+Já o problema de lentidão que os sistemas de segurança normalmente proporcionam, será resolvido através de execução regular de otimização essencial e recursos de limpeza em segundo plano.
+Para isso, será cobrada uma taxa de assinatura que cobrirá tanto essas atualizações quanto o espaço para armazenamento on-line de backup.
+
+Tudo em um
+A Microsoft vai lançar em junho o serviço de manutenção para o PC Windows OneCare Live. O serviço é voltado a simplificar a manutenção do PC pelo usuário, incluindo antivírus, anti-spyware, tuning e backup em uma só interface. 
+Disponível em beta gratuito desde novembro, o produto terá custo anual de US$ 49,95 e alguns usuários beta poderão adquiri-lo por US$ 19,95.
+Segundo o gerente do grupo de programas da Microsoft, Brian Hall, a taxa de assinatura anual do produto permite o uso em até três computadores. Analistas e fornecedores acreditam que este tipo de serviço integrado substituirá produtos individuais de antivírus e backup, amplamente usados hoje.
+“Colocamos tudo isso em uma experiência supersimples e avançada para o usuário”, afirma Hall.
+Em julho do ano passado, um grupo de 20 mil usuários deu a primeira olhada no produto. Depois de quatro meses de teste fechado, o programa beta foi aberto para qualquer pessoa que quisesse testá-lo e é utilizado hoje por “centenas de milhares” de usuários.
+Mais informações no site http://ideas.live.com.
+
+Mais ataques
+O ano de 2006 começou com 46% mais spams, comparado a dezembro de 2005, segundo dados do Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil (CERT.br).
+O número total de spams em janeiro foi superior a 286 mil, 90,7 mil a mais que em dezembro. Mesmo assim, diz o CERT.br, o primeiro mês do ano de 2006 apresentou menor quantidade de spams do que o mesmo período em 2005. Naquele ano, o número total de mensagens identificadas foi de 301.790.
+O CERT.br revelou também que o ano de 2005 foi o que registrou menor número de mensagens de propaganda desde 2003. Enquanto em 2004 foram detectadas 4.156.382 mensagens, 2005 teve um número 58% menor: 2.414.200. Já a diferença entre 2005 e 2003 foi de 59,3%. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

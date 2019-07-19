@@ -1,0 +1,15 @@
+Proteção contra chuva
+<b>  </b><br>
+ <br>
+Depois de passar por uma temporada de altas temperaturas, é hora de ficar de olho nas famosas águas de março. O motivo é simples, alguns contratempos gerados pelas tempestades podem afetar as placas de rede, de fax/modem e a motherboard, além de danificar estes itens.
+Segundo o Instituto Nacional de Meteorologia (INMET), em conjunto com o Centro de Previsão de Tempo e Estudos Climáticos (CPTEC), no primeiro trimestre de 2006 as temperaturas deverão variar de normal a acima da média em todo País. A previsão é de chuvas próximas à média histórica em todas as regiões do Brasil. 
+Daí o alerta para quem trabalha com computadores. Os usuários devem ficar atentos às descargas atmosféricas e às quedas de energia que costumam acontecer junto com as tempestades. 
+Os problemas são freqüentes. Nos micros sem nobreaks ou estabilizadores, além da perda de dados em casos de queda de energia, os problemas mais freqüentes são a queima de fonte, já que está em contato direto com a energia, e de placas fax modem. 
+“Os modems, além de serem mais sensíveis, ficam conectados o tempo todo e nem todos os nobreaks têm proteção para linha telefônica”, alerta o proprietário da Sensus, assistência técnica localizada em Campinas (SP), Ariovaldo Rampasso. 
+Outra vítima, segundo Rampasso, são os monitores, que são muito afetados devido variação de energia. O resultado é a queima do equipamento.
+ O HD também pode sofrer com este fator, uma vez que num processo normal de desligamento da máquina, o sistema faz com que a cabeça do HD seja recolhida. Se a energia pára de repente, a unidade de disco pode ser danificada.
+A gerente de Marketing da SMS, fabricante nacional de sistemas de energia como nobreaks, estabilizadores e filtros de linha, Patrícia Maiellaro, afirma que um nobreak é um investimento pequeno quando comparado com os prejuízos gerados pelas falhas da rede de energia elétrica.
+“Para se ter uma idéia, o preço de um nobreak pode representar menos de 10% do valor de um micro”, ressalta Patrícia. Os usuários de micros devem ficar atentos.
+O Brasil é o recordista mundial de incidência de raios atmosféricos. São 60 milhões por ano, que causam prejuízos de R$ 500 milhões. Esses dados são do Grupo de Eletricidade Atmosférica do Instituto Nacional de Pesquisas Espaciais (INPE).  <br><br><hr>
+Data da Publicação: 27/03/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

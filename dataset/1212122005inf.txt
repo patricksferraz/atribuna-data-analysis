@@ -1,0 +1,16 @@
+Organize os seus e-mails
+<b> Ferramenta gratuita ajuda a
+organizar e-mails na caixa
+de entrada conforme a
+ordem de importância </b><br>
+ <br>
+O time de pesquisas da Microsoft lançou na última semana uma ferramenta gratuita que ajuda o usuário a organizar seus e-mails na caixa de entrada conforme a ordem de importância.
+Chamada de Social Network and Relationship Finder (Snarf), a aplicação usa o banco de dados de cliente de e-mail para contar o número de vezes que um usuário envia ou recebe mensagens de determinado contato, segundo informação do pesquisador na Microsoft, A.J. Brush.
+O processo é chamado de seleção social e foi desenvolvido com o apoio de um grupo de estudantes de graduação, dos quais pelo menos um estudava sociologia, para chegar a uma ferramenta que permite priorizar a organização dos e-mails na caixa de entrada de acordo com a freqüência de troca de mensagens.
+O Snarf já está disponível para download no endereço www.research.microsoft.com/community/snarf. Para usar a ferramenta, é e necessário usar o Microsoft Outlook 2002 ou 2003 como fonte MAPI (Messaging Application Programming Interface), mas o sistema também foi testado com servidores Exchange, Hotmail, e-mail usando clientes POP (Post Office Protocol), IMAP e OL Connector (para Lotus Notes).
+A ferramenta permite ao usuário visualizar os e-mails não lidos em três modos: não-lidos para mim e com cópia para mim, mensagens não-lidas e listas não-lidas.
+Uma das utilidades da ferramenta é a checagem de e-mail via celular, por exemplo. Como, em geral, este processo tem que ser rápido, a classificação por ordem de importância pode ser bastante últil.
+Bernie Hogan, doutorando em sociologia que participou do projeto, disse que os servidores de e-mail utilizados hoje não levam em conta aspectos do dia-a-dia que as pessoas usam para organizar sua interação social.
+Essa ferramenta ajudá os pesquisadores a desenvolver softwares mais inteligentes que vão revolucionar a comunicação por e-mail. <br><br><hr>
+Data da Publicação: 12/12/2005 - Pagina: 12 <br>
+Editoria: Informática <br><br>

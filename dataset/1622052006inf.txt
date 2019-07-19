@@ -1,0 +1,41 @@
+IBM Software em Vitória
+<b> Evento mostra as novas
+versões dos softwares que
+a IBM está disponibilizando
+no mercado mundial </b><br>
+ <br>
+Soluções em softwares serão o destaque do IBM Software Vitória 2006, que acontece na próxima sexta-feira, dia 26. O evento será realizado no Novotel. Colaboração Avançada e Correio Eletrônico, Portais Corporativos, Gerência de Documentos e Gerenciamento das atividades de desenvolvimento de sistemas e governança de TI estão entre os destaques do encontro, que será divido por sessões.
+Durante o evento, serão mostrados, em primeira mão, as novas versões dos softwares que a IBM está disponibilizando no mercado mundial.
+Na sessão “WebSphere Portal”, por exemplo, serão apresentadas formas de entregar aos usuários uma única interface para acesso a aplicações, informações e processos, além de mostrar como isso pode ser feito com o tão procurado Retorno Sobre Investimento (ROI). 
+ Já na sessão “Workplace Service Express”, os participantes vão conhecer soluções baseadas em um Portal Colaborativo, com funcionalidades de gerência de documentos e de ferramentas de colaboração para equipes de trabalho.
+Nele, será possível conhecer as funcionalidades de um produto poderoso de colaboração desenhado para pequenas e médias empresas que buscam grandes ganhos em produtividade, acesso mais simples aos documentos e aplicativos de negócios, implementação e gerenciamento mais fáceis de sua infra-estrutura de TI. 
+ Na “Rational”, o portifólio das ferramentas da brand Rational serão mostradas. Elas ajudam as organizações a criarem valor de negócios, melhorando sua capacidade de gerenciamento no processo de desenvolvimento de software.
+ As inscrições para o IBM Software Vitória 2006 são limitadas. É necessário fazer inscrição prévia através do site www.agendacapixaba.org.br ou do telefone 3324-9098 até quinta-feira, dia 25. O evento está sendo promovido pela Gaia Informática e Ingram Micro, em parceria com a IBM.
+
+
+Portal Capixaba
+O portal capixaba iMasters é destaque no cenário nacional. O motivo é simples. Ele mostra como um portal, geralmente com estrutura complexa, também pode seguir plenamente as normas do W3C.
+Premiado desde 2002, o iMasters é considerado como o principal site de treinamento do Brasil, trazendo reconhecimento para o Espírito Santo. Na última semana, ele foi mais uma vez reconhecido como o primeiro portal nacional validado pelas normas do W3C. 
+Líder em conteúdo de TI no Brasil, o site traz como característica principal a alta tecnologia utilizada e a interação completa com o usuário, denominada “Meu iMasters”, onde ele poderá efetuar anotações sigilosas nos conteúdos lidos, conversar com o autor, ter um canal personalizado, gerar feeds exclusivos, dentre outros recursos inéditos.
+Lançado em 2001, o iMasters é hoje uma referência nacional em TI. 
+Para acessar o iMasters, digite www.imasters.com.br.
+
+OBSERVATÓRIO
+Mudanças com a TV digital
+Rafael Andaku
+O Brasil está prestes a tomar a decisão de qual padrão de TV  Digital irá adotar, assunto que está passando despercebido para grande parte dos brasileiros. Interessante é que a cobertura realizada pelos meios de comunicação, maiores interessados nessa decisão, não é incisiva. Entretanto, nos bastidores de Brasília, ocorre uma grande movimentação e lobby de poderosos grupos econômicos.
+O que está por trás dessa decisão é o modelo econômico do meio de comunicação mais popular e lucrativo do País: a televisão. Estão redondamente enganados os que acham que essa é uma decisão técnica de engenheiros e professores universitários. O que está por baixo da cortina tecnicista da escolha de um padrão de TV digital é quem irá conquistar a maior parte desse novo mercado: as redes de televisão.
+As redes de TV pressionam o governo pelo padrão japonês. Esse modelo privilegia a alta definição e permite que os celulares captem os sinais diretos das antenas de TV sem passar pelas operadoras de celulares. Isso garante que as redes de televisão continuem com o monopólio de transmissão.
+Já as teles preferem o modelo europeu, que permite uma maior oferta de canais, o que poderá aumentar o número de concorrentes. As teles já anunciaram que querem fazer parte desse bolo e começar a distribuir conteúdo. Através dos multicanais criados por esse padrão seria inclusive possível através da TV digital ter acesso à banda larga e outros serviços disponibilizados pela teles.
+Apesar das teles possuírem uma força econômica muito maior, faturam cerca de 14 vezes mais que as redes de comunicação (cerca de R$ 7 bilhões, em 2004), parece que a força política das redes vão ganhar essa queda de braço.
+Não podemos esquecer que esse é um ano eleitoral e a televisão ainda é o principal meio de conquistar votos. Não seria muito prudente para o presidente Lula bater de frente com as redes nesse momento. Inclusive o ministro das Comunicações, Hélio Costa já se posicionou favorável ao modelo japonês.
+Enquanto isso, as agências de publicidade, outras grandes interessadas nessas mudanças, não parecem tão participativas nessa decisão. Em contra partida, a comissão dos filmes de 30 segundos, que são o grande filão das agências, nunca esteve tão ameaçado com essas mudanças.
+Os hábitos de consumo de mídia, independente do padrão que for adotado, estão em mudança. A informação está deixando de ser imposta pelas redes e escolhidas pelo usuário. É a era OnDemand, onde quem escolhe a grade de programação é o telespectador. Poderemos assistir a novela das oito de manhã cedo, o Big Brother Brasil na hora do almoço e o Globo Esporte à noite.
+A TV digital permitirá a interatividade. Poderemos opinar sobre o conteúdo da televisão, participar de votações, jogos, mandar e-mails e ainda decidir com qual câmera queremos assistir aos jogos da seleção brasileira. Conseguiremos inclusive fazer compras pela TV. Já imaginou o sucesso de vendas das roupas usadas pelas atrizes das novelas sendo vendidas por controle remoto durante a programação?
+Fica claro que a escolha do padrão de TV Digital irá afetar toda a cadeia produtiva do setor de comunicações. Desde as redes de televisão, passando por agências, produtoras, fornecedores e anunciantes, todos sofrerão com as mudanças. O que mostra a importância dessa decisão que será tomada nos próximos dias.
+Entretanto, independente de qual padrão for escolhido, estamos em um caminho sem volta, em que agências e anunciantes terão que adaptar a propaganda e o marketing para novos hábitos de consumo. Teremos que aprender a vender produtos e serviços com interatividade e sob demanda.
+Rafael Andaku é diretor 
+de criação da E-brand 
+(www.e-brand.com.br) <br><br><hr>
+Data da Publicação: 22/05/2006 - Pagina: 16 <br>
+Editoria: Informática <br><br>

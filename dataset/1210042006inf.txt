@@ -1,0 +1,14 @@
+Mobile banking
+<b> Banco do Brasil quer massificar uso
+do celular para transações bancárias </b><br>
+ <br>
+O Banco do Brasil anunciou a integração de sua rede de auto-atendimento bancário pelo celular com todas as operadoras do País, bem como a expansão de seus serviços de Mobile Baking.
+A instituição espera massificar o uso do Auto-Atendimento BB. Segundo o vice-presidente de Varejo e Distribuição do banco,  Antonio Francisco de Lima Neto, o objetivo é que o mobile banking supere em pouco tempo o internet banking.
+Outra meta do BB é elevar o número de transações realizadas pelo celular. Atualmente, 80% dos correntistas usam o dispositivo móvel apenas para consultas, embora esta função seja a única disponível para celulares menos atuais, com a tecnologia Wap1.
+Hoje, os correntistas com celulares GSM ou CDMA, que possuem as tecnologias Wap2, Simbrowsing e Brew têm acesso aos seguintes serviços: consultas de extratos e saldos, transferências entre contas do banco, pagamentos de títulos e convênios, DOC/TED, doações ao Programa Fome Zero, recarga de celular pré-pago e empréstimos – Crédito Direto ao Consumidor (CDC) e CDC Consignado. Em abril, o banco prepara o lançamento da modalidade de investimentos.
+O valor da transação, segundo o BB, será cobrado apenas pelas operadoras, sem taxas adicionais do banco.
+As aplicações desenvolvidas pelo BB em linguagem Java (J2EE) também ganharam mais segurança, informa o gerente executivo da Unidade de Soluções de Desenvolvimento de Aplicativos do Banco do Brasil, Alexandre Conceição
+“Pelo cadastramento, o usuário assegura que somente um número de celular habilitado em um determinado aparelho podem acessar o Mobile Banking. 
+Além disso, o chip do celular GSM, que contém nossa aplicação já possui uma chave criptográfica. O usuário do celular CDMA baixa esta chave juntamente com a aplicação. <br><br><hr>
+Data da Publicação: 10/04/2006 - Pagina: 12 <br>
+Editoria: Informática <br><br>

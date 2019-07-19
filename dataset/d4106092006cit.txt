@@ -1,0 +1,11 @@
+Robô para recomendar vinhos
+<b>  </b><br>
+ <br>
+Um robô criado pela empresa japonesa NEC Systems e a Universidade Mie poderá se transformar num sommelier particular num futuro próximo, recomendando bons vinhos de acordo com o gosto do cliente. 
+Ele foi criado inicialmente para identificar os sabores das comidas, analisando seus ingredientes, mas o robô foi agora aprimorado para sentir as sutis diferenças entre tipos de uvas e buquês de vinhos.
+O robô sommelier usa raios infravermelhos para saber as quantidades exatas de componentes importantes nos alimentos e bebidas, como açúcares e gorduras. 
+Quando “prova” um novo prato ou uma taça de vinho, ele armazena as informações para que elas sejam comparadas a degustações futuras.
+Os cientistas que desenvolveram o robô decidiram incluir uma habilidade a mais para torná-lo mais próximo de um verdadeiro sommelier.
+Eles fazem perguntas específicas para descobrir as preferências do cliente e, assim, escolher os melhores vinhos, de forma personalizada. <br><br><hr>
+Data da Publicação: 06/09/2006 - Pagina: 41 <br>
+Editoria: Ciência e Tecnologia <br><br>

@@ -1,0 +1,15 @@
+Mãos à obra
+<b> Descubra como fazer para
+salvar e-mails, imagens, vídeos
+e músicas para que possa
+recuperá-los no futuro </b><br>
+ <br>
+Para fazer backup de arquivos de fontes do Word ou dos favoritos do Internet Explorer, por exemplo, é preciso procurar as pastas armazenadas no diretório Windows. Para visualizá-las, basta clicar no menu “Iniciar”, em seguida em “Disco Local”, e depois na pasta “Windows”.
+O usuário pode fazer backup até de seus e-mails. Quando sincronizados com o Outlook, do sistema operacional Windows, todas as mensagens recebidas via internet são copiadas para o HD do usuário. Para copiá-las para uma pasta específica, que pode ser usada para backup, o usuário deve, com o programa aberto, ir em “Arquivos” e selecionar a opção “Importar” e “Exportar”. 
+O próximo passo é selecionar “Exportar Arquivo” e clicar em “Próximo”. Na lista que aparecer, clique na opção “Arquivo de Pasta Particular” (referente a arquivos na extensão .pst). Em seguida o usuário deverá escolher o diretório onde a pasta com os e-mails será copiada e nomeá-la.
+Quando não é encontrada a pasta onde um arquivo de interesse se encontra, há a possibilidade de uma busca com ajuda da extensão do arquivo. Clicando no menu “Iniciar” e depois em “Pesquisar”, o usuário deverá digitar um asterisco (*) e depois a terminação específica do documento.
+Por exemplo “*.doc” para arquivos do Word, “*.mp3” para arquivos musicais, e assim por diante. Imediatamente, o sistema irá exibir todos os arquivos presentes no computador naquele formato.
+Usuários do Windows XP também já contam com uma ferramenta facilitadora para fazer backup. Para quem usa Windows XP Professional basta clicar no menu “Iniciar”, depois no comando “Todos os Programas”, ir em “Acessórios”, em seguida em “Ferramentas do Sistema” e depois em “Backup”.
+Já quem tem sistema Windows XP Home Edition deve instalar manualmente a utilidade. Para isso, deverá recorrer aos arquivos do CD 1 do sistema operacional. <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 03 <br>
+Editoria: Informática <br><br>

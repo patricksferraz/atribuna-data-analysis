@@ -1,0 +1,18 @@
+Vírus usa eleições para atacar
+<b> Praga se espalha rapidamente 
+por e-mail usando o nome do 
+Tribunal Superior Eleitoral
+para enganar os internautas </b><br>
+ <br>
+Um vírus que chega por e-mail avisando ao internauta que o seu título de eleitor foi cancelado está se espalhando rapidamente na internet brasileira. A informação é da Trend Micro, alertando que o vírus TSPY_BANCOS.ZU está usando o nome do Tribunal Superior Eleitoral (TSE).
+A mensagem, que está circulando na internet desde o começo do mês de junho, vem com o subject “Aviso de cancelamento”.
+Além disso, no corpo do e-mail aparece a logomarca do TSE e os seguintes dizeres: “Informamos que seu título eleitoral teve um cancelamento provisório. O motivo do cancelamento foi uma irregularidade em seu Cadastro de Pessoa Física (CPF) a qual motivou o cancelamento do mesmo, e também de seu título eleitoral. Para saber mais detalhes sobre esta irregularidade, e quais providências tomar, leia o regulamento clicando no link abaixo. Após clicar no link, será exibida uma janela, onde a opção “Abrir” deve ser clicada”.
+Segundo os especialistas da Trend Micro, o TSPY_BANCOS.ZU é um spy-phishing que utiliza técnica de engenharia social para se propagar, já que envia um e-mail em nome do Tribunal Superior Eleitoral, informando que o título eleitoral do usuário foi cancelado.
+“A engenharia social é uma técnica de propagação largamente utilizada pela maioria dos programas de vírus, que se aproveitam da curiosidade do usuário em abrir mensagens desconhecidas, executando anexos que são aparentemente inofensivos ou por meio do download de arquivos com nomes atraentes”, afirma o gerente de serviços Midsize da Trend Micro para América Latina, Leonardo Bonomi.
+De acordo com o especialista, é muito comum que, em épocas como as eleições, os criadores de malwares se aproveitem da situação e da ingenuidade dos usuários com atrativos que os seduzem ou os deixam preocupados a ponto de clicar no link enviado.
+“Por isso é muito importante não abrir e-mails não solicitados, bem como não confirmar dados e informações bancárias e pessoais”, informa Leonardo.
+No caso do falso e-mail do TSE, a intenção é roubar dados pessoais do usuário. Ao fazer o download, o internauta baixa e instala automaticamente um arquivo do tipo spyware em sua máquina, que irá monitorar as atividades do Internet Explorer e criar um file de registro onde as informações roubadas serão armazenadas, utilizando engenharia própria de SMTP (Simple Mail Transfer Protocol).
+Depois disso, na primeira vez que o usuário acessar seu banco on-line, por exemplo, o código malicioso conseguirá roubar informações como números de cartões de crédito, senhas, dados de contas ou outras informações pessoais.
+Quem não possui um antivírus atualizado pode rastrear o computador na ferramenta gratuita da empresa, disponível no site www.trendmicro.com/br e clicar em HouseCall. <br><br><hr>
+Data da Publicação: 21/08/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

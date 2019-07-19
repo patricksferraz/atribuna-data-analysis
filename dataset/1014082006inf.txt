@@ -1,0 +1,9 @@
+Falha humana é o ponto fraco
+<b>  </b><br>
+ <br>
+O maior ponto fraco na segurança dos computadores não está no hardware ou no software, mas nas pessoas que usam as máquinas. Essa é a opinião da maioria dos “hackers” e especialistas. Para o executivo da Dox Para Research, Dan Kaminisky, “a segurança é mais um problema humano do que técnico”. 
+O assunto foi um dos destaques da maior conferência da indústria de informática, a DefCon, que aconteceu na última semana em Las Vegas.
+Gerentes de grandes empresas presentes na conferência contaram que funcionários freqüentemente deixam senhas em papéis colados nas máquinas ou debaixo dos teclados e que compartilham códigos de acesso secretos com colegas.
+A famosa Paris Hilton tinha vários números de contato de amigos famosos armazenados em seu celular que alguém conseguiu invadindo o aparelho, usando uma senha previsível: o nome de sua cadelinha de estimação, brincaram os participantes da DefCon.  <br><br><hr>
+Data da Publicação: 14/08/2006 - Pagina: 10 <br>
+Editoria: Informática <br><br>

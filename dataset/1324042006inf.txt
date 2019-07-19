@@ -1,0 +1,33 @@
+GAMES
+<b> Efeito de TV de plasma nos games
+
+Gamemaníacos ganham com alta velocidade e qualidade
+de imagem trazidas pelas novas placas de vídeo </b><br>
+ <br>
+A cada dia, a tecnologia proporciona efeitos mais realísticos aos games. Velocidade e alta qualidade de imagem é o que prometem as duas placas de vídeo PCI Express, que a Biostar acaba de lançar no Brasil.
+Baseadas nos mais novos chips gráficos da NVDIA, os modelos VP7903-GX52 e VP7903-GT22 têm 24 processadores de pixel shader, novo recurso que aumenta a qualidade das imagens acessadas, e conectores dual DVI e TV-Out. Trocando em miúdos, toda esta tecnologia é essencial para o melhor aproveitamento das funcionalidades dos games modernos.
+As placas vão possibilitar ao usuário velocidade e alta qualidade de imagem devido à tecnologia PureVídeo, também presente em televisores de plasma de alta definição, mas que neste caso foi desenvolvida pela NVIDIA. Além disso, possui interface de memória de 256-bits e ao recurso GDDR3 com 1.6GHz.
+“Os novos modelos são perfeitos para os gamemaníacos”, afirma o diretor de marketing da Biostar para a América Latina, John Gamba.
+As novidades têm tecnologia inovadora para PCs e, como identificado em testes realizados pela fabricante, o GeForce 7900 GPU é o que existe de mais avançado no mercado de placas atualmente.
+Tanto a NVIDIA GeForce 7900GTX como a GPU apresentam o dobro de desempenho gráfico de seus modelos anteriores. Têm sua arquitetura construída com base no Microsoft DirectX, que possibilita a execução de games em versões anteriores aos baseados em 9.0. Já o NVIDIA 9.0 Shader Model 3.0 é a estrutura que dá os efeitos reais aos jogos.
+“Devido a Copa do Mundo 2006, preparamos um edição especial, e limitada, que acompanha o jogo FiFa Soccer 2006”, revela Gamba.
+A placa VP7903-GX52 é baseada no GeForce 7900 GTX, trabalha a 650 MHz, tem 512 MB de memória GDDR3 trabalhando a 1,6 GHz e sendo acessada a 256 bits por vez.
+Já a VP7903-GT22 tem como base o GeForce 7900GT, trabalha a 450 MHz, tem 256 MB de memória GDDR3 trabalhando a 1,32 GHz e sendo acessada a 256 bits por vez. 
+
+Etapa do mundial de games no Brasil
+
+O Brasil vai poder acompanhar ao vivo, pessoalmente ou pela internet, a final brasileira do World Series of Video Games (WSVG). A etapa nacional será disputada na liga WSVG Hive, que acontece durante três dias do Arena Gamer Experience (AGE), evento criado pela Messe Frankfurt Feiras, subsidiária brasileira da alemã Messe Frankfurt GmbH, uma das maiores organizadoras de feiras de negócios do mundo.
+De 4 a 6 de agosto, no Transamérica Expo Center, em São Paulo, as melhores equipes brasileiras e sul-americanas estarão reunidas para jogar na primeira liga de grande porte 100% nacional e concorrer a uma vaga na final norte-americana.
+Para ganhar o prêmio em dinheiro e a passagem para os Estados Unidos, os gamers disputarão os jogos “Counter-Strike 1.6” (FPS), “Warcraft 3: The Frozen Throne” (Estratégia) e “Quake 4” (FPS).
+Para chegar à final, que será no AGE, os competidores precisarão passar pelas etapas classificatórias, que acontecerão nos três meses que antecedem o evento. Além dos brasileiros, participarão da etapa final do campeonato alguns convidados da América Latina.
+O WSVG é organizado pela Games Media Properties com patrocínio da Intel, ATI, Creative Labs e Fatal1ty Group. A competição, que será a grande sensação do eSport em 2006, surge com a promessa de unir as diversas organizações gamers competitivas, como a CPL, Lanwar e a E-Sport Entertainment Group (DreamHack).
+De acordo com os organizadores de campeonatos de games, esta interação traz diversas vantagens não só para as competições, mas também aos jogadores e ao público. A liga contará com sete etapas mundiais, que serão nos Estados Unidos, Suécia, Brasil, China e Inglaterra.
+Para o universo gamer, o evento é considerado como o verdadeiro campeonato mundial, pois reúne os melhores times do planeta em sua final, por meio das qualificatórias mundiais.
+“A América Latina está se tornando cada vez mais importante para a indústria da tecnologia e o Brasil é uma escolha natural para ter um evento de nível profissional, como o WSVG. A liga nacional fará com que o WSVG seja marco histórico na comunidade brasileira de games”, afirma o CEO da Games Media Properties, Matt Ringel.
+“Participar de um evento mundial da WSVG dentro de uma feira de games vai ser fantástico, pois os jogadores poderão disputar e também conferir os lançamentos em jogos e hardware, tudo no mesmo lugar”, comenta o jogador Daniel Mörtl Pereira de Mello, codinome “own1e”, que já disputou campeonatos na Turquia e Espanha.
+São esperados mais de 500 jogadores entre as classificatórias e as finais no AGE. O evento contará, ainda, com atividades voltadas para os fãs de animes (animação japonesa) shows com bandas; bate-papos com especialistas, campeonato de Pump (game simulador de dança), área para Card Games e RPG e área de Tuning (carros modificados).
+O AGE é um evento aberto ao consumidor final e o objetivo é oferecer um ambiente de forte imersão em entretenimento digital, focado no ecossistema e na cultura gamer. Segundo a diretora geral da Messe Frankfurt, Ligia Amorim, a idéia é que, daqui há um ou dois anos, o AGE se torne um evento com perfil comparável aos principais desse segmento nos Estados Unidos, Japão e Alemanha.
+Para seguir essa estratégia, a feira já nasce com a expectativa de ser a maior da América Latina neste setor e de receber mais de 17 mil visitantes, dos mais variados perfis: jogadores de PC, console, mobile, hardusers e jogadores casuais.
+Mais informações nos sites www.arenagamer.com.br ou www.messefrankfurt.com.br. <br><br><hr>
+Data da Publicação: 24/04/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

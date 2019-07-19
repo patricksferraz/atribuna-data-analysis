@@ -1,0 +1,16 @@
+Na lista negra
+<b>  </b><br>
+ <br>
+A dica da semana, segundo o http://stopbadware.org” \\t “_blank –– grupo StopBadware.org – é cortar literalmente do seu caderninho os softwares de troca de arquivos P2P Kazaa, SpyAxe, o MediaPipie, um gerenciador de download produzido por uma companhia inglesa, e o Waterfalls 3, um screensaver distribuído no site Screensavers.com. 
+Eles estão entre os quatro primeiros programas identificados como “badware” de acordo com o grupo.
+O grupo StopBadware explica que, três dos quatro softwares, têm mecanismos próprios de instalação, três modificam outros softwares dentro do computador do usuário e três são difíceis de serem desinstalados completamente.
+No entanto, nenhum dos quatro violou as diretrizes do StopBadware.org contra infestar outros computadores, e apenas um, o WaterFalls 3, transmite dados privados para outras máquinas.
+O SpyAxe também interfere no uso da máquina e, além de ser difícil de ser desinstalado, não traz botões para que o aplicativo seja fechado na sua interface principal.
+Já o MediaPipe instala um programa P2P que consome banda do usuário sem que ele saiba e deixa um executável na máquina após ser removido. O WaterFalls 3, por fim, traz um componente considerado spyware e, em seu contrato de licença, se reserva o direito de instalar outras aplicações no computador do usuário.
+O StopBadware.org, em seu primeiro anúncio desde sua formação, em janeiro, identificou o SpyAxe, um programa alardeado como bloqueador de spyware, como um badware, o termo usado pelo grupo para identificar spywares, vírus, adwares e outros softwares maliciosos.
+“Achamos que existe um enorme valor em dar aos consumidores mais controle e fornecer a eles mais informações antes que algo possa prejudicar seus computadores. Esperamos que, a longo prazo, esses documentos leve os desenvolvedores de aplicações a operar de maneira mais clara e transparente”, afirma Palfrey.
+A Sharman Networks, que distribui o Kazaa, não concorda com o relatório. O software distribui adware, mas “isso é esclarecido para os usuários”, disse uma porta-voz da companhia, Felicity Campbell.
+ Usuários que preferirem podem pagar US$ 29,95 para usar uma versão sem propagandas, ou podem também desinstalar o aplicativo, acrescentou ela.
+Campbell também discordou da descoberta do StopBadware.org sobre a dificuldade de se desinstalar completamente o Kazaa, culpando uma falha no sistema operacional Windows por fazer parecer que arquivos do aplicativo de compartilhamento permaneçam no computador. <br><br><hr>
+Data da Publicação: 10/04/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

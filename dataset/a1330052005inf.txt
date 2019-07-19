@@ -1,0 +1,9 @@
+Revolução na animação
+<b>  </b><br>
+ <br>
+Depois do estrondoso sucesso de “Shrek 2”, a nova animação da DreamWorks, “Madagascar”, pode ser descrita como um desafio cabeludo apresentado na tela.
+Com um elenco de animais de zoológico e centenas de macacos na ilha que dá nome ao filme, os animadores tiveram que expandir os limites da tecnologia para realizar um efeito vistoso e convincente.
+Cada pêlo em cada animal representa uma linha de código de computação, num número incontável de algoritmos que tiveram que ser comprimidos e renderizados dia e noite para criar imagens para apenas uma cena. 
+Alex, o leão, por exemplo, a estrela da animação que é dublada pelo ator Ben Stiller, tinha 1,7 milhão de pêlos na cabeça e cada um representava uma série de uns e zeros. Há alguns anos, colocar apenas cinco bestas peludas em uma cena teria sido quase impossível – o ícone da ampulheta ficaria girando meses na tela do computador – mas “Madagascar” apresenta quase mil bichos em uma cena básica de dança. <br><br><hr>
+Data da Publicação: 30/05/2005 - Pagina: 13 <br>
+Editoria: Informática <br><br>

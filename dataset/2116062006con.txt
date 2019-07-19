@@ -1,0 +1,117 @@
+O que estudar para as provas da Assembléia Legislativa
+<b>  </b><br>
+ <br>
+Língua Portuguesa – Analista 
+Legislativo I (todas especialidades) e 
+Taquígrafo Parlamentar Apanhador I
+
+• Ortografia oficial; acentuação gráfica; flexão nominal e verbal; pronomes: emprego, forma de tratamento e colocação; emprego de tempos e modelos verbais; regência nominal e verbal; concordância nominal e verbal; ocorrência de crase; pontuação; redação de frases; reescritura de frases; intelecção de texto; adequação vocabular; linguagem figurada.
+Língua Portuguesa – Programador
+de Sistemas Júnior
+
+• Interpretação de textos, compreensão de textos. Estruturação do parágrafo: elementos coesivos e argumentativos. Aspectos lingüísticos: variações lingüísticas e funções de linguagem.
+
+• Morfossintaxe: estrutura, formação de classe e emprego de palavras. Semântica: denotação, conotação, sinonímia, antonímia e polissemia. Concordância nominal e verbal. Regência nominal e verbal.
+Conhecimentos Gerais – Analista
+Legislativo I (todas especialidades), 
+Taquígrafo Parlamentar Apanhador I e 
+Programador de Sistemas Júnior
+
+• Elementos de política brasileira. Cultura e sociedade brasileira: música, literatura, artes, arquitetura, rádio, cinema, teatro, jornais, revistas e televisão. Cultura internacional. História Geral e do Brasil.
+
+• Descobertas e inovações científicas na atualidade e seus impactos na sociedade contemporânea. O desenvolvimento urbano brasileiro. Meio ambiente e sociedade: problemas, políticas públicas, organizações não governamentais, aspectos locais e aspectos globais. Elementos de economia internacional contemporânea. Panorama da economia nacional. O cotidiano brasileiro.
+Conhecimentos Específicos – 
+Programador de Sistemas Júnior
+
+• Montagem, manutenção e configuração de microcomputadores, instalação e desinstalação de aplicativos e periféricos; O uso, instalação e configuração de sistemas operacionais linha Microsoft Windows nas versões mais recentes; administração básica de rede: compartilhamento de pastas e arquivos, localização e utilização de computadores e pastas remotas, mapeamento de unidades de rede, configuração e segurança do sistema de arquivos de rede, comandos de console, serviços de impressão e sistemas de backup de dados; 
+
+• Instalação e configuração de aplicativos da suite Microsoft Office nas versões mais recentes; o uso, instalação e configuração do Microsoft Internet Explorer, Microsoft Outlook e Outlook Express nas versões mais recentes; administração de disco, compartilhamento de recursos, configuração de serviços de rede no nível corporativo (DHCP, DNS e WINS); análise combinatória, cálculo de probabilidades e lógica matemática; algoritmos e estrutura de dados, linguagem de programação orientada a objetos, identificação e utilização do diagrama entidade-relacionamento, linguagem de programação Microsoft Visual basic 6 e/ou Borland Delphi 7 para uso do Microsoft SQL Server nas versões mais recentes; 
+
+• Microsoft Word 2000: estrutura básica dos documentos, edição e formatação de textos, cabeçalhos, parágrafos, fontes, colunas, marcadores simbólicos e numéricos, tabelas, impressão, ortografia e gramática, controle de quebras, numeração de páginas, legendas, índices, inserção de objetos, campos predefinidos, caixas de texto, desenhos e cliparts, uso da barra de ferramentas, atalhos e menus; 
+
+• Microsoft Access 2000: Implementação de banco de dados, criação e manutenção de tabelas; Microsoft Excel 2000: estrutura básica das planilhas, conceitos de células, linhas, colunas, pastas e gráficos, elaboração de tabelas e gráficos, uso de fórmulas, funções e macros, impressão, inserção de objetos, campos predefinidos, controle de quebras, numeração de páginas, obtenção de dados externos, classificação, uso de barra de ferramentas, atalhos e menus; Microsoft SQL Server 2000: instalação, configuração, modelagem e administração de banco de dados relacional.  
+Conhecimentos Específicos - 
+Analista Legislativo I, especialidade 
+Administrador
+Administração pública: Constituição da República – títulos III, IV VI e VII; princípios constitucionais relativos à administração pública; probidade administrativa; discricionariedade administrativa e atuações do Ministério Público e do Poder Judiciário; orçamento público; política fiscal; contratos e convênios; plano de contas.
+
+• Receita e despesa pública; receitas e despesas orçamentárias e extra-orçamentárias: interferências passivas e mutações ativas; sistemática dos eventos. Lei Federal nº 4.320, de 17 de março de 1964 e Decreto Federal nº 93.872, de 23 de dezembro de 1986; Leis Federais 8.666/93 e 8.883/94; Lei Complementar nº 101/2000. 
+Administração geral - organização e métodos: áreas de atuação: estrutura, funcionamento; tipos de projetos de O&M; fases de um projeto de O&M - instrumentos (questionários, entrevistas, organogramas, fluxogramas, etc.) utilizados em cada etapa (planejamento, coleta de dados e informações, análise e interpretação, criação de soluções, relatórios, implantação e acompanhamento); análise da distribuição do trabalho: quadro de distribuição do trabalho, análise e conclusões; manuais, objetivo, tipo, raios de ação e atualização; aspectos de resistência à mudança, críticas e atuação em trabalhos de O&M.
+
+• Elaboração de relatórios: técnicas; tipos de relatórios; uniformizações. Controle de processos e gestão da qualidade; administração de projetos. 
+Administração de material: As funções básicas de um sistema de administração de material; instrumentos aplicados a compras; princípios usualmente empregados para classificar materiais; análise de diversos sistemas de classificação de materiais existentes; codificação de material; catalogação de material; classificação de estoques; política de estoques; sistemas de armazenamento; centralização versus descentralização de materiais; inventário físico, levantamento, contagem, apuração e conciliação; planejamento e organização do cadastro de fornecedores; instrumentos e processos de licitação.
+
+• Recursos humanos: Avaliação de desempenho: objetivos, responsabilidade, características dos principais métodos; manutenção de recursos humanos: compensação, salários, administração de salários, avaliação e classificação de cargos e pesquisa salarial, matemática e estatística aplicadas à administração de cargos e salários; plano de benefícios: tipos, custos e objetivos; higiene e segurança do trabalho; desenvolvimento de recursos humanos: treinamento de desenvolvimento de pessoal; desenvolvimento organizacional; controle de recursos humanos: banco de dados, sistemas de informações e auditoria de recursos humanos.
+Conhecimentos Específicos – Analista 
+Legislativo, especialidade Contador
+
+• Contabilidade pública. Conceito objeto e regime, campo de aplicação. Legislação básica (Lei nº 4.320/64, Lei Complementar nº 101/2000, Decreto nº 93.872/86).
+
+• Receita e despesa pública: conceito, classificação econômica e estágios. Receitas e despesas orçamentárias: interferências passivas e mutações ativas. Plano de contas da administração federal: conceito, estruturas e contas do ativo, passivo, despesa, receita, resultado e compensação. Tabela de eventos: conceito, estrutura e fundamentos lógicos.
+
+• Sistema Integrado de Administração Financeira do Governo Federal (Siafi): conceito, objetivos, principais documentos. Balanços financeiro, patrimonial, orçamentário e demonstrativo das variações de acordo com a Lei nº 4.320/64.
+
+• Contabilidade de custos: classificação de custos - diretos, indiretos, fixos e variáveis, separação entre custos e despesas; apropriação de custos – material, mão-de-obra e rateio de custos indiretos; rateio de custos na departamentalização.
+
+• Métodos de custeio: por absorção, variável e ABC; e custos para controle, custo padrão. Contabilidade geral: princípios contábeis fundamentais.
+
+• Patrimônio: componentes patrimoniais: Ativo. Passivo e situação líquida (ou patrimônio líquido). Diferenciação entre capital e patrimônio. Equação fundamental do patrimônio. Representação gráfica dos estados patrimoniais.
+
+• Fatos contábeis e respectivas variações patrimoniais. Conta: conceito, débito, crédito e saldo, teorias, função e estrutura das contas, contas patrimoniais e de resultado. Apuração de resultados.
+
+• Controle de estoques e do custo das vendas. Sistema de contas; plano de contas. Provisões em geral. Escrituração. Conceito e métodos.
+
+• Lançamento contábil: rotina e fórmulas. Processo de escrituração. Escrituração de operações financeiras. Escrituração de operações típicas.
+
+• Livros de escrituração: obrigatoriedade. Funções, formas de escrituração. Erros de escrituração e suas correções. Sistema de partidas dobradas. Balancete de verificação. Balanço patrimonial: obrigatoriedade e apresentação. Conteúdo dos grupos e subgrupos.
+
+• Classificação das contas. Critérios de avaliação do ativo e do passivo. Avaliação de investimentos. Levantamento do balanço de acordo com a Lei nº 6.404/76 (Lei das Sociedades por Ações).
+
+• Demonstração do resultado do exercício: estrutura. Características e elaboração de acordo com a Lei nº 6.404/76. Transferência do lucro líquido para reservas. Dividendo mínimo obrigatório. Capital de giro: origens e aplicações. Análise contábil e auditoria. Análise contábil: conceitos gerais, objetivos, limitações, clientela, cuidados prévios, preparação de demonstrativos contábeis para fins de análise.
+
+• Análise vertical estática e dinâmica. Análise horizontal, conversão de valores nominais em reais. Análise por quocientes: liquidez, solvência, endividamento, garantia de capitais de terceiros, imobilizações, rotação de valores, rentabilidade. Relatórios de análise.
+
+• Auditoria: conceitos gerais, princípios, normas, técnicas, procedimentos, controles internos. Fluxos de operações, documentos e respectivos responsáveis.
+
+• Questionários, papéis de trabalho, relatórios e pareceres. Testes e verificações relativos aos principais grupos de contas patrimoniais e de resultados. Legislação básica relativa à execução do trabalho e ao exercício profissional da auditoria.
+Conhecimentos Específicos – 
+Analista Legislativo I, especialidade 
+em Engenheiro Civil
+
+• Instalações hidráulicas prediais. Instalações sanitárias. Sistema de tratamento de água potável. Sistema de tratamento de esgotos. Sistema de captação e drenagem de águas pluviais. Fiscalização de obras e Serviços de Engenharia. Impermeabilização. Coberturas. Revestimentos. Acabamentos.
+
+• Pavimentos rígidos e flexíveis. Drenagem de pavimentos. Captação de águas pluviais. Reparos em pavimentos – rígidos e flexíveis. Rejuntamento de pavimento. Pintura e reparos de sinalização horizontal. 
+
+• Sistema de comunicação visual. Planejamento de obras e serviços de engenharia. Cronograma físico-financeiro. Orçamento de obras e de serviços de engenharia.
+
+• Fluxograma de pagamentos de faturas. Reajustamento de preços. Controle de prazos. Medições de obras e serviços de engenharia. Planejamento e controle da manutenção (planejamento anual de atividades; sistemas de ordem de serviços, históricos de intervenções em equipamentos, componentes principais e em instalações, custos aplicados à manutenção). Programação e execução de serviços de manutenção. Administração de contratos. 
+
+• Programação de obras: custos, quantidades; planejamento e cronograma físico-financeira. Projeto e execução de obras civis: instalações provisórias; canteiro de obras; proteção e segurança, depósito e armazenamento de materiais, equipamentos e ferramentas; fundações; escavações; escoramentos; estruturas; materiais; instalações prediais; desenho técnico; documentação; fiscalização. 
+
+• Materiais de construção civil. Análise estrutural: esforços; estruturas hiperestáticas. Mecânica dos solos: permeabilidade, percolação; estimativa de recalques; estabilidade das fundações superficiais e estabilidade das fundações profundas.
+
+• Resistência dos materiais: deformações; teoria da elasticidade; análise de tensões; tensões principais; flexão; torção; cisalhamento e flambagem. 
+
+• Hidráulica aplicada: hidrodinâmica; escoamentos; singularidades; condutos; bombas e turbinas; energia hidráulica. Noções da Lei nº 8.666/93 e suas alterações no que se refere a obras e serviços de Engenharia.
+
+• Planejamento e remanejamento de layouts;Plano Diretor do Município de Vitória – PDU – (Lei Municipal nº 4.167/94); lei municipal nº 3.644/94 (Inclusão de obras de arte em edificações com área superior à 2.000 metros quadrados); lei municipal nº 4.821/98 (código de edificações); lei municipal nº 6.023/2003 (programa de regularização de edificações - PRE); lei municipal nº 
+6.074/2003 (alteração do código de edificações); Decreto nº 11.388/2002 (regulamenta o artigo 40 da Lei nº 
+4.821/98); Decreto municipal nº 11.821/2003 (regulamenta a Lei 6.023/2003); lei municipal nº 6.080/2003 (código de posturas e atividades urbanas do município de Vitória - ES); Decreto municipal nº 11.975/2004 (regulamenta a Lei nº 6.080/2003). 
+Conhecimentos Específicos - 
+Analista Legislativo I, especialidade 
+
+Engenheiro Eletricista
+• Circuitos elétricos. Circuitos trifásicos. Instalações elétricas de baixa tensão. Instalações elétricas de média tensão. Materiais e equipamentos elétricos.
+
+• Medição de energia elétrica. Acionamentos elétricos. Eficiência energética. Proteção de sistemas de energia elétrica. Rede estruturada de dados e voz. Iluminação predial e de áreas externas, sistemas de aterramento e malhas de terra.
+
+• Quadro de comando, controle e proteção. Motores elétricos. Operação e manutenção de subestações. Conceitos e fundamentos aplicados à manutenção predial (manutenção preventiva, corretiva e preditiva).
+
+• Planejamento e controle da manutenção (planejamento anual, de atividades; sistemas de ordem de serviços; histórico de intervenções em equipamentos, componentes principais e em instalações; custos aplicados à manutenção).
+
+• Conceitos básicos de sistemas de corrente alternada. Potência ativa, reativa e aparente. Fator de potência e compensação de potência reativa.
+
+• Noções da Lei 8.666/93 e suas alterações no que se refere a obras e serviços de engenharia. Plano Diretor do Município de Vitória – PDU – (Lei Municipal nº 4.167/94); lei municipal nº 
+3.644/94 (Inclusão de obras de arte em edificações com área superior à 2.000 metros quadrados); lei municipal nº 4.821/98 (código de edificações); lei municipal nº 6.023/2003 (programa de regularização de edificações - PRE); lei municipal nº 6.074/2003 (alteração do código de edificações); Decreto nº 11.388/2002 (regulamenta o artigo 40 da Lei nº 4.821/98; decreto municipal nº 11.821/2003 (regulamenta a Lei 6.023/2003); lei municipal nº 6.080/2003 (código de posturas e atividades urbanas do município de Vitória - ES); decreto municipal nº 11.975/2004 (regulamenta a Lei nº 6.080/2003). <br><br><hr>
+Data da Publicação: 16/06/2006 - Pagina: 21 <br>
+Editoria: Concursos <br><br>

@@ -1,0 +1,27 @@
+Novíssimas certificações da Microsoft 
+<b> Novo programa oferece
+três tipos de credenciais
+e diversas certificações
+importantes para profissionais </b><br>
+ <br>
+A Microsoft acaba de anunciar um novo programa que oferece três tipos de credenciais e diversas certificações importantes para profissionais e desenvolvedores de tecnologia da informação. Entre as novas habilitações estão Microsoft Certified Technology Specialist, Microsoft Certified IT Professional ou Professional Developer e Microsoft Certified Architect.
+As novas certificações buscam atender às necessidades recentes do mercado, refletindo as mudanças do segmento de TI, dos profissionais e das organizações. A novidade é que os profissionais de TI capixabas não precisam mais buscar os grandes centros para atualizarem-se, como era feito antigamente.
+Através da Mindworks, a parceira oficial da Microsoft do Espírito Santo no setor de treinamento e certificação, a multinacional já disponibiliza aqui no Estado, desde 2004, os mais novos cursos, testes de certificações e credenciais. Ou seja, quando um novo curso é lançado mundialmente, a Mindworks já possui o material oficial, o conhecimento e toda infra-estrutura necessária para a capacitação dos profissionais locais. 
+Para a gerente de treinamento e certificação da Microsoft Brasil, Adriana Cantamessa, a Mindworks, como um dos Centros Oficiais de Treinamento Microsoft no Brasil, está alinhada à estratégia de treinamento e certificação da companhia como lançamento de produtos e campanhas de marketing.
+“A empresa atua com material oficial da Microsoft em seus treinamentos, que é totalmente alinhado aos nossos produtos e serviços”, comenta Adriana. 
+Atualmente, a Mindworks é o único Centro de Treinamento Oficial da Microsoft no Estado e ainda e é autorizada pelos organismos internacionais Vue e Prometric a realizarem exames de certificação oficial.
+Em pouco mais de um ano como centro de treinamento, a empresa capixaba precisou triplicar sua infra-estrutura para atender a grande demanda de profissionais que buscam qualificação e certificações oficiais da Microsoft. E a tendência é um investimento ainda maior no setor. 
+“Devido ao atual momento que o Espírito Santo está vivendo, os profissionais capixabas estão mais qualificados e as grandes empresas localizadas no Estado estão investindo no especialista local e não mais recorrendo ao eixo Rio-São Paulo”, comenta o diretor executivo da Mindworks, Niase Borjaille.
+
+Desenvolvimento e implementações
+A certificação Microsoft Certified Technology Specicialist (MCTS) será adequada a profissionais especialistas em tecnologias e produtos que trabalham com desenvolvimento e implementações.
+Já a Microsoft Certified IT Professional (MCITP) e a Microsoft Certified Professional Developer (MCPD) são destinadas àqueles com experiência no mercado, que busquem um crescimento maior em suas carreiras, conhecem TI e podem trabalhar nos processos de negócio e procedimentos operacionais da empresa. 
+A Microsoft Certified Architect (MCA) é ideal para profissionais com mais de dez anos de experiência no mercado e engloba habilidades tanto técnicas e de produto, organização, estratégia, comunicação, processos e liderança.
+As primeiras certificações anunciadas serão para o Visual Studio 2005 e SQL Server 2005. As certificações ajudarão clientes a identificar parceiros e profissionais técnicos que possuem as qualificações necessárias para implementar as tecnologias da Microsoft com sucesso. 
+O processo de certificação começa com uma avaliação on-line individual e gratuita, por meio da qual são definidos os pontos fortes e fracos do candidato, resultando em um plano de aprendizagem personalizado que direciona os candidatos a recursos específicos. Os candidatos podem, a partir daí, escolher os recursos de aprendizagem que melhor atendam às suas necessidades. 
+Nos próximo semestre, a Mindworks disponibilizará de novos materiais da Microsoft que ajudará os candidatos a se prepararem para os exames para a obtenção de uma certificação, incluindo avaliações, livros e cursos disponíveis sob demanda, além de uma programação de cursos em sala de aula com instrutor certificado Microsoft.
+As provas de certificação são realizadas no Centro de Teste da Mindworks em um computador conectado à Prometric ou a Vue, num ambiente controlado com câmeras e outros artifícios de segurança, o que garante a aplicação de exames com a mesma dificuldade e qualidade em qualquer parte do mundo. 
+A Prometric e a Vue funcionam como provedores mundiais de exames digitais de várias multinacionais do segmento de TI. Os profissionais que já possuem certificações Microsoft no modelo atual não precisarão renová-las ou interromper cursos e avaliações.
+Os interessados em obter mais informações sobre o novo programa de certificações Microsoft podem acessar os sites www.mindworks.com.br ou www.microsoft.com/brasil/certifique. <br><br><hr>
+Data da Publicação: 17/04/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

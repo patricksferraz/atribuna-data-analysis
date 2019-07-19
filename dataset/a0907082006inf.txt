@@ -1,0 +1,9 @@
+Privacidade e segurança
+<b>  </b><br>
+ <br>
+Um dos aspectos mais trabalhados no desenvolvimento do serviço foi o controle de privacidade e segurança das informações. Os usuários são protegidos com ferramentas que oferecem total controle sobre quem pode contatá-los, ver suas informações no perfil pessoal e visitar o seu espaço. 
+As respectivas autorizações e preferências de comunicação são visualizadas ao lado das informações do perfil e podem ser atualizadas a qualquer momento. Para os usuários abaixo de 18 anos, a configuração do Windows Live Spaces permite que apenas amigos da sua lista de contatos acessem seu site.
+“A idéia de colocar o usuário no controle das informações é um compromisso muito sério para a Microsoft. O internauta decide o nível de exposição no produto”, completa Priscyla Alves.
+Para mais informações visite http://get.live.com/spaces/overview ou acesse http://spaces.live.com e crie seu próprio Windows Live Spaces. <br><br><hr>
+Data da Publicação: 07/08/2006 - Pagina: 09 <br>
+Editoria: Informática <br><br>

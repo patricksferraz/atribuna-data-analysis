@@ -1,0 +1,12 @@
+Universo sob constante ameaça
+<b>  </b><br>
+A tribuna <br>
+O universo tecnológico está sob constante ameaça. Vírus novos e cada vez mais poderosos surgem a todo instante, deixando a segurança de empresas e usuários domésticos à mercê de métodos às vezes não muito eficazes, implementados por curiosos.
+Com o objetivo de ajudar a quem deseja desvendar os segredos básicos de segurança no Windows XP, usar a internet de maneira mais segura e proteger arquivos e dados, a Axcel Books apresenta a obra “Segurança no Windows XP”, na qual Júlio Battisti – profissional certificado Microsoft – apresenta informações indispensáveis e mostra como é importante levar a sério questões sobre segurança. 
+Com o livro, o leitor vai aprender a utilizar, entre outros, os recursos de contas e grupos de usuários, com conceito, criação e administração; a configuração do Internet Explorer e do Outlook Express; o firewall do Windows XP; o Windows Update; o backup e o restore de dados e do sistema.
+Além de tudo isso, a obra também aborda questões importantes, como as principais ameaças ao Windows XP; anti-vírus, spyware e semelhantes; conceito e uso de GPOs; criptografia, entre outros assuntos. 
+Através de exemplos práticos, passo a passo, o livro “Segurança no Windows XP” é a ferramenta ideal para que os maiores problemas sejam resolvidos com o mínimo esforço. 
+Júlio Battisti é profissional certificado pela Microsoft, tendo sido aprovado em 28 exames, com os quais obteve as certificações: MCP, MCP+I, MCSE 2000 e 2003, MCSE+I, MCDBA 2000, MCSA 200 e 2003, MCSD e MVP, entre outras. O autor também assina artigos sobre TI, carreira, trabalho, vida e felicidade no site www.juliobattisti.com.br. Atua como instrutor de informática na Receita Federal, em universidades e outras instituições.
+Com 396 páginas, o título “Segurança no Windows XP” pode ser encontrado nas livrarias por R$ 69,00. <br><br><hr>
+Data da Publicação: 02/05/2005 - Pagina: 07 <br>
+Editoria: Informática <br><br>

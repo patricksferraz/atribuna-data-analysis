@@ -1,0 +1,11 @@
+Keyloggers na mira dos internautas
+<b>  </b><br>
+ <br>
+Quem navega constantemente pela web sabe bem o mal que os spywares, programas de software que instalados nos computadores monitoram o comportamento dos usuários na busca de informações pessoais e sigilosas, causam aos usuários.
+Mas uma ameaça já conhecida por todos também está utilizando esse método para propagação de pragas virtuais. Segundo a Trend Micro, são os keyloggers, programas que registram a atividade do teclado do computador do usuário para capturar informações confidenciais.
+A atual mistura dessas ameaças vem sendo um desafio para as empresas de segurança de conteúdo, pois esses programas interferem, principalmente, na privacidade e produtividade dos usuários.
+O sinônimo que hoje melhor representa o spyware é o ganho financeiro e, geralmente, essa ameaça envolve mais de um personagem em um único ciclo, como os “publishers”, criadores dos softwares que planejam os efeitos que estes causarão ao serem instalados no computador, e os distribuidores, responsáveis pelo número de infecções causadas.
+Diante disso, a Trend Micro realizou recentemente um estudo com base em dados do HouseCall, ferramenta on-line gratuita da empresa que rastreia, identifica e efetua a limpeza de máquinas infectadas com códigos maliciosos, e obteve dados surpreendentes da América Latina, inclusive do Brasil.
+Para se ter uma idéia, dos cinco países mais infectados por keyloggers, o Brasil aparece em primeiro lugar, com 39%. Já na lista dos países mais infectados por adwares está a Argentina em quinto lugar, com 49%. <br><br><hr>
+Data da Publicação: 12/06/2006 - Pagina: 23 <br>
+Editoria: Informática <br><br>

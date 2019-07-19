@@ -1,0 +1,11 @@
+Epidemia do vírus destrutivo MyDoom
+<b>  </b><br>
+A tribuna <br>
+Uma variante do vírus MyDoom está se espalhando rapidamente por e-mail desde ontem. De acordo com a TrendMicro, trata-se do worm MyDoom.AQ, classificado pela empresa como tendo baixo poder destrutivo, embora sua propagação seja altíssima. A mensagem traz, de forma truncada, o texto abaixo: 
+“Ola, a quanto tempo! Eu me mudei dai para os Estados Unidos, e faz um tempo que perdemos o contato e consegui seu email atraves de uma amiga sua. Vamos fazer assim, eu vou lhe mandar meu album de fotos se voce me reconhecer, me retorna o email. Quero ver se voce ainda lembra de mim. :)” 
+Os remetentes variam, assim como o assunto: “quero ver se você me reconhece”, “voce se lembra de mim”, e “fazendo contato” são alguns exemplos de assunto de mensagens com o vírus. 
+O MyDoom.AQ se espalha via e-mail – com a mensagem e um arquivo anexado – e via redes P2P, como o Kazaa. Uma vez ativado, se instala no computador e usando seu próprio sistema de SMTP envia cópias de si mesmo para todos os endereços eletrônicos na máquina atacada.
+Mas, o vírus que mais incomodou os usuários de computadores de todo o mundo no mês de abril, segundo a Trend Micro, foi o Troj_Small.AFG. Outro destaque do mês, foi o Netsky, que, apesar de ter perdido um pouco do seu poder, ainda figura em duas posições do Top Ten de abril. 
+Já na América do Sul, o pior vírus, pelo quarto mês consecutivo é o Anig.A. <br><br><hr>
+Data da Publicação: 02/05/2005 - Pagina: 10 <br>
+Editoria: Informática <br><br>

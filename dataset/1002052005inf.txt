@@ -1,0 +1,19 @@
+As ameaças do futuro
+<b> Hackers estão concentrando esforços em ações mais lucrativas
+e maliciosas para capturar dados pessoais dos internautas </b><br>
+A tribuna <br>
+Vírus de disseminação em massa como o Bagle, Netsky ou MyDoom são coisas do passado. Os hackers estão agora empenhados na distribuição de pragas para telefones celulares, fraudes virtuais (phishing scams) e em explorar vulnerabilidades.
+Isso é o que mostra um estudo apresentado na última semana pela empresa de segurança McAfee, que analisa as tendências e os perigos da era da informática.
+De acordo com o levantamento, mais de mil vulnerabilidades foram descobertas no primeiro trimestre deste ano, um aumento de 6% em relação a 2004. 
+Os vírus de distribuição em massa parecem estar com os dias contados, segundo a McAfee. Tais pragas se disseminam por meio do envio de cópias de si mesmas para endereços de e-mail vasculhados a partir da máquina infectada, segundo Vicent Gullotto, vice-presidente da Equipe Avert (Anti-virus Emergency Response Team) da McAfee.
+De acordo com o especialista, os hackers estão concentrando esforços em ações mais lucrativas e maliciosas. Os phishing scams, por exemplo, são algumas das ameaças com maior índice de crescimento.
+Nesse tipo de ataque, os hackers utilizam e-mails para chegar até os internautas e, posteriormente, os conduzem para sites bancários ou de e-commerce falsos para capturar seus dados pessoais.
+Programas de captura de digitação do teclado e spywares têm se tornado algumas das ferramentas freqüentes utilizadas pelos criminosos. O Brasil foi citado como um dos principais países em que esse tipo de ataque ocorre, e a tendência, segundo o estudo, é de que estes golpes cresçam ao redor do mundo.
+“Anteriormente era um jogo de números: quanto mais pessoas você conseguisse enganar, maior seria o índice de sucesso”.  No entanto, os criminosos estão descobrindo novas possibilidades com equipamentos móveis.
+Vírus para aparelhos portáteis estão na lista das ameaças a caminho, o que pode ser comprovado pelos números. A McAfee havia detectado cinco ameaças no quarto trimestre do ano passado, e agora o montante chega a 50.
+No entanto, os ataques móveis não crescem tão rapidamente quanto os de computador em virtude da variedade de sistemas operacionais e também diante do fato de os aparelhos estarem conectados à internet alternadamente.
+“Ainda não vemos a possibilidade de uma infecção mundial”, afirmou Gullotto. A McAfee também informou que existe a possibilidade de crescimento de ameaças não-maliciosas, como adwares.
+Tais mecanismos executam ações irritantes, como o envio repetitivo de pop-ups, e estão atingindo um nível de perturbação do internauta semelhante ao dos spams. “O adware está crescendo e tem a capacidade de se disseminar muito facilmente”, disse o especialista.
+Também prevalecem ameaças tradicionais como cavalos-de-tróia e computadores zumbis. Os usuários devem se proteger o máximo possível com a atualização de softwares antivírus e a aplicação de filtros contra spam. A McAfee alerta ainda para a instalação das atualizações de segurança mais recentes. <br><br><hr>
+Data da Publicação: 02/05/2005 - Pagina: 10 <br>
+Editoria: Informática <br><br>

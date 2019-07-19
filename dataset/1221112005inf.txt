@@ -1,0 +1,20 @@
+Líder em cavalos de tróia
+<b> Brasil é o país que mais cria
+softwares para enganar
+usuários de serviços
+bancários pela internet  </b><br>
+ <br>
+O Brasil é o país que mais cria softwares cavalo-de-tróia (trojan), que são projetados para enganar usuários de serviços de bancos pela internet, de acordo com a empresa japonesa de segurança de computadores Trend Micro. 
+Sem divulgar números, a companhia informou hoje que, por consequência, o País também é o que mais sofre com o envio de e-mails falsos para obtenção de senhas de internautas por criminosos. 
+Os e-mails são enviados com programas que parecem inofensivos, mas que quando executados passam a espionar a atividade da vítima no computador.
+“Tem ocorrido bastante nos Estados Unidos e Espanha também, mas no Brasil com mais freqüência, porque os serviços financeiros pela internet são bastante desenvolvidos”, comenta o gerente de suporte da Trend Micro no Brasil, Leonardo Bonomi, citando os três principais países na relação da empresa. 
+Segundo ele, Estados Unidos e Espanha estão quase empatados, mas em nível 30 a 35% menor do que o número de casos reportados no Brasil. Os dados do levantamento preparado pela Trend Micro estão sendo finalizados e serão divulgados em breve, disse Bonomi.
+O especialista explicou que os falsários estão se fazendo passar por qualquer banco, mas instituições financeiras como Bradesco, Itaú e Caixa Econômica Federal estão entre as mais visadas.
+“Geralmente os softwares (cavalos-de-tróia) são feitos no Brasil. Os fraudadores aproveitam um código pronto, fazem adaptações e lançam em seus e-mails”, explicou Bonomi. 
+O analista acredita que a tendência é esse tipo de fraude crescer ao longo do tempo, apesar das prisões de quadrilhas pela Polícia Federal nos últimos meses.
+“A maioria das pessoas ainda não tem consciência sobre boas práticas na internet”, afirma o especialista. Ele recomenda que os internautas usem softwares antivírus atualizados, programas antispywares, firewalls e não abram e-mails enviados por desconhecidos. 
+Com o aumento no número de casos de golpes contra internautas, os bancos começaram a adotar medidas para melhorar a segurança dos correntistas. Entre elas estão tabelas impressas de senhas que ficam em poder do usuário e são necessárias durante operações on-line.
+“Esse tipo de iniciativa melhora a segurança. Os códigos nunca são os mesmos, o que dificulta o trabalho dos fraudadores”, ressalta Bonomi. 
+No segundo trimestre deste ano, segundo o Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil (CERT.br), o número de reclamações de internautas vítimas de fraudes cresceu 1.313% em relação ao mesmo período de 2004. <br><br><hr>
+Data da Publicação: 21/11/2005 - Pagina: 12 <br>
+Editoria: Informática <br><br>

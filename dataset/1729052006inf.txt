@@ -1,0 +1,24 @@
+Capixaba na mira da Microsoft
+<b> Projeto de administração
+de redes desenvolvido no
+Espírito Santo vira case
+mundial da Microsoft </b><br>
+ <br>
+Garantir a segurança dos dados e sistemas de uma empresa é um dos grandes desafios dos profissionais que atuam na área de Tecnologia da Informação (TI).  Foi com essa preocupação que o diretor de Informática da UVV e também da MVP em Segurança, Rodrigo Immaginario, desenvolveu um projeto que oferece mais segurança na administração de redes e pode ser implementado com custos baixos sem o investimento em software e hardware.
+O trabalho virou case mundial da Microsoft e teve divulgação mundial. Idealizado para oferecer mais segurança na administração de TI em redes de instituições de ensino que, atualmente, oferecem recursos e serviços de informática para os alunos.
+A idéia buscou unificar as redes que normalmente funcionam separadamente, uma rede para alunos e uma administrativa, de forma que a segurança dos dados fossem preservadas e também ajudando a reduzir os custos de administração. O projeto é inovador no Brasil no segmento de instituições e utilizou a tecnologia do IPsec – Internet Protocol Security –, da Microsoft, 
+A preocupação em atender algumas demandas vivenciadas pelas empresas é fundamental. Saber quem são seus usuários e ativos de redes se torna um problema na realidade atual onde acesso remoto, wireless, várias filiais e sistemas distribuídos são uma realidade nas empresas.
+Na prática, o projeto oferece mais segurança à rede contra ataques, garante a integridade, faz com que somente computadores e usuários conhecidos tenham acesso aos dados e também reduz o tempo de parada dos serviços.
+O projeto foi idealizado e implementado na Universidade de Vila Velha (UVV). A descrição completa do projeto pode ser conferida na internet nos endereços www.microsoft.com/technet/itsolutions/network/sdiso/default.mspx ou http://members.microsoft.
+com/customerevidence/
+search/EvidenceDetails.
+aspx?EvidenceID=14205&
+LanguageID=1.
+
+IEL procura trainee de TI
+O Instituto Euvaldo Lodi do Espírito Santo (IEL-ES) está selecionando profissionais formados nos últimos 12 meses, em cursos voltados ou com ênfase para Tecnologia da Informação (TI), para participarem do processo de escolha dos nove trainees. 
+Os selecionados participarão do processo de capacitação e contratação por um ano para serem bolsistas com vistas à contratação para gestão de negócios em TI. As inscrições podem ser feitas até o próximo dia 5, pelo site do www.iel-es.org.br/trainee.
+As vagas são voltadas para profissionais formados em Engenharia de Computação, Ciência da Computação, Engenharia da Produção e Administração com ênfase em TI. 
+Os candidatos que se inscreveram pela internet nos últimos dias 21 e 22 deverão se recadastrar já que houve um problema técnico que extraviou os currículos inscritos. Os profissionais selecionados para o programa, além de receberem uma bolsa compatível com o mercado, participarão de um curso de capacitação de 140 horas, voltado para gestão de projetos. <br><br><hr>
+Data da Publicação: 29/05/2006 - Pagina: 17 <br>
+Editoria: Informática <br><br>

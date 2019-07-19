@@ -1,0 +1,9 @@
+Software made in Espírito Santo
+<b>  </b><br>
+ <br>
+Apesar de não ter sido ainda lançado oficialmente, o Phidelis, software de gestão acadêmica desenvolvido aqui no Espírito Santo, já possui demandas nacionais. O sistema, que gerencia desde serviços a alunos e professores como todo o setor acadêmico, pedagógico e financeiro, já está implantado nas maiores instituições de ensino privado do Estado e em duas faculdades e um colégio de Brasília. 
+O Phidelis foi desenvolvido inicialmente para suprir a demanda de uma universidade privada capixaba. A demanda surgiu também em outras instituições de ensino do Brasil, que já utilizavam sistemas de empresas do mercado, mas conviviam com problemas de qualidade e defasagem tecnológica. O fato incentivou a capixaba MVP Consultoria e Sistemas a criar o produto Phidelis que ficou conhecido e esperado em todo o Brasil. 
+O programa possui versões para grandes instituições, para escolas e faculdades de médio e pequeno porte que precisam de soluções eficazes a um preço acessível e para atender as demandas da rede pública de ensino.
+Mais informações no site www.phidelis.com.br. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

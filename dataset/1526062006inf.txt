@@ -1,0 +1,25 @@
+Qualidade de imagem
+<b> A unidade de processamento
+gráfico permite reprodução de
+vídeos em alta resolução
+com excelente qualidade </b><br>
+ <br>
+A Nvidia Corporation demonstrou no mês passado durante a Eletronic Entertainment Expo 2006, juntamente com a Divisão de Produtos Digitais da Toshiba, o primeiro notebook com drive de HD DVD-Rom disponível nos Estados Unidos. 
+O novo notebook, o Toshiba Qosmio G35-AV650, traz a unidade de processamento gráfico Nvidia GeForce Go 7600, que permite reprodução de vídeos em alta definição com uma impressionante qualidade de imagem.
+“A alta definição irá trazer um novo tipo de experiência de vídeo para os usuários de laptops”, disse o vice-presidente sênior de negócios de GPU da Nvidia, Jeff Fisher. 
+“A poderosa Nvidia GeForce Go 7600 GPU com tecnologia PureVideo é capaz de acelerar a reprodução de vídeo com utilização mínima da CPU e baixo consumo de energia, possibilitando uma experiência de vídeos de alta qualidade para os usuários de PCs portáteis”, completa.
+A primeira parte da série de GPUs para notebook GeForce Go 7, a nova GeForce Go 7600 traz diversas tecnologias. Uma delas é o suporte para aceleração de hardware H.264 e MPEG2 através da tecnologia PureVideo - uma combinação de processamento de vídeo em HD e software que reproduz vídeos de alta definição com qualidade de home-theater. 
+Outra tecnologia é o suporte para os jogos e aplicativos mais recentes com DirectX 9.0 Shader Model 3.0, propiciando mais realismo para os jogos. 
+Já a sua arquitetura 3D de alta performance é projetada para o Windows Vista – o primeiro sistema operacional da indústria a exigir uma GPU para alcançar todo o seu potencial. 
+Outro diferencial do linha de notebook da Nvidia é a tecnologia PowerMizer, que traz opções avançadas de gerenciamento de energia que permitem um aumento de performance mantendo um baixo consumo. A redução no consumo de energia e geração de calor resulta em notebooks menores e mais refrigerados, aumentando a vida útil da bateria. Mais informações no site www.nvidia.com.br.
+
+
+Nova linha
+de webcams
+A Microsoft anunciou a LifeCam, sua própria linha de webcams, que usará a popularidade do Windows Live Messenger para alavancar suas vendas. Com a LifeCam o usuário poderá acessar através de um botão sua lista de amigos, de onde ele poderá então abrir uma conversa em vídeo com determinado contato.
+De acordo com o site BetaNews, a integração vai além. Uma aplicação foi desenvolvida para permitir que o usuário controle aspectos como zoom, por exemplo, direto da tela onde a conversa está acontecendo.
+Entre outros recursos, a LifeCam também oferecerá suporte ao Windows Live Spaces, serviço para blogs da Microsoft. 
+A linha LifeCam, a princípio, será composta de dois produtos: a VX-3000, com 1,3 megapixels de resolução para fotografia e capacidade para até 640 x 480 pixels de vídeo; e também a VX-6000, com 5 megapixels para fotografias e vídeo de alta definição em 1,3 MP. Ambas possuirão recursos como redução de “chuviscos” e efeitos de vídeo. 
+Disponíveis a partir de agosto, as câmeras têm preços de US$ 49,95 (VX-3000) e US$ 99,95 (VX-6000). <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

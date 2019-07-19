@@ -1,0 +1,17 @@
+Pingüim capixaba
+<b> Espírito Santo ganha,
+em dezembro, primeiro
+centro de treinamento
+oficial para o sistema Linux </b><br>
+ <br>
+A Conectiva, empresa líder em serviços, desenvolvimento e distribuição do sistema operacional Linux para a América Latina, acaba de fechar uma parceria inédita com a capixaba Mindworks, para a formação do primeiro Centro de Treinamento Oficial Mandriva Conectiva PRO-OS, em Vitória.
+A previsão é que, já em dezembro, o Centro esteja oferecendo três cursos: Linux Systems Administrator, Linux Network Administrator e Linux Specialist, e os testes de certificação oficial desses treinamentos. A iniciativa visa suprir a demanda de trabalhadores qualificados no Estado, que é um mercado em crescimento acelerado.
+“A Conectiva já havia percebido há algum tempo, a grande demanda do mercado capixaba, que está utilizando Linux, mas não possui mão-de-obra qualificada. Como já possuímos experiência em treinamento, conseguimos fechar essa parceria única no Espírito Santo”, comenta o diretor executivo da Mindworks, Niase Borjaille.
+Em todo o Brasil, o sistema operacional Linux está tendo um grande avanço no mundo corporativo e os profissionais especializados na plataforma open source estão ganhando espaço e sendo mais valorizados.
+Hoje, cerca 38% das médias e grandes corporações brasileiras já utilizam o Linux. Entre os motivos desse aumento estão a política de incentivo ao software livre do Governo Federal, as vantagens financeiras, já que não é necessário pagar licenças de proprietário para utilização, e a segurança contra vírus e hackers, que é muito superior ao Windows.
+O grande problema é que 85% dos profissionais que trabalham com o Linux no Brasil são autodidatas ou fazem cursos básicos, não possuindo certificação técnica oficial, o que vem sendo uma exigência das companhias como comprovação da qualidade.
+Mensalmente, cerca de 1,5 mil técnicos realizam provas para obtenção dos certificados em todo País, porém, devido à falta de preparação adequada, somente 30% são aprovados. O lado positivo é que, por existirem pouca mão-de-obra capacitada, o mercado está aberto e a remuneração é alta. 
+A Mindworks, especializada em soluções em tecnologia da informação, já é o único centro de treinamento oficial da Microsoft e da Trend Micro no Estado. Quem realizar os cursos poderá prestar, gratuitamente, os exames de certificação.
+Os interessados podem obter mais informações sobre os cursos e as provas de certificação Linux da Mandriva Conectiva PRO-OS pelo telefone 3345-6658 ou através do site www.mindworks.com.br. <br><br><hr>
+Data da Publicação: 28/11/2005 - Pagina: 16 <br>
+Editoria: Informática <br><br>

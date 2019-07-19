@@ -1,0 +1,32 @@
+Fama e morte no PC
+<b> Na maioria das vezes, usuários
+caem nos golpes virtuais porque
+se rendem à curiosidade e clicam
+em links carregados de vírus </b><br>
+ <br>
+Ao mesmo tempo que os e-mails encurtam as distâncias, os e-mails também podem ser a porta de entrada de vírus e outras ameaças que comprometem a segurança do computador.
+Sempre atentos a assuntos e personalidades que despertam atenção coletiva, criminosos virtuais armam golpes para enganar o usuário e induzí-lo a clicar em links maliciosos.
+Na lista dos golpes recentes esá um e-mail com a falsa notícia da morte do cantor Christopher, da banda Rebeldes, em acidente de carro. 
+Trata-se de uma armadilha que pode deixar o computador exposto a invasões e roubo de informações como dados bancários e senhas. 
+A mensagem traz como assunto “Morre Christopher vocalista da banda Rebeldes em acidente de carro” e uma assinatura falsa. O texto diz “Clique aqui para ler a Reportagem Completa” , que na verdade aponta para o endereço www.boltpower.com/albums/.mensagem/~hoje/Mensagem.php, que baixa o arquivo mensagem.scr. 
+Por se tratar de um assunto que desperta o interesse, principalmente de crianças e adolescentes que compõem a imensa legião de fãs do RBD, vale a pena os pais ficarem atentos e orientarem seus filhos sobre essa armadilha.
+A principal medida para evitar esses problemas é nunca clicar em links desconhecidos ou de origem duvidosa. Em nenhuma hipótese abra mensagens desse tipo. A prevenção é a maneira mais eficaz de evitar prejuízos.
+Grupos de criminosos estão cada vez mais voltando sua atenção para o mundo digital como forma de obter lucros através de esquemas sofisticados. 
+Especialistas afirmam, inclusive, que o perfil de hackers está mudando. Apesar das muitas histórias de adolescentes flagrados cometendo esses atos ilegais, o perigo maior reside em especialistas em redes e sistemas de computadores que agem de maneira anônima. 
+“Ainda existem casos desses hackers solitários, mas cada vez mais estamos vendo grupos criminosos que são frequentemente organizados online e miram contra vítimas na internet”, disse o vice-diretor da seção de crimes eletrônicos e de propriedade intelectual do Departamento de Justiça dos Estados Unidos, Christopher Painter.
+
+
+Declare guerra aos spams
+Felizmente, é possível encontrar ferramentas anti-spam em grande parte dos webmails gratuitos e recursos de filtro que podem ser habilitados nos softwares de correio eletrônico. 
+A maioria dos sistemas de bloqueio funciona no conceito de listas “brancas” e “negras”, que impedem e liberam determinados endereços, domínios ou IPs. 
+Para evitar receber um novo e-mail de um remetente inconveniente, é preciso marcar a mensagem como spam, acrescentando-a a uma lista “negra”. 
+Os softwares também classificam as mensagens que consideram suspeitas como spam por conta própria e, normalmente, as enviam para uma pasta de lixo eletrônico. De vez em quando é recomendável checar esta pasta para ver se nenhum amigo foi parar lá, após enviar um e-mail convidando a turma para um churrasco, por exemplo  – ao incluir um número exagerado de endereços em uma mensagem – você pode ser encarado pelo software como um spammer. 
+
+
+Baixe softwares gratuitos 
+•SafestMail – O SafestMail (www.safestmail.com.br/download.html) é um anti-spam baseado no gerenciamento de permissões de acesso. Todas as mensagens de remetentes desconhecidos serão mantidas em quarentena no provedor, até que você as libere. Além disso, ele é capaz de remover e-mails duplicados e endereços falsos.
+•Spamihilator – Com a promessa de barrar 98% das mensagens indesejadas, o Spamihilator (www.spamihilator.com) possui um filtro inteligente que aprende, segundo regras matemáticas, quais e-mails são autorizados e quais devem ser considerados spam. A vantagem é que você pode treinar esse filtro para fazer o trabalho de forma mais eficiente. Funciona com os clientes de e-mail Outlook, Outlook Express, Eudora, Mozilla, Netscape, IncrediMail, Pegasus Mail, Phoenix Mail e Opera.
+•SpamBayes – O SpamBayes (www.snapfiles.com/get/spambayes.html) é mais um software da família dos que podem ser treinados para aprender a separar as mensagens úteis das desprezíveis. Adapta-se ao Outlook (versões 2000, 2003 e XP), inserindo botões como Delete As Spam, além de pastas para onde é enviado o chamado junk e-mail.
+•MailWasher – Além de checar e apagar os e-mails indesejados ainda no servidor, o MailWasher (www.mailwasher.net) promete, aos detectar um spam, enviar uma mensagem ao spammer informando que aquela conta de e-mail está indisponível, barrando futuras tentativas. <br><br><hr>
+Data da Publicação: 25/09/2006 - Pagina: 07 <br>
+Editoria: Informática <br><br>

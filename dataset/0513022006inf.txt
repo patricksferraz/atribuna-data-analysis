@@ -1,0 +1,16 @@
+Google pode ser aliado para hackers
+<b> O poderoso site de pesquisas 
+pode se transformar num 
+perigoso arsenal de 
+informações para os hackers </b><br>
+ <br>
+A Editora Universo dos Livros lança no Brasil o polêmico best seller internacional que mostra como fazer pesquisas no Google - uma das mais livres coleções de informações do mundo - e obter com anonimato acesso aos segredos mais picantes sobre vulnerabilidades de sites.
+Caiu na rede, pronto. Um hacker mal intencionado tem a chance de colocar as mãos no teclado e os olhos no lado negro do Google. A poderosa engine de pesquisa – que reúne cerca de 1,3 bilhões de páginas web num só local – tornou o Google uma ferramenta indispensável para quem usa a internet.
+Porém, também o transformou em um perigoso arsenal munido de informações que podem ser usadas para invasões de sites, roubos de números de senhas de cartões de crédito, acesso a arquivos de log e de configuração e a bancos de dados, além de possibilitar rastreamento de servidores web, portais de login e hardware de rede e localização de exploits.
+Para se defender destas novas ameças virtuais, o livro “Google Hacking para Testes de Invasão” mostra, por meio de engenharia reversa, as técnicas maliciosas mais usadas para ataques na Rede, também úteis para ensinar como se defender e barrar vândalos digitais.
+“Você pode se defender daquilo que você conhece”, explica o diretor da editora Universo dos Livros, Luis Matos, responsável pelo lançamento no Brasil dessa polêmica obra assinada por Johnny Long, norte-americano especialista em segurança digital que segue recente carreira em uma das maiores empresas de TI do mundo: a CSC (Computer Sciences Corporation).
+Nos Estados Unidos, a segurança das redes ativas de mais de uma centena de clientes governamentais e comerciais foram avaliadas por Long.
+Desde a descoberta da, frequentemente, negligente forma de armazenamento de informações confidenciais no Google o jovem autor vem ministrando palestras ao redor do mundo sobre o tema para públicos tão variados que incluem platéias como SANS (System Administration, Networking and Security), Defcon (organizadora de eventos mundiais sobre hackers) e até de encontros dos Black Hat (hackers conhecidos como chapéu preto por usarem seus profundos conhecimentos em informática para burlar sistemas de segurança digital).
+O lançamento já está nas livrarias por R$ 69,90. Mais informações: www.universodoslivros.com. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

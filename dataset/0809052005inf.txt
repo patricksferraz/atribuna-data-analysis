@@ -1,0 +1,13 @@
+O tigre e a maçã
+<b> Apple lança seu novo sistema operacional, codinome Tiger. Grande novidade é busca de arquivos por megadata </b><br>
+ <br>
+A Apple lançou na última semana seu novo sistema operacional, o Mac OS X 10.4, codinome Tiger.
+ A grande novidade é a busca de arquivos por metadata. É possível, também, por exemplo, buscar todos os arquivos de imagem com mais de 200k que você criou ou baixou da internet na última semana e criar uma “pasta inteligente” com essa busca. Se você criar mais uma imagem, ela aparece imediatamente nessa pasta, independente de onde você a salvou. 
+O Spotlight, essa nova ferramenta de busca, encontra os arquivos instantaneamente e consegue procurar pelo conteúdo de e-mails, arquivos de texto ou PDF. 
+Os Dashboards são uma nova categoria de programas baseados em XML que acrescentam funções ao sistema e a vários programas. De cara, o Tiger vem com catorze widgets, que é como são chamados os módulos do Dashboard (relógio internacional e calendário).
+O iChat AV permite fazer videoconferência com até quatro pessoas e audioconferência com até dez pessoas.
+Fora isso, existem mais de duzentas “novidades” no sistema, que vão de refinamentos de interface a melhorias em tecnologias recentes como o Bluetooth, que agora permite o uso de fones de ouvido sem fio com o Mac. 
+Com o Tiger, a Apple pretende mostrar que continua na liderança dos sistemas operacionais modernos, trazendo coisas que o usuário Windows só vai ver no Longhorn, em 2006.
+O Tiger roda em qualquer Mac com porta FireWire, e exige um mínimo de 256 MB de RAM e 3 GB livres em disco. Ele vem em um DVD, portanto um leitor de DVD é fundamental. No Brasil, vai custar R$ 460. <br><br><hr>
+Data da Publicação: 09/05/2005 - Pagina: 08 <br>
+Editoria: Informática <br><br>

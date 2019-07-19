@@ -1,0 +1,11 @@
+Nova ferramenta para salvar floresta
+<b>  </b><br>
+ <br>
+O governo já tem à disposição uma nova ferramenta para fiscalizar a exploração madeireira. Uma técnica desenvolvida por uma ONG de pesquisas de Belém permite não só usar satélites para detectar o corte seletivo como também, pela primeira vez, avaliar a qualidade do manejo florestal praticado e descobrir irregularidades. 
+Essa é a boa notícia. A má é que o primeiro teste de grande escala da aplicação da nova metodologia revelou que 54% dos planos de manejo autorizados pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) no centro-oeste da Amazônia em 2003 tinham algum indício de problemas. 
+O sistema foi concebido pelo Instituto do Homem e Meio Ambiente da Amazônia (Imazon), e será adotado pelo Serviço Florestal Brasileiro na fiscalização das concessões de florestas públicas à indústria madeireira. 
+Seus criadores, André Monteiro e Carlos Souza Jr., usaram uma série de imagens do satélite Landsat para avaliar 87 planos de manejo do Pará até Rondônia.
+Detectar a partir do espaço o corte seletivo de madeira é uma tarefa ingrata. As clareiras e as estradas abertas pelos madeireiros para arrastar as toras são tão pequenas que não aparecem nem mesmo nas imagens do Landsat, considerado um satélite de visão aguçada – seus ‘pixels’, ou menores pontos de imagem, são quadrados de 30 metros por 30 metros.
+O grupo do Imazon, liderado por Souza Jr., resolveu essa parte do problema desenvolvendo um método de processamento que permite enxergar as alterações na floresta menores que um ‘pixel’.   <br><br><hr>
+Data da Publicação: 24/11/2006 - Pagina: 38 <br>
+Editoria: Ciência e Tecnologia <br><br>

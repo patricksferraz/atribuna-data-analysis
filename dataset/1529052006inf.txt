@@ -1,0 +1,14 @@
+PCC ataca novamente. Só que agora na web
+<b> Golpistas se aproveitam das
+notícias do momento e criam
+armadilha via e-mail para roubar </b><br>
+ <br>
+Como se não bastassem as reais ameaças da criminalidade, os fraudadores estão se aproveitando do assunto para aplicarem golpes pela internet. Em virtude da onda de violência ocorrida em São Paulo e outros lugares do Brasil, duas novas ameaças foram criadas se aproveitando da fama do PCC (Primeiro Comando Capital).
+Em forma de mensagem, uma delas chega via e-mail, com os seguintes dizeres: “Saiba o real motivo dos ataques do PCC em São Paulo. Anexo a carta enviada ao governador de São Paulo, Cláudio Lembo”.
+A segunda chega como se fosse da Polícia Civil do Estado de São Paulo dizendo que irá cumprir a missão de defender o cidadão e conta com a ajuda de todos para denunciarem os crimes pela internet. A mensagem chega com um link dizendo que estão disponíveis as fotos dos responsáveis pelos atentados. 
+Na verdade, trata-se de mais uma perigosa armadilha. Conhecido como phishing, esses ataques são utilizados, principalmente, para roubo de dados bancários.
+Quando o usuário faz o download, o phishing baixa e instala um arquivo e na primeira vez que ele acessar seu banco on-line, o código malicioso conseguirá roubar informações pessoais como números de cartões de crédito, senhas e dados de contas bancárias.
+“Se o usuário deixar o mouse em cima do link, sem clicar, vai aparecer um endereço que nada tem a ver como o remetente falso. Por exemplo, se for um e-mail aparentemente da polícia, aparece um endereço bem diferente”, alerta o consultor em tecnologia da ITNet, empresa que atua no ramo de Segurança da Informação no Espírito Santo, Ricardo Biccas.
+O especialista explica que é preciso usar o bom senso e não clicar nesses links. Segundo o especialista em Segurança, os golpistas se aproveitam das notícias do momento, mensagens sobre finanças e vida pessoal do usuário. <br><br><hr>
+Data da Publicação: 29/05/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,47 @@
+Resolução é fator importante
+<b> Conexão USB e número
+de pixels são duas soluções
+que devem ser levadas
+em conta na hora da escolha </b><br>
+ <br>
+Antes de decidir qual modelo de webcam levar para casa ou escritório, vários pontos precisam ser observados. Em primeiro lugar, o tipo de conexão. É preferível optar por aquelas que se conectam pela porta USB e permitem a transferência de dados com maior velocidade. 
+A resolução é outro fator importante. Ela se refere ao número de pixels que compõem as imagens. Algumas oferecem várias configurações para a captura. Uma delas é a resolução máxima de 800x600 pixels, recomendada para quem for usar uma imagem, por exemplo, em um site, como os fotoblogs. 
+Se você quiser enviar as imagens por correio eletrônico, capturas de 640x480 ou 320x240 pixels criam arquivos pequenos, mais fáceis de manipular e enviar. 
+No caso de vídeos, o uso de resoluções muito altas pode causar “pulos” na transmissão. Considerando isso, para uma videoconferência, as de 320x240 são suficientes.
+O usuário também deve observar a funcionalidade. As câmeras de videoconferência convencionais, por exemplo, não têm memória. Portanto, as imagens geradas durante a filmagem não são gravadas, apenas transmitidas enquanto a webcam estiver conectada. Elas funcionam ligadas na fonte de alimentação do PC.
+Os modelos que possuem função de fotografia devem vir com uma bateria, principalmente se ela puder ser destacada do micro para fotografar em ambientes externos. Há equipamentos que têm flash e controle de luminosidade. Ou seja, os recursos comuns de uma máquina fotográfica.
+Existem câmeras que funcionam desconectadas do computador para tirar fotografias ou gravar pequenos vídeos que logo são descarregados no PC. 
+Ainda que sua qualidade não possa ser comparada à das câmeras tradicionais, vários modelos de webcams portáteis armazenam até 200 imagens ou 70 segundos de vídeo de qualidade média. Em alguns casos, esses aparelhos contam, inclusive, com cartões de memória removíveis.
+E se o usuário deseja adaptar sua webcam a algum equipamento portátil, como os notebooks, deve ficar atento ao tamanho. A mobilidade do suporte é fundamental, pois dele dependem a capacidade de girar e a estabilidade para manter uma posição fixa. 
+Por outro lado, muitas webcans incluem um clip que permite fixá-las em qualquer parte do computador.
+
+
+Softwares
+Todas as câmeras vêm com um CD de programas variados para expressar suas possibilidades, como a criação de fotoblogs, videoconferência, editores de imagens e outros. Mas essa variedade de recursos depende do modelo de webcam que você vai comprar.
+Na internet é possível encontrar vários softwares que podem otimizar as webcams. Muitos deles são gratuitos.  
+BuddyVision 1.5
+•Tamanho: 3,54 Mbytes
+•Sistema: a partir do Windows 95
+•Preço: grátis
+•Site: www.nanocom.com
+•O que faz: usa o soft AOL Instant Messenger para enviar e receber vídeo ao vivo e fotos
+CUseeMe 5.0
+•Tamanho: 5,41 Mbytes
+•Sistema: a partir do Windows Me
+•Preço: US$ 39,99, mas é grátis para teste
+•Site: www.cuworld.com
+•O que faz: tem programa próprio para mensagens instantâneas e permite abrir até 12 janelas de videopapo simultaneamente
+iFriendCAM 0.9
+•Tamanho: 534 Kbytes
+•Sistema: a partir do Windows 98
+•Preço: grátis
+•Site: www.ifnet.net
+•O que faz: além de permitir videopapo, tem recurso para bloquear a visão de interlocutores indesejados
+iSpQ VideoChat 6.02
+•Tamanho: 6,49 Mbytes
+•Sistema: a partir do Windows 98
+•Preço: US$ 40, mas é grátis para teste
+•Site: www.nanocom.com
+•O que faz: compatível com o ICQ, permite videomail <br><br><hr>
+Data da Publicação: 02/10/2006 - Pagina: 03 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,12 @@
+Novidade em back up
+<b> Software de restauração instantânea promete exterminar todos os problemas acarretados por desastres no computador </b><br>
+ <br>
+A Solution TI acaba de fechar um contrato de parceria com a Digicore (www.digicore.com.b), empresa de soluções de segurança de TI para distribuir o “PC Back Plus”, software de restauração instantânea que promete exterminar todos os problemas acarretados por desastres no computador.
+De fácil instalação e utilização, o PC Back Plus permite ao usuário uma volta no tempo em segundos. Em casos de infecção por vírus, vermes, spywares, worms ou qualquer praga digital, por exemplo, o software garante a integridade do sistema ao possibilitar a restauração do computador para múltiplos pontos do passado, oferecendo a opção de retornar a máquina para o dia e hora mais conveniente.
+Como a restauração pode ser realizada em qualquer situação, o software também é uma salvação para casos como apagamento de arquivos ou qualquer dano ocasionado no sistema. 
+Uma das principais vantagens do PC Back Plus é que o software roda independente do Windows, o que não compromete o desempenho do PC e protege a máquina fora do sistema operacional, garantindo sua restauração mesmo sem conseguir iniciá-lo.
+Para proteger o computador, ele cria uma partição de backup no disco, variando de 100 Mb a 1 Gb, onde são salvos os pontos para restauração. 
+Além de atender uma necessidade de qualquer usuário de computador, ele também é um software indispensável para escolas de informática, faculdades, cibercafés e LAN Houses, já que os computadores são utilizados por várias pessoas e, por isso, são mais vulneráveis a desastres. 
+O PC Back Plus é compatível com DOS, Windows 95, 98, ME, 200, XP e 2003. <br><br><hr>
+Data da Publicação: 09/05/2005 - Pagina: 15 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,23 @@
+Na armadilha da rainha
+<b> Falso e-mail promete vídeo
+com imagens íntimas da Xuxa
+durante intervalos da gravação
+do programa especial 20 anos </b><br>
+ <br>
+Ela mal ingressou no mundo artístico e foi logo conhecendo o sucesso. E como toda celebridade, Xuxa também foi alvo de fofocas e críticas que vinham de todos os lados.
+Mas, há mais de duas décadas, quando iniciou sua carreira, a apresentadora certamente não imaginava que seu nome se tornaria uma isca para criminosos virtuais particarem seus delitos.
+Uma nova mensagem maliciosa em circulação na internet alega trazer vídeos íntimos de Xuxa, semelhante ao filme envolvendo a modelo Daniela Cicarelli, para instalar pragas que roubam dados bancários no PC da vítima.
+Nem mesmo quem sempre teve sua imagem relacionada ao universo infantil escapou dos phishings para infectar computadores. O texto é o seguinte: “Xuxa Meneguel ... foi pega desprevenida nos bastidores do Xuxa 20 anos por um paparazzi ... muito oportunista”.
+A mensagem, que carrega uma imagem da apresentadora, pede que o usuário baixe um aplicativo para que o vídeo seja reproduzido.
+Segundo o diretor de novos negócios da empresa Batori Software & Security, Denny Roger, após a instalação, o arquivo malicioso no formato “EXE” reproduz uma imagem de Xuxa, enquanto instala o cavalo-de-tróia Banker.ccc no sistema. Dessa forma, registra e divulga dados confidenciais para crackers.
+Roger afirma, ainda, que uma boa maneira do usuário se prevenir de tais ataques é habilitar a visualização das extensões de arquivos que chegam em e-mails.
+Para fazer isto no dows Explorer, o usuário escolhe o menu “Opções de Pasta” em “Ferramentas”, clica em “Modo de Exibição” e desmarca a opção “Ocultar as extensões dos tipos de arquivo conhecidos”.
+Outra medida é deletar imediatamente mensagens dessa natureza que chegam à sua caixa de correspondências virtuais. O internauta deve proceder da mesma forma em outros espaços, como Orkut e MSN, onde também são espalhadas inúmeras mensagens ilícitas com intenção de roubar dados de seus usuários.
+
+Vírus chega ao número 200 mil
+Mesmo que a infecção em massa de vírus seja coisa do passado, a quantidade total de pragas catalogadas está em ritmo crescente. No mês de julho deste ano, a empresa de segurança McAfee adicionou à sua biblioteca de ameaças a entrada número 200 mil e espera que o número total de pragas dobre em cerca de dois anos. 
+Produtos de segurança, como os da McAfee, usam estas definições como impressões digitais para determinar quais softwares devem ou não rodar no PC do usuário.
+Entre 1999 e 2002, o banco de dados da empresa ficou perto das 50 mil definições, mas o número de diferentes worms e vírus em criação sofreu um pulo.
+“Estas tendências refletem o crescimento e a popularização da cultura hacker que não busca mais a fama que acompanha os vírus destrutivos. Ao invés do glamour, os hackers querem dinheiro”, disse o pesquisador da McAfee, Jimmy Kuo. <br><br><hr>
+Data da Publicação: 30/10/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

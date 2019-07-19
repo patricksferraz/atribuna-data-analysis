@@ -1,0 +1,30 @@
+Prova de certificação do Linux
+<b> A avaliação do Linux
+Professional Institute
+acontece no próximo sábado
+na Faculdade Salesiana </b><br>
+ <br>
+Aqueles que desejam aumentar sua competitividade no mercado de informática, principalmente no uso do Linux, já podem se inscrever na prova do Linux Professional Institute (LPI), órgão que fornece certificações àqueles que trabalham com este software.
+A avaliação será realizada na Faculdade Salesiana de Vitória, no próximo sábado, dia 8 de julho. Serão aplicadas as provas 101 e 102, relativas ao nível 1 da certificação.
+Os interessados em participar devem acessar, até amanhã, o site www.lpi.org.br para obter a ficha de inscrição. Cada prova custa R$ 204,00.
+O LPI desenvolve certificação profissional no sistema operacional Linux independente de fornecedores de softwares e treinamentos. Em todo o mundo já foram realizadas mais de 100 mil provas, sendo 3.131 delas no Brasil, onde já existem 574 profissionais certificados, 91 deles no nível 2.
+Desde de 2003, o LPI têm aplicado avaliações no Brasil. O País é um dos que mais tem se destacado, em cenário mundial, na propagação do “pingüim”.
+“Além de difundir o uso corporativo do sistema operacional no Brasil, nossa principal missão aqui é certificar a habilidade do aluno para trabalhar com o Linux, independentemente da distribuição, uma vez que o LPI não está vinculado a nenhum fabricante da marca”, afirma o presidente do órgão no País, Rodolfo Gobbi.
+O Linux está agradando cada vez mais os profissionais de informática do Espírito Santo. Concorrente do Windows da Microsoft, o sistema operacional apresenta uma série de vantagens sobre seu rival.
+A principal delas é o fato de ser um software livre, ou seja, permite seu uso, cópia, distribuição, pesquisa, modificação e aperfeiçoamento gratuitamente. Desta forma, ele possibilita a constante atualização de seu código-fonte e assegura expressiva economia na aquisição de licenças de uso.
+
+
+Aplicações web para intranets
+A Fractalmedia Agência Digital, em parceria com a faculdade Univila, realizará a I Jornada PHP, de 17 a 29 de julho de 2006, na faculdade em Vila Velha.
+O curso vai preparar os alunos para o desenvolvimento de aplicações web para intranets e de páginas na internet para sites de comércio eletrônico.
+Para o desenvolvimento das aplicações, o aluno utilizará o HTML, JavaScript, CSS e XML na criação da interface cliente e o PHP para o desenvolvimento no servidor.
+O instrutor é Márcio de Souza Sfalsin. Mais informações pelo telefone 3200-4358 ou nos sites www.fractalmedia.com.br e www.univila.br.
+O valor do treinamento é de R$ 600,00.
+
+
+Computador lê a mente
+Usando um gorro eletrônico, o cientista austríaco Peter Brunner olha fixamente para a tela de um computador portátil e aí começa a compor, letra por letra, uma mensagem que aparece em uma tela gigante acima de sua cabeça. \"O-L-Á\", escreve, usando apenas o poder do pensamento, surpreendendo o público presente: cientistas e curiosos reunidos em Paris por ocasião da segunda edição do salão de Pesquisa e Inovação.
+Peter Brunner e dois de seus colegas do centro público de pesquisas de Wadsworth (em Nova York) puseram à prova na capital francesa uma nova forma de comunicação entre cérebro e computador.
+“Sem intervenção de nervos ou músculos, a interface oferece uma possibilidade de comunicação e de autonomia para pessoas que sofrem paralisia total”, explicou o cientista Eric Sellers. <br><br><hr>
+Data da Publicação: 03/07/2006 - Pagina: 07 <br>
+Editoria: Informática <br><br>

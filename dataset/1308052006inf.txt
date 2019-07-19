@@ -1,0 +1,17 @@
+Vagas para desenvolvedores
+<b> Mercado capixaba de 
+desenvolvimento de softwares
+cresce a cada dia e contrata novos
+profissionais de tecnologia </b><br>
+ <br>
+O crescimento da demanda por serviços na área de Tecnologia da Informação (TI) no Espírito Santo está resultando em mais vagas no mercado de trabalho capixaba. A MVP Consultoria e Sistemas (Phidelis), desenvolvedora de um software de gestão acadêmica que é referência nomercado nacional, está selecionando profissionais para duas vagas de desenvolvedores.
+Podem se candidatar profissionais que tenham experiência em desenvolvimento de sistemas em Ambiente Orientado a Objeto (OO) e Web, com conhecimento na linguagem C# ou Java. Os interessados devem enviar currículo para o e-mail selecaorh@phidelis.com.br.
+Apesar de não ter sido ainda lançado oficialmente, o Phidelis, software de gestão acadêmica desenvolvido aqui no Espírito Santo, já possui demandas nacionais. O sistema, que gerencia desde serviços a alunos e professores como todo o setor acadêmico, pedagógico e financeiro, já está implantado nas maiores instituições de ensino privado do Estado e em duas faculdades e um colégio de Brasília.
+O Phidelis foi desenvolvido inicialmente para suprir a demanda de uma universidade privada capixaba. A demanda surgiu também em outras instituições de ensino do Brasil, que já utilizavam sistemas de empresas do mercado, mas conviviam com problemas de qualidade e defasagem tecnológica. O fato incentivou a capixaba MVP Consultoria e Sistemas a criar o produto Phidelis, que ficou conhecido em todo o Brasil. 
+O programa já possui versões para três tipos de clientes e foi desenvolvido com especificidades para cada tipo de entidade. O Phidelis Corp é oferecido para grandes instituições com mais de três  mil alunos, o Phidelis Live para escolas e faculdades de médio e pequeno porte que precisam de soluções eficazes a um preço acessível. Já o Phidelis Gov foi criado para atender as demandas da rede pública de ensino.
+Os interessados em conhecer as soluções acadêmicas do Phidelis podem acessar o site www.phidelis.com.br.
+
+
+ <br><br><hr>
+Data da Publicação: 08/05/2006 - Pagina: 13 <br>
+Editoria: Informática <br><br>

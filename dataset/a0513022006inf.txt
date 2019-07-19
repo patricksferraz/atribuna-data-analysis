@@ -1,0 +1,9 @@
+Paralelo com oráculo de “Matrix”
+<b>  </b><br>
+ <br>
+Em seu prefácio no livro “Google Hacking para Testes de Invasão”, o co-Fundador da Interguardians e Instrutor Sans, Ed Skoudis, diz que o estilo direto e limpo do autor organizar o livro ajuda novatos e especialistas da área de segurança a examinar um tesouro de informações.
+O prefacista, em tom intimista, revela que o seu exemplar particular ficará sobre a sua mesa durante o seu próximo teste de segurança bem ao lado do DVD de estimação “Matrix”.
+Agora, o que Matrix tem a ver com este livro? Skoudis estabelece um paralelo entre nossa “matriz” (o universo que habitamos) e o Google na qualidade de “Oráculo”.
+“Acredito que ter sólidas habilidades no uso do Google são capacidades profissionais importantes que todos poderemos ter nos próximos cinco ou dez anos, qualquer que seja o nosso papel na vida. De pai preocupado a partidário político”, destaca Ed Skoudis. <br><br><hr>
+Data da Publicação: 13/02/2006 - Pagina: 05 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,30 @@
+Celular para pagar contas
+<b> A novidade vai  ser oferecida por banco e o usuário 
+poderá efetuar pagamentos pelo telefone </b><br>
+ <br>
+Os brasileiros já começam a usar o celular para fazer compras. A modalidade chamada de m-payment ou mobile payment permite que o usuário pague suas compras usando o número do celular cadastrado no banco em que é correntista.
+O novo sistema está em fase final de testes pelo banco HSBC, que espera divulgar o serviço para todos os seus correntistas a partir de outubro. A Visanet também já adotou o celular para pagamentos.
+O HSBC iniciou os testes em junho, com um projeto piloto em parceria com a empresa de software M-Cash. O sistema foi implantado entre os 28 mil funcionários do banco e 3 mil deles estão utilizando o serviço. A movimentação atingiu R$ 25 mil até agora, em 400 operações, segundo A Tribuna apurou com o Departamento de Tecnologia da Informação do banco.
+Para a compra, o consumidor passa o número do celular ao estabelecimento comercial. Logo depois, recebe uma ligação automatizada no número cadastrado, para confirmar sua senha.
+Inicialmente, a operação é dirigida ao comércio pela internet. Depois, deve chegar às grandes redes varejistas e outras empresas.
+Com a expansão, o cliente poderá pedir comida por meio de um serviço de entrega em domicílio, por exemplo, e pagar com débito em conta corrente.
+Segundo o banco, o serviço não terá qualquer custo para o cliente, que não precisará nem mesmo fazer uma ligação do seu aparelho móvel.
+Além dos correntistas, o serviço pode ser oferecido a pessoas sem conta no banco. Para tanto, elas terão de fazer o cadastro na Losango, que é o braço de crédito popular do Grupo HSBC no Brasil.
+A Visanet também adotou o celular para pagamentos, como alternativa ao cartão Alimentação Visa Vale, usado para compras de alimentos e aceito em estabelecimentos como supermercados, açougues e mercearias. Neste caso, o cliente cadastrado no site do Visa Vale informa o número do celular na hora de pagar a entrega das refeições. 
+A M-Cash acredita que o sistema terá boa aceitação. A estimativa se baseia no uso de cartões eletrônicos e no fato de o País ter mais de 90 milhões de aparelhos celulares em operação.
+
+Como funciona
+
+O mecanismo de compra pelo celular segue os seguintes passos
+1. Usuário inicia a compra no site do lojista associado.
+2. Na hora de pagar, seleciona a forma de pagamento M-CA$H.
+3. O consumidor informa o número de seu celular (cadastrado no banco).
+4. O lojista envia solicitação ao sistema, informando loja, valor e número do celular. O sistema faz uma ligação direta ao celular do usuário, solicitando sua senha via voz.
+5. O comprador digita a senha e confirma a compra.
+6. O sistema dispara ao banco a solicitação de transferência da conta do usuário para a conta do lojista.
+7. O banco confere a senha, verifica o saldo, efetua a transferência e informa ao sistema.
+8. O sistema informa ao usuário e ao lojista que a transação foi realizada.
+9. O lojista finaliza a operação e informa ao usuário sobre a entrega do bem.
+Fonte: HSBC. <br><br><hr>
+Data da Publicação: 26/09/2006 - Pagina: 24 <br>
+Editoria: Economia <br><br>

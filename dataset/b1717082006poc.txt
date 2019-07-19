@@ -1,0 +1,9 @@
+Novo golpe aproveita as eleições
+<b>  </b><br>
+ <br>
+RIO – Um vírus que chega por e-mail e tenta convencer a vítima de que seu título eleitoral foi cancelado está se espalhando rapidamente pela internet, segundo a empresa de segurança de rede Trend Micro.
+O vírus, espalhado por golpistas que querem roubar senhas e números de contas correntes, se chama tspy_bancos.zu e chega com o assunto “aviso de cancelamento”.
+A mensagem traz a logomarca do Tribunal Superior Eleitoral (TSE) informando que seu título eleitoral teve um cancelamento provisório.
+A infecção acontece automaticamente quando a vítima abre anexos ou baixa arquivos. O TSE alerta em seu site que não manda e-mail para eleitores. <br><br><hr>
+Data da Publicação: 17/08/2006 - Pagina: 17 <br>
+Editoria: Policia <br><br>

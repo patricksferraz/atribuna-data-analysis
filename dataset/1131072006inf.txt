@@ -1,0 +1,14 @@
+Cuidado com a Mega Sena
+<b> Golpe usa acusação de fraude em 
+sorteio para roubar usuários internet </b><br>
+ <br>
+Sempre contendo assuntos de interesse geral, as armadilhas on-line não param criar meios para atrair mais vítimas.
+Um novo golpe virtual está usando uma acusação de fraude no sorteio da Mega Sena, promovido pela Caixa Econômica Federal, para roubar informações bancárias dos internautas.
+Segundo análises da consultoria de segurança Batori, a praga não só é ignorada por muitos antivírus disponíveis no mercado, como introduz uma nova categoria de ataque que despista usuários suspeitos.
+Com uma interface pouco sofisticada em comparação a outros phishings, a mensagen chega ao PC do usuário alegando que o grupo organizador da Mega Sena fraudava o peso das bolinhas usadas no sorteio para direcionar o prêmio.
+Parte da mensagem diz o seguinte: “Você que achava estranho a Mega Sena acumular tantas vezes seguidamente, e quando saia o prêmio apenas uma pessoa ganhar, e geralmente em algum lugar bem distante?”.
+Após sua infecção, o cavalo-de-tróia PWS-Banker forja páginas falsas para o serviço de internet banking do Banco do Brasil, Caixa Econômica e HSBC.
+Toda vez que a vítima digitar sua senha em alguns destes sites a praga pedirá a digitação dos dados pela segunda vez, levando muitas pessoas a caírem na armadilha. 
+Segundo o diretor de negócios da Batori Software & Security, Denny Roger, são poucos os antivírus que detectam a praga, com pacotes de segurança de grande penetração, como softwares da AVG, Symantec, Microsoft e Panda, desconhecendo o cavalo-de-tróia. Portanto, a prevenção continua sendo o melhor remédio. <br><br><hr>
+Data da Publicação: 31/07/2006 - Pagina: 11 <br>
+Editoria: Informática <br><br>

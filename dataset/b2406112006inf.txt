@@ -1,0 +1,11 @@
+Nova versão do Media Player
+<b>  </b><br>
+ <br>
+A Microsoft divulgou na semana passada a versão final do seu software multimidia para o sistema operacional Windows. Oferecido inicialmente em inglês, o Windows Media Player 11 está disponível exclusivamente para a plataforma XP e conta com uma nova interface, repaginada para trabalhar junto ao Urge, o catálogo musical oferecido on-line pela MTV.
+Com dois milhões de músicas de mais de 110 mil artistas, o Urge faz parte do plano da Microsoft para combater a dominação da Apple no mercado de música digital.
+O catálogo musical da MTV conta com preços muito próximos aos praticados pelo iTunes: entre 99 centavos de dólar por música e US$ 9,99 por álbum. Entretanto, oferece um serviço a mais que o seu rival, que é o download ilimitado de canções por US$ 9,95 (cerca de R$ 22,00).
+As canções baixadas pelo Urge não tocarão em iPods e, com o Windos Media Player instalado em muitos dos computadores no mundo todo, analistas dizem que a Microsoft pode se tornar um real competidor para a Apple.
+O Windows Media Player 11 vem com  novas funções, como impressão digital de áudio, que reconhece arquivos sem nome, ferramentas de busca e sistemas de navegação mais intuitivos.
+O usuário pode baixar a nova versão do programa em http://www.microsoft.com/windows/windowsmedia/default.msp <br><br><hr>
+Data da Publicação: 06/11/2006 - Pagina: 24 <br>
+Editoria: Informática <br><br>

@@ -1,0 +1,17 @@
+Robô aprende a se tornar independente
+<b> Os cientistas estão criando
+novas máquinas que podem
+até corrigir falhas em 
+seus próprios sistemas </b><br>
+ <br>
+Para dominarem por completo áreas novas, ou distantes, como outros planetas ou o fundo do mar, as máquinas inventadas pelo ser humano precisarão desenvolver um grau de independência ainda maior. 
+Estudo apresentado ontem na revista “Science” mostra que um robô foi capaz de aprender a mancar sozinho, após uma de suas pernas terem sido encurtadas pelos pesquisadores.
+A máquina, de quatro pernas, foi equipada com vários tipos de sensores que conseguiram criar, de forma matemática, um modelo corpóreo daquele mesmo objeto. 
+Por meio de um algoritmo (seqüência finita de regras que permite solucionar um determinado problema) o robô percebeu a alteração na sua perna e então corrigiu seu movimento apenas com base na nova informação. As decisões da máquina foram construídas com base nas probabilidades de os eventos ocorrerem.
+“Sistemas como esse estão se distanciando cada vez mais dos processos industriais convencionais. Esses robôs que estão sendo estudados serão capazes de trabalhar em ambientes menos estruturados, onde situações inesperadas podem acontecer”, disse Glauco Caurin, professor da EESC/ USP (Escola de Engenharia Mecânica de São Carlos da Universidade de São Paulo).
+Para o pesquisador brasileiro, que também trabalha com o desenvolvimento de robôs, máquinas dotadas de mais inteligência poderão se relacionar melhor com o ser humano. 
+“Quando existe essa relação é muito importante que, ao se detectar uma falha, o robô possa ser conduzido a um estado em que ele não ponha em risco pessoas e dispositivos a sua volta. Hoje em dia, quando algo ocorre, o sistema simplesmente é interrompido”, disse ele.
+De acordo com Hod Lipson, da Universidade Cornell e um dos autores do trabalho publicado hoje, muitos anos vão se passar até que essas máquinas inteligentes possam chegar ao mercado. “Mas, muito antes disso, será possível ver esse tipo de algoritmo ativo ser aplicado em diagnósticos de falhas em estruturas de pontes ou de prédios”, garante.
+Até os diagnósticos médicos poderão ser melhorados de acordo com Lipson, que é casado com uma brasileira. <br><br><hr>
+Data da Publicação: 17/11/2006 - Pagina: 42 <br>
+Editoria: Ciência e Tecnologia <br><br>

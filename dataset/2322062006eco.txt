@@ -1,0 +1,35 @@
+Cursos mais disputados
+<b>  </b><br>
+ <br>
+Curso	Vagas	
+	por turma	Valor
+A Arte de Falar em Público	20	R$ 135,00
+Atendimento e Consulta ao Crédito 	25 	R$ 050,00
+Atendimento e Vendas em Feira de Negócios 	25 	R$ 045,00
+Comércio Exterior - Importação e Exportação 	35 	4 x R$ 190,00
+Contabilidade para Não-Contadores 	30 	R$ 085,00
+Emissão de Notas Fiscais 	25 	R$ 070,00
+Marketing de Relacionamento na Prática (Workshop) 	25 	R$ 240,00
+Operações de Comércio Exterior - Siscomex/Importação 	15 	R$ 110,00
+Operador de Caixa 	20 	2 x R$ 075,00
+Operador de Telemarketing 	25 	2 x R$ 095,00
+Qualidade no Atendimento ao Cliente	30 	R$ 065,00
+Relações Interpessoais no Trabalho 	25 	R$ 065,00
+Técnicas de Chefia e Liderança 	25 	R$ 065,00 
+Técnicas de Venda 	30 	R$ 065,00
+Serviços Básicos Em Alimentos E Bebidas	
+Setor de Restaurante (Processo de Seleção – Garçom) 	25 	R$ 050,00
+Telefonista/Recepcionista 	25 	3 x R$ 085,00
+Access 2000 - Básico 	10 	2 x R$ 069,00
+AutoCAD - Básico (versão 2006) 	15 	2 x R$ 150,00
+Delphi 	10 	2 x R$ 160,00
+Dreamweaver 	10 	2 x R$ 084,00
+Excel 2000 - Básico 	10 	R$ 092,00
+Informática Básica 2000	
+Windows/98, Word, Excel e Internet 	10 	2 x R$ 090,00
+Linux - Instalação e Utilização 	6 	2 x R$ 133,00
+Qualidade no Atendimento em Serviços de Saúde 	25 	R$ 050,00
+Processo de Seleção para o curso 	
+Técnico em Segurança do Trabalho 	40 	R$ 010,00 <br><br><hr>
+Data da Publicação: 22/06/2006 - Pagina: 23 <br>
+Editoria: Economia <br><br>

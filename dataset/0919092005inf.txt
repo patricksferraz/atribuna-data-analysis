@@ -1,0 +1,31 @@
+Orkut pede conta do Google
+<b> A partir de agora, para acessar o Orkut, a rede de relacionamento social
+que virou mania nacional, o usuário deve ter uma conta no Google </b><br>
+ <br>
+Desde a semana passada, os usuários do Orkut vêm se deparando com uma mudança na página inicial. Ao tentar entrar no site de relacionamento social, aparece o aviso “entre no Orkut com a conta do Google”.
+De acordo com a página de ajuda do site, a medida tem o objetivo de integrar o Orkut com os demais serviços do Google, mas será feita de forma gradual. Ou seja, nem todos os usuários encontraram problemas de login ou a página de vinculação de contas.
+Agora, para acessar o Orkut, o usuário deverá criar uma conta no Google. Basta entrar no endereço google.com/accounts/newaccount e fornecer qualquer endereço de e-mail válido e aguardar para responder uma confirmação.
+Os usuários também estão sendo convidados a criar uma conta no Gmail, o sistema de correio eletrônico gratuito da empresa. Mas, o procedimento não é obrigatório. 
+Se já não tiver ocorrido, em breve, o usuário será convidado a vincular as contas do Orkut e do Google. Depois disso, passará a utilizar somente a segunda. Quem já tiver uma conta do Gmail, pode vinculá-la diretamente com a do Orkut. Para usuários brasileiros, ainda é necessário ser convidado para ser usuário de e-mail do Google. O mesmo vale para o Orkut. 
+Para criar uma conta no Google, basta digitar www.google.com/accounts/NewAccount.
+Com a mudança, o nome de usuário e a senha do Orkut não são mais necessários. Você passa a acessar o Orkut com o e-mail e a senha fornecidas na criação da conta do Google. É possível, no entanto, utilizar a mesma senha no cadastramento da conta. 
+Sobre as questões de segurança, a empresa brasileira Batori Software & Security adverte que a mudança no acesso ao Orkut pode ser utilizada como isca por criminosos para obter dados pessoais dos usuários do serviço.
+Para tanto, eles utilizariam e-mails falsos e páginas de cadastramento clonadas, os mesmos métodos utilizados para roubar informações bancárias. 
+O conselho é ter máxima atenção. Todo o procedimento pode ser feito pelos endereços www.orkut.com e www.google.com/accounts/NewAccount. Ignore qualquer enderereço diferente dos citados, assim como e-mails de procedência desconhecida – você deve receber somente o de confirmação, logo depois da criação da conta do Google.
+A Batori acrescenta que os criminosos virtuais preferem sábados e domingos para enviar suas mensagens falsas. 
+O Orkut já tem uma seção de perguntas frequentes (FAQ) sobre a migração para as contas do Google. Em português, a página está disponível no endereço: help.orkut.com/support/bin/topic.py?topic=945&hl=pt-BR 
+A versão em inglês está mais completa. Se preferir, confira no endereço help.orkut.com/support/bin/topic.py?topic=945&hl=en-US.Desde a semana passada, os usuários do Orkut vêm se deparando com uma mudança na página inicial. Ao tentar entrar no site de relacionamento social, aparece o aviso “entre no Orkut com a conta do Google”.
+De acordo com a página de ajuda do site, a medida tem o objetivo de integrar o Orkut com os demais serviços do Google, mas será feita de forma gradual. Ou seja, nem todos os usuários encontraram problemas de login ou a página de vinculação de contas.
+Agora, para acessar o Orkut, o usuário deverá criar uma conta no Google. Basta entrar no endereço google.com/accounts/newaccount e fornecer qualquer endereço de e-mail válido e aguardar para responder uma confirmação.
+Os usuários também estão sendo convidados a criar uma conta no Gmail, o sistema de correio eletrônico gratuito da empresa. Mas, o procedimento não é obrigatório. 
+Se já não tiver ocorrido, em breve, o usuário será convidado a vincular as contas do Orkut e do Google. Depois disso, passará a utilizar somente a segunda. Quem já tiver uma conta do Gmail, pode vinculá-la diretamente com a do Orkut. Para usuários brasileiros, ainda é necessário ser convidado para ser usuário de e-mail do Google. O mesmo vale para o Orkut. 
+Para criar uma conta no Google, basta digitar www.google.com/accounts/NewAccount.
+Com a mudança, o nome de usuário e a senha do Orkut não são mais necessários. Você passa a acessar o Orkut com o e-mail e a senha fornecidas na criação da conta do Google. É possível, no entanto, utilizar a mesma senha no cadastramento da conta. 
+Sobre as questões de segurança, a empresa brasileira Batori Software & Security adverte que a mudança no acesso ao Orkut pode ser utilizada como isca por criminosos para obter dados pessoais dos usuários do serviço.
+Para tanto, eles utilizariam e-mails falsos e páginas de cadastramento clonadas, os mesmos métodos utilizados para roubar informações bancárias. 
+O conselho é ter máxima atenção. Todo o procedimento pode ser feito pelos endereços www.orkut.com e www.google.com/accounts/NewAccount. Ignore qualquer enderereço diferente dos citados, assim como e-mails de procedência desconhecida – você deve receber somente o de confirmação, logo depois da criação da conta do Google.
+A Batori acrescenta que os criminosos virtuais preferem sábados e domingos para enviar suas mensagens falsas. 
+O Orkut já tem uma seção de perguntas frequentes (FAQ) sobre a migração para as contas do Google. Em português, a página está disponível no endereço: help.orkut.com/support/bin/topic.py?topic=945&hl=pt-BR 
+A versão em inglês está mais completa. Se preferir, confira no endereço help.orkut.com/support/bin/topic.py?topic=945&hl=en-US. <br><br><hr>
+Data da Publicação: 19/09/2005 - Pagina: 09 <br>
+Editoria: Informática <br><br>

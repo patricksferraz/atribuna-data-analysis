@@ -1,0 +1,25 @@
+Vírus em ritmo dançante
+<b> Mensagem promentendo
+fotos sensuais de vocalista
+da banda Calipso, transforma
+máquina em computador zumbi  </b><br>
+ <br>
+Os fãs da Banda Calipso, principalmente os apaixonados pelas curvas sensuais da vocalista Joelma, devem tomar cuidado. Um e-mail falso fala sobre notícia do site “O Fuxico”, prometendo fotos nuas da cantora.
+No corpo do e-mail, o internauta encontra a seguinte mensagem: “Calypso, sucesso que vem de Belém do Pará. A marca registrada de Joelma são as botas de saltos. Joelma aceitou pousar pelada nas capas da revista Playboy. Joelma rapidamente se tornou referência nacional. Veja as mais bela fotos de Joelma no ensaio da Playboy para o ano de 2006.”
+Na verdade, trata-se de um golpe para roubar informações confidenciais. Quando o usuário clica para visualizar as “fotos”, recebe um cavalo-de-tróia que está programado para transformar a máquina em um computador zumbi.
+Com isso, o desenvolvedor do cavalo-de-tróia tem o controle do PC infectado, podendo roubar senhas ou até usá-lo para disparar spams. A mensagem conta com seis supostas fotos de Joelma.
+Armadilhas desse tipo têm sido comuns entre os golpistas, que sempre criam novas maneiras de “seduzir” o internauta. Para isso, usam temas polêmicos ou celebridades que caíram no gosto popular para praticar seus crimes. 
+Para se proteger, os internautas nunca devem clicar em anexos de mensagens por e-mail de fontes não confiáveis e o antivírus tem que estar sempre atualizado.
+Neste caso, os fãs da cantora Joelma terão que conferir sua boa forma quando ela canta e dança em seus trajes nada discretos. Pelo menos enquanto uma pequena fortuna não for oferecida para que ela tire a roupa para uma revista masculina.
+
+
+Ameaça aos usuários do Firefox
+O navegador Firefox vem crescendo em popularidade entre os internautas, principalmente porque ele representa uma promessa de navegação mais segura do que a oferecida pelo Internet Explorer.
+Por outro lado, graças a essa crescente adesão, os ataques ao navegador da Mozilla vêm se intensificando, trazendo uma já conhecida e velha dor de cabeça aos internautas que optaram por ele em busca de mais segurança. 
+Recentemente, o que tem esquentado a cabeça dos usuários é o spyware FormSpy. Esse programa de conteúdo malicioso finge ser uma extensão legítima NumberedLinks 0.9 para o navegador Firefox.
+Se um internauta desavisado clicar no link suspeito, o spyware rouba informações confidenciais da máquina, incluindo senhas, números de cartão de crédito e detalhes de login em contas de banco. 
+O vírus ainda é capaz de espreitar por senhas de ICQ, FTP e tráfego de e-mail e enviar os dados roubados a um site controlado por hackers. 
+O FormSpy é comumente baixado em máquinas já infectadas por outro cavalo-de-tróia, chamado Downloader-AXM. Ele também se propaga via download espontâneo em sites de segurança duvidosa. 
+O Downloader-AXM começou a se espalhar através de mensagens de spam infectadas há três semanas. Portanto, o usuário deve ficar bem atento aos downloads realizados pelo Firefox e manter sempre o seu antivírus atualizado. <br><br><hr>
+Data da Publicação: 28/08/2006 - Pagina: 15 <br>
+Editoria: Informática <br><br>

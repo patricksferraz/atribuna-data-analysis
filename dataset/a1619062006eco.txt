@@ -1,0 +1,612 @@
+Lista de aprovados (nome, nota e classificação)
+<b>  </b><br>
+ <br>
+Resultado final nas provas objetivas
+e classificação no concurso
+NÍVEL SUPERIOR
+ASSISTENTE SOCIAL
+Adrienne Patricia Poton	 66.00	 14 
+Alessandro Zardini de Oliveira	 53.00	 53 
+Alice de Oliveira Luna	 54.00	 51 
+Aline Leão	 52.00	 63 
+Alzeni Monjardim Araujo	 48.00	 86 
+Ana Claudia Lemos Ribeiro	 48.00	 82 
+Ana Paula Pinheiro Rocha	 39.00	 126 
+Anacyrema da S. Silva Cossetti	 48.00	 78 
+Andrea Moulin Ribeiro	 44.00	 104 
+Andréa Santos de Ataide	 62.00	 24 
+Andrea Soares do N. Amaral	 48.00	 83 
+Andreia Lima de Cristo	 67.00	 10 
+Andreia Ribeiro do Rosário	 47.00	 90 
+Andressa da P. Souza de Oliveira	 57.00	 41 
+Anne Karoline Ferrari	 64.00	 23 
+Bianca Barcelos Rodrigues	 41.00	 120 
+Cheila de Azeredo Nascimento	 39.00	 125 
+Cintia Mara Moraes dos Santos	 67.00	 11 
+Claudia Ney França	 50.00	 70 
+Claudita G. Vilches Cunha	 58.00	 38 
+Crislane Bessa Gomes	 46.00	 98 
+Cristina Mont Alvão C. Accioly	 52.00	 58 
+Cristina Mota Damasceno	 53.00	 54 
+Daniele de Oliveira Braganca	 52.00	 57 
+Danusa Marta Broseghini	 46.00	 94 
+Deborah Sá da Silva	 40.00	 123 
+Denise Bussú Lima	 45.00	 101 
+Denise Fonseca de Carvalho	 44.00	 102 
+Dileida de Araujo Castello	 54.00	 49 
+Dorvina Queiroz Sabbagh	 44.00	 107 
+Duse Eleonora Moraes Spelta	 66.00	 17 
+Edilene Toso	 57.00	 39 
+Elaine de Souza Santana	 60.00	 27 
+Elisangela Souza T. Martins	 44.00	 103 
+Elvira Thereza Martins de Oliveira	 48.00	 76 
+Fabiana Carlas Novelli	 44.00	 106 
+Fabiola Nascimento dos Santos	 45.00	 99 
+Fabíola Pereira Gegenheimer	 48.00	 79 
+Fabrícia Pavesi Helmer	 41.00	 121 
+Fabrício Augusto F. Soares	 65.00	 19 
+Fernanda C. de Sousa Braumer	 59.00	 30 
+Fernanda da Silva Vieira	 69.00	 6 
+Fernanda Ferreira Ribeiro	 54.00	 50 
+Fernanda Gomes Lopes	 53.00	 56 
+Fernanda Talita Ferreira da Cruz	 55.00	 46 
+Francielle Sesana Zuqui	 48.00	 81 
+Geovana Cristina de Almeida Mariani	 42.00	 116 
+Gercilene Ramos da Silva	 43.00	 110 
+Gina Gorete Mezadre Pizzol	 45.00	 100 
+Gisele Rangel	 49.00	 73 
+Gislene Piana Moulin	 68.00	 8 
+Heloisa Helena Paixao de O. Barbirato	 66.00	 15 
+Hingridy Fassarella Caliari	 48.00	 77 
+Idalete Lorenzon	 46.00	 97 
+Ingrid Mischiatte Taufner	 59.00	 32 
+Iolanda Helena Gonçalves F. Duarte	 61.00	 25 
+Iolandapaula Ribas dos Santos	 42.00	 115 
+Jakeliny Schneider dos Santos	 46.00	 95 
+Janaina Gomes Faria	 66.00	 16 
+Janaina Odhara Oliveira Paulino	 54.00	 52 
+Janaina Trindade Damasceno Bruno	 52.00	 62 
+Janete Lopes Valim	 49.00	 72 
+Janety Mara Ferreira Martins	 48.00	 75 
+Josicleia Stelzer Zanelato	 50.00	 68 
+Juliana Amorim Lopes	 47.00	 89 
+Juliana Silva Saippa	 42.00	 117 
+Juliana Soares e Soares	 38.00	 127 
+Kamyla Amorim Gonçalves	 52.00	 59 
+Katia Beatriz Laurett Pereira	 55.00	 45 
+Kátia Benice de O. Charpinel	 37.00	 130 
+Lauriane Souza Bissa	 43.00	 111 
+Leticia Bettero Esquincalha	 47.00	 87 
+Livia Pereira Nunes	 56.00	 44 
+Luciana Condé Netto Laroca	 52.00	 64 
+Luciene Bolzam Macente	 72.00	 3 
+Lucineia Vermeulm Silva	 56.00	 43 
+Ludmara Moraes da Silva	 54.00	 47 
+Maiana Coutinho dos Santos	 37.00	 129 
+Marcia Carvalho Vieira	 46.00	 93 
+Maria Aparecida Racanelli	 59.00	 31 
+Maria da Glória de Souza	 36.00	 131 
+Maria da Penha A. Fehlberg	 64.00	 21 
+Maria das Graças S. Seixas Pinto	 60.00	 29 
+Maria M. Bravo de Oliveira	 58.00	 36 
+Maria Rita Andreao Romanel	 67.00	 12 
+Mariane Henriques Franca	 52.00	 60 
+Marilena Trancoso Pontes	 48.00	 85 
+Marineia de Fátima Pereira	 57.00	 42 
+Maristela Martins de Miranda	 66.00	 13 
+Melissa Brandao Pretralonga	 53.00	 55 
+Michele Guerra de Souza	 51.00	 65 
+Micheline Neves do N. Loureiro	 47.00	 88 
+Mirian Furtado	 44.00	 105 
+Monica Freitas	 43.00	 112 
+Monica Rosa dos Santos	 58.00	 37 
+Myrthes Brocolli Lima	 59.00	 33 
+Nara de Nazaré Teixeira Leitão	 42.00	 114 
+Narjara de Melo Silva	 50.00	 69 
+Noemia do Nascimento Butzke	 60.00	 26 
+Patrícia Gomes Maia	 80.00	 1 
+Patricia Pereira Taboada	 50.00	 67 
+Paulo de Tarso Lopes	 50.00	 71 
+Priscila Alitolip de Oliveira	 70.00	 4 
+Raphaella Schmitd Ferreira	 64.00	 20 
+Renata Santana do Nascimento	 40.00	 124 
+Roberta Batista Verneque	 52.00	 61 
+Rosemary da Silva O. Coutinho	 46.00	 96 
+Rosilene Brumate dos Anjos	 58.00	 35 
+Rossana dos Reis	 54.00	 48 
+Rutinéia Jacob de Melo	 41.00	 119 
+Sandra Christina de Sousa	 66.00	 18 
+Sandrely Silva Rocha	 59.00	 34 
+Schirley Cristina da Silva	 43.00	 113 
+Shirley Oliveira dos Anjos	 40.00	 122 
+Silvana de Oliveira Dias	 69.00	 7 
+Silvia A. dos Santos Coelho	 48.00	 80 
+Silvia Aquino Barreiros	 64.00	 22 
+Simone Soares Soeiro	 43.00	 109 
+Sonia Luiz Zortea	 73.00	 2 
+Sueli Maria Norjosa Gonsaga	 57.00	 40 
+Tania Cristina N. da Silva	 69.00	 5 
+Tatiana Pederzini	 41.00	 118 
+Tatiane Barboza Garcia	 37.00	 128 
+Tatiane de Oliveira Guimarães	 47.00	 91 
+Valeria Maria Abrahao Netto	 60.00	 28 
+Vânia Seidler	 43.00	 108 
+Vera Cristina Ribeiro de Paula	 46.00	 92 
+Vera Lucia Dias Santos	 48.00	 84 
+Waleska das N. Prati Cardoso	 49.00	 74 
+Wanusa Pereira dos Santos	 51.00	 66 
+Wesley Barcelos Moraes	 68.00	 9
+Portador de deficiência
+Sandrely Silva Rocha	 59.00	 1
+CONTADOR
+Flavio Marcos Bisi Zorzal	 37.00	 5 
+Franklin Joaquim A. Cavalcanti	 56.00	 1 
+Giovani Loss Pugnal	 46.00	 3 
+Leandro Goncalves Kuster	 47.00	 2 
+Marcelo Lourival Kiefer	 44.00	 4.
+MÉDICO PERITO
+Carlos Alberto Bruno	 60.00	 3 
+Edson Soares	 59.00	 6 
+Élio de Souza Ribeiro	 46.00	 12 
+Esther Angelica Coelho Costa	 58.00	 7 
+Fernanda Maria Zucoloto Freire	 40.00	 13 
+Jaci Pereira	 50.00	 10 
+João Luiz dos Santos Freire	 54.00	 9 
+Joao Passamani	 57.00	 8 
+Marcelle Tavares Pinto M. dos Santos	 48.00	 11 
+Marcos Antonio Ruy Buarque	 59.00	 5 
+Mauricio Aquino Paganotti	 72.00	 1 
+Sandra Regina D. P. de Rezen	 59.00	 4 
+Victor Araujo de Oliveira	 64.00	 2
+PSICÓLOGO
+Aldinéa Gomes de Mello	 49.00	 85 
+Alex Roberto Machado	 56.00	 54 
+Alexandra Iglesias	 39.00	 110 
+Alexandre Cardoso Aranzedo	 51.00	 75 
+Aline Lopes de Sousa	 64.00	 25 
+Allan Silva Couto	 62.00	 33 
+Ana Paula Sthel Caiado	 56.00	 51 
+Ana Sayuri Ribeiro Waricoda	 54.00	 58 
+Andrea Dalla B. Mendonca	 60.00	 39 
+Barbara C. Soares de Oliveira	 46.00	 99 
+Bianca dos Santos C. Vitória	 42.00	 107 
+Bianca Izoton Coelho	 60.00	 40 
+Brina Pinheiro Dee Araujo	 63.00	 28 
+Bruna Mozer Prucoli	 64.00	 27 
+Camila Mariani Silva	 49.00	 87 
+Carla P. Igreja Campos	 53.00	 65 
+Carlos José Lima Faroni	 58.00	 47 
+Carolina de Freitas Athayde	 45.00	 100 
+Carolina Duarte Gava	 63.00	 29 
+Carolina Zacché Scabello	 70.00	 10 
+Cássio Bravin Setubal	 65.00	 24 
+Catharina Hoffmann	 60.00	 38 
+Christianne M. Lucas dos Santos	 48.00	 91 
+Christianny Maria Brambila	 66.00	 21 
+Cintia Aparecida Ataide	 58.00	 48 
+Cláudia Cypreste dos Santos	 42.00	 108 
+Claudimara Chiste Santos	 61.00	 36 
+Cleilson Teobaldo dos Reis	 79.00	 3 
+Daiana Stursa	 55.00	 57 
+Daniel Domith Vicente	 68.00	 14 
+Danielle Cristina de Oliveira	 66.00	 19 
+Dirlene Loureiro Miguel	 38.00	 113 
+Dorotéa Sanglard	 38.00	 112 
+Doroteia Carlini Zorzal	 84.00	 1 
+Edilza Bastos de Sousa	 52.00	 68 
+Elaine Araújo Busnardo	 68.00	 13 
+Elaine Hoffmann	 62.00	 31 
+Elaine Novaes Vieira	 73.00	 7 
+Elisara Licia Santanna	 56.00	 52 
+Elizabeth Pereira de Souza	 65.00	 23 
+Emmanuelle Barreto Rodrigues	 41.00	 109 
+Fabiana Pinheiro Ramos	 66.00	 16 
+Fernanda Borges Ruy	 68.00	 15 
+Fernanda de Carvalho Ferreira	 46.00	 97 
+Flávia Cypreste dos Santos	 39.00	 111 
+Gabriela de Brito Martins	 47.00	 93 
+Giselle Pereira Fontes	 52.00	 66 
+Grace Mary F. Cardoso	 53.00	 60 
+Greicy Fehlberg Pereira	 62.00	 35 
+Helaynne Ximenes Faria	 69.00	 12 
+Jamily Fehlberg	 53.00	 63 
+Janaina da S. Seixas Melhem	 46.00	 98 
+Janayna Araujo Costa Pinheiro	 52.00	 71 
+Joao Paulo Santos Neves	 64.00	 26 
+Jocelito Xavier Santos	 44.00	 104 
+Jocilene Marquesini Mongim	 75.00	 5 
+Josélio Demuner Ferreira	 53.00	 64 
+Juliana Casati N. da Gama	 51.00	 76 
+Karina Martins Costa Avancini	 44.00	 103 
+Kassia Cristina A. Freitas	 56.00	 55 
+Katia de Andade Santos	 48.00	 89 
+Kaylla Maria Castro Tavares	 71.00	 9 
+Kenea Peixoto Lasmar	 57.00	 49 
+Larissa Machado Berger	 59.00	 44 
+Letícia Pires Dias	 50.00	 79 
+Letícia Salemi Thevenard	 50.00	 78 
+Lidiane Leite	 54.00	 59 
+Ligia Cristina Arial Ayres	 49.00	 88 
+Lilian Costa Schüler	 50.00	 84 
+Luciana Lindinger	 36.00	 115 
+Luciana Maria Britto da Cruz	 50.00	 77 
+Luiz Gustavo Silva Souza	 82.00	 2 
+Luiz Romero de Oliveira	 72.00	 8 
+Marcia Kill Ramos	 50.00	 83 
+Maria Antonieta Fraga Ferreira	 74.00	 6 
+Maria da Penha Mello Guimaraes	 50.00	 82 
+Maria Tereza Nasser Rezende	 37.00	 114 
+Mariana Becalli Klug	 44.00	 102 
+Marina Machado Paulini	 66.00	 20 
+Marinete Rosa P. Mascarello	 66.00	 18 
+Marisa Ferreira de Souza	 53.00	 62 
+Melissa Mattos Amorim	 55.00	 56 
+Michela Tesch da Silva	 44.00	 105 
+Milena Fiorim de Lima	 65.00	 22 
+Naite Rezendemonteiro	 58.00	 46 
+Natália Souza Aliani Piovesan	 56.00	 53 
+Paolla Martins Gomes	 52.00	 74 
+Patricia Cardoso Kuster	 50.00	 80 
+Patricia Santos Martins	 52.00	 67 
+Paula Silva Cometti	 48.00	 90 
+Peter Altoe Noronha	 52.00	 73 
+Pollyanna Guimaraes Dias	 49.00	 86 
+Priscila de Carvalho Puttim	 52.00	 69 
+Rafael Leão Ramos	 44.00	 101 
+Rafaela Kerckhoff Rölke	 66.00	 17 
+Raquel Rocha Toscano	 44.00	 106 
+Rebeca Valadão Bussinger	 53.00	 61 
+Regina Glaucia M. dos Santos	 57.00	 50 
+Renata Barcellos Tommasi Alves	 70.00	 11 
+Renata Pedroso Santos	 60.00	 41 
+Ricardo Bodart de Andrade	 61.00	 37 
+Roberta Zacché Iglesias	 52.00	 70 
+Rodrigo dos Santos Scarabelli	 76.00	 4 
+Shênia Soraya Soares Louzada	 58.00	 45 
+Silvia Zamperlini	 52.00	 72 
+Simone Altoe	 62.00	 30 
+Tais Andrade Pimentel	 62.00	 34 
+Tatiana Silva Gomes	 50.00	 81 
+Telma Diniz de Mello	 46.00	 96 
+Vânia Cristina Có Barros Duarte	 48.00	 92 
+Vanusa de Oliveira G. Barcelos	 59.00	 42 
+Vensely M. Masioli Barbosa	 46.00	 95 
+Vilmara Calixto Siqueira Pereira	 46.00	 94 
+Wanessa Goncalves dos Santos	 62.00	 32 
+Willian Fontes	 59.00	 43.
+Portadores de deficiência
+Alexandra Iglesias	 39.00	 2 
+Lilian Costa Schüler	 50.00	 1
+TÉCNICO SUPERIOR
+Adalberto Soares	 50.00	 76 
+Agnes Lopes Lima	 48.00	 91 
+Alan Jones Nunes Murilho	 45.00	 107 
+Alberto Martins da Silva	 44.00	 112 
+Alessandra Gonçalves da Silva	 49.00	 81 
+Alessandra Palmeira Nepomuceno	 39.00	 133 
+Alexandra Marla Rodrigues Fiuza	 48.00	 84 
+Aliandra Karla Freitas de Oliveira	 38.00	 143 
+Alison Penha Antolini	 38.00	 140 
+Almino Afonso M. e Alves	 52.00	 64 
+Almir Costa Nogueira Lopes	 55.00	 45 
+Alzemar Ricardo dos Santos	 38.00	 138 
+Amaury Motta da Silva Lamas	 38.00	 142 
+Ana Emilia Camilato Bessa	 72.00	 2 
+Ana Ivone Salomon Marques	 46.00	 102 
+Ana Lucia Arantes	 52.00	 66 
+Anapaula Guerreiro E. Vieira	 49.00	 80 
+Andrea Paoliello de Freitas	 53.00	 57 
+Andreia Barcelos Sonegheti	 43.00	 117 
+Angelica Maria Torres	 37.00	 145 
+Anquizes Meirelles Cunha	 48.00	 83 
+Antonio Cesar Vieira Ramos	 48.00	 90 
+Antonio Henrique C. Brandao	 68.00	 7 
+Antonio José P. Mendes	 39.00	 134 
+Aureo Moulin Rodrigues	 38.00	 141 
+Bruna Vidigal Coutinho	 51.00	 70 
+Bruno Borges Longo	 55.00	 51 
+Bruno Tamanini Lopes	 59.00	 18 
+Carla Zambi Meirelles Nunes	 48.00	 82 
+Carlos Alberto B. Junior	 46.00	 105 
+Carmem Lucia C. da Cunha Guio	 58.00	 24 
+Celio Louback Rohr	 46.00	 103 
+Chander Rian de Castro Freitas	 58.00	 27 
+Claudia Regina Littig	 44.00	 111 
+Cleumira Motta dos Santos	 36.00	 151 
+Clovis Eduardo Bianchi Simonetti	 58.00	 26 
+Cristiene Maia dos Santos	 71.00	 3 
+Cristina Helena C. S. de Mendonça	 56.00	 34 
+Cynthia Neves Silva Baldessin	 42.00	 123 
+Daniel Fragoso Galdino da Silva	 56.00	 36 
+Daniella Aparecida Monteiro Aragon	 47.00	 96 
+Danuza Furlani	 39.00	 135 
+Débora de Oliveira Carneiro	 48.00	 93 
+Debora Paiva Magnago	 38.00	 137 
+Deboramagda B. Santos Sarcinelli	 57.00	 29 
+Desiree Matuchaki Teixeira	 42.00	 126 
+Devondete Valesca do Nascimento	 36.00	 148 
+Diego de Oliveira Matos	 42.00	 121 
+Edilene Tschaen	 51.00	 75 
+Edmilson Nunes de Castro	 56.00	 40 
+Elinete Cortes de Souza	 62.00	 13 
+Emersom dos Reis Basilio	 55.00	 44 
+Erica Baptista	 61.00	 15 
+Eunice Mollo Corradi	 62.00	 14 
+Ewerton Bueno	 47.00	 95 
+Fabiana Venturini Rossoni	 51.00	 74 
+Fabiane da Cunha Grampinha	 53.00	 59 
+Fabiano Machado Correa	 42.00	 125 
+Filipe Puppin S. P. Ribeiro	 48.00	 94 
+Frederico Soares da Silva	 56.00	 35 
+Geiza Juvenal Carneiro	 64.00	 12 
+Geraldo Anselmo Delleprane	 48.00	 87 
+Giliane Freitas Pacheco	 41.00	 128 
+Gilma Hastenreiter Ferreira	 57.00	 28 
+Gilmar Ritter	 58.00	 23 
+Giuliano Handrey B. Amaral	 52.00	 62 
+Guilhermo Chips Milagres	 56.00	 39 
+Gustavo Capucho dos Santos	 66.00	 10 
+Helen Soeiro Rocha Soares	 44.00	 115 
+Helmut Mutiz Dauvila	 57.00	 32 
+Henrique Rato Zanandrea	 66.00	 8 
+Jacelia Barbosa Lima	 36.00	 147 
+Janaina Alves Mulinari	 37.00	 146 
+Jaqueline dos Santos B. Ribeiro	 52.00	 61 
+Jaqueline Martins	 48.00	 85 
+Jardel Jose Camuzi	 41.00	 127 
+Joao Miguell Debacker Batista	 46.00	 104 
+Johilda de Oliveria dos Santos Alves	 43.00	 116 
+Jose Alexandre S. do Carmo	 51.00	 71 
+Jose Elson de Oliveira	 49.00	 79 
+Jose Franklin Souza da Silva	 39.00	 136 
+Jose Roberto Silva de Andrade	 55.00	 42 
+Juci Helena Cancelieri	 37.00	 144 
+Juliana Cardinot Reis	 43.00	 118 
+Jurema Gimenes A. Altafim	 48.00	 88 
+Leandro Vicente Pratti	 59.00	 19 
+Leonardo de Albuquerque Moreira	 60.00	 17 
+Leticia Weber Ambrosio	 47.00	 97 
+Livia Coelho Goncalves	 68.00	 6 
+Lourdes Constancia Dornellas	 48.00	 89 
+Lucilia Alvarenga Meirelles	 47.00	 99 
+Luiz Carlos Figueiredo	 52.00	 60 
+Luiz Guilherme de Oliveira Jr	 47.00	 98 
+Marcela Miranda Costa	 72.00	 1 
+Marcelle Pereira Nascimento	 45.00	 109 
+Marcelo Calmon Dias	 53.00	 58 
+Marcely Braga da Silva	 41.00	 129 
+Marcia Cravo Machado	 36.00	 149 
+Marcia Regina Fiorotti	 55.00	 47 
+Marcos Cavalléro Alonso	 55.00	 46 
+Marcus Roberto de Vasconcelos	 52.00	 65 
+Margarete Gonçalves de Souza	 40.00	 131 
+Maria A. Batista Dalcumune	 45.00	 108 
+Maria A. dos Santos Sciortino	 38.00	 139 
+Marilia Ambrosio Trindade	 56.00	 38 
+Marinalva de Oliveira	 50.00	 77 
+Mauricio Jose Laurindo	 52.00	 67 
+Maury Horta das Chagas	 44.00	 113 
+Mirian Caliman	 36.00	 152 
+Miriene Cristina Liberato	 56.00	 33 
+Moises Adelson B. Ferreira	 45.00	 106 
+Nailane Campos de Oliveira	 54.00	 55 
+Neviton de Souza Serra	 55.00	 49 
+Niuza R. G. Rosa da Cruz	 50.00	 78 
+Olivian Carlesso Trassi	 58.00	 21 
+Oséas Marques de Faria M. Neto	 46.00	 101 
+Paulo Roberto Silva Marreco	 65.00	 11 
+Renata Rezende Marques	 42.00	 124 
+Renato Entringer Ferraco	 43.00	 119 
+Renato Fernandes Duarte	 52.00	 68 
+Ricardo Farina de Freitas	 55.00	 43 
+Ricardo Teixeira Mendes	 51.00	 73 
+Roberta Abreu Silva Marques	 55.00	 50 
+Roberto Carlos Zuccon	 56.00	 41 
+Rogério Augusto M. de Mattos	 58.00	 20 
+Rômulo Rusley Coimbra Costa	 42.00	 122 
+Rosa Cristina Godinho Galina	 51.00	 69 
+Rosangela Pires Quieto Pinto	 46.00	 100 
+Roseane Dalvi Pedruzzi	 66.00	 9 
+Salete de Rossi Audibert	 54.00	 53 
+Samuel Candido Fraga	 54.00	 54 
+Sandro Cardoso Feres	 48.00	 92 
+Sandylea Gonçalves Roberts	 56.00	 37 
+Sidenir Luiz de Nascimento	 54.00	 52 
+Silvana Alves Teixeira Fraga	 41.00	 130 
+Silvia Alves de Oliveira	 48.00	 86 
+Soraya Guimaraes de Paula	 55.00	 48 
+Stephan Pratti da Silva	 70.00	 5 
+Susana Goncalves de Souza Jose	 60.00	 16 
+Talmom Ebenezer de Mendonça	 52.00	 63 
+Tatiana Gasparini Silva Stelzer	 51.00	 72 
+Thelma Beatrice Banhos Mamari	 57.00	 31 
+Thomaz Cheim Figueiredo	 58.00	 22 
+Valeria Nascimento Boeloni	 40.00	 132 
+Vania de Souza do A. D. Santos	 44.00	 114 
+Vinicius Oliveira de Andrade	 70.00	 4 
+Vinicius Schettini Costa	 45.00	 110 
+Viviane Zardin Nunes	 42.00	 120 
+Walter Siquara Neves Junior	 58.00	 25 
+Wanderlei de Freitas Siqueira	 54.00	 56 
+Welington Silva de Araujo	 36.00	 150 
+Wilson Missachiro Era	 57.00	 30
+Portadores de deficiência
+Fabiano Machado Correa	 42.00	 2 
+Maria A. Batista Dalcumune	 45.00	 1
+NÍVEL MÉDIO
+TÉCNICO MÉDIO
+Adélia P. de Freitas Oliveira	 49.00	 61 
+Adson Almeida da Silva	 48.00	 65 
+Alan Jones Nunes Murilho	 57.00	 31 
+Alex Costa de Souza	 60.00	 25 
+Alexandre Aarao Marques	 48.00	 64 
+Alexandre E. Cirne Silva	 57.00	 30 
+Aline Silva T. Cypreste	 66.00	 7 
+Ana Paula de Lemos Rodrigues	 56.00	 33 
+Awerik Carlesso Lucas	 69.00	 4 
+Camila Freitas Satller	 50.00	 56 
+Christina Maria Leal Flores	 49.00	 60 
+Crísley do Carmo Dalto	 46.00	 73 
+Daniel Correa	 63.00	 15 
+Daniella Bedin Guilhen	 64.00	 12 
+Débora Mattos Zanetti Ferreira	 46.00	 69 
+Diogo Francisco da Silva	 52.00	 48 
+Edicarlos Nogueira Dias	 51.00	 52 
+Efrem Aurelio Forechi	 53.00	 44 
+Elieser Rodrigues Nascimento	 62.00	 17 
+Fabiano da Rocha Louzada	 62.00	 19 
+Fábio Linhares Ferreira	 45.00	 75 
+Fabio Martins Costa da Silva	 50.00	 59 
+Gabriela Lopes Salgado	 67.00	 5 
+Girlene Beceveli	 48.00	 66 
+Gleidson Eloi	 53.00	 46 
+Helder Vazzoler	 66.00	 8 
+Hyene Geisa de F. B. Rodrigues	 36.00	 81 
+Ivan Klug Berger	 45.00	 74 
+Jairo Santos Aquino	 58.00	 29 
+Jeferson Júnior Koprowski	 55.00	 35 
+Jefferson Messias	 50.00	 57 
+Jhonatas de Souza Pinheiro	 62.00	 20 
+José Arilton Lima Júnior	 50.00	 58 
+Jose Ribeiro da Silva Filho	 42.00	 78 
+Josefinne Maria Vieira Pacheco	 52.00	 51 
+Juliana Damasceno	 46.00	 72 
+Karla Rossana G. L. Rodrigues da Silva	 54
+Karolina Evangelista das Neves	 46.00	 71 
+Kely Cristina Sisquini Massolio	 54.00	 39 
+Lea Ribeiro Dantas	 48.00	 67 
+Lenise de Lurdes Silva	 55.00	 34 
+Leonardo dos Santos	 50.00	 54 
+Livia Mara Peixoto Pinto	 72.00	 2 
+Luana Ramos Sampaio	 61.00	 22 
+Lucas Faria Alves	 58.00	 28 
+Lucia Meiry Cruz de O. Moreira	 65.00	 9 
+Luciana Carneiro Victorino	 50.00	 55 
+Luciana Jacob	 49.00	 62 
+Lucilia Alvarenga Meirelles	 53.00	 47 
+Luiz Henrique Savergnini	 57.00	 32 
+Marcelo Raimundo	 59.00	 26 
+Marcio de Souza Silva	 62.00	 16 
+Marcos Fernando Poltronieri	 49.00	 63 
+Maria Aparecida Tose	 36.00	 82 
+Mariana do Nascimento Gonçalves	 44.00	 76 
+Mauricio Eduardo Damaceno	 54.00	 43 
+Miguel Angelo B. Goroncio	 64.00	 13 
+Onorina da Penha Nunes Vieira	 38.00	 80 
+Orlando Jeronymo da Silva Junior	 61.00	 21 
+Paola Pinheiro Bernardi	 70.00	 3 
+Paulo Roberto Silva Marreco	 64.00	 10 
+Pedro Araujo da Silva Filho	 67.00	 6 
+Priscila Reinoso Fanti Vitorazzi	 52.00	 49 
+Renato Chagas do Carmo	 64.00	 11 
+Ricardo Farina de Freitas	 55.00	 36 
+Rodolfo Peixoto Pimentel	 64.00	 14 
+Rodrigo Coutinho Zorzal	 42.00	 79 
+Rogenir Mathias	 58.00	 27 
+Rogerio de Paula Araujo	 60.00	 23 
+Ronaldo Alves Teixeira	 42.00	 77 
+Rosa Maria N. Santos	 54.00	 41 
+Saint Clair Luiz do N. Neto	 46.00	 70 
+Serafim Alves Pinheiro Junior	 55.00	 37 
+Sergio Renato Vicente da Silva	 50.00	 53 
+Silvia Giacomin Pimentel	 48.00	 68 
+Suellen Moreira Costa Azevedo	 60.00	 24 
+Taíssa Mara Gomes	 54.00	 40 
+Vanessa Luiza de Souza	 72.00	 1 
+Wagner Toscano de Brito	 52.00	 50 
+Walquiria Ana Soares de Paula	 62.00	 18 
+Zenilda Ferreira dos Santos	 54.00	 38 
+Zenilha Belem	 53.00	 45
+Portador de deficiência
+Girlene Beceveli	 48.00	 1
+
+Resultado final nas provas objetivas
+e provisório na prova discursiva
+NÍVEL SUPERIOR
+ADVOGADO
+Adriana Zapala Rabelo	 60.00	 4.02 
+Alberto Camara Pinto	 57.00	 5.82 
+Alessandra Padua Modenesi	 56.00	 2.48 
+Alexandre Passamani Galvao	 68.00	 4.39 
+Alexandre Sapucaia Fortunato	 56.00	 2.58 
+Aline S. Rigoni Gianordoli	 57.00	 4.55 
+Aline Tannure Coelho	 60.00	 2.39 
+Anaximandro O. Santos Amorim	 59.00	 1.28 
+Andre Perim de Sousa	 56.00	 4.37 
+Brenda Avelar Dalla Bernardina	 62.00	 2.42 
+Bruno César Limongi Horta	 63.00	 3.96 
+Camila Brunhara Biazati	 62.00	 4.48 
+Camillo Espindula Gianordoli	 56.00	 3.37 
+Carolina Gaigher Tobias	 65.00	 2.31 
+Claudio Jose Candido Roppe	 58.00	 2.22 
+Daniel de Souza N. da Silva	 60.00	 3.28 
+Daniel Henrique Campos	 57.00	 0.00 
+Dejair Ferreira Sousa	 62.00	 4.28 
+Edilson Lozer Junior	 57.00	 4.35 
+Eduardo Passamani Galvão	 62.00	 4.48 
+Eduardo Politano de Sant Anna	 59.00	 2.96 
+Eduardo Ramos Espicalsky	 68.00	 5.93 
+Elvio Ferreira Sartorio	 57.00	 3.53 
+Eva Pires Dutra	 68.00	 3.47 
+Fabiano Odilon de B. Lourett	 61.00	 4.45 
+Flavio de Lima Menezes	 67.00	 2.25 
+Francismara P. Ribeiro Fiuza	 58.00	 3.62 
+Frederico G. Siqueira Campos	 59.00	 4.55 
+Gustavo Cabral Vieira	 73.00	 7.44 
+Gustavo Mattedi Regiani	 67.00	 5.53 
+Helder Magevski de Amorim	 59.00	 5.45 
+Herbert Schneider Rodrigues	 71.00	 2.53 
+Izaqueu Lourenço da Silva Júnior	 56.00	 2.48 
+Janaina Maria Marim	 67.00	 4.28 
+João Aender C. Cremasco	 69.00	 9.67 
+Joao Batista M. de Araujo Junior	 59.00	 1.55 
+Jordano Bruno G. Leite	 57.00	 2.22 
+Jose Alvaro Saad de Araujo	 60.00	 2.28 
+Judith Castello Henriques Ribeiro	 67.00	 1.37 
+Julia Rech Rosalem	 65.00	 7.57 
+Juliana Justo Botelho Castello	 59.00	 2.98 
+Juliana Lucindo de Oliveira	 67.00	 5.46 
+Juliana Spinassé Scarpati	 71.00	 3.55 
+Kelberth Alves C. e Oliveira	 56.00	 5.53 
+Kely Cristina Sisquini Massolio	 59.00	 2.48 
+Leandro Barbosa Morais	 74.00	 4.62 
+Leandro Eloy Sousa	 58.00	 3.48 
+Leide Clelia Veiga Campanharo	 60.00	 5.15 
+Leonardo Fonseca Muroni	 71.00	 1.22 
+Liliane de C. Metzker Monte Alto	 57.00	 3.56 
+Lorena Ramos Espicalsky	 58.00	 4.67 
+Luciana Teixeira da Silva Pinto	 66.00	 3.28 
+Luiz Antonio França Gomes	 58.00	 0.00 
+Marcelo Benetele Ferreira	 77.00	 6.31 
+Marcio Melhem	 59.00	 2.55 
+Marcio Pereira Fardin	 56.00	 2.05 
+Maria Carolina V. de Souza	 56.00	 4.27 
+Mariana Borges F. Paiva Lyrio	 67.00	 3.46 
+Mariana de França Pestana	 67.00	 7.87 
+Marta Saviatto	 61.00	 3.62 
+Michelle Freire Cabral	 79.00	 7.60 
+Moises Sassine El Zoghbi	 57.00	 0.39 
+Pablo Luiz Rosa Oliveira	 61.00	 6.86 
+Pilar Lucas da Silva Nunes	 74.00	 5.93 
+Rafael Pina de Souza	 57.00	 5.45 
+Rafael Santos de Almeida	 68.00	 4.08 
+Raphael Guimarães dos Santos	 57.00	 0.31 
+Renata Cely Frias	 57.00	 4.59 
+Ricardo de Souza C. Branco	 68.00	 3.47 
+Ricardo Figueiredo Giori	 62.00	 2.68 
+Ricardo Santos Junger	 64.00	 7.62 
+Roberta Caridade M. de Campos	 56.00	 4.35 
+Rodrigo Antonio Giacomelli	 71.00	 7.87 
+Rodrigo da Rocha Rodrigues	 75.00	 3.95 
+Rodrigo Nunes Barreto	 64.00	 2.87 
+Sary Yôko Ishii	 62.00	 4.60 
+Susane Rosi e Silva	 74.00	 4.60 
+Thiago Costa Bolzani	 63.00	 1.38 
+Ubiratan Cruz Rodrigues	 69.00	 4.61 
+Vinícius Teixeira do Carmo	 71.00	 5.86 
+Wanderson Prezotti	 67.00	 4.34 
+Wilson Totola Filho	 56.00	 4.68
+Portador de deficiência
+Lecio Silva Machado	 47.00	 0.21 <br><br><hr>
+Data da Publicação: 19/06/2006 - Pagina: 16 <br>
+Editoria: Economia <br><br>

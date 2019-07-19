@@ -1,0 +1,32 @@
+Faça a melhor escolha
+<b> Usuário deve avaliar fatores
+como preço e o espaço 
+oferecido antes de escolher
+a mídia para fazer seus backups </b><br>
+ <br>
+A decisão de realizar o backup de arquivos costuma ser acompanhada da dúvida da mídia a ser adotada para esta missão. Para tomar a decisão correta, o usuário deve avaliar fatores como o preço e o espaço demandado e oferecido em cada mídia de backup.
+Um CD-RW, que permite gravar arquivos, pode armazenar cerca de 700 MB (megabytes). O espaço é suficiente para guardar 12 mil imagens ou 200 páginas de texto. Como vários PCs já vêm com gravadoras de CD, o custo se restringiria ao preço do disco, que varia de R$ 0,80 a R$ 1,00.
+Já um disco DVD-RW tem capacidade de armazenamento de aproximadamente 4,7 GB, suficientes para armazenar 80 mil imagens. Além do custo do disco, o usuário deverá ter um drive que grava DVDs em seu computador, que comprado separadamente custa cerca de R$ 200,00.
+Outra alternativa que caiu no gosto de quem costuma fazer backups freqüentes e com arquivos grandes é o uso de um disco rígido externo. Há modelos de 80 GB até 200 GB. Conectado ao computador por uma entrada USB, o HD extra pode ser visualizado no diretório “Meu Computador” e aberto para que os arquivos do HD original sejam copiados.
+Também começa a despo ntar a opção de fazer backups on-line, isto é, usando servidores de empresas. Pode ser uma boa solução para armazenamento de pacotes de arquivos não muito grandes, até porque deve-se pensar no tempo de download e upload dos conteúdos. 
+Uma dica é pesquisar bem a empresa que você vai entreguar os arquivos. Em caso de documentos delicados, o usuário precisa buscar companhias que não correm o risco de fechar, por exemplo. 
+Entre os exemplos de opções estão os sites Box (www.box.net), com assinatura grátis para acesso a até 1 GB de espaço, e o Mofile (www.mofile.com/en), de características similares. Já o Allmydata 
+ (www.allmydata.com) promete espaço ilimitado e gratuito para armazenamento.
+Segundo o técnico de informática Wilian Roza da Silva, conhecer as mídias é a melhor forma de escolha. “O primeiro passo é conhecer os modelos de mídia. Depois, é só decidir qual mídia adotar de acordo com a necessidade do usuário. Para aproveitar mais espaço na hora de salvar os arquivos duplicados, uma boa solução é compactá-los”, explica o técnico.
+Fazer backup de programas também não é uma idéia muito inteligente, já que os CDs originais de instalação podem ser utilizados para recuperá-los.
+A exceção fica por conta de softwares baixados na web ou os que exigem que sejam armazenados em conjunto com os documentos que produzem – nesse caso é preciso verificar as instruções sobre o programa. 
+“Quando alguém faz backup é para a recuperação das informações. Então, não faz sentido deixar a mídia gravada em qualquer lugar. Por isso é fundamental que a mídia adotada para armazenar os dados seja protegida após a gravação dos arquivos”, conta o técnico Wilian Roza da Silva.
+Em caso de documentos, é importante fazer duas cópias de backup. Algumas mídias incluem ainda a possibilidade de proteger os arquivos com senha, impedindo o acesso de intrusos.
+
+
+Passo a passo
+1. Produza uma pasta, que pode ser batizada de “Backup”, por exemplo, para concentrar todos os documentos que deseja replicar.
+2. Rastreie os locais do computador onde se encontram arquivos que deseja fazer o backup. 
+3. Uma dica para encontrar arquivos perdidos é usar o comando “Busca” do menu “Iniciar”. Digitando asterisco mais a extensão do arquivo é possível visualizar todos os documentos no formato demandado.
+4. Copie todas as fotos, músicas, planilhas, documentos, vídeos, e-mails e outros arquivos que deseja replicar, e depois cole-os na pasta recém criada.
+5. Caso queria economizar espaço na mídia de backup use um programa compactador para diminuir o tamanho do arquivo gerado pela pasta.
+6. Copie a pasta de backup e cole no diretório do drive da mídia externa adotada, que é visualizado no comando “Meu Computador” do menu “Iniciar”.
+7. No caso de um CD ou DVD, após colar o arquivo da pasta será necessário queimar a mídia, isto é, gravá-lo nos discos. 
+8. O próximo passo é retirar o disco e armazená-lo em um lugar seguro. No caso do uso de um disco rígido externo, após copiar os documentos basta desconectar o dispositivo da entrada USB e guardá-lo em um local seguro. <br><br><hr>
+Data da Publicação: 26/06/2006 - Pagina: 04 <br>
+Editoria: Informática <br><br>

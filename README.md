@@ -100,4 +100,4 @@
 
 [1][Análise Morfológica](https://pt.wikipedia.org/wiki/An%C3%A1lise_morfol%C3%B3gica)
 
-[2][Processamento de LinguagemNatural](https://www.ime.usp.br/~slago/IA-pln.pdf)
+[2][Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
